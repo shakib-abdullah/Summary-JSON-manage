@@ -1,0 +1,101 @@
+{
+ "awd_id": "2514977",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "IntBIO: Collaborative Research: Functional Synergy Between Disordered Proteins and their Environment in Desiccation Protection",
+ "cfda_num": "47.074",
+ "org_code": "08220000",
+ "po_phone": "7032924675",
+ "po_email": "mbuechne@nsf.gov",
+ "po_sign_block_name": "Matthew Buechner",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 773380.0,
+ "awd_amount": 120681.0,
+ "awd_min_amd_letter_date": "2025-02-13",
+ "awd_max_amd_letter_date": "2025-02-13",
+ "awd_abstract_narration": "As our climate changes, animals and plants are increasingly exposed to dehydration. Remarkably, a common strategy that has evolved to help organisms across all kingdoms of life deal with desiccation is through the synthesis of a special class of proteins known as intrinsically disordered proteins. Despite their importance in protecting animals and plants from drying out, how these proteins work is unresolved. This project will combine experiments that span individual molecules to whole organisms to understand how disordered proteins provide protection from dehydration across all kingdoms of life. As part of this study, this project will recruit students from rural communities via remote-learning and include them in cutting edge, interdisciplinary research which will facilitate their integration into the US STEM workforce. \r\n\r\nProteomes across all kingdoms of life contain a significant fraction of sequences that are intrinsically disordered and do not adopt a stable three-dimensional structure. Instead, these sequences exist in an ensemble of rapidly interconverting conformations that can be highly sensitive to changes in the cellular environment in which they function. Interestingly, many of these disordered proteins are implicated in mediating resistance to environmental stresses, including desiccation, in which the physical-chemical composition of the cell changes dramatically. The goal of this project is to gain a holistic understanding of how disordered proteins and the cellular environment come together to provide protection to the cell during extreme desiccation. Towards this goal, the project will employ a multilevel, interdisciplinary, and integrated approach. Starting at the molecular level, in vitro and computational experiments will be performed that will provide insight into how desiccation-protective disordered proteins function in conjunction with well defined and controllable environments. This information will be integrated with high throughput, sequencing-based studies of disordered protein-mediated desiccation protection performed in yeast (cellular level), and a multicellular animal model (the roundworm, Caenorhabditis elegans, organismal level).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "CDP",
+ "org_div_long_name": "Cell Development & Physiology",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shahar",
+   "pi_last_name": "Sukenik",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shahar Sukenik",
+   "pi_email_addr": "ssukenik@syr.edu",
+   "nsf_id": "000845132",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Syracuse University",
+  "inst_street_address": "900 S CROUSE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "SYRACUSE",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "3154432807",
+  "inst_zip_code": "13244",
+  "inst_country_name": "United States",
+  "cong_dist_code": "22",
+  "st_cong_dist_code": "NY22",
+  "org_lgl_bus_name": "SYRACUSE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C4BXLBC11LC6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Syracuse University",
+  "perf_str_addr": "900 S CROUSE AVE",
+  "perf_city_name": "SYRACUSE",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "13244",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "22",
+  "perf_st_cong_dist": "NY22",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "727500",
+   "pgm_ele_name": "Cross-BIO Activities"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "068Z",
+   "pgm_ref_txt": "URoL-Understanding Rules of Life"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 120681.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p dir=\"ltr\">Water makes life possible, yet some organisms lose nearly all of it and live. Tardigrades, resurrection plants, brine shrimp eggs, and baker&rsquo;s yeast all do this. As droughts spread and land turns to desert, understanding how cells survive drying has become urgent. It also bears on a practical problem: most protein and peptide-based medicines, including insulin, GLP-1, and vaccines, spoil unless kept cold. This problems is even worse for novel gene and cell therapies which require cells be kept viable during shipment to and from point-of-care faciltiies. This dramatically increases costs and reduces availability of these therapeutics.</p>\r\n<p dir=\"ltr\">This project asked a simple question with a complicated answer. When a cell dries out, what keeps it alive? We found that the answer has three parts, and we worked out the rules behind each one.</p>\r\n<p dir=\"ltr\"><strong>The first pillar: proteins with the right surfaces.</strong> Cells are built from proteins, and most proteins clump together and stop working when dried. We dried the full set of proteins from baker&rsquo;s yeast and measured which ones recovered. Only about a third of the protein mass stayed functional. The survivors were not random. They shared a distinct surface chemistry, particularly an abundance of negatively charged and small amino acids on the outside. They also shared a job: most of them build the cell&rsquo;s basic chemical supplies, while the proteins that failed were the expensive machinery the cell can rebuild later. This looks like an adaptation to repeated drying, keeping the essentials intact so a rehydrated cell can restart itself. We confirmed these were real rules, not a coincidence, by redesigning the surface of a protein that normally fails when dried. The redesigned version survived almost completely intact (Romero-P&eacute;rez et al., Cell Systems, 2025). We are now extending this approach to other recurring stresses, including extreme heat (Rappaport et al., Cell, 2026).</p>\r\n<p dir=\"ltr\"><strong>The second pillar: small protective molecules.</strong> Drying cells accumulate small sugars and related molecules, such as trehalose. These have long been known to protect proteins. We found that they do not work alone. Protective proteins and these small molecules act as partners, and the partnership is specific: proteins from a given organism work best with the small molecules that organism actually makes. This points to the two having evolved together. We also found that the partnership works by different mechanisms in different protein families, so there is no single explanation (KC et al., eLife, 2024). To let any researcher predict these effects, we built OsmoFold, a free tool that calculates how a small molecule will stabilize a given protein. It needs no programming experience and runs on an ordinary web browser (Nicholson et al., Biophysical Journal, 2025).</p>\r\n<p dir=\"ltr\"><strong>The third pillar: protective shapeless proteins.</strong> Drying organisms also make a strange class of proteins that never fold into a fixed shape. Without a fixed shape there is no obvious structure to explain their function. We used naturally occuring protectants as templates and designed thousands of new ones and tested them all at once in yeast. Two findings stand out. First, protection does not come from only a short sequence, as had been proposed. The whole sequence matters. Second, many of our designs protected cells better than the proteins yeast itself evolved. Nature&rsquo;s versions are not the best possible (Hunter et al., Nature, 2026).</p>\r\n<p dir=\"ltr\"><strong>Why this matters.</strong> Taken together, this work turns desiccation tolerance from a curiosity of exotic organisms into a set of chemical principles that can be read, predicted, and engineered. That has two practical consequences. In agriculture, it gives breeders and plant engineers design rules for drought tolerance, rather than a list of genes to copy. In medicine and industry, it offers a route to drying products that currently need refrigeration. Eliminating cold chain transport for vaccines and biologic drugs would cut costs and extend their reach.&nbsp;</p>\r\n<p dir=\"ltr\">All of our tools and data are publicly available. OsmoFold and our disordered protein design software are free and open source, and our measurements are deposited in public databases, so other scientists can build on this work immediately.</p>\r\n<p dir=\"ltr\">The project trained 3 graduate students, 13 undergraduate researchers, and a postdoctoral scholar across 5 institutions, in work spanning chemistry, biology, and computation.&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/26/2026<br>\nModified by: Shahar&nbsp;Sukenik</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2514977/2514977_10755686_1793014411033_Screenshot_2026_10_26_073022--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2514977/2514977_10755686_1793014411033_Screenshot_2026_10_26_073022--rgov-800width.png\" title=\"The three pillars of proteomic desiccation protection\"><img src=\"/por/images/Reports/POR/2026/2514977/2514977_10755686_1793014411033_Screenshot_2026_10_26_073022--rgov-66x44.png\" alt=\"The three pillars of proteomic desiccation protection\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Organisms from all domains of life evolved molecular mechanisms to protect themselves from dehydration. These include optimization of protein surface area chemistry, biosynthesis or uptake of protective cosolutes, and the synthesis of protective disordered proteins.</div>\n<div class=\"imageCredit\">Shahar Sukenik</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Shahar&nbsp;Sukenik\n<div class=\"imageTitle\">The three pillars of proteomic desiccation protection</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nWater makes life possible, yet some organisms lose nearly all of it and live. Tardigrades, resurrection plants, brine shrimp eggs, and bakers yeast all do this. As droughts spread and land turns to desert, understanding how cells survive drying has become urgent. It also bears on a practical problem: most protein and peptide-based medicines, including insulin, GLP-1, and vaccines, spoil unless kept cold. This problems is even worse for novel gene and cell therapies which require cells be kept viable during shipment to and from point-of-care faciltiies. This dramatically increases costs and reduces availability of these therapeutics.\r\n\n\nThis project asked a simple question with a complicated answer. When a cell dries out, what keeps it alive? We found that the answer has three parts, and we worked out the rules behind each one.\r\n\n\nThe first pillar: proteins with the right surfaces. Cells are built from proteins, and most proteins clump together and stop working when dried. We dried the full set of proteins from bakers yeast and measured which ones recovered. Only about a third of the protein mass stayed functional. The survivors were not random. They shared a distinct surface chemistry, particularly an abundance of negatively charged and small amino acids on the outside. They also shared a job: most of them build the cells basic chemical supplies, while the proteins that failed were the expensive machinery the cell can rebuild later. This looks like an adaptation to repeated drying, keeping the essentials intact so a rehydrated cell can restart itself. We confirmed these were real rules, not a coincidence, by redesigning the surface of a protein that normally fails when dried. The redesigned version survived almost completely intact (Romero-Prez et al., Cell Systems, 2025). We are now extending this approach to other recurring stresses, including extreme heat (Rappaport et al., Cell, 2026).\r\n\n\nThe second pillar: small protective molecules. Drying cells accumulate small sugars and related molecules, such as trehalose. These have long been known to protect proteins. We found that they do not work alone. Protective proteins and these small molecules act as partners, and the partnership is specific: proteins from a given organism work best with the small molecules that organism actually makes. This points to the two having evolved together. We also found that the partnership works by different mechanisms in different protein families, so there is no single explanation (KC et al., eLife, 2024). To let any researcher predict these effects, we built OsmoFold, a free tool that calculates how a small molecule will stabilize a given protein. It needs no programming experience and runs on an ordinary web browser (Nicholson et al., Biophysical Journal, 2025).\r\n\n\nThe third pillar: protective shapeless proteins. Drying organisms also make a strange class of proteins that never fold into a fixed shape. Without a fixed shape there is no obvious structure to explain their function. We used naturally occuring protectants as templates and designed thousands of new ones and tested them all at once in yeast. Two findings stand out. First, protection does not come from only a short sequence, as had been proposed. The whole sequence matters. Second, many of our designs protected cells better than the proteins yeast itself evolved. Natures versions are not the best possible (Hunter et al., Nature, 2026).\r\n\n\nWhy this matters. Taken together, this work turns desiccation tolerance from a curiosity of exotic organisms into a set of chemical principles that can be read, predicted, and engineered. That has two practical consequences. In agriculture, it gives breeders and plant engineers design rules for drought tolerance, rather than a list of genes to copy. In medicine and industry, it offers a route to drying products that currently need refrigeration. Eliminating cold chain transport for vaccines and biologic drugs would cut costs and extend their reach.\r\n\n\nAll of our tools and data are publicly available. OsmoFold and our disordered protein design software are free and open source, and our measurements are deposited in public databases, so other scientists can build on this work immediately.\r\n\n\nThe project trained 3 graduate students, 13 undergraduate researchers, and a postdoctoral scholar across 5 institutions, in work spanning chemistry, biology, and computation.\r\n\n\n\t\t\t\t\tLast Modified: 10/26/2026\n\n\t\t\t\t\tSubmitted by: ShaharSukenik\n"
+ }
+}

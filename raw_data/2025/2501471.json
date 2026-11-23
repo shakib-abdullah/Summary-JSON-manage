@@ -1,0 +1,105 @@
+{
+ "awd_id": "2501471",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: RAPID: Understanding risk communication, protective decision-making, and vulnerability in mountain and inland Southeast communities during Hurricane Helene",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032927263",
+ "po_email": "roconnor@nsf.gov",
+ "po_sign_block_name": "Robert O'Connor",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 48072.0,
+ "awd_amount": 48072.0,
+ "awd_min_amd_letter_date": "2024-12-10",
+ "awd_max_amd_letter_date": "2024-12-10",
+ "awd_abstract_narration": "As the deadliest U.S. mainland hurricane since Katrina, with over 230 fatalities, Hurricane Helene exposed significant vulnerabilities in hazard warning reception and response within mountain and inland communities in the U.S. Southeast. Risk perception, warning reception, and response in these communities have been largely understudied, leaving critical gaps in understanding how these populations perceive and react to hurricane-related threats, as most research has focused on coastal areas. This work contributes to reducing losses by improving the understanding of hurricane-related risks within mountain and inland communities, leading to improved and more equitable weather warning and response systems. The findings have the potential to benefit mountain and inland communities, National Weather Service forecasters, emergency management professionals, and especially under-resourced communities.\r\n\r\nUtilizing decision sciences that integrate social and behavioral sciences with weather hazard practices and policies, this project collects time-sensitive information to identify how households and weather stakeholders (forecasters, emergency managers) in mountain and inland communities received, perceived, and responded to risk information related to Hurricane Helene. The project then integrates social and behavioral science data with physical and built-environment characteristics using geographic information systems and multivariate modeling to explore how these contextual characteristics and factors may influence warning reception and protective decision making. The research advances fundamental knowledge in: (1) understanding the decision-making context among mountain and inland community households and weather hazard decision makers impacted by Hurricane Helene; and (2) identifying physical, social, and environmental factors that prevent or support hazard warning reception and protective decisions in mountain and inland communities.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kelsey",
+   "pi_last_name": "Ellis",
+   "pi_mid_init": "N",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kelsey N Ellis",
+   "pi_email_addr": "ellis@utk.edu",
+   "nsf_id": "000693289",
+   "pi_start_date": "2024-12-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "RZ1YV5AUBN39",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "132100",
+   "pgm_ele_name": "Decision, Risk & Mgmt Sci"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 48072.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Hurricane Helene made landfall along Florida&rsquo;s Big Bend on September 26, 2024, as a Category 4 storm before moving inland across the southeastern United States. As the system tracked through Southern Appalachia, it produced catastrophic rainfall and flooding across communities in North Carolina, South Carolina, Georgia, Tennessee, and Virginia. Orographic effects intensified precipitation and funneled runoff into valleys, roads, and populated areas, contributing to widespread flash and river flooding. The southern Appalachian region experienced the highest concentration of fatalities, with more than 120 confirmed deaths.</p>\r\n<p><strong>Intellectual Merit:</strong> Using a mixed-methods design, this project gathered time-sensitive information on risk perception, warning reception, and decision-making among affected households and weather hazard decision-makers (e.g., National Weather Service forecasters and emergency management personnel) in mountain and inland communities impacted by Hurricane Helene. Guided by the Protective Action Decision Model (PADM), which integrates social and behavioral sciences with weather practices and policies, the research team compiled and integrated multiple datasets to examine risk communication, protective decision-making, and vulnerability during Hurricane Helene. These datasets included household survey responses from residents in inland and mountainous communities impacted by Helene, qualitative interview data from National Weather Service forecasters and emergency management personnel, geospatial data on transportation and communication infrastructure (e.g., road networks, broadband internet access, and cellular coverage), census demographic data, and tract-level vulnerability indicators. Together, these datasets provided an integrated analysis of social, environmental, and infrastructural factors influencing hazard warning reception and protective decision-making during inland hurricane hazards.</p>\r\n<p>A household survey was conducted with residents (<em>n</em> = 1,300; adults aged 18 years and older) living in mountain and inland areas of the Southeast impacted by Hurricane Helene. Analysis identified several factors associated with evacuation and protective action behavior. Households reporting environmental and social warning cues, higher perceived Helene-related risk, prior experience with hurricane-related flooding, and stronger protective action perceptions were more likely to evacuate and take protective action. In contrast, households reporting fewer warning cues, lower perceived risk, and lower protective action perceptions were less likely to evacuate. Respondents also identified contextual impediments to evacuation, including limited access to warning information, uncertainty regarding hurricane-related impacts, and constraints related to evacuation resources, routes, and property or livestock responsibilities.</p>\r\n<p>The project also conducted 17 in-depth qualitative interviews (<em>n </em>= 17) with weather forecasters and emergency management personnel responding to Hurricane Helene in Southern Appalachia. Interviews yielded three overarching themes and eleven subthemes describing how operational decision-makers interpreted Helene-related risks, enacted response strategies, and navigated constraints shaping protective action in inland and mountainous communities. The first theme, evolving risk perception and interpretation, captured how decision-makers assessed escalating hazards as Helene moved inland, drawing on historical analogs, real-time monitoring, and geographic knowledge. The second theme, rapid and concurrent decision-making and response strategies, described how decision-makers implemented protective actions, coordinated resources, and communicated evolving and compounding hazard information in real time. The third theme, constraining and influencing factors, highlighted geographic and infrastructural challenges shaping warning and response efforts, including communication disruptions, transportation limitations, and limited response capacity in rural and mountain communities.</p>\r\n<p>Finally, analyses of census demographic data and tract-level vulnerability indicators indicated that many counties and census tracts in the southern Appalachian region exhibit elevated cumulative vulnerability driven by socioeconomic disadvantage, limited or damaged transportation infrastructure, and reduced access to communication technologies such as broadband internet and cellular coverage. Hurricane frequency across the eastern United States generally decreases with distance from the coast, though several inland counties exhibit elevated values due to intersecting storm tracks. Counties with limited broadband access are concentrated in rural areas, particularly across the Mid-South and portions of Appalachia, while social vulnerability is highest across southern states. Road density tends to be greater east of the Mississippi River and near metropolitan areas but remains lower in many rural and mountainous regions. When these variables are combined, counties with the greatest potential challenges in receiving and responding to hurricane alerts cluster throughout the Appalachian region, where limited hazard experience, constrained communication infrastructure, and higher social vulnerability intersect. These findings advance understanding of decision-making during inland hurricane hazards and identify factors influencing warning reception and protective action in rural mountain communities.</p>\r\n<p><strong>Broader Impacts:</strong> This study supported two graduate students from two universities and provided training in survey, interview, and geospatial data collection and analysis, as well as experience in academic writing, presentation, and interdisciplinary collaboration among climatologists, atmospheric scientists, and social scientists. To date, the research team has delivered two presentations at academic and professional conferences to disseminate findings to scientific and practitioner audiences. One manuscript is currently under review, and two additional manuscripts are in preparation for submission to peer-reviewed journals. Data generated from the survey (de-identified) and census and social vulnerability datasets will be archived and made publicly available through the DesignSafe data repository to support open science and future research.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 03/12/2026<br>\nModified by: Kelsey&nbsp;N&nbsp;Ellis</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nHurricane Helene made landfall along Floridas Big Bend on September 26, 2024, as a Category 4 storm before moving inland across the southeastern United States. As the system tracked through Southern Appalachia, it produced catastrophic rainfall and flooding across communities in North Carolina, South Carolina, Georgia, Tennessee, and Virginia. Orographic effects intensified precipitation and funneled runoff into valleys, roads, and populated areas, contributing to widespread flash and river flooding. The southern Appalachian region experienced the highest concentration of fatalities, with more than 120 confirmed deaths.\r\n\n\nIntellectual Merit: Using a mixed-methods design, this project gathered time-sensitive information on risk perception, warning reception, and decision-making among affected households and weather hazard decision-makers (e.g., National Weather Service forecasters and emergency management personnel) in mountain and inland communities impacted by Hurricane Helene. Guided by the Protective Action Decision Model (PADM), which integrates social and behavioral sciences with weather practices and policies, the research team compiled and integrated multiple datasets to examine risk communication, protective decision-making, and vulnerability during Hurricane Helene. These datasets included household survey responses from residents in inland and mountainous communities impacted by Helene, qualitative interview data from National Weather Service forecasters and emergency management personnel, geospatial data on transportation and communication infrastructure (e.g., road networks, broadband internet access, and cellular coverage), census demographic data, and tract-level vulnerability indicators. Together, these datasets provided an integrated analysis of social, environmental, and infrastructural factors influencing hazard warning reception and protective decision-making during inland hurricane hazards.\r\n\n\nA household survey was conducted with residents (n = 1,300; adults aged 18 years and older) living in mountain and inland areas of the Southeast impacted by Hurricane Helene. Analysis identified several factors associated with evacuation and protective action behavior. Households reporting environmental and social warning cues, higher perceived Helene-related risk, prior experience with hurricane-related flooding, and stronger protective action perceptions were more likely to evacuate and take protective action. In contrast, households reporting fewer warning cues, lower perceived risk, and lower protective action perceptions were less likely to evacuate. Respondents also identified contextual impediments to evacuation, including limited access to warning information, uncertainty regarding hurricane-related impacts, and constraints related to evacuation resources, routes, and property or livestock responsibilities.\r\n\n\nThe project also conducted 17 in-depth qualitative interviews (n = 17) with weather forecasters and emergency management personnel responding to Hurricane Helene in Southern Appalachia. Interviews yielded three overarching themes and eleven subthemes describing how operational decision-makers interpreted Helene-related risks, enacted response strategies, and navigated constraints shaping protective action in inland and mountainous communities. The first theme, evolving risk perception and interpretation, captured how decision-makers assessed escalating hazards as Helene moved inland, drawing on historical analogs, real-time monitoring, and geographic knowledge. The second theme, rapid and concurrent decision-making and response strategies, described how decision-makers implemented protective actions, coordinated resources, and communicated evolving and compounding hazard information in real time. The third theme, constraining and influencing factors, highlighted geographic and infrastructural challenges shaping warning and response efforts, including communication disruptions, transportation limitations, and limited response capacity in rural and mountain communities.\r\n\n\nFinally, analyses of census demographic data and tract-level vulnerability indicators indicated that many counties and census tracts in the southern Appalachian region exhibit elevated cumulative vulnerability driven by socioeconomic disadvantage, limited or damaged transportation infrastructure, and reduced access to communication technologies such as broadband internet and cellular coverage. Hurricane frequency across the eastern United States generally decreases with distance from the coast, though several inland counties exhibit elevated values due to intersecting storm tracks. Counties with limited broadband access are concentrated in rural areas, particularly across the Mid-South and portions of Appalachia, while social vulnerability is highest across southern states. Road density tends to be greater east of the Mississippi River and near metropolitan areas but remains lower in many rural and mountainous regions. When these variables are combined, counties with the greatest potential challenges in receiving and responding to hurricane alerts cluster throughout the Appalachian region, where limited hazard experience, constrained communication infrastructure, and higher social vulnerability intersect. These findings advance understanding of decision-making during inland hurricane hazards and identify factors influencing warning reception and protective action in rural mountain communities.\r\n\n\nBroader Impacts: This study supported two graduate students from two universities and provided training in survey, interview, and geospatial data collection and analysis, as well as experience in academic writing, presentation, and interdisciplinary collaboration among climatologists, atmospheric scientists, and social scientists. To date, the research team has delivered two presentations at academic and professional conferences to disseminate findings to scientific and practitioner audiences. One manuscript is currently under review, and two additional manuscripts are in preparation for submission to peer-reviewed journals. Data generated from the survey (de-identified) and census and social vulnerability datasets will be archived and made publicly available through the DesignSafe data repository to support open science and future research.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 03/12/2026\n\n\t\t\t\t\tSubmitted by: KelseyNEllis\n"
+ }
+}

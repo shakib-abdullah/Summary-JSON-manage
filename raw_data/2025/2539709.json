@@ -1,0 +1,113 @@
+{
+ "awd_id": "2539709",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Student Travel Support for the Industrial Engineering and Operations Management World Congress on AI and Digital Transformation; Windsor, Canada; 14-16 October 2025",
+ "cfda_num": "47.041",
+ "org_code": "07230000",
+ "po_phone": "7032922487",
+ "po_email": "jterpenn@nsf.gov",
+ "po_sign_block_name": "Janis Terpenny",
+ "awd_eff_date": "2025-09-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 9977.0,
+ "awd_amount": 9977.0,
+ "awd_min_amd_letter_date": "2025-08-05",
+ "awd_max_amd_letter_date": "2025-08-05",
+ "awd_abstract_narration": "This award provides participant support for US students to attend the Second World Congress on Industrial Engineering and Operations Management (IEOM), to be held in Windsor, Ontario, Canada, 14-16 October 2025. The congress will focus on cutting-edge research and development in artificial intelligence (AI) applications in manufacturing and the digital transformation of the manufacturing supply chain, particularly in response to the current global uncertainties. The conference brings together academic researchers and industry practitioners to share innovations in smart manufacturing, supply chain resilience, and AI integration through oral presentations, poster sessions, and technical competitions. Participation in this congress will support the development of a globally aware STEM workforce, equipping students with insights into the challenges and opportunities in digital manufacturing and smart technologies.\r\n\r\nThe congress will address future manufacturing capabilities, including Industry 4.0, Internet of Things (IoT), simulation, vehicle electrification, automation, and sustainable supply chains. Students will gain valuable experience by participating in technical competitions, presenting their research, and engaging in professional networking with U.S. and international academic and industry practitioners and leaders. The conference is expected to have a significant impact on various sectors, including manufacturing, transportation, and electronics. This participant support contributes to the scientific, technical, and professional growth of students, preparing them for leadership roles in the evolving landscape of manufacturing and operations management.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ahad",
+   "pi_last_name": "Ali",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ahad Ali",
+   "pi_email_addr": "aali@ltu.edu",
+   "nsf_id": "000334804",
+   "pi_start_date": "2025-08-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Lawrence Technological University",
+  "inst_street_address": "21000 W 10 MILE RD # 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "SOUTHFIELD",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "2482043062",
+  "inst_zip_code": "480751051",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "MI12",
+  "org_lgl_bus_name": "LAWRENCE TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "PF53FKHZST32"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lawrence Technological University",
+  "perf_str_addr": "21000 W 10 MILE RD",
+  "perf_city_name": "SOUTHFIELD",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "480751051",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "MI12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "082E",
+   "pgm_ref_txt": "MFG MACHINES & METROLOGY"
+  },
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 9977.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The National Science Foundation (NSF) supported undergraduate, graduate, doctoral, and community college students from across the United States in attending the Second IEOM World Congress on Industrial Engineering and Operations Management, held October 14&ndash;16, 2025, at the University of Windsor in Windsor, Ontario, Canada. The conference theme was &ldquo;Emphasis on AI &amp; Digital Supply Chains in Global Uncertainty.&rdquo;</p>\r\n<p>The primary goal of the project was to reduce financial barriers to international professional development and provide students with opportunities to learn about emerging technologies, connect with industry professionals and researchers, and explore career pathways in engineering and related fields. NSF travel support helped cover conference registration, accommodation, airfare, and local transportation.</p>\r\n<p>A total of 19 students from U.S. colleges, universities, and a community college received travel support. They represented diverse academic backgrounds, including industrial engineering, mechanical and electrical engineering, computer science, cybersecurity, data science, biomedical engineering, robotics, operations research, and engineering technology. The award provided students at different stages of their education with access to an international technical conference and a global professional community.</p>\r\n<p>The conference welcomed participants from 25 countries and featured 14 keynote speakers, eight plenary speakers, 190 technical paper presentations, six panel discussions, and seven professional development and technical workshops. Topics included artificial intelligence (AI), advanced manufacturing, digital transformation, Industry 4.0, the Internet of Things, simulation, digital twins, vehicle electrification, quality improvement, and global supply chains. Students learned from academic researchers and industry professionals representing manufacturing, automotive engineering, technology, and consulting organizations.</p>\r\n<p>To assess educational outcomes, the project team conducted pre- and post-conference surveys. Fourteen students completed the pre-conference survey, and 13 completed the post-conference survey. The results indicated increased self-reported knowledge in most assessed subject areas. The percentage of respondents reporting &ldquo;some knowledge&rdquo; of advanced manufacturing increased from 35.7% before the conference to 84.6% afterward. For AI in manufacturing, this percentage increased from 35.7% to 76.9%; for digital transformation, from 14.3% to 84.6%; and for Industry 4.0, from 14.3% to 84.6%. Reported knowledge of supply chain digitization increased from 21.4% to 76.9%. Students also reported greater exposure to industry networking and international business environments. Because the pre- and post-conference surveys had different numbers of respondents, these results reflect changes in self-reported knowledge rather than definitive measurements of individual learning gains.</p>\r\n<p>The project&rsquo;s broader impacts included expanding access to international engineering education, encouraging participation in science, technology, engineering, and mathematics (STEM), and strengthening connections between academic learning and industrial practice. Undergraduate and community college students gained exposure to professional engineering communities, while graduate students had opportunities to discuss research and explore potential collaborations. Student feedback also highlighted the value of learning from international speakers, participating in practical workshops, and connecting with peers and professionals from diverse backgrounds.</p>\r\n<p>Overall, the project achieved its primary objective of enabling 19 U.S. students to participate in an international technical conference. The experience complemented their academic education, increased their awareness of emerging manufacturing technologies and career opportunities, and provided valuable professional networking opportunities. The project demonstrated how targeted travel support can broaden student access to technical knowledge, industry engagement, and professional development in fields critical to the future of U.S. manufacturing and engineering, particularly the growing application of artificial intelligence.</p><br>\n<p>\n Last Modified: 10/20/2026<br>\nModified by: Ahad&nbsp;Ali</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe National Science Foundation (NSF) supported undergraduate, graduate, doctoral, and community college students from across the United States in attending the Second IEOM World Congress on Industrial Engineering and Operations Management, held October 1416, 2025, at the University of Windsor in Windsor, Ontario, Canada. The conference theme was Emphasis on AI & Digital Supply Chains in Global Uncertainty.\r\n\n\nThe primary goal of the project was to reduce financial barriers to international professional development and provide students with opportunities to learn about emerging technologies, connect with industry professionals and researchers, and explore career pathways in engineering and related fields. NSF travel support helped cover conference registration, accommodation, airfare, and local transportation.\r\n\n\nA total of 19 students from U.S. colleges, universities, and a community college received travel support. They represented diverse academic backgrounds, including industrial engineering, mechanical and electrical engineering, computer science, cybersecurity, data science, biomedical engineering, robotics, operations research, and engineering technology. The award provided students at different stages of their education with access to an international technical conference and a global professional community.\r\n\n\nThe conference welcomed participants from 25 countries and featured 14 keynote speakers, eight plenary speakers, 190 technical paper presentations, six panel discussions, and seven professional development and technical workshops. Topics included artificial intelligence (AI), advanced manufacturing, digital transformation, Industry 4.0, the Internet of Things, simulation, digital twins, vehicle electrification, quality improvement, and global supply chains. Students learned from academic researchers and industry professionals representing manufacturing, automotive engineering, technology, and consulting organizations.\r\n\n\nTo assess educational outcomes, the project team conducted pre- and post-conference surveys. Fourteen students completed the pre-conference survey, and 13 completed the post-conference survey. The results indicated increased self-reported knowledge in most assessed subject areas. The percentage of respondents reporting some knowledge of advanced manufacturing increased from 35.7% before the conference to 84.6% afterward. For AI in manufacturing, this percentage increased from 35.7% to 76.9%; for digital transformation, from 14.3% to 84.6%; and for Industry 4.0, from 14.3% to 84.6%. Reported knowledge of supply chain digitization increased from 21.4% to 76.9%. Students also reported greater exposure to industry networking and international business environments. Because the pre- and post-conference surveys had different numbers of respondents, these results reflect changes in self-reported knowledge rather than definitive measurements of individual learning gains.\r\n\n\nThe projects broader impacts included expanding access to international engineering education, encouraging participation in science, technology, engineering, and mathematics (STEM), and strengthening connections between academic learning and industrial practice. Undergraduate and community college students gained exposure to professional engineering communities, while graduate students had opportunities to discuss research and explore potential collaborations. Student feedback also highlighted the value of learning from international speakers, participating in practical workshops, and connecting with peers and professionals from diverse backgrounds.\r\n\n\nOverall, the project achieved its primary objective of enabling 19 U.S. students to participate in an international technical conference. The experience complemented their academic education, increased their awareness of emerging manufacturing technologies and career opportunities, and provided valuable professional networking opportunities. The project demonstrated how targeted travel support can broaden student access to technical knowledge, industry engagement, and professional development in fields critical to the future of U.S. manufacturing and engineering, particularly the growing application of artificial intelligence.\t\t\t\t\tLast Modified: 10/20/2026\n\n\t\t\t\t\tSubmitted by: AhadAli\n"
+ }
+}

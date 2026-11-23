@@ -1,0 +1,105 @@
+{
+ "awd_id": "2436128",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Challenges and Opportunities for Improving Reproducibility in Homogeneous Catalysis",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "03090000",
+ "po_phone": "7032928441",
+ "po_email": "kmoloy@nsf.gov",
+ "po_sign_block_name": "Kenneth Moloy",
+ "awd_eff_date": "2025-03-15",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 84426.0,
+ "awd_amount": 84426.0,
+ "awd_min_amd_letter_date": "2025-03-07",
+ "awd_max_amd_letter_date": "2025-03-07",
+ "awd_abstract_narration": "Through this project, a workshop addressing reproducibility of research in homogeneous catalysis will be conducted. The workshop is led by Dr. Rory Waterman of the University of Vermont with co-organizers Drs. Jillian Dempsey (University of North Carolina), Abigail Doyle (University of California, Los Angles), and Aaron Sadow (Iowa State University). By convening experts from the academy, industry, U.S. funding agencies and national laboratories, and the broad homogeneous catalysis research community, assessment of the challenges for reproducible homogeneous catalysis will be performed. From that assessment, actionable opportunities to address these challenges will be proposed as well as suggestions to enhance the training of new researchers and professionals in catalysis to strengthen the domestic catalysis workforce. The wealth of discoveries in homogeneous catalysis\u2014a central tool for industries including pharmaceuticals, consumer goods, agriculture, and energy\u2014must remain transferable to allow further advances and economic growth. Ensuring that there are no inherent barriers to this knowledge transfer is key to solving a variety of current and future challenges, creating economic and employment opportunity, fostering new discovery, and preparing the next-generation science workforce.\r\n\r\nThe Workshop in Reproducibility of Homogeneous Catalysis, supported by the Divisions of Chemistry and Chemical, Bioengineering, Environmental and Transport Systems, is planned for late 2025. This workshop will bring together at least 50 students, early-career researchers, and senior-level technical experts, selected by a scientific advisory committee that includes representatives from leading scientific journals and societies as well as academia and industry. Work in the fall will leverage community input through virtual and in-person meetings in the prior spring and summer. The workshop products will consist of a report followed by one or more journal articles that will be concurrently available in open-access format that summarize findings, challenges, and recommended best practices for homogeneous catalysis and training next generation STEM professionals.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Rory",
+   "pi_last_name": "Waterman",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Rory Waterman",
+   "pi_email_addr": "Rory.Waterman@uvm.edu",
+   "nsf_id": "000113373",
+   "pi_start_date": "2025-03-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Vermont & State Agricultural College",
+  "inst_street_address": "85 S PROSPECT STREET",
+  "inst_street_address_2": "",
+  "inst_city_name": "BURLINGTON",
+  "inst_state_code": "VT",
+  "inst_state_name": "Vermont",
+  "inst_phone_num": "8026563660",
+  "inst_zip_code": "054051704",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "VT00",
+  "org_lgl_bus_name": "UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Z94KLERAG5V9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Vermont & State Agricultural College",
+  "perf_str_addr": "85 S PROSPECT STREET",
+  "perf_city_name": "BURLINGTON",
+  "perf_st_code": "VT",
+  "perf_st_name": "Vermont",
+  "perf_zip_code": "054051704",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "VT00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140100",
+   "pgm_ele_name": "Catalysis"
+  },
+  {
+   "pgm_ele_code": "688400",
+   "pgm_ele_name": "Chemical Catalysis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 84426.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Researchers from all sectors of homogeneous catalysis convened in response to concerns regarding reproducibility in science to analyze the issue and provide recommendations. In addition to an in-person workshop, the group engaged the broader homogenous catalysis community through a webinar series and virtually during the workshop. Results of the project affirm that homogenous catalysis is not in a reproducibility crisis, as evidenced by the field&rsquo;s current and past contributions to society that have led to economic growth and advances in a range of industries from agriculture to consumer goods to human health. However, it is not uncommon for researchers to encounter obstacles related to reproducibility. Despite current and prior successes, ensuring reproducibility remains the responsibility of the community, both in current work and for training both future researchers and a STEM-savvy workforce.&nbsp;<br /><br />The 50 workshop participants have generated a report from their efforts, which is openly available through ChemRxiv (https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004014/v1). This document is intended to engage key stakeholders, including disciplinary societies, publishers, employers, research leaders, and researchers, in practices that maximize reproducible homogeneous catalysis and ensure continued innovation and translatable discoveries. Recommendations are to be applicable beyond homogeneous catalysis, empowering the broader chemical if not scientific community. The participants contact relevant constituencies including societies, publishers, and colleagues in the field to disseminate the report and expand its reach. The next steps would include promotion through media, and the organizers have interviewed the American Chemical Society publication <em>Chemical &amp; Engineering News</em>&nbsp;to promote the work to the community beyond the report itself. Additionally, the team has been invited to submit a Perspective to a leading journal in the field of homogeneous catalysis,&nbsp;<em>ACS Catalysis,</em>&nbsp;which would also increase the reach of the report. In summary, the effort has been highly successful. The team has achieved all stated aims, and the product of the workshop delineates actionable steps for various stakeholders to maintain and enhance US leadership in homogeneous catalysis and related fields.</p><br>\n<p>\n Last Modified: 05/31/2026<br>\nModified by: Rory&nbsp;Waterman</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nResearchers from all sectors of homogeneous catalysis convened in response to concerns regarding reproducibility in science to analyze the issue and provide recommendations. In addition to an in-person workshop, the group engaged the broader homogenous catalysis community through a webinar series and virtually during the workshop. Results of the project affirm that homogenous catalysis is not in a reproducibility crisis, as evidenced by the fields current and past contributions to society that have led to economic growth and advances in a range of industries from agriculture to consumer goods to human health. However, it is not uncommon for researchers to encounter obstacles related to reproducibility. Despite current and prior successes, ensuring reproducibility remains the responsibility of the community, both in current work and for training both future researchers and a STEM-savvy workforce.\n\nThe 50 workshop participants have generated a report from their efforts, which is openly available through ChemRxiv (https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004014/v1). This document is intended to engage key stakeholders, including disciplinary societies, publishers, employers, research leaders, and researchers, in practices that maximize reproducible homogeneous catalysis and ensure continued innovation and translatable discoveries. Recommendations are to be applicable beyond homogeneous catalysis, empowering the broader chemical if not scientific community. The participants contact relevant constituencies including societies, publishers, and colleagues in the field to disseminate the report and expand its reach. The next steps would include promotion through media, and the organizers have interviewed the American Chemical Society publication Chemical & Engineering Newsto promote the work to the community beyond the report itself. Additionally, the team has been invited to submit a Perspective to a leading journal in the field of homogeneous catalysis,ACS Catalysis,which would also increase the reach of the report. In summary, the effort has been highly successful. The team has achieved all stated aims, and the product of the workshop delineates actionable steps for various stakeholders to maintain and enhance US leadership in homogeneous catalysis and related fields.\t\t\t\t\tLast Modified: 05/31/2026\n\n\t\t\t\t\tSubmitted by: RoryWaterman\n"
+ }
+}

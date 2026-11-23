@@ -1,0 +1,109 @@
+{
+ "awd_id": "2535109",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Exhibition of Traveling Gallery of Fluid Motion",
+ "cfda_num": "47.041",
+ "org_code": "07220000",
+ "po_phone": "7032927030",
+ "po_email": "rjoslin@nsf.gov",
+ "po_sign_block_name": "Ron Joslin",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 49989.0,
+ "awd_amount": 49989.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "The Traveling Gallery of Fluid Motion (TGFM) is an art exhibition inspired by fluid dynamics, a discipline that describes the flow of liquids and gases. The TFGM exhibition will be open to the public from October 2025 through February 2026 at the Houston Museum of Natural Science (HMNS), one of the most visited museums in the U.S., attracting nearly 2,000,000 visitors annually in Houston, TX. This unique exhibition draws from past submissions to the Gallery of Fluid Motion (GFM), a program founded in 1987 as part of the American Physical Society (APS) Division of Fluid Dynamics (DFD) conference, to highlight unique images and videos of the aesthetics and science of contemporary fluid dynamics. The TGFM expands this stimulating experience by teaming with curators and museums to expose science and art to the general public audience. \r\n\r\nFor the third consecutive year, a selection of past GFM submissions have been transformed into an educational art exhibition designed to engage the senses and inspire a broader audience. The creators of the artworks on exhibit, ranging from photography and video to sculpture and sound, are created by scientists and artists and often combined with music. Their work enables us to \u201csee the invisible\u201d and understand the ever-moving elements surrounding and affecting us in fluid flows. Several of the artworks are specifically connected to the Houston region\u2019s deep ties to the oil and energy sectors, highlighting fluid motion in contexts such as drilling, refining, and atmospheric flow. Gases and liquids are in constant motion, advancing in seemingly chaotic ways, yet the flow images and videos in this exhibition offer a closer look, revealing elegant and poetic patterns amidst atmospheric turbulence. The first TGFM exhibit, Chaosmosis: Assigning Rhythm to the Turbulent, premiered in 2023 at the National Academy of Sciences (NAS) in Washington, DC. The second exhibit, Spiraling Upwards, was showcased at The Leonardo Museum in Salt Lake City, UT, in 2024, and focused on the intersection of Leonardo da Vinci's studies on fluid dynamics and flight. The TGFM program will also include STEM enrichment events, panel discussions with artists and scientists, a website with extra educational resources such as articles, interviews, do it yourself (DIY) guidelines, and a HMNS reception at the conference in November 2025 to create opportunities for interdisciplinary dialogue and local community engagement.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Chemical, Bioengineering, Environmental, & Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Azar",
+   "pi_last_name": "Barakati",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Azar P Barakati",
+   "pi_email_addr": "azar.panah@gwu.edu",
+   "nsf_id": "000730960",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "George Washington University",
+  "inst_street_address": "1918 F ST NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "WASHINGTON",
+  "inst_state_code": "DC",
+  "inst_state_name": "District of Columbia",
+  "inst_phone_num": "2029940728",
+  "inst_zip_code": "200520042",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DC00",
+  "org_lgl_bus_name": "GEORGE WASHINGTON UNIVERSITY (THE)",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "ECR5E2LU5BL6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "George Washington University",
+  "perf_str_addr": "1918 F ST NW",
+  "perf_city_name": "WASHINGTON",
+  "perf_st_code": "DC",
+  "perf_st_name": "District of Columbia",
+  "perf_zip_code": "200520042",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DC00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "140600",
+   "pgm_ele_name": "TTP-Thermal Transport Process"
+  },
+  {
+   "pgm_ele_code": "141500",
+   "pgm_ele_name": "PMP-Particul&MultiphaseProcess"
+  },
+  {
+   "pgm_ele_code": "144300",
+   "pgm_ele_name": "FD-Fluid Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 49989.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong><em>Fluid dynamics</em></strong> is the study of how liquids and gases move. It explains the weather, ocean currents, blood flow, and even the way schools of fish and crowds of people move together. Although fluid flows shape everyday life, most people rarely get to see the science behind them. This award supported the third exhibition of the Traveling Gallery of Fluid Motion (TGFM), an ongoing initiative in which artists and fluid dynamics researchers work together to share the science of flow with the public through art.</p>\r\n<p>The exhibition, \"<strong>Fluid Motion: The Coexistence of Order and Chaos</strong>\", was curated by Natalia Almonte and Nicole Economides of the Paradoxluxe Collective and coordinated by Dr. Azar Panah. It ran from October 9, 2025 to January 25, 2026, at two Houston venues: the <strong><em>Houston Museum of Natural Science</em></strong> and the <strong><em>Nicole Longnecker Gallery</em></strong>. Inspired by the 1960s Fluxus movement, the curators asked visitors to think of water, air, and motion as physical forces and also as metaphors for cultural and social change. Splitting the show between a science museum and a contemporary art gallery was a deliberate choice. It raised the question of how ideas and experiences travel from one space to another, and it allowed us to reach two audiences that rarely overlap. The works, which included sculpture and photography, explored how order and chaos depend on each other, an idea at the heart of research on turbulence and complex flows. Online resources accompanied the exhibition, including physics articles, do-it-yourself guides, and interviews with participating artists and scientists. Earlier TGFM exhibitions were <em>Chaosmosis</em> at the National Academy of Sciences in Washington, DC (2023) and <em>Spiraling Upwards</em> at the Leonardo Museum in Salt Lake City (2024).</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Intellectual Merit</strong></p>\r\n<p>The project explored how art-science exhibitions can communicate complex physical ideas. We worked with Dr. Joanna Garner, an expert in educational psychology and visitor experience, who used the Visitor Identification and Engagement with STEM (VINES) framework to inform the exhibition design and to study visitor engagement. Interviews with eight visitor groups showed that the artworks helped people relate scientific ideas to their own lives and to broader social questions. One visitor, looking at a work about how the swimming patterns of fish change with their \"mood\", remembered childhood summers at a lake and said she now understood some of the science behind what she had watched for years. The next time she sees a school of fish, she said, she will pay attention to whether they are swimming in sync. Several visitors linked an artwork resembling a mushroom cloud to the hypnotic pull of social media and to humanity's capacity for self-destruction, an example of how fluid phenomena can prompt reflection on cultural themes. The interviews also pointed to clear lessons for future exhibitions. Visitors with little background knowledge found some of the material technical and would benefit from more explanation. The way the artworks were arranged affected whether visitors understood the purpose of the exhibition. Questions that invited visitors to reflect helped them make personal connections to the content. We are using these findings to plan future TGFM exhibitions, and they may also be useful to other programs that combine art and science.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Broader Impacts</strong></p>\r\n<p>Through partnerships with the Houston Museum of Natural Science, which receives about 2 million visitors each year, and a contemporary art gallery, the project brought fluid dynamics research to a wide public audience, including families, children, and international visitors. The exhibition gave scientists a way to share their research visually and gave artists the opportunity to work closely with scientific ideas. We scheduled the exhibition to coincide with the 2025 American Physical Society Division of Fluid Dynamics (DFD) Annual Meeting in Houston. During the meeting, we brought together past and future TGFM artists and scientists, local DFD organizers, museum staff, and Dr. Garner. The group reviewed the history of TGFM, discussed educational activities, and talked about what had worked and what needed improvement. Small groups then developed ideas on the exhibition's future format and themes, the open call and curation process, educational activities, and organizational structure. As a result, we now have a shared plan for TGFM's future, a list of action items, and a newly formed advisory board and working groups to guide the initiative. The meeting also strengthened a growing community within the DFD that sees visual communication and public engagement as part of doing science.</p>\r\n<p>These outcomes show that art can open a door to science for people of all backgrounds. They also lay the groundwork for Traveling Gallery of Fluid Motion (TGFM) to continue as a sustainable museum exhibition, guided by visitor engagement research, that brings fluid dynamics to new audiences across the country.&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/06/2026<br>\nModified by: Azar&nbsp;Panah&nbsp;Barakati</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303572075_Fluid_Motion_NL_Gallery_35--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303572075_Fluid_Motion_NL_Gallery_35--rgov-800width.jpg\" title=\"Fluid Motion_NL Gallery_35\"><img src=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303572075_Fluid_Motion_NL_Gallery_35--rgov-66x44.jpg\" alt=\"Fluid Motion_NL Gallery_35\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Fluid Motion Exhibit Entrance at Nicole Longnecker Gallery</div>\n<div class=\"imageCredit\">Os Galindo-TGFM</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Azar&nbsp;Panah&nbsp;Barakati\n<div class=\"imageTitle\">Fluid Motion_NL Gallery_35</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791304718256_Fluid_Motion_NL_Gallery_27--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791304718256_Fluid_Motion_NL_Gallery_27--rgov-800width.jpg\" title=\"Fluid Motion_NL Gallery_27\"><img src=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791304718256_Fluid_Motion_NL_Gallery_27--rgov-66x44.jpg\" alt=\"Fluid Motion_NL Gallery_27\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Fluid Motion Exhibit at Nicole Longnecker Gallery</div>\n<div class=\"imageCredit\">Os Galindo-TGFM</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Azar&nbsp;Panah&nbsp;Barakati\n<div class=\"imageTitle\">Fluid Motion_NL Gallery_27</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303645259_Fluid_Motion_NL_Gallery_33--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303645259_Fluid_Motion_NL_Gallery_33--rgov-800width.jpg\" title=\"Fluid Motion_NL Gallery_33\"><img src=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303645259_Fluid_Motion_NL_Gallery_33--rgov-66x44.jpg\" alt=\"Fluid Motion_NL Gallery_33\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Fluid Motion Exhibit at Nicole Longnecker Gallery</div>\n<div class=\"imageCredit\">Os Galindo-TGFM</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Azar&nbsp;Panah&nbsp;Barakati\n<div class=\"imageTitle\">Fluid Motion_NL Gallery_33</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303739879_Fluid_Motion_HMNS_01--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303739879_Fluid_Motion_HMNS_01--rgov-800width.jpg\" title=\"Fluid Motion_HMNS_01\"><img src=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303739879_Fluid_Motion_HMNS_01--rgov-66x44.jpg\" alt=\"Fluid Motion_HMNS_01\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Fluid Motion Exhibit Entrance at Houston Museum of Natural Science (HMNS)</div>\n<div class=\"imageCredit\">Mike Rathke-TGFM</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Azar&nbsp;Panah&nbsp;Barakati\n<div class=\"imageTitle\">Fluid Motion_HMNS_01</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303406960_Fluid_Motion_HMNS_05--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303406960_Fluid_Motion_HMNS_05--rgov-800width.jpg\" title=\"Fluid Motion_HMNS_05\"><img src=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303406960_Fluid_Motion_HMNS_05--rgov-66x44.jpg\" alt=\"Fluid Motion_HMNS_05\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Fluid Motion Exhibit Front Wall at HMNS</div>\n<div class=\"imageCredit\">Mike Rathke-TGFM</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Azar&nbsp;Panah&nbsp;Barakati\n<div class=\"imageTitle\">Fluid Motion_HMNS_05</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303299559_Fluid_Motion_HMNS_18--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303299559_Fluid_Motion_HMNS_18--rgov-800width.jpg\" title=\"Fluid Motion_HMNS_18\"><img src=\"/por/images/Reports/POR/2026/2535109/2535109_10986502_1791303299559_Fluid_Motion_HMNS_18--rgov-66x44.jpg\" alt=\"Fluid Motion_HMNS_18\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Fluid Motion Exhibit Front Wall at HMNS</div>\n<div class=\"imageCredit\">Mike Rathke-TGFM</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Azar&nbsp;Panah&nbsp;Barakati\n<div class=\"imageTitle\">Fluid Motion_HMNS_18</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nFluid dynamics is the study of how liquids and gases move. It explains the weather, ocean currents, blood flow, and even the way schools of fish and crowds of people move together. Although fluid flows shape everyday life, most people rarely get to see the science behind them. This award supported the third exhibition of the Traveling Gallery of Fluid Motion (TGFM), an ongoing initiative in which artists and fluid dynamics researchers work together to share the science of flow with the public through art.\r\n\n\nThe exhibition, \"Fluid Motion: The Coexistence of Order and Chaos\", was curated by Natalia Almonte and Nicole Economides of the Paradoxluxe Collective and coordinated by Dr. Azar Panah. It ran from October 9, 2025 to January 25, 2026, at two Houston venues: the Houston Museum of Natural Science and the Nicole Longnecker Gallery. Inspired by the 1960s Fluxus movement, the curators asked visitors to think of water, air, and motion as physical forces and also as metaphors for cultural and social change. Splitting the show between a science museum and a contemporary art gallery was a deliberate choice. It raised the question of how ideas and experiences travel from one space to another, and it allowed us to reach two audiences that rarely overlap. The works, which included sculpture and photography, explored how order and chaos depend on each other, an idea at the heart of research on turbulence and complex flows. Online resources accompanied the exhibition, including physics articles, do-it-yourself guides, and interviews with participating artists and scientists. Earlier TGFM exhibitions were Chaosmosis at the National Academy of Sciences in Washington, DC (2023) and Spiraling Upwards at the Leonardo Museum in Salt Lake City (2024).\r\n\n\n\r\n\n\nIntellectual Merit\r\n\n\nThe project explored how art-science exhibitions can communicate complex physical ideas. We worked with Dr. Joanna Garner, an expert in educational psychology and visitor experience, who used the Visitor Identification and Engagement with STEM (VINES) framework to inform the exhibition design and to study visitor engagement. Interviews with eight visitor groups showed that the artworks helped people relate scientific ideas to their own lives and to broader social questions. One visitor, looking at a work about how the swimming patterns of fish change with their \"mood\", remembered childhood summers at a lake and said she now understood some of the science behind what she had watched for years. The next time she sees a school of fish, she said, she will pay attention to whether they are swimming in sync. Several visitors linked an artwork resembling a mushroom cloud to the hypnotic pull of social media and to humanity's capacity for self-destruction, an example of how fluid phenomena can prompt reflection on cultural themes. The interviews also pointed to clear lessons for future exhibitions. Visitors with little background knowledge found some of the material technical and would benefit from more explanation. The way the artworks were arranged affected whether visitors understood the purpose of the exhibition. Questions that invited visitors to reflect helped them make personal connections to the content. We are using these findings to plan future TGFM exhibitions, and they may also be useful to other programs that combine art and science.\r\n\n\n\r\n\n\nBroader Impacts\r\n\n\nThrough partnerships with the Houston Museum of Natural Science, which receives about 2 million visitors each year, and a contemporary art gallery, the project brought fluid dynamics research to a wide public audience, including families, children, and international visitors. The exhibition gave scientists a way to share their research visually and gave artists the opportunity to work closely with scientific ideas. We scheduled the exhibition to coincide with the 2025 American Physical Society Division of Fluid Dynamics (DFD) Annual Meeting in Houston. During the meeting, we brought together past and future TGFM artists and scientists, local DFD organizers, museum staff, and Dr. Garner. The group reviewed the history of TGFM, discussed educational activities, and talked about what had worked and what needed improvement. Small groups then developed ideas on the exhibition's future format and themes, the open call and curation process, educational activities, and organizational structure. As a result, we now have a shared plan for TGFM's future, a list of action items, and a newly formed advisory board and working groups to guide the initiative. The meeting also strengthened a growing community within the DFD that sees visual communication and public engagement as part of doing science.\r\n\n\nThese outcomes show that art can open a door to science for people of all backgrounds. They also lay the groundwork for Traveling Gallery of Fluid Motion (TGFM) to continue as a sustainable museum exhibition, guided by visitor engagement research, that brings fluid dynamics to new audiences across the country.\r\n\n\n\t\t\t\t\tLast Modified: 10/06/2026\n\n\t\t\t\t\tSubmitted by: AzarPanahBarakati\n"
+ }
+}

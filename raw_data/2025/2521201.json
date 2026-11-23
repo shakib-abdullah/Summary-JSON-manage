@@ -1,0 +1,113 @@
+{
+ "awd_id": "2521201",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Geographic Information Science and Early-Career Scholar Development",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032922664",
+ "po_email": "jkoster@nsf.gov",
+ "po_sign_block_name": "Jeremy Koster",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-03-14",
+ "awd_max_amd_letter_date": "2025-03-14",
+ "awd_abstract_narration": "GIScience will be held 26-29 August 2025. GIScience 2025 is a flagship conference in the field of geographic information science (GIS) and continues the highly successful conference series which started in 2000. The GIScience conference regularly attracts over 250 participants from academia, industry, and government to discuss and advance the state-of-the-art research in GIScience as well as support of the next generation of GIScience students and scientists through conference presentations, workshops, career development panels and social networking opportunities. This award will fund 25 scholars from the United States to help them attend this conference to disseminate their findings, collaborate with other scholars, and receive training in state-of-the-art GIScience techniques.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Song",
+   "pi_last_name": "Gao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Song Gao",
+   "pi_email_addr": "song.gao@wisc.edu",
+   "nsf_id": "000805179",
+   "pi_start_date": "2025-03-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "141Y00",
+   "pgm_ele_name": "Human-Envi & Geographical Scis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "105Z",
+   "pgm_ref_txt": "HEGS: Human-Envirnmnt and Geogrphcl Sci"
+  },
+  {
+   "pgm_ref_code": "5941",
+   "pgm_ref_txt": "NEW ZEALAND"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-12205271-7fff-5054-b9e5-ff009f11447a\">\r\n<p dir=\"ltr\"><span>This project supported conference travel for 25 early career researchers in the field of cartography and geographic information science (GIScience) to attend the Thirteenth International Conference on Geographic Information Science (GIScience) held in Christchurch, New Zealand, on 26-29 August 2025. This project targeted the professional development of students and early career scholars. It fosters interdisciplinary research collaborations, knowledge exchange, and career development opportunities for students and young scholars. The GIScience conference covers all aspects of frontier geospatial research (ranging from foundational advancements to geospatial artificial intelligence and spatial data science as well as building real-world applications of geospatial information). It is an ideal scientific venue for young students and scholars to present their research and to talk face-to-face with an international community of scientists. The merit of this funding is evident from young students and scholars who have attended the GIScience conference, as reflected in their scientific publications. The broader impact of this support for students and early career scholars is reflected in their grants funded, leadership positions held, and honors and awards received in the field of GIScience.</span></p>\r\n<br />\r\n<p dir=\"ltr\"><span>Participation in the GIScience conference leads to the development of cutting-edge research and enables U.S. scholars to take the lead in these endeavors. These young students and scholars develop new research agendas that investigate key scientific and societal challenges, promote collaboration with the international community, and disseminate advances in cartography and GIScience through workshops, seminars, and peer-reviewed publications. The p<span>rincipal investigator of this project&nbsp;</span>also organized a career-development panel session in the GIScience conference and invited experts from both academia and geospatial industry and the NSF funded students and scholars to particiapte and get inspired.&nbsp;</span></p>\r\n<br />\r\n<p dir=\"ltr\"><span>These accomplishments result in the development of more innovative and productive research in spatial data science and GIScience that serves the Nation&rsquo;s interests regarding its spatial information infrastructure. The event provides new insights and approaches to GIScience research throughout the world, including the United States.</span></p>\r\n</span></p><br>\n<p>\n Last Modified: 09/28/2026<br>\nModified by: Song&nbsp;Gao</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n\r\n\n\nThis project supported conference travel for 25 early career researchers in the field of cartography and geographic information science (GIScience) to attend the Thirteenth International Conference on Geographic Information Science (GIScience) held in Christchurch, New Zealand, on 26-29 August 2025. This project targeted the professional development of students and early career scholars. It fosters interdisciplinary research collaborations, knowledge exchange, and career development opportunities for students and young scholars. The GIScience conference covers all aspects of frontier geospatial research (ranging from foundational advancements to geospatial artificial intelligence and spatial data science as well as building real-world applications of geospatial information). It is an ideal scientific venue for young students and scholars to present their research and to talk face-to-face with an international community of scientists. The merit of this funding is evident from young students and scholars who have attended the GIScience conference, as reflected in their scientific publications. The broader impact of this support for students and early career scholars is reflected in their grants funded, leadership positions held, and honors and awards received in the field of GIScience.\r\n\n\r\n\n\nParticipation in the GIScience conference leads to the development of cutting-edge research and enables U.S. scholars to take the lead in these endeavors. These young students and scholars develop new research agendas that investigate key scientific and societal challenges, promote collaboration with the international community, and disseminate advances in cartography and GIScience through workshops, seminars, and peer-reviewed publications. The principal investigator of this projectalso organized a career-development panel session in the GIScience conference and invited experts from both academia and geospatial industry and the NSF funded students and scholars to particiapte and get inspired.\r\n\n\r\n\n\nThese accomplishments result in the development of more innovative and productive research in spatial data science and GIScience that serves the Nations interests regarding its spatial information infrastructure. The event provides new insights and approaches to GIScience research throughout the world, including the United States.\r\n\t\t\t\t\tLast Modified: 09/28/2026\n\n\t\t\t\t\tSubmitted by: SongGao\n"
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "awd_id": "2641022",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Electric Vehicle Technology Training for Automotive Instructors",
+ "cfda_num": "47.076",
+ "org_code": "11210000",
+ "po_phone": "7032927253",
+ "po_email": "olpierra@nsf.gov",
+ "po_sign_block_name": "Olga Pierrakos",
+ "awd_eff_date": "2026-10-15",
+ "awd_exp_date": "2029-09-30",
+ "tot_intn_awd_amt": 2595951.0,
+ "awd_amount": 2595951.0,
+ "awd_min_amd_letter_date": "2026-11-10",
+ "awd_max_amd_letter_date": "2026-11-10",
+ "awd_abstract_narration": "This project will strengthen the nation's capacity to prepare a skilled electric vehicle (EV) workforce by addressing the shortage of qualified instructors capable of teaching rapidly evolving electrification technologies. As electric transportation expands across the automotive, marine, and aviation industries, community colleges and secondary school career and technical education programs need faculty with expertise in high-voltage systems, battery technologies, power electronics, diagnostics, and safety. Expanding instructor capacity is essential to meeting workforce demands and supporting the nation's economic competitiveness and sustainability goals. \r\n\r\nThe project will establish three certified EV instructor training centers, train more than 460 instructors through certification and advanced diagnostics programs, and support the continued development of national training standards. Building on prior NSF Advanced Technological Education (ATE) investments, the project will provide hands-on training, industry-recognized certifications, advanced diagnostic instruction, and alignment with emerging technologies and national industry standards. Broader impacts will occur by expanding access to high-quality EV technician education, particularly in rural communities. Dissemination of curricula, certification processes, and best practices will enable more institutions to strengthen EV programs and prepare technicians for the rapidly growing electric transportation workforce. This project is funded by the Advanced Technological Education program, which focuses on the education of technicians for the advanced-technology fields that drive the nation's economy.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "WTC",
+ "org_div_long_name": "Workforce & Talent Continuum Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kenneth",
+   "pi_last_name": "Mays",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kenneth W Mays",
+   "pi_email_addr": "kmays@cocc.edu",
+   "nsf_id": "000669999",
+   "pi_start_date": "2026-11-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "IMPACT ALLIES INC",
+  "inst_street_address": "1013 OLDE DOUBLOON DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "VERO BEACH",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "9728003234",
+  "inst_zip_code": "329632450",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "FL08",
+  "org_lgl_bus_name": "IMPACT ALLIES INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LLQGAAEJZUS8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "IMPACT ALLIES INC",
+  "perf_str_addr": "1013 OLDE DOUBLOON DR",
+  "perf_city_name": "VERO BEACH",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "329632450",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "FL08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "741200",
+   "pgm_ele_name": "Advanced Tech Education Prog"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1032",
+   "pgm_ref_txt": "ADVANCED TECHNOLOGY EDUCATION"
+  },
+  {
+   "pgm_ref_code": "148Z",
+   "pgm_ref_txt": "Rural as Research Focus"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "8816",
+   "pgm_ref_txt": "Workforce Development"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "SMET",
+   "pgm_ref_txt": "SCIENCE, MATH, ENG & TECH EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002627DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2026,
+   "fund_oblg_amt": 2595951.0
+  }
+ ],
+ "por": null
+}

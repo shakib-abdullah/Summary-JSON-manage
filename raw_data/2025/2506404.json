@@ -1,0 +1,101 @@
+{
+ "awd_id": "2506404",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Identifying the Optimal Methods for Controlling Contamination Bias in Prospective Research on Child Maltreatment",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032928451",
+ "po_email": "avfisher@nsf.gov",
+ "po_sign_block_name": "Anna V. Fisher",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 495508.0,
+ "awd_amount": 57381.0,
+ "awd_min_amd_letter_date": "2024-12-10",
+ "awd_max_amd_letter_date": "2024-12-10",
+ "awd_abstract_narration": "Contamination in child maltreatment research occurs when members of a comparison condition are exposed to child maltreatment prior to enrolling in a study or during longitudinal follow-up. This phenomenon presents a serious scientific concern, as contamination minimizes real differences in the risk for adverse child development between child maltreatment and comparison conditions. The current project addresses this concern by testing different methods for detecting and controlling contamination bias in child maltreatment research. Specifically, investigators will access existing data from independent prospective cohort studies and examine the performance of five different statistical modeling approaches to determine which has the optimal control of contamination. Two bias reduction modeling approaches, propensity score and augmented synthetic control models, will be executed with results compared against three conventional approaches: no control of contamination, controlling contamination by removing identified participants from the statistical model, and controlling contamination by testing it as a covariate or moderator of risk estimates. Investigators will then use data simulations to model the performance of these five methods across different research conditions, including variations in contamination prevalence, sample size, statistical power, and effect size magnitude. Ultimately, the best performing methods for detecting and controlling contamination in child maltreatment research will be disseminated to scientists so that future risk estimates are more accurate, something that can better inform child welfare policy through more reliable scientific data. While tested within child maltreatment research, results from the statistical models evaluated in this project will be available to any scientist conducting observational research on exposure variables, enhancing the reliability of scientific results across STEM domains. Finally, knowledge on how to use these methods will be incorporated into STEM education at the University-level by educating undergraduate, graduate, and post-doctoral fellows on how to control contamination in prospective cohort studies within and outside the area of child maltreatment.\r\n\r\nContamination, when subjects recruited to a non-exposure comparison condition have been  exposed to the event under investigation, is a methodological phenomenon in observational research that downwardly biases effect size estimates by minimizing group differences, thereby increasing replication and reproducibility failures. The current project will evaluate the performance of multiple strategies for detecting and controlling contamination bias in prospective cohort research with the child maltreatment population. This will be achieved through secondary analysis of existing data from the Longitudinal Studies of Child Abuse and Neglect (LONGSCAN; N=1354) and the National Survey of Child and Adolescent Well-being-II (NSCAWII; N=5873) cohorts, each of which are multi-wave, prospective cohort studies of child maltreatment from birth through age eighteen. A multi-method approach of official case reports, self-report, and caregiver-report assessments obtained across child development will be used to maximize sensitivity for detecting contamination and establishing its prevalence in these cohorts. Two innovative methods for controlling bias in observational research, doubly robust propensity score and augmented synthetic controls, will be used to control contamination bias in each of these cohorts. Results from these two models will be evaluated against alternative models that: 1) ignore contamination, 2) control contamination by removing subjects from statistical analysis, and 3) control contamination by estimating it as a covariate/moderator of child maltreatment effects. Following statistical efficiency principles, the performance of all five models will be benchmarked with respect to needed sample size, impact on statistical power, and extent of bias reduction in effect size estimates. Given the ultimate goal to identify which methods provide the most accurate estimates under different empirical conditions, this project will also evaluate results from all five models using simulations that both mimic the data structures of LONGSCAN and NSCAW-II and extend out to conditions commonly encountered in prospective cohort studies, including variations in contamination prevalence, sample size, and effect size magnitude. These results will have broader scientific and public impacts by: disseminating results to scientists outside the area of child maltreatment who conduct research where contamination is present, training the next generation of STEM scientists in the optimal methods for detecting and controlling contamination, and providing more accurate estimates of the risks associated with child maltreatment to better inform child welfare policy in the U.S.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Chad",
+   "pi_last_name": "Shenk",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chad Shenk",
+   "pi_email_addr": "chad.shenk@rochester.edu",
+   "nsf_id": "000827439",
+   "pi_start_date": "2024-12-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Rochester",
+  "inst_street_address": "910 GENESEE ST",
+  "inst_street_address_2": "STE 200",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5852754031",
+  "inst_zip_code": "146113847",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "UNIVERSITY OF ROCHESTER",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F27KDXZMF9Y8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Rochester",
+  "perf_str_addr": "910 GENESEE ST",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146113847",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "169800",
+   "pgm_ele_name": "DS -Developmental Sciences"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1698",
+   "pgm_ref_txt": "DS-Developmental Sciences"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 57381.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span>Child maltreatment, which includes the physical abuse, sexual abuse, emotional abuse, and neglect of individuals under the age of eighteen, can have lasting effects on child and adolescent development. The way in which scientists study the effects of child maltreatment is through observational research, which typically includes one group of children who were exposed to maltreatment and another, comparison group of children who were not exposed to maltreatment. These two groups of children are then followed over time to assess the risk for a number of developmental and health outcomes. One problem that can occur in observational research is contamination, which means that some children in the comparison group actually have experienced child maltreatment. Contamination is a concern for researchers because it can make differences between child maltreatment and comparison groups seem smaller or less important than what they really are. In other words, the effects of experiencing child maltreatment may not seem as bad when contamination is present. The completed research award from the National Science Foundation (NSF) allowed the Investigative Team to accomplish two important things:&nbsp;&nbsp;1) improve the detection of contamination and report on its prevalence across different studies, and 2) test advanced statistical models that may correct thel bias coming from the presence of contamination. Through several studies, scientific publications, and conference presentations, the Investigative Team showed that contamination is highly prevalent in observational research on child maltreatment, affecting 15%-96% of people in a comparison group. The Investigative Team also evaluated different methods for detecting contamination, including official records from Child Protective Services, self-report questionnaires, as well as caregiver-report questionnaires. These methods for detecting contamination allowed the Team, for the first time, to use advanced statistical models that generated estimates of the effects of child maltreatment without contamination bias. Results showed that these estimates are not only important statistically but that the effects of child maltreatment were much larger, regardless of the outcome, when compared to models that did not correct contamination. In other words, the effects for child maltreatment on later development may be worse than we currently think because scientists are not currently correcting contamination in observational research. However, through this NSF award, we were able to show that contamination is a feature of conducting research on child maltreatment while developing ways of correcting the bias that comes from it. This will help scientists conduct future research that better detects and corrects contamination bias so that more accurate and reproducible estimates of the effects of child maltreatment can be made. Also, child maltreatment researchers can start teaching future scientists on the best ways to design research and conduct statistical analyses that avoids contamination bias. Overall, these results will help policy makers better understand the long-term effects of child maltreatment so that they can allocate financial and other resources to the prevention of maltreatment and its consequences.</span></p><br>\n<p>\n Last Modified: 12/31/2025<br>\nModified by: Chad&nbsp;Shenk</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nChild maltreatment, which includes the physical abuse, sexual abuse, emotional abuse, and neglect of individuals under the age of eighteen, can have lasting effects on child and adolescent development. The way in which scientists study the effects of child maltreatment is through observational research, which typically includes one group of children who were exposed to maltreatment and another, comparison group of children who were not exposed to maltreatment. These two groups of children are then followed over time to assess the risk for a number of developmental and health outcomes. One problem that can occur in observational research is contamination, which means that some children in the comparison group actually have experienced child maltreatment. Contamination is a concern for researchers because it can make differences between child maltreatment and comparison groups seem smaller or less important than what they really are. In other words, the effects of experiencing child maltreatment may not seem as bad when contamination is present. The completed research award from the National Science Foundation (NSF) allowed the Investigative Team to accomplish two important things:1) improve the detection of contamination and report on its prevalence across different studies, and 2) test advanced statistical models that may correct thel bias coming from the presence of contamination. Through several studies, scientific publications, and conference presentations, the Investigative Team showed that contamination is highly prevalent in observational research on child maltreatment, affecting 15%-96% of people in a comparison group. The Investigative Team also evaluated different methods for detecting contamination, including official records from Child Protective Services, self-report questionnaires, as well as caregiver-report questionnaires. These methods for detecting contamination allowed the Team, for the first time, to use advanced statistical models that generated estimates of the effects of child maltreatment without contamination bias. Results showed that these estimates are not only important statistically but that the effects of child maltreatment were much larger, regardless of the outcome, when compared to models that did not correct contamination. In other words, the effects for child maltreatment on later development may be worse than we currently think because scientists are not currently correcting contamination in observational research. However, through this NSF award, we were able to show that contamination is a feature of conducting research on child maltreatment while developing ways of correcting the bias that comes from it. This will help scientists conduct future research that better detects and corrects contamination bias so that more accurate and reproducible estimates of the effects of child maltreatment can be made. Also, child maltreatment researchers can start teaching future scientists on the best ways to design research and conduct statistical analyses that avoids contamination bias. Overall, these results will help policy makers better understand the long-term effects of child maltreatment so that they can allocate financial and other resources to the prevention of maltreatment and its consequences.\t\t\t\t\tLast Modified: 12/31/2025\n\n\t\t\t\t\tSubmitted by: ChadShenk\n"
+ }
+}

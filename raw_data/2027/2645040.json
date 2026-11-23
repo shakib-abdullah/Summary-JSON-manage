@@ -1,0 +1,110 @@
+{
+ "awd_id": "2645040",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Percolation and Property Gradients in Polymer Nanocomposites: A Multiscale Mechanics Approach",
+ "cfda_num": "47.041",
+ "org_code": "07230000",
+ "po_phone": "7032922211",
+ "po_email": "sqidwai@nsf.gov",
+ "po_sign_block_name": "Siddiq Qidwai",
+ "awd_eff_date": "2026-11-01",
+ "awd_exp_date": "2029-10-31",
+ "tot_intn_awd_amt": 228498.0,
+ "awd_amount": 228498.0,
+ "awd_min_amd_letter_date": "2026-10-26",
+ "awd_max_amd_letter_date": "2026-10-26",
+ "awd_abstract_narration": "Plastics reinforced with tiny particles, known as polymer nanocomposites, are used throughout modern life, from aircraft and automobile components to microelectronics, batteries, and biomedical devices and drug delivery. The performance of these materials depends significantly on a thin region of polymer surrounding each particle, called the interphase, where the material behaves differently than it does away from the particles. Despite many advances, published measurements disagree about how far this altered region extends and about its properties, and these disagreements prevent engineers from reliably designing new materials. This project addresses that gap by combining several experimental techniques on identical samples with computer simulations that span from the scale of individual molecules to that of the bulk material. Resolving how the interphase forms and how it governs material stiffness and durability will enable the predictive design of lighter, stronger, and more reliable materials for transportation, energy storage, and manufacturing, in support of national prosperity and industrial competitiveness. The project also trains graduate and undergraduate students in an integrated experimental and computational approach to materials research, engages undergraduates at both partner institutions through established summer research programs, and produces instructional videos that make the underlying science accessible to school students, educators, and the public.\r\n\r\nThis research tests the hypothesis that the conflicting interphase measurements reported in  literature arise from the percolation of dynamic heterogeneities, which are nanometer-scale domains of the polymer with locally slower or faster molecular motion, near confining surfaces. The team will perform high-resolution scanning probe measurements alongside X-ray scattering, electron microscopy, calorimetry, and bulk mechanical testing on a common set of carefully fabricated model samples and nanocomposites, so that techniques sensitive to different physical quantities can be compared directly without sample-to-sample variability. Coarse-grained molecular dynamics simulations will reveal the molecular origins and spatial distributions of the dynamic heterogeneities, and continuum finite element models built on voxelated representations of these domains will quantify how their connectivity produces the extended property gradients observed in mechanical measurements. Together these efforts link molecular-scale behavior to engineering-scale properties, providing a mechanistic explanation for the discrepancies in the literature and a validated modeling framework that translates molecular characteristics into predictions of nanocomposite stiffness and thermal behavior for material design.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Boran",
+   "pi_last_name": "Ma",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Boran Ma",
+   "pi_email_addr": "boranma@asu.edu",
+   "nsf_id": "000924666",
+   "pi_start_date": "2026-10-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "1475 N SCOTTSDALE RD STE 200",
+  "inst_street_address_2": "",
+  "inst_city_name": "SCOTTSDALE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852573538",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "AZ01",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "NKJGJQYQJKR3",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "1475 N SCOTTSDALE RD STE 200",
+  "perf_city_name": "SCOTTSDALE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852573538",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "AZ01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163000",
+   "pgm_ele_name": "Mechanics of Materials and Str"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "013E",
+   "pgm_ref_txt": "MULTI-SCALE MODELING"
+  },
+  {
+   "pgm_ref_code": "022E",
+   "pgm_ref_txt": "SOLID MECHANICS"
+  },
+  {
+   "pgm_ref_code": "027E",
+   "pgm_ref_txt": "NANOMECHANICS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2026,
+   "fund_oblg_amt": 228498.0
+  }
+ ],
+ "por": null
+}

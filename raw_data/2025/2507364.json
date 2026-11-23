@@ -1,0 +1,101 @@
+{
+ "awd_id": "2507364",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Feasibility of a Novel Minimally Invasive Labor Augmentation System for Stage I Labor",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 304452.0,
+ "awd_amount": 304452.0,
+ "awd_min_amd_letter_date": "2025-05-27",
+ "awd_max_amd_letter_date": "2025-05-27",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research Phase I project is the first medical device intervention for augmenting Stage I active labor. In the US, 3.4 million low-risk childbirths occur in hospitals each year representing the leading cause for admissions, in-hospital bed use, resulting in $50B direct costs. Despite optimal pharmacological administration, one in five (20%) experience significantly prolonged Stage I active labor durations due to ineffective uterine contractions. This results in increased maternal morbidity, health risks to the mother and infant, and is the leading cause of cesarean sections for low-risk delivery in the US. Rates of prolonged labor continue to increase with obesity, sedentary lifestyle and age of mother. This initiative aims to develop the first medical device therapy for use by Obstetricians to directly increase the labor forces while relieving uterine muscle demand during labor to make childbirth safer.  \r\n\r\n\r\nThis SBIR Phase I project aims to develop a minimally invasive intrauterine labor augmentation system (ILAS) providing direct fluidic mechanical pressure modulation. The trans birth canal system utilizes contemporary Class II medical device catheter-balloon (sac) technology to contain saline which fluidically controls intrauterine pressure synchronized to every labor contraction.  In this SBIR Phase I project, the highest risk intrauterine assembly will be developed and mechanically validated through three primary objectives. First, the sac will be further developed for safe prolonged intrauterine use under simulated conditions by refining the biomaterial\u2019s mechanical properties. This will ensure smooth deployment including low coefficient of friction, ease of insertion and withdraw from the uterus, with a suitable external diameter and mechanical handling characteristics. Second, the sac configuration and pleating pattern will be finalized for ensuring a low-profile insertion while maintaining durability and reliability. The system will then be validated through rigorous testing using a mock anatomical test system intrauterine cavity and infant. The results will verify the intrauterine catheter-sac\u2019s ability to deploy properly under simulated use conditions, distribute fluidic pressure evenly to current clinical targets of 50-70mmHg, exhibit durability with a sufficient safety factor. The outcomes are a mechanically validated system using biomaterials suitable for preclinical translation during the next stage of development.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "James",
+   "pi_last_name": "Kelley",
+   "pi_mid_init": "F",
+   "pi_sufx_name": "",
+   "pi_full_name": "James F Kelley",
+   "pi_email_addr": "jkelley5658@gmail.com",
+   "nsf_id": "0000A23WH",
+   "pi_start_date": "2025-05-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "3VO MEDICAL, INC",
+  "inst_street_address": "3520 MULTIVIEW DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8183855876",
+  "inst_zip_code": "900681222",
+  "inst_country_name": "United States",
+  "cong_dist_code": "30",
+  "st_cong_dist_code": "CA30",
+  "org_lgl_bus_name": "3VO MEDICAL, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "QS8NCD55FUL6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "3VO MEDICAL, INC",
+  "perf_str_addr": "3520 MULTIVIEW DR",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "900681222",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "30",
+  "perf_st_cong_dist": "CA30",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "004E",
+   "pgm_ref_txt": "BIOMEDICAL ENG AND DIAGNOSTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304452.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>NSF Project Outcomes Report for 3VO</strong></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Project Summary</strong></p>\r\n<p>Functional dystocia occurs when weak or irregular contractions stall the early stages of labor. &nbsp;This delayed progress is the most common reason first-time mothers in the U.S. require a cesarean section, and is the most common major inpatient surgery performed in U.S. Hospitals. &nbsp;While cesarean sections are sometimes medically necessary for maternal or fetal safety, they are major abdominal surgeries that carry significant risks. These include infection, hemorrhage, and blood clots. &nbsp;Because of the potential for long-term complications&mdash;such as chronic pain, PTSD, and the risk of unplanned hysterectomy&mdash;cesarean sections should be avoided when they are not medically indicated.&nbsp; Unfortunately, &ldquo;prolonged labour is overdiagnosed and overtreated with oxytocin and caesarean section&rdquo; (Maal&oslash;e et al., 2023).</p>\r\n<p>Our company, 3VO Medical, is developing a breakthrough minimally invasive Intrauterine Labor Enhancement System (ILAS), the first for managing functional dystocia.&nbsp; Our product will be the first mechanically synchronized intrauterine pressure augmentation system designed to safely progress labor, with the aim of reducing labor duration, oxytocin usage, and Cesarean sections.</p>\r\n<p>The system is designed to mimic the fluidic forces generated during Stage I active labor by mechanically increasing and decreasing the pressure for each labor contraction.&nbsp; In a procedure akin to the placement of an intrauterine pressure catheter, a small, uninflated balloon catheter is placed transcervical into the amniotic fluid at base of the uterus (the fundus).&nbsp; Balloon inflation is then synchronized to the mother&rsquo;s underlying contractions to enhance (augment) contraction strength.&nbsp; As a result, the mother&rsquo;s weak contractions are amplified beyond the threshold needed to trigger natural physiological process that can promote vaginal delivery.&nbsp; Unlike pharmacological agents, the augmentation: 1) is intermittent&mdash;which allows the mother&rsquo;s body to rest between contractions, and 2) works &ldquo;on demand,&rdquo; enabling the therapy to be instantly turned on or off, as the medical situation requires.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Major Findings</strong></p>\r\n<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>There were three technical aims of this project:&nbsp; 1) balloon material selection and testing, 2) balloon catheter fabrication and performance testing, and 3) evaluation of the balloon catheter in a mock anatomical test apparatus.</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the first aim, we sought a balloon material that was strong and would inflate smoothly.&nbsp; We identified a material that exhibited acceptable resistance to breakage (tensile strength) and sufficient flexibility (elongation properties).&nbsp; We did not want a material with high friction as it would stick to itself and not expand smoothly; such uneven deployment during balloon inflation may cause injury.&nbsp; We successfully identified a balloon material that had both a low coefficient of friction and adequate mechanical properties to proceed to the next step of catheter fabrication.&nbsp;</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our second aim was to make a balloon out of the chosen material, use the material to design and fabricate a balloon catheter, and show that the device was robust and worked appropriately.&nbsp; Through our experiments, we showed that the balloon did not rip or tear upon inflation and that the balloon expanded smoothly, even after 500 rounds of inflation and deflation cycles.&nbsp; This type of cycle fatigue testing ensures the balloon can perform reliably during the repeated mechanical stress of a typical labor scenario.</p>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the last aim, we wanted to characterize how the balloon catheter performed in a mock anatomical apparatus.&nbsp; A uterus/fetus model was constructed in which the ballon catheter could be inserted and deployed.&nbsp; We showed that we could increase the pressure within the mock uterine chamber to a clinically relevant level.&nbsp; This increase in pressure was achieved even when there were different degrees of compliance in the system, meaning that it will be possible to modify intrauterine fluid pressures no matter the state of uterus contraction.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Broader Impact</strong></p>\r\n<p>This project advanced the development of a novel, non-pharmacological approach to augment labor. &nbsp;Principles from biomedical engineering, materials science, catheter-based device development, and pressure measurement systems were combined and integrated into an obstetric application.&nbsp; The work demonstrates how technologies commonly used in minimally invasive medical devices can be adapted to address challenges in other fields.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Public Benefits</strong></p>\r\n<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Technological advancements in obstetrics and maternal-fetal medicine have lagged behind other medical specialties.<strong>&nbsp; </strong>This project focused on broadening medical device options for these fields.&nbsp; Once successfully developed and commercialized, the technology will provide clinicians with an additional option for labor augmentation and will therefore contribute to improved maternal and neonatal care.&nbsp; The positive effects of our device will be the reduction of unnecessary cesarean sections, reduced medical costs, decreased physical pain, and the curtailment of mental trauma that can result from an unplanned cesarean section.&nbsp; This device will benefit birthing women and, consequently, society as a whole.<strong></strong></p>\r\n<p>&nbsp;</p>\r\n<p><strong>Reference</strong></p>\r\n<p>Maal&oslash;e N, Kujabi ML, Nathan NO, Skovdal M, Dmello BS, Wray S, van den Akker T, Housseine N. Inconsistent definitions of labour progress and over-medicalisation cause unnecessary harm during birth. BMJ. 2023 Dec 6;383:e076515.</p><br>\n<p>\n Last Modified: 07/01/2026<br>\nModified by: James&nbsp;F&nbsp;Kelley</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nNSF Project Outcomes Report for 3VO\r\n\n\n\r\n\n\nProject Summary\r\n\n\nFunctional dystocia occurs when weak or irregular contractions stall the early stages of labor. This delayed progress is the most common reason first-time mothers in the U.S. require a cesarean section, and is the most common major inpatient surgery performed in U.S. Hospitals. While cesarean sections are sometimes medically necessary for maternal or fetal safety, they are major abdominal surgeries that carry significant risks. These include infection, hemorrhage, and blood clots. Because of the potential for long-term complicationssuch as chronic pain, PTSD, and the risk of unplanned hysterectomycesarean sections should be avoided when they are not medically indicated. Unfortunately, prolonged labour is overdiagnosed and overtreated with oxytocin and caesarean section (Maale et al., 2023).\r\n\n\nOur company, 3VO Medical, is developing a breakthrough minimally invasive Intrauterine Labor Enhancement System (ILAS), the first for managing functional dystocia. Our product will be the first mechanically synchronized intrauterine pressure augmentation system designed to safely progress labor, with the aim of reducing labor duration, oxytocin usage, and Cesarean sections.\r\n\n\nThe system is designed to mimic the fluidic forces generated during Stage I active labor by mechanically increasing and decreasing the pressure for each labor contraction. In a procedure akin to the placement of an intrauterine pressure catheter, a small, uninflated balloon catheter is placed transcervical into the amniotic fluid at base of the uterus (the fundus). Balloon inflation is then synchronized to the mothers underlying contractions to enhance (augment) contraction strength. As a result, the mothers weak contractions are amplified beyond the threshold needed to trigger natural physiological process that can promote vaginal delivery. Unlike pharmacological agents, the augmentation: 1) is intermittentwhich allows the mothers body to rest between contractions, and 2) works on demand, enabling the therapy to be instantly turned on or off, as the medical situation requires.\r\n\n\n\r\n\n\nMajor Findings\r\n\n\n There were three technical aims of this project: 1) balloon material selection and testing, 2) balloon catheter fabrication and performance testing, and 3) evaluation of the balloon catheter in a mock anatomical test apparatus.\r\n\n\n In the first aim, we sought a balloon material that was strong and would inflate smoothly. We identified a material that exhibited acceptable resistance to breakage (tensile strength) and sufficient flexibility (elongation properties). We did not want a material with high friction as it would stick to itself and not expand smoothly; such uneven deployment during balloon inflation may cause injury. We successfully identified a balloon material that had both a low coefficient of friction and adequate mechanical properties to proceed to the next step of catheter fabrication.\r\n\n\n Our second aim was to make a balloon out of the chosen material, use the material to design and fabricate a balloon catheter, and show that the device was robust and worked appropriately. Through our experiments, we showed that the balloon did not rip or tear upon inflation and that the balloon expanded smoothly, even after 500 rounds of inflation and deflation cycles. This type of cycle fatigue testing ensures the balloon can perform reliably during the repeated mechanical stress of a typical labor scenario.\r\n\n\n For the last aim, we wanted to characterize how the balloon catheter performed in a mock anatomical apparatus. A uterus/fetus model was constructed in which the ballon catheter could be inserted and deployed. We showed that we could increase the pressure within the mock uterine chamber to a clinically relevant level. This increase in pressure was achieved even when there were different degrees of compliance in the system, meaning that it will be possible to modify intrauterine fluid pressures no matter the state of uterus contraction.\r\n\n\n\r\n\n\nBroader Impact\r\n\n\nThis project advanced the development of a novel, non-pharmacological approach to augment labor. Principles from biomedical engineering, materials science, catheter-based device development, and pressure measurement systems were combined and integrated into an obstetric application. The work demonstrates how technologies commonly used in minimally invasive medical devices can be adapted to address challenges in other fields.\r\n\n\n\r\n\n\nPublic Benefits\r\n\n\n Technological advancements in obstetrics and maternal-fetal medicine have lagged behind other medical specialties. This project focused on broadening medical device options for these fields. Once successfully developed and commercialized, the technology will provide clinicians with an additional option for labor augmentation and will therefore contribute to improved maternal and neonatal care. The positive effects of our device will be the reduction of unnecessary cesarean sections, reduced medical costs, decreased physical pain, and the curtailment of mental trauma that can result from an unplanned cesarean section. This device will benefit birthing women and, consequently, society as a whole.\r\n\n\n\r\n\n\nReference\r\n\n\nMaale N, Kujabi ML, Nathan NO, Skovdal M, Dmello BS, Wray S, van den Akker T, Housseine N. Inconsistent definitions of labour progress and over-medicalisation cause unnecessary harm during birth. BMJ. 2023 Dec 6;383:e076515.\t\t\t\t\tLast Modified: 07/01/2026\n\n\t\t\t\t\tSubmitted by: JamesFKelley\n"
+ }
+}

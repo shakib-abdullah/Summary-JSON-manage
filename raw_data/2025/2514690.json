@@ -1,0 +1,128 @@
+{
+ "awd_id": "2514690",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Groups, Logic, and Computation: Interactions between Group Theory, Model Theory, and Computer Science. GAGTA 2025.",
+ "cfda_num": "47.049, 47.070",
+ "org_code": "03210000",
+ "po_phone": "7032922467",
+ "po_email": "mdouglas@nsf.gov",
+ "po_sign_block_name": "James Matthew Douglass",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 34000.0,
+ "awd_amount": 34000.0,
+ "awd_min_amd_letter_date": "2025-04-07",
+ "awd_max_amd_letter_date": "2025-04-07",
+ "awd_abstract_narration": "This award supports participants of the conference \"Groups, Logic, and Computation: Interactions between Group Theory, Model Theory, and Computer Science (GAGTA 2025)\" which will take place at the Stevens Institute of Technology (New Jersey), June 9--13, 2025. The event will bring together researchers from various branches of group theory, model theory, and computer science to explore open questions in the field, now being approached from fresh and promising perspectives. It will also strengthen the discipline's connections to other branches of mathematics. Through this exchange of ideas among experts, students, and postdoctoral researchers, the conference aims to disseminate current knowledge and identify promising directions for future research.\r\n\r\nThe conference will focus on recent developments in group theory, emphasizing groups and group actions, as well as their applications across various areas of mathematics where they serve as fundamental tools. The program will cover multiple branches of modern group theory with a particular focus on geometric, asymptotic, and combinatorial group theory, dynamics of group actions, probabilistic and analytic methods, first-order rigidity and classification, and Diophantine problems in groups and rings. Additionally, the conference will explore emerging AI connections, with dedicated sessions examining how group theory can further impact machine learning, formal verification, and symbolic computation and how AI methods may contribute to advances in group-theoretic research. This interdisciplinary exchange aims to foster collaboration and open new directions in both mathematics and AI. More information can be found at https://web.stevens.edu/algebraic/Stevens2025/\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alexander",
+   "pi_last_name": "Ushakov",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexander Ushakov",
+   "pi_email_addr": "sasha.ushakov@gmail.com",
+   "nsf_id": "000519184",
+   "pi_start_date": "2025-04-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mahmood",
+   "pi_last_name": "Sohrabi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mahmood Sohrabi",
+   "pi_email_addr": "msohrab1@stevens.edu",
+   "nsf_id": "000653681",
+   "pi_start_date": "2025-04-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stevens Institute of Technology",
+  "inst_street_address": "ONE CASTLE POINT ON HUDSON",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOBOKEN",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "2012168762",
+  "inst_zip_code": "070305906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "NJ08",
+  "org_lgl_bus_name": "THE TRUSTEES OF THE STEVENS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJ6CN5Y5A2R5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stevens Institute of Technology",
+  "perf_str_addr": "ONE CASTLE POINT ON HUDSON",
+  "perf_city_name": "HOBOKEN",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "070305906",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "08",
+  "perf_st_cong_dist": "NJ08",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126800",
+   "pgm_ele_name": "FOUNDATIONS"
+  },
+  {
+   "pgm_ele_code": "126400",
+   "pgm_ele_name": "ALGEBRA,NUMBER THEORY,AND COM"
+  },
+  {
+   "pgm_ele_code": "126500",
+   "pgm_ele_name": "GEOMETRIC ANALYSIS"
+  },
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  },
+  {
+   "pgm_ele_code": "779600",
+   "pgm_ele_name": "Algorithmic Foundations"
+  },
+  {
+   "pgm_ele_code": "126600",
+   "pgm_ele_name": "APPLIED MATHEMATICS"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 34000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This project supported the organization of the conference <em>Groups, Computation and Logic</em> (June 6&ndash;13, 2025), hosted at Stevens Institute of Technology in Hoboken, New Jersey. The conference website, including the program, participant list, abstracts, and additional information, is available at <a href=\"https://web.stevens.edu/algebraic/Stevens2025/\">https://web.stevens.edu/algebraic/Stevens2025/</a>.</p>\r\n<p>The conference attracted <strong>more than 160 participants</strong> from universities and research institutions in the United States and abroad. Its scientific program featured invited lectures by internationally recognized experts, including the inaugural Schupp Distinguished Lecture, and covered a broad range of topics in group theory, geometry, topology, logic, computation, cryptography, and emerging applications of artificial intelligence in mathematical research. All talks were accessible both in person and remotely via Zoom, further expanding the conference's reach.</p>\r\n<p>The conference fostered interactions among mathematicians and theoretical computer scientists working in diverse areas of algebra, logic, and computation. By bringing together experts with different perspectives, it stimulated new collaborations and encouraged the exchange of ideas on challenging open problems at the interface of mathematics and computer science.</p>\r\n<p>NSF funding was used primarily to support participant lodging and travel, enabling the participation of <strong>40 researchers</strong> at different career stages, including graduate students, postdoctoral researchers, assistant professors, senior faculty, and researchers from industry. The supported participants represented institutions across the United States as well as numerous international universities, broadening participation and strengthening the international exchange of ideas within the research community.</p>\r\n<p>The conference provided an important venue for disseminating recent advances, mentoring early-career researchers, and strengthening connections among group theory, logic, computation, and their applications. The collaborations initiated during the conference are expected to lead to future research projects, publications, and continued advances at the interface of mathematics and theoretical computer science.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 07/05/2026<br>\nModified by: Alexander&nbsp;Ushakov</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project supported the organization of the conference Groups, Computation and Logic (June 613, 2025), hosted at Stevens Institute of Technology in Hoboken, New Jersey. The conference website, including the program, participant list, abstracts, and additional information, is available at https://web.stevens.edu/algebraic/Stevens2025/.\r\n\n\nThe conference attracted more than 160 participants from universities and research institutions in the United States and abroad. Its scientific program featured invited lectures by internationally recognized experts, including the inaugural Schupp Distinguished Lecture, and covered a broad range of topics in group theory, geometry, topology, logic, computation, cryptography, and emerging applications of artificial intelligence in mathematical research. All talks were accessible both in person and remotely via Zoom, further expanding the conference's reach.\r\n\n\nThe conference fostered interactions among mathematicians and theoretical computer scientists working in diverse areas of algebra, logic, and computation. By bringing together experts with different perspectives, it stimulated new collaborations and encouraged the exchange of ideas on challenging open problems at the interface of mathematics and computer science.\r\n\n\nNSF funding was used primarily to support participant lodging and travel, enabling the participation of 40 researchers at different career stages, including graduate students, postdoctoral researchers, assistant professors, senior faculty, and researchers from industry. The supported participants represented institutions across the United States as well as numerous international universities, broadening participation and strengthening the international exchange of ideas within the research community.\r\n\n\nThe conference provided an important venue for disseminating recent advances, mentoring early-career researchers, and strengthening connections among group theory, logic, computation, and their applications. The collaborations initiated during the conference are expected to lead to future research projects, publications, and continued advances at the interface of mathematics and theoretical computer science.\r\n\n\n\t\t\t\t\tLast Modified: 07/05/2026\n\n\t\t\t\t\tSubmitted by: AlexanderUshakov\n"
+ }
+}

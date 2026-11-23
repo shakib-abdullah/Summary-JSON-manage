@@ -1,0 +1,113 @@
+{
+ "awd_id": "2530678",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: Identifying Barriers and Supports for Physics Students and Early Career Physicists with Disabilities",
+ "cfda_num": "47.076",
+ "org_code": "11230000",
+ "po_phone": "7032922760",
+ "po_email": "rochsend@nsf.gov",
+ "po_sign_block_name": "Robert Ochsendorf",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 760716.0,
+ "awd_amount": 136651.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "In U.S. colleges and universities about 25% of undergraduate students and 20% of graduate students with a disability enroll in science and engineering fields.  Surprisingly, the economic well-being of persons with disabilities has decreased since the passage of anti-discrimination laws such as the 1990 Americans with Disabilities Act.  However, STEM careers offer better financial outcomes for individuals with disabilities.  Additionally, economic projections suggest an increasing need to recruit more STEM majors, and students with disabilities are an under-recruited group who could help to meet this national economic need.  Undergraduate and graduate students with disabilities may be dissuaded from pursuing STEM careers by instructors and mentors who lack the knowledge to support the students' participation. This CAREER scholar is investigating the barriers and supports encountered by undergraduate and graduate physics students and early career physicists with disabilities in their learning and research experiences.  Results of this work provide information to college instructors and professional mentors to make physics more accessible and inclusive for persons with disabilities pursuing physics careers.\r\n\r\nThe Faculty Early Career Development (CAREER) program is a National Science Foundation (NSF)-wide activity that offers awards in support of junior faculty who exemplify the role of teacher-scholars through outstanding research, excellent education, and the integration of education and research within the context of the mission of their organizations.  This award is supported through the EHR Core Research (ECR) program.  ECR emphasizes fundamental STEM education research that generates foundational knowledge in the field.  \r\n\r\nThe goal of this CAREER project is to explore how the attitudes toward and experiences of physics students and early career physicists vary across multiple components, including demographic variables, research experience, and physics sub-field. This research is focusing on individuals with visual, hearing, physical, mental health and/or cognitive-learning impairments, including those with learning and reading disorders, Autism Spectrum Disorder and other executive function disorders.   Everyone is conceived to have an ability profile, with strengths and weaknesses along multiple dimensions. Research questions include: (1) How is the existing culture in the physics research and instructional communities towards persons with disabilities shaped by the ability profile and other personal characteristics of the instructor/mentor and the student/mentee?  (2) How does the existing culture in the physics research community vary across sub-fields and research types?  (3) What are effective strategies for making physics more accessible and inclusive for persons with disabilities?  (4) What are effective ways to train university faculty to better support undergraduate and graduate students, and early career researchers with disabilities?  In addition to collecting student data, surveys will be administered in collaboration with the American Physical Society to capture a broad population of practicing physicists, and interviews will be conducted with physicists with disabilities and their mentors. The research is integrated with an extensive education plan that includes creating learning communities for faculty interested in persons with disabilities in physics, modifying trainings for graduate teaching assistants and undergraduate learning assistants to include inclusive teaching strategies, conducting workshops to train physics teachers and mentors, and publishing articles for practicing physicists and instructors.  Additionally, undergraduate and graduate students working with the researcher will benefit from learning about STEM education research methods and integrating research with educational opportunities for improving physics instruction.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "EIT",
+ "org_div_long_name": "Education Innovation & Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jacquelyn",
+   "pi_last_name": "Chini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jacquelyn Chini",
+   "pi_email_addr": "chini.3@osu.edu",
+   "nsf_id": "000620633",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "OHIO STATE UNIVERSITY, THE",
+  "inst_street_address": "1960 KENNY RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "COLUMBUS",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "6146888735",
+  "inst_zip_code": "432101016",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "OH03",
+  "org_lgl_bus_name": "OHIO STATE UNIVERSITY, THE",
+  "org_prnt_uei_num": "EWRDP9YCDDH5",
+  "org_uei_num": "DLWBSLWAJWR1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Ohio State University",
+  "perf_str_addr": "1960 KENNY RD",
+  "perf_city_name": "COLUMBUS",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "432101016",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "OH03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "798000",
+   "pgm_ele_name": "ECR-EDU Core Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  },
+  {
+   "pgm_ref_code": "1187",
+   "pgm_ref_txt": "PECASE- eligible"
+  },
+  {
+   "pgm_ref_code": "1545",
+   "pgm_ref_txt": "Research in Disabilties Education"
+  },
+  {
+   "pgm_ref_code": "8212",
+   "pgm_ref_txt": "Broaden Particip STEM Resrch"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002021DB",
+   "fund_name": "NSF Education & Human Resource",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 136651.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>To maintain global competitiveness, the American scientific workforce must effectively train and retain capable talent. However, students and early-career physicists with disabilities frequently encounter challenges in both their course and research experiences that may lead to attrition. This CAREER project investigated how physics environments can optimize instruction and accessibility to ensure highly capable students are retained in the STEM pipeline.</p>\r\n<p>This project advanced our empirical understanding of learner variability in higher-education physics spaces. For example, the research team developed a model (Figure 1) that allows instructors to plan for learner variation without required that instructors have information about specific students&rsquo; disabilities. This model has also been applied to the design of education research studies.</p>\r\n<p>Key outcomes include:</p>\r\n<ul>\r\n<li>modification of an existing metric of accessible instructional practices and development a new metric for assessing the physics community&rsquo;s views about career access for disabled physicists. </li>\r\n<li>collection of students&rsquo; use of disability accommodations during emergency remote instruction which identified distinct ways that digital learning environments can be structured to prevent learning loss.</li>\r\n<li>identification of critical gaps in how physics mentors conceptualize physical and cognitive variations, which provided vital insights into the misalignment between traditional teaching methods and actual student learning processes.</li>\r\n<li>Advancements to qualitative research methodologies by establishing standardized best practices for accommodating participant variability during education research studies. </li>\r\n</ul>\r\n<p>Benefits to society include:</p>\r\n<ul>\r\n<li>Identifying examples of enabling physics environments</li>\r\n<li>Demonstrating that designing physics instruction to accommodate varied learning needs results in clearer, more structured educational environments that benefit <em>all</em> students, regardless of disability status.</li>\r\n</ul>\r\n<p>This project generated actionable, evidence-based strategies to improve physics education, directly supporting American STEM workforce development and instructional excellence.</p>\r\n<p>In a final strand, this project also explored conceptions of well-being held by physics graduate students and developed a study design to explore the evolution of physics students&rsquo; self-efficacy within their graduate programs. These projects were the first steps towards collecting <em>in situ</em> data about physics graduate students&rsquo; momentary experiences to inform graduate program design.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 11/03/2026<br>\nModified by: Jacquelyn&nbsp;Chini</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2530678/2530678_10528291_1793742322658_Picture1--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2530678/2530678_10528291_1793742322658_Picture1--rgov-800width.jpg\" title=\"Learner Variation Model\"><img src=\"/por/images/Reports/POR/2026/2530678/2530678_10528291_1793742322658_Picture1--rgov-66x44.jpg\" alt=\"Learner Variation Model\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">A radar chart with six arms representing proposed dimensions of ability, including health, cognitive, visual, hearing, emotional/mental health, and physical/mobility. Two instructional activities are modeled and hypothesized to vary in the demand they place on these axes.</div>\n<div class=\"imageCredit\">Chini and Scanlon</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Jacquelyn&nbsp;Chini\n<div class=\"imageTitle\">Learner Variation Model</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nTo maintain global competitiveness, the American scientific workforce must effectively train and retain capable talent. However, students and early-career physicists with disabilities frequently encounter challenges in both their course and research experiences that may lead to attrition. This CAREER project investigated how physics environments can optimize instruction and accessibility to ensure highly capable students are retained in the STEM pipeline.\r\n\n\nThis project advanced our empirical understanding of learner variability in higher-education physics spaces. For example, the research team developed a model (Figure 1) that allows instructors to plan for learner variation without required that instructors have information about specific students disabilities. This model has also been applied to the design of education research studies.\r\n\n\nKey outcomes include:\r\n\r\nmodification of an existing metric of accessible instructional practices and development a new metric for assessing the physics communitys views about career access for disabled physicists. \r\ncollection of students use of disability accommodations during emergency remote instruction which identified distinct ways that digital learning environments can be structured to prevent learning loss.\r\nidentification of critical gaps in how physics mentors conceptualize physical and cognitive variations, which provided vital insights into the misalignment between traditional teaching methods and actual student learning processes.\r\nAdvancements to qualitative research methodologies by establishing standardized best practices for accommodating participant variability during education research studies. \r\n\r\n\n\nBenefits to society include:\r\n\r\nIdentifying examples of enabling physics environments\r\nDemonstrating that designing physics instruction to accommodate varied learning needs results in clearer, more structured educational environments that benefit all students, regardless of disability status.\r\n\r\n\n\nThis project generated actionable, evidence-based strategies to improve physics education, directly supporting American STEM workforce development and instructional excellence.\r\n\n\nIn a final strand, this project also explored conceptions of well-being held by physics graduate students and developed a study design to explore the evolution of physics students self-efficacy within their graduate programs. These projects were the first steps towards collecting in situ data about physics graduate students momentary experiences to inform graduate program design.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 11/03/2026\n\n\t\t\t\t\tSubmitted by: JacquelynChini\n"
+ }
+}

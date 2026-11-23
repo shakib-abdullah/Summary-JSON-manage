@@ -1,0 +1,105 @@
+{
+ "awd_id": "2432090",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Data- and model-driven optimization of the SZ4D MultiArray: An on-shore/offshore network for integrated observations of subduction zone geohazards",
+ "cfda_num": "47.050",
+ "org_code": "06040200",
+ "po_phone": "7032925081",
+ "po_email": "emestes@nsf.gov",
+ "po_sign_block_name": "Emily Estes",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 15962.0,
+ "awd_amount": 15962.0,
+ "awd_min_amd_letter_date": "2025-03-26",
+ "awd_max_amd_letter_date": "2025-03-26",
+ "awd_abstract_narration": "Geohazards pose large risks at geologically active continental margins. These geohazards are interconnected and thus difficult to study in isolation. The goal of this project is to bring together experts to develop plans for an integrated array of instruments to observe these hazards. The array will be designed using Chile as a case study. This is a unique location where frequent events and existing networks provide a global understanding of interacting hazards.  Teams of experts in computer modeling and technical planning will design sub-arrays for earthquake, volcanic, and landslide observations. Teams will also compile new catalogs of earthquakes and landslide susceptibility in the study area. The teams will meet in a 3-day workshop to synthesize results. Broad input from the scientific community will be solicited through a series of webinars. New models and catalogs will be shared openly through the SZ4D website and data repositories to benefit communities exposed to subduction-related hazards in the U.S. and internationally.\r\n\r\nSubduction of ocean lithosphere results in the largest earthquakes, volcanic activity, and landscapes highly prone to destructive landslides. For decades research related to subduction and related geohazards has proceeded piecemeal. This research will provide the basis for an overarching framework for integrated studies that can directly address the linkages between earthquake, volcano, tsunami, and landslide geohazards. This award will support a series of modeling studies and technical planning that will be used to design three overlapping arrays of instrumentation at the Chile Subduction Zone. Chile is unique in combining a high level of geological activity and good logistical access. The instrument array will be designed to observe a broad range of earthquake, volcanic, and landslide processes. The work is organized into ten work packages. Five will assess and plan various aspects of the seismic detection and geodetic network. Two will address sediment and hydrologic transport for landslides. Two will address using seismicity to forecast volcanic processes. The final work package will bring together the others with a  three-day workshop and with scientific community input via a series of webinars. The connection between this research and the SZ4D initiative makes very clear the connection of this planning activity to benefit people who live with subduction-related geohazards in the U.S. and globally.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Collins",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "John A Collins",
+   "pi_email_addr": "jcollins@whoi.edu",
+   "nsf_id": "000106327",
+   "pi_start_date": "2025-03-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Woods Hole Oceanographic Institution",
+  "inst_street_address": "266 WOODS HOLE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "WOODS HOLE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "5082893542",
+  "inst_zip_code": "025431535",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "MA09",
+  "org_lgl_bus_name": "WOODS HOLE OCEANOGRAPHIC INSTITUTION",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GFKFBWG2TV98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Woods Hole Oceanographic Institution",
+  "perf_str_addr": "266 WOODS HOLE RD",
+  "perf_city_name": "WOODS HOLE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "025431535",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "MA09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "162000",
+   "pgm_ele_name": "Marine Geology and Geophysics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1620",
+   "pgm_ref_txt": "MARINE GEOLOGY AND GEOPHYSICS"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 15962.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The SZ4D (Subduction Zone in 4 Dimensions) Initiative aims to deploy MultiArray, an onshore/offshore observational experiment in Chile, where Earth&rsquo;s largest and most frequent geohazards happen. Over a 10 year period, MultiArray will be used to observe a broad range of seismic, volcanic, and mass movement behaviors and place the study of geohazards on a forecasting foundation. This WHOI award is one component of a ten-institution collaborative effort that together will culminate in a set of design guidelines for MultiArray. The objectives of this award are: (i) to assimilate existing oceanographic data to determine ocean-bottom seismograph (OBS) deployment sites that are minimally affected by bottom currents and fishing activity; and (ii) assess trade-offs in deployment strategies for MultiArray offshore instrumentation, with an aim towards balancing data return and ship-time costs;</p>\r\n<p><strong><em>Objective 1</em></strong></p>\r\n<p>Trawling and long-line fishing can result in seafloor instrumentation such as OBS being dragged up, so it is critical to avoid deploying instrumentation in areas of high fishing risk.&nbsp; For the region from the Chilean coast to 200 km offshore between 27&deg;S and 34&deg;S, we used 2012-2025 data from the Global Fishing Watch combined with an online literature search to show that the ~20 vessels of the Chilean industrial fleet do not operate demersal gear within the SZ4D scope area. The seafloor impact of the 13,000-strong fleet of small, owner-operated artisanal vessels was inferred from the spatial distribution of available tracking data. We conclude that the risk to long-term seafloor instrumentation is low at depths greater than 600 m, or 15-25 km offshore.</p>\r\n<p>The performance of OBS is influenced by many phenomena, including seafloor currents originating via a variety of mechanisms and which impinge on the seismometer and generate tilt noise, and the non-linear interaction of 2-14 second surface gravity waves which generates acoustic noise.</p>\r\n<p>We used two global-circulation data-assimilative models (HYCOM and Copernicus GLORYS12V1)&nbsp; to hindcast non-tidal bottom-current speeds for the years 2021 and 2023 in the region where the SZ4D OBS array will be deployed. Bottom current speeds are typically &lt;10 cm/s, but current speeds near the coast are higher, with the Copernicus model (only) hindcasting speeds up to 20 cm/s at the planned shallowest OBS sites. Understanding the difference between HYCOM and Copernicus will require input from the oceanographic community.</p>\r\n<p>We used the Oregon State University TPXO10-atlas barotropic tide model and the Copernicus product <em>cmems_obs-mob_glo_phy-cur_my_0.25deg_PT1H-i </em>to extract tidal current speeds in the planned OBS deployment area for the year 2023.&nbsp; Both models show barotropic tidal speesds are considerably stronger in the N-S direction (&lt; ~2.5 cm/s) than in the E-W direction (&lt; 1 cm/s).</p>\r\n<p>We also used the Copernicus ERA5 reanalysis dataset from the European Centre for Medium Range Forecast to plot significant wave heights and wave periods offshore Chile for the months of January (austral summer) and June (austral winter) 2023.&nbsp; Significant wave heights of 3.5-4 m with periods of 8-14 s are common in the winter month.</p>\r\n<p>Our conclusion is that there are no obvious oceanographic show-stoppers that would prevent a successful OBS deployment.</p>\r\n<p>&nbsp;</p>\r\n<p><strong><em>Objective 2</em></strong></p>\r\n<p>The 54 OBS to be deployed for SZ4D will have a two-year battery endurance.&nbsp; For the 10-year program, each OBS will have to be recovered and re-deployed every other year. &nbsp;The scheduling of these activities will impact the amount of time that seismometer coverage is temporarily reduced for battery replacement, possibly preventing complete data collection during major seismic events. We addressed the cost-benefit relationships for three different scenarios:</p>\r\n<p><em>Option 1</em>: Recover all 54 OBS every two years, replace their batteries onshore, and then redeploy.&nbsp; (During ~2.5 months every other year, only half of the OBS will be on the seafloor).<br /><br /><em>Option 2</em>: Recover alternating half of the OBS every year, replace their batteries onshore, then redeploy. (During ~ 1.5 months every year, only half of the OBS will be on the seafloor).<br /><br /><em>Option 3</em>: Same as Option 2 except battery replacement would occur at sea, minimizing time that continuous operation of the full array is interrupted. (Initial cost is higher because of required extra battery housings, but operation of full array will be nearly continuous).</p>\r\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"630\">\r\n<tbody>\r\n<tr>\r\n<td width=\"72\" valign=\"top\">\r\n<p><strong>Option #</strong></p>\r\n</td>\r\n<td width=\"228\" valign=\"top\">\r\n<p><strong>Pros.</strong></p>\r\n</td>\r\n<td width=\"330\" valign=\"top\">\r\n<p><strong>Cons</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"72\" valign=\"top\">\r\n<p>1</p>\r\n</td>\r\n<td width=\"228\" valign=\"top\">\r\n<p>Minimum # of ship days. Shore-side turnaround easier &amp; more robust than ship-based turnaround.&nbsp;&nbsp;</p>\r\n</td>\r\n<td width=\"330\" valign=\"top\">\r\n<p>Data available every 2 years only.&nbsp; Requires 8 months of substantial shore-side lab space, likely rented.&nbsp;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"72\" valign=\"top\">\r\n<p>2</p>\r\n</td>\r\n<td width=\"228\" valign=\"top\">\r\n<p>Data from half of array available every year. Shore-side turnaround easier &amp; more robust than ship-based turnaround.&nbsp;&nbsp;</p>\r\n</td>\r\n<td width=\"330\" valign=\"top\">\r\n<p>Most ship days. Requires 9 months of substantial shore-side lab space, likely rented.&nbsp;</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"72\" valign=\"top\">\r\n<p>3</p>\r\n</td>\r\n<td width=\"228\" valign=\"top\">\r\n<p>Data from half of array every year. Maximum temporal coverage.&nbsp; No need for shore-side rental space.&nbsp; Turn-around tasks in permanent U.S. facility, so less need for test-equipment replication.&nbsp;&nbsp;</p>\r\n</td>\r\n<td width=\"330\" valign=\"top\">\r\n<p>Need 50% additional battery housings and underwater cables. Ditto acoustic release housings. Ship-based turnaround more challenging than shore-side turnaround.&nbsp; More ship days than option 1.</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 07/12/2026<br>\nModified by: John&nbsp;A&nbsp;Collins</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe SZ4D (Subduction Zone in 4 Dimensions) Initiative aims to deploy MultiArray, an onshore/offshore observational experiment in Chile, where Earths largest and most frequent geohazards happen. Over a 10 year period, MultiArray will be used to observe a broad range of seismic, volcanic, and mass movement behaviors and place the study of geohazards on a forecasting foundation. This WHOI award is one component of a ten-institution collaborative effort that together will culminate in a set of design guidelines for MultiArray. The objectives of this award are: (i) to assimilate existing oceanographic data to determine ocean-bottom seismograph (OBS) deployment sites that are minimally affected by bottom currents and fishing activity; and (ii) assess trade-offs in deployment strategies for MultiArray offshore instrumentation, with an aim towards balancing data return and ship-time costs;\r\n\n\nObjective 1\r\n\n\nTrawling and long-line fishing can result in seafloor instrumentation such as OBS being dragged up, so it is critical to avoid deploying instrumentation in areas of high fishing risk. For the region from the Chilean coast to 200 km offshore between 27S and 34S, we used 2012-2025 data from the Global Fishing Watch combined with an online literature search to show that the ~20 vessels of the Chilean industrial fleet do not operate demersal gear within the SZ4D scope area. The seafloor impact of the 13,000-strong fleet of small, owner-operated artisanal vessels was inferred from the spatial distribution of available tracking data. We conclude that the risk to long-term seafloor instrumentation is low at depths greater than 600 m, or 15-25 km offshore.\r\n\n\nThe performance of OBS is influenced by many phenomena, including seafloor currents originating via a variety of mechanisms and which impinge on the seismometer and generate tilt noise, and the non-linear interaction of 2-14 second surface gravity waves which generates acoustic noise.\r\n\n\nWe used two global-circulation data-assimilative models (HYCOM and Copernicus GLORYS12V1) to hindcast non-tidal bottom-current speeds for the years 2021 and 2023 in the region where the SZ4D OBS array will be deployed. Bottom current speeds are typically \r\n\n\nWe used the Oregon State University TPXO10-atlas barotropic tide model and the Copernicus product cmems_obs-mob_glo_phy-cur_my_0.25deg_PT1H-i to extract tidal current speeds in the planned OBS deployment area for the year 2023. Both models show barotropic tidal speesds are considerably stronger in the N-S direction (\r\n\n\nWe also used the Copernicus ERA5 reanalysis dataset from the European Centre for Medium Range Forecast to plot significant wave heights and wave periods offshore Chile for the months of January (austral summer) and June (austral winter) 2023. Significant wave heights of 3.5-4 m with periods of 8-14 s are common in the winter month.\r\n\n\nOur conclusion is that there are no obvious oceanographic show-stoppers that would prevent a successful OBS deployment.\r\n\n\n\r\n\n\nObjective 2\r\n\n\nThe 54 OBS to be deployed for SZ4D will have a two-year battery endurance. For the 10-year program, each OBS will have to be recovered and re-deployed every other year. The scheduling of these activities will impact the amount of time that seismometer coverage is temporarily reduced for battery replacement, possibly preventing complete data collection during major seismic events. We addressed the cost-benefit relationships for three different scenarios:\r\n\n\nOption 1: Recover all 54 OBS every two years, replace their batteries onshore, and then redeploy. (During ~2.5 months every other year, only half of the OBS will be on the seafloor).\n\nOption 2: Recover alternating half of the OBS every year, replace their batteries onshore, then redeploy. (During ~ 1.5 months every year, only half of the OBS will be on the seafloor).\n\nOption 3: Same as Option 2 except battery replacement would occur at sea, minimizing time that continuous operation of the full array is interrupted. (Initial cost is higher because of required extra battery housings, but operation of full array will be nearly continuous).\r\n\r\n\r\n\r\n\r\n\n\nOption #\r\n\r\n\r\n\n\nPros.\r\n\r\n\r\n\n\nCons\r\n\r\n\r\n\r\n\r\n\n\n1\r\n\r\n\r\n\n\nMinimum # of ship days. Shore-side turnaround easier & more robust than ship-based turnaround.\r\n\r\n\r\n\n\nData available every 2 years only. Requires 8 months of substantial shore-side lab space, likely rented.\r\n\r\n\r\n\r\n\r\n\n\n2\r\n\r\n\r\n\n\nData from half of array available every year. Shore-side turnaround easier & more robust than ship-based turnaround.\r\n\r\n\r\n\n\nMost ship days. Requires 9 months of substantial shore-side lab space, likely rented.\r\n\r\n\r\n\r\n\r\n\n\n3\r\n\r\n\r\n\n\nData from half of array every year. Maximum temporal coverage. No need for shore-side rental space. Turn-around tasks in permanent U.S. facility, so less need for test-equipment replication.\r\n\r\n\r\n\n\nNeed 50% additional battery housings and underwater cables. Ditto acoustic release housings. Ship-based turnaround more challenging than shore-side turnaround. More ship days than option 1.\r\n\r\n\r\n\r\n\r\n\n\n\t\t\t\t\tLast Modified: 07/12/2026\n\n\t\t\t\t\tSubmitted by: JohnACollins\n"
+ }
+}

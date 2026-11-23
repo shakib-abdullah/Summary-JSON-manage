@@ -1,0 +1,109 @@
+{
+ "awd_id": "2439863",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Symposium on Computation and Pragmatics",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032927238",
+ "po_email": "btuller@nsf.gov",
+ "po_sign_block_name": "Betty Tuller",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 23542.0,
+ "awd_amount": 23542.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "The growing popularity of chat-based language models and other artificial intelligence (AI) systems makes social aspects of language a key priority for AI research. This is because when humans use language, they consider a rich set of information, including their relationship with their listeners and their listeners\u2019 beliefs and goals. This project advances the development of socially-aware language technology by building bridges between experts in language science (including linguists) and technology (including computer scientists). This is an important advancement because it fosters a better scientific understanding of human language use and how to implement those principles in AI systems. Broader impacts include activities that bring computer scientists and linguists together for collaboration and mentoring activities to train new researchers in this area. \r\n\r\nThe field of pragmatics explores interactive, context-sensitive, and discourse-level aspects of language. Although there has been progress in computational modeling of pragmatics and a growing body of applied computational work, for the most part language scientists and computer scientists have been working independently. This conference provides opportunities for computational linguists and natural language processing researchers to share ideas. Conference topics reflect many aspects of pragmatics including informativity, perspective-taking, image captioning, discourse coherence, mutual knowledge in dialogue, and emotion analysis. To maximize attendance, the conference is co-located with two established scientific gatherings. Virtual attendance, participation, and presentation are supported by an established video platform. Events consist of both invited and contributed presentations in addition to a pop-up mentoring event for trainees and other scholars that supports access to computational experts outside of the home institution. Conference presentations are published in open access proceedings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Carolyn",
+   "pi_last_name": "Anderson",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carolyn J Anderson",
+   "pi_email_addr": "carolyn.anderson@wellesley.edu",
+   "nsf_id": "000924280",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Wellesley College",
+  "inst_street_address": "106 CENTRAL ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "WELLESLEY HILLS",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "7812832079",
+  "inst_zip_code": "024818203",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MA05",
+  "org_lgl_bus_name": "WELLESLEY COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Z17DSLNJ1DX1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Wellesley College",
+  "perf_str_addr": "106 CENTRAL ST",
+  "perf_city_name": "WELLESLEY HILLS",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "024818203",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "131100",
+   "pgm_ele_name": "Linguistics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "1311",
+   "pgm_ref_txt": "LINGUISTICS"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 23542.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p id=\"docs-internal-guid-9c600c01-7fff-c378-e527-49d315a84edf\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The sophisticated abilities of large language models have increased the urgency of research on aspects of language that involve social interaction, pragmatic reasoning, and context-sensitivity. This award funded a Symposium on Computation and Pragmatics that brought together researchers in Natural Language Processing and Computational Linguistics to discuss innovative research and research methods.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The goal of the Symposium was to foster interaction and future collaboration between researchers in Computational Linguistics and Natural Language Processing. Attendees gained a broader vision for how computational approaches to pragmatics contribute to both linguistic theory and language technology. Accepted papers were published in the Association for Computational Linguistics Anthology, a leading computer science publication venue. The Symposium was co-hosted by the annual meeting of the Society for Computation in Linguistics, which was co-located with the Linguistic Society of America (LSA)'s Linguistic Institute. Since LSA Institute students were invited to participate for free, the Symposium provided an accessible introduction to interdisciplinary work in computational pragmatics for a new generation of researchers.</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Symposium featured four keynote presentations by leading researchers on computational approaches to meaning. Hannah Rohde (University of Edinburgh) presented a series of case studies from her experimental work on discourse. Daniel Fried (Carnegie Mellon University) showed how incorporating speaker and listener models can improve reasoning for AI agents in scene navigation and program synthesis. Junyi Jessy Li (University of Texas at Austin) showed how incorporating Questions Under Discussion into large language models can improve their ability to summarize text. Malihe Alikhani (Northeastern University) presented work exploring how large language models track user beliefs, with applications to reducing sycophancy.</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The Symposium also featured six research talks and ten poster presentations on related topics, selected through a rigorous peer review process, as well as four methodology lightning talks. These presentations covered topics ranging from speaker rationality and programming libraries for Bayesian models of conversation, to cross-linguistic word embeddings and integrating symbolic and neural network approaches to meaning. The peer-reviewed abstracts and papers have been published in the Proceedings of the Society for Computation in Linguistics and the Association for Computational Linguistics Anthology.</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">There were 111 registered participants in the Symposium. 29 registered participants were LSA Institute students; a number of additional students attended parts of the Symposium without registering. 26 participants attended virtually through Zoom broadcasts.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">A primary goal of this project was to provide support for a new generation of researchers in computational pragmatics. The award provided support for students in three ways: 1) by offering free registration to all LSA Institute students; 2) by offering student travel funds to authors of accepted SCiL 2025 papers, allowing them to attend in person; and 3) by running a pop-up mentoring program in coordination with the LSA.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The award funded student travel awards for 15 students, and provided lunch for 29 mentees and 9 mentors during the Pop-up Mentoring event. The high ratio of mentees to mentors shows how much demand there is for mentoring in computational pragmatics: student interest is high, but many graduate programs do not have faculty in this area. In the post-event survey, 72% of mentees said that they received mentoring that was not available in their home department. The same number planned to keep in touch with their mentor.</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Overall, the Symposium successfully provided a venue for computational linguists and computer scientists to discuss recent advances in computational pragmatics, including social and contextual aspects of language. In the post-conference survey, 86% of attendees said the event made them more likely to collaborate with other researchers, and 60% planned to keep in touch with someone that they met there. 71% said they learned about a new methodology. 76% planned to read a paper by someone they met at the conference.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\" dir=\"ltr\"><span style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The post-conference survey also showed that the Symposium was effective at bringing together researchers who might otherwise not have met; 60% had never attended an annual meeting of the Society for Computation in Linguistics before and 60% had never attended an annual meeting of the Association for Computational Linguistics. We hope that the connections made between researchers and the research published as part of the activities funded by this award will continue to lead to fruitful collaborations and research for years to come.</span></p><br>\n<p>\n Last Modified: 07/21/2026<br>\nModified by: Carolyn&nbsp;Jane&nbsp;Anderson</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe sophisticated abilities of large language models have increased the urgency of research on aspects of language that involve social interaction, pragmatic reasoning, and context-sensitivity. This award funded a Symposium on Computation and Pragmatics that brought together researchers in Natural Language Processing and Computational Linguistics to discuss innovative research and research methods.\r\n\n\n\r\n\n\nThe goal of the Symposium was to foster interaction and future collaboration between researchers in Computational Linguistics and Natural Language Processing. Attendees gained a broader vision for how computational approaches to pragmatics contribute to both linguistic theory and language technology. Accepted papers were published in the Association for Computational Linguistics Anthology, a leading computer science publication venue. The Symposium was co-hosted by the annual meeting of the Society for Computation in Linguistics, which was co-located with the Linguistic Society of America (LSA)'s Linguistic Institute. Since LSA Institute students were invited to participate for free, the Symposium provided an accessible introduction to interdisciplinary work in computational pragmatics for a new generation of researchers.\r\n\n\n\r\n\n\nThe Symposium featured four keynote presentations by leading researchers on computational approaches to meaning. Hannah Rohde (University of Edinburgh) presented a series of case studies from her experimental work on discourse. Daniel Fried (Carnegie Mellon University) showed how incorporating speaker and listener models can improve reasoning for AI agents in scene navigation and program synthesis. Junyi Jessy Li (University of Texas at Austin) showed how incorporating Questions Under Discussion into large language models can improve their ability to summarize text. Malihe Alikhani (Northeastern University) presented work exploring how large language models track user beliefs, with applications to reducing sycophancy.\r\n\n\n\r\n\n\nThe Symposium also featured six research talks and ten poster presentations on related topics, selected through a rigorous peer review process, as well as four methodology lightning talks. These presentations covered topics ranging from speaker rationality and programming libraries for Bayesian models of conversation, to cross-linguistic word embeddings and integrating symbolic and neural network approaches to meaning. The peer-reviewed abstracts and papers have been published in the Proceedings of the Society for Computation in Linguistics and the Association for Computational Linguistics Anthology.\r\n\n\n\r\n\n\nThere were 111 registered participants in the Symposium. 29 registered participants were LSA Institute students; a number of additional students attended parts of the Symposium without registering. 26 participants attended virtually through Zoom broadcasts.\r\n\n\n\r\n\n\nA primary goal of this project was to provide support for a new generation of researchers in computational pragmatics. The award provided support for students in three ways: 1) by offering free registration to all LSA Institute students; 2) by offering student travel funds to authors of accepted SCiL 2025 papers, allowing them to attend in person; and 3) by running a pop-up mentoring program in coordination with the LSA.\r\n\n\n\r\n\n\nThe award funded student travel awards for 15 students, and provided lunch for 29 mentees and 9 mentors during the Pop-up Mentoring event. The high ratio of mentees to mentors shows how much demand there is for mentoring in computational pragmatics: student interest is high, but many graduate programs do not have faculty in this area. In the post-event survey, 72% of mentees said that they received mentoring that was not available in their home department. The same number planned to keep in touch with their mentor.\r\n\n\n\r\n\n\nOverall, the Symposium successfully provided a venue for computational linguists and computer scientists to discuss recent advances in computational pragmatics, including social and contextual aspects of language. In the post-conference survey, 86% of attendees said the event made them more likely to collaborate with other researchers, and 60% planned to keep in touch with someone that they met there. 71% said they learned about a new methodology. 76% planned to read a paper by someone they met at the conference.\r\n\n\n\r\n\n\nThe post-conference survey also showed that the Symposium was effective at bringing together researchers who might otherwise not have met; 60% had never attended an annual meeting of the Society for Computation in Linguistics before and 60% had never attended an annual meeting of the Association for Computational Linguistics. We hope that the connections made between researchers and the research published as part of the activities funded by this award will continue to lead to fruitful collaborations and research for years to come.\t\t\t\t\tLast Modified: 07/21/2026\n\n\t\t\t\t\tSubmitted by: CarolynJaneAnderson\n"
+ }
+}

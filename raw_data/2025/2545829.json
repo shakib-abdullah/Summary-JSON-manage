@@ -1,0 +1,113 @@
+{
+ "awd_id": "2545829",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "Singlet Fission, Triplet Upconversion, and Thermally-Activated Delayed Fluorescence: Controlling Exciton Dynamics with Metal-Organic Frameworks",
+ "cfda_num": "47.049",
+ "org_code": "03220000",
+ "po_phone": "7032924771",
+ "po_email": "bschwenz@nsf.gov",
+ "po_sign_block_name": "Birgit Schwenzer",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 800000.0,
+ "awd_amount": 115248.0,
+ "awd_min_amd_letter_date": "2025-08-18",
+ "awd_max_amd_letter_date": "2025-08-18",
+ "awd_abstract_narration": "Non-technical summary\r\nUnderstanding and controlling the interaction of light with matter is of fundamental importance for a number of technologies including solar photovoltaic cells, which absorb light to produce electricity, and light-emitting diodes, which use electricity to produce light. The processes that control the efficiency of these modern-day devices depend on many variables. Some of these variables, such as the structure of the molecules that make up the devices, we can control by molecular design. However, some variables are still difficult to control because they depend on how molecules are arranged spatially with respect to each other, rather than the individual structure of each molecule. This supra-molecular arrangement cannot typically be dictated by traditional chemical synthesis. With this project, supported by the Solid State and Materials Chemistry Program and the Electronic and Photonic Materials Program in the Division of Materials Research, Prof. Dinca and his research group tackle this challenge: to ultimately control how molecules are arranged with respect to each other such that when light interacts with the solids made by these molecules, the energy formed, called an exciton, can be quantified and directed. This provides a deeper understanding of how energy is transported within solids, to ultimately provide a blueprint to increase the efficiency of modern devices such as organic photovoltaics, light-emitting diodes, and other optical devices. As part of this award the principal investigator also provides training for graduate and undergraduate students in issues related broadly to synthesis of materials, as well as photophysical investigations and related analytical techniques, and engages in outreach activities in the Boston area.\r\n\r\nTechnical summary\r\nExcitons are bound electron-hole pairs that form when light interacts with matter. Although much is understood about how excitons form and how they travel within solids, little is known about how to control them. As such, despite the importance of exciton dynamics for determining efficiencies in a range of technologies from solar cells to light-emitting diodes and organic lasers, there are no clear synthetic handles on controlling the relative orientation of the organic components that give rise to excitons. Indeed, the distance and angles between chromophore molecules in the solid state, is intimately involved in determining exciton diffusion and lifetimes, but current techniques and materials do not allow systematic control of these metrics. This project, supported by the Solid State and Materials Chemistry Program and the Electronic and Photonic Materials Program in the Division of Materials Research investigates a class of solids where the distance and the angles between organic molecules can be systematically tuned even in the sub-angstrom regime called metal-organic frameworks. Prof. Dinca and his research group use metal-organic frameworks to demonstrate the ability to control exciton formation and dynamics. In particular, this project focuses on three important processes involving excitons: singlet fission, triplet upconversion, and thermally-activated delayed fluorescence. All three processes depend critically on the relative orientation of neighboring organic molecules, as well as on the molecular conformation or shape of the particular chromophore involved in light absorption.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MRS",
+ "org_div_long_name": "Materials Research Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mircea",
+   "pi_last_name": "Dinca",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mircea Dinca",
+   "pi_email_addr": "mdinca@princeton.edu",
+   "nsf_id": "000527799",
+   "pi_start_date": "2025-08-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Princeton University",
+  "inst_street_address": "1 NASSAU HALL",
+  "inst_street_address_2": "",
+  "inst_city_name": "PRINCETON",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "6092583090",
+  "inst_zip_code": "085442001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "THE TRUSTEES OF PRINCETON UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NJ1YPQXQG7U5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Princeton University",
+  "perf_str_addr": "1 NASSAU HALL",
+  "perf_city_name": "PRINCETON",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "085442001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "177500",
+   "pgm_ele_name": "ELECTRONIC/PHOTONIC MATERIALS"
+  },
+  {
+   "pgm_ele_code": "176200",
+   "pgm_ele_name": "SOLID STATE & MATERIALS CHEMIS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8396",
+   "pgm_ref_txt": "Clean Energy Technology"
+  },
+  {
+   "pgm_ref_code": "8399",
+   "pgm_ref_txt": "Energy Storage or Transmission"
+  },
+  {
+   "pgm_ref_code": "8990",
+   "pgm_ref_txt": "Optics and Photonics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 115248.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Understanding and controlling the interaction between light and matter is critical for new technology development, including solar cells, light-emitting diodes, and lasers. When molecular solids absorb light, the energy is often converted into bound electron-hole pairs. Such quasiparticles are called excitons. The behavior of excitons controls the utility of the materials for various applications: the excitons can be harvested for useful energy, re-emit as light, split into two, join together, or convert to heat. Although chemists can readily control the structure of individual light absorbing chromophores, assembling chromophores into supramolecular constructs with defined distances, angles, and geometries between neighboring chromophores remains challenging and understanding how such geometries can be used to control the excitonic properties is not well understood. This project, supported by the Solid State Materials Program in the Division of Materials Research, undertook this challenge by utilizing metal-organic frameworks (MOFs) as scaffolds to lock chromophores in a variety of packing geometries and to investigate the resultant quasiparticle dynamics, including excitonic singlet fission, thermally activated delayed fluorescence, and triplet upconversion.</span></p>\r\n<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using MOFs as scaffolding, we established that supramolecular geometry can be controlled and that its effect on exciton dynamics are substantial. For triplet upconversion &ndash; the combination of two low-energy triplet excitons to form a single high-energy exciton &ndash; the maximum combination efficiency is typically only 40% due to inaccessibility of quintet states. Inclusion of the quintet states, by inducing singlet-quintet resonance with magnetic fields, can increase the maximum efficiency to 80%. We have shown that such singlet-quintet couplings can be explicitly controlled by setting the appropriate chromophore relative geometries. We have further demonstrated that parasitic singlet back-transfer can be shut down by orientation control alone. Whereas the donor-acceptor pair of a pyrene- and porphyrin-type chromophore mixture undergoes this parasitic singlet transfer with 96% efficiency when randomly mixed, when the pair is locked in a perpendicular arrangement in a MOF, the parasitic transfer efficiency drops to 36%. Due to interactions of excitons with light, these same samples act as optically active waveguides that exhibit anisotropic emission, where luminescence from the pyrene and porphyrin components occur with orthogonal polarization.</span></p>\r\n<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A second thrust led to the exploration of additional quasiparticle dynamics in electrically conductive MOFs. First, we explored the dynamics of electron spins affected by interactions with nearby nuclear spins. These spin-spin interactions are key for utilization of these materials as quantum sensors of lithium ions, however characterizing such spin environments remains challenging. Using a combination of dynamic nuclear polarization (DNP) and electron decoupling, we developed a highly sensitive method to directly observe nuclear spins located in close proximity to unpaired electrons. Second, we investigated a series of metallic lanthanide MOFs that exhibit a collective quantum state called a charge density wave (CDW). These exotic states arise from instabilities in electron-phonon coupling in low dimensional metals. We provided the first definitive evidence that the periodic lattice modulations in these MOFs have an electronic origin and should be described as CDWs. Through a series of crystallographic measurements, we determined the structural origin of the CDW and showed that the state is pressure-dependent, exhibiting properties resembling that from classical CDW systems.</span></p>\r\n<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A third thrust has led to the development of new materials. Among these, we established tetrathiafulvalene as isoreticular substitutes for pyrene, observed the effects induced by symmetry lowering in conductive and non-conductive MOFs, made significant advances in the synthesis of high quality conductive MOF crystallites, &nbsp;identified MOFs that exhibit new topologies, discovered materials that simultaneously conduct electrons and protons, discovered unusual reactivity patterns of MOF with dioxygen, and found new topochemical synthetic routes for extended solids.</span></p>\r\n<p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project has contributed to the research education of undergraduates, PhD students, as well as post-doctoral fellows. Students were trained in a broad skill set including organic and inorganic synthesis, a multitude of spectroscopy spanning infrared, UV-Visible, nuclear magnetic resonance, electron paramagnetic, and photoluminescence spectroscopy, physical properties measurements, and crystallography. Results were disseminated through 18 peer-reviewed publications.</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/16/2026<br>\nModified by: Mircea&nbsp;Dinca</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n      Understanding and controlling the interaction between light and matter is critical for new technology development, including solar cells, light-emitting diodes, and lasers. When molecular solids absorb light, the energy is often converted into bound electron-hole pairs. Such quasiparticles are called excitons. The behavior of excitons controls the utility of the materials for various applications: the excitons can be harvested for useful energy, re-emit as light, split into two, join together, or convert to heat. Although chemists can readily control the structure of individual light absorbing chromophores, assembling chromophores into supramolecular constructs with defined distances, angles, and geometries between neighboring chromophores remains challenging and understanding how such geometries can be used to control the excitonic properties is not well understood. This project, supported by the Solid State Materials Program in the Division of Materials Research, undertook this challenge by utilizing metal-organic frameworks (MOFs) as scaffolds to lock chromophores in a variety of packing geometries and to investigate the resultant quasiparticle dynamics, including excitonic singlet fission, thermally activated delayed fluorescence, and triplet upconversion.\r\n\n\n Using MOFs as scaffolding, we established that supramolecular geometry can be controlled and that its effect on exciton dynamics are substantial. For triplet upconversion  the combination of two low-energy triplet excitons to form a single high-energy exciton  the maximum combination efficiency is typically only 40% due to inaccessibility of quintet states. Inclusion of the quintet states, by inducing singlet-quintet resonance with magnetic fields, can increase the maximum efficiency to 80%. We have shown that such singlet-quintet couplings can be explicitly controlled by setting the appropriate chromophore relative geometries. We have further demonstrated that parasitic singlet back-transfer can be shut down by orientation control alone. Whereas the donor-acceptor pair of a pyrene- and porphyrin-type chromophore mixture undergoes this parasitic singlet transfer with 96% efficiency when randomly mixed, when the pair is locked in a perpendicular arrangement in a MOF, the parasitic transfer efficiency drops to 36%. Due to interactions of excitons with light, these same samples act as optically active waveguides that exhibit anisotropic emission, where luminescence from the pyrene and porphyrin components occur with orthogonal polarization.\r\n\n\n A second thrust led to the exploration of additional quasiparticle dynamics in electrically conductive MOFs. First, we explored the dynamics of electron spins affected by interactions with nearby nuclear spins. These spin-spin interactions are key for utilization of these materials as quantum sensors of lithium ions, however characterizing such spin environments remains challenging. Using a combination of dynamic nuclear polarization (DNP) and electron decoupling, we developed a highly sensitive method to directly observe nuclear spins located in close proximity to unpaired electrons. Second, we investigated a series of metallic lanthanide MOFs that exhibit a collective quantum state called a charge density wave (CDW). These exotic states arise from instabilities in electron-phonon coupling in low dimensional metals. We provided the first definitive evidence that the periodic lattice modulations in these MOFs have an electronic origin and should be described as CDWs. Through a series of crystallographic measurements, we determined the structural origin of the CDW and showed that the state is pressure-dependent, exhibiting properties resembling that from classical CDW systems.\r\n\n\n A third thrust has led to the development of new materials. Among these, we established tetrathiafulvalene as isoreticular substitutes for pyrene, observed the effects induced by symmetry lowering in conductive and non-conductive MOFs, made significant advances in the synthesis of high quality conductive MOF crystallites, identified MOFs that exhibit new topologies, discovered materials that simultaneously conduct electrons and protons, discovered unusual reactivity patterns of MOF with dioxygen, and found new topochemical synthetic routes for extended solids.\r\n\n\n This project has contributed to the research education of undergraduates, PhD students, as well as post-doctoral fellows. Students were trained in a broad skill set including organic and inorganic synthesis, a multitude of spectroscopy spanning infrared, UV-Visible, nuclear magnetic resonance, electron paramagnetic, and photoluminescence spectroscopy, physical properties measurements, and crystallography. Results were disseminated through 18 peer-reviewed publications.\r\n\n\n\t\t\t\t\tLast Modified: 09/16/2026\n\n\t\t\t\t\tSubmitted by: MirceaDinca\n"
+ }
+}

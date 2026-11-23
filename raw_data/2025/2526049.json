@@ -1,0 +1,105 @@
+{
+ "awd_id": "2526049",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Robotically Manufactured Two-dimensional Layers and Heterostructures",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-06-23",
+ "awd_max_amd_letter_date": "2025-06-23",
+ "awd_abstract_narration": "This I-Corps project focuses on the translation of two-dimensional materials for use in a range of advanced electronics applications including next-generation computing, quantum computing, low-noise electronics, and other electronic devices. By isolating flakes of these two-dimensional materials that are only one to three atoms thick, these materials gain exciting properties that are not found in their bulk forms. The difficulty of fabricating such atomically thin layers has thus far prevented commercial applications, but the new robotic technologies enable the fabrication at these tiny scales. \r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of autonomous robotic systems to generate two-dimensional materials quickly and consistently, stack these materials into heterostructures, and fabricate these heterostructures into electronic devices using the existing silicon paradigm. This technology shortens the time for two-dimensional heterostructure and device fabrication, enabling rapid experimentation and development of commercial applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hugh",
+   "pi_last_name": "Churchill",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hugh Churchill",
+   "pi_email_addr": "hchurch@uark.edu",
+   "nsf_id": "000708730",
+   "pi_start_date": "2025-06-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Arkansas",
+  "inst_street_address": "1125 W MAPLE ST STE 316",
+  "inst_street_address_2": "",
+  "inst_city_name": "FAYETTEVILLE",
+  "inst_state_code": "AR",
+  "inst_state_name": "Arkansas",
+  "inst_phone_num": "4795753845",
+  "inst_zip_code": "727013124",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "AR03",
+  "org_lgl_bus_name": "UNIVERSITY OF ARKANSAS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MECEHTM8DB17"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Arkansas",
+  "perf_str_addr": "825 W. Dickson St.",
+  "perf_city_name": "FAYETTEVILLE",
+  "perf_st_code": "AR",
+  "perf_st_name": "Arkansas",
+  "perf_zip_code": "727013124",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "AR03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8021",
+   "pgm_ref_txt": "Materials Engineering"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Graphene and other two-dimensional (2D) materials are crystals only one to a few atoms thick. They have electronic, magnetic, and optical properties not found in ordinary bulk materials, and the best samples are made by peeling single layers from larger crystals and stacking them like sheets of paper. Doing this by hand is slow. A researcher typically finds one usable single layer in every 1,000 flakes, and a three-layer stack can take a week to build. At the NSF MonArk Quantum Foundry, a partnership between the University of Arkansas and Montana State University, our team built robots that find and stack these layers in about an hour. This NSF Innovation Corps (I-Corps) award asked who needs this capability badly enough to pay for it, and what product a new company should build first.</p>\r\n<p>To answer these questions, the team's Entrepreneurial Lead, Technical Lead, and Industry Mentor completed the National I-Corps training program from July 8 to August 22, 2025. They interviewed 101 potential customers, partners, and investors at more than 60 organizations, 71 of them in person. Interviewees included engineers at quantum computing companies, program managers at the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory, university researchers, equipment makers, and investors. After each week of interviews the team revised its business model and set out to test new assumptions.</p>\r\n<p>University labs valued high-quality atomic layers, but their budgets treat student labor as free, so that market is small. Quantum computing companies confirmed that the heat produced by electronics inside their ultracold refrigerators will limit how large their machines can grow, but most said this problem is still a few years away. The most urgent need came from defense. GPS signals can be jammed, and military aircraft, ships, and ground vehicles need another way to know where they are. Interviewees asked for small, low-power magnetic field sensors that work at room temperature, without the bulky lasers, cryogenic cooling, and magnetic shielding that today's most sensitive magnetometers require, and stable enough to navigate by the Earth's magnetic field. Of the 33 business assumptions the team tracked, 20 were confirmed by the end of the program.</p>\r\n<p><strong>Intellectual Merit</strong></p>\r\n<p>The project connected fundamental research on 2D materials to a specific practical application and defined the performance that application demands. For example, Air Force researchers said a navigation sensor must drift by less than one nanotesla (about one fifty-thousandth of the Earth's magnetic field) over 1,000 seconds to be useful. Targets like this give materials scientists concrete goals for device design and show which properties of 2D materials matter most outside the laboratory. The interviews also confirmed that the cooling budget of quantum computers will become a limit as they scale, which points to a second, longer-term use for low-power electronics made from 2D materials.</p>\r\n<p><strong>Broader Impacts</strong></p>\r\n<p>The project trained two career scientists as technology entrepreneurs. Based on what it learned, the team chose defense navigation as its first market and spun out the navigation-sensor effort as a new company, Manifold Magnetics. The original startup, Atomic Sandwiches (MonArk Innovations Inc.), had four full-time employees by the end of the program. A compact navigation sensor that cannot be jammed could help protect U.S. service members and could provide a backup to GPS for commercial aircraft, ships, and self-driving vehicles. Finally, the project shows how tools built at an NSF-funded research facility in Arkansas can grow into new companies and high-technology jobs.</p><br>\n<p>\n Last Modified: 11/03/2026<br>\nModified by: Hugh&nbsp;Churchill</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nGraphene and other two-dimensional (2D) materials are crystals only one to a few atoms thick. They have electronic, magnetic, and optical properties not found in ordinary bulk materials, and the best samples are made by peeling single layers from larger crystals and stacking them like sheets of paper. Doing this by hand is slow. A researcher typically finds one usable single layer in every 1,000 flakes, and a three-layer stack can take a week to build. At the NSF MonArk Quantum Foundry, a partnership between the University of Arkansas and Montana State University, our team built robots that find and stack these layers in about an hour. This NSF Innovation Corps (I-Corps) award asked who needs this capability badly enough to pay for it, and what product a new company should build first.\r\n\n\nTo answer these questions, the team's Entrepreneurial Lead, Technical Lead, and Industry Mentor completed the National I-Corps training program from July 8 to August 22, 2025. They interviewed 101 potential customers, partners, and investors at more than 60 organizations, 71 of them in person. Interviewees included engineers at quantum computing companies, program managers at the Defense Advanced Research Projects Agency (DARPA) and the Air Force Research Laboratory, university researchers, equipment makers, and investors. After each week of interviews the team revised its business model and set out to test new assumptions.\r\n\n\nUniversity labs valued high-quality atomic layers, but their budgets treat student labor as free, so that market is small. Quantum computing companies confirmed that the heat produced by electronics inside their ultracold refrigerators will limit how large their machines can grow, but most said this problem is still a few years away. The most urgent need came from defense. GPS signals can be jammed, and military aircraft, ships, and ground vehicles need another way to know where they are. Interviewees asked for small, low-power magnetic field sensors that work at room temperature, without the bulky lasers, cryogenic cooling, and magnetic shielding that today's most sensitive magnetometers require, and stable enough to navigate by the Earth's magnetic field. Of the 33 business assumptions the team tracked, 20 were confirmed by the end of the program.\r\n\n\nIntellectual Merit\r\n\n\nThe project connected fundamental research on 2D materials to a specific practical application and defined the performance that application demands. For example, Air Force researchers said a navigation sensor must drift by less than one nanotesla (about one fifty-thousandth of the Earth's magnetic field) over 1,000 seconds to be useful. Targets like this give materials scientists concrete goals for device design and show which properties of 2D materials matter most outside the laboratory. The interviews also confirmed that the cooling budget of quantum computers will become a limit as they scale, which points to a second, longer-term use for low-power electronics made from 2D materials.\r\n\n\nBroader Impacts\r\n\n\nThe project trained two career scientists as technology entrepreneurs. Based on what it learned, the team chose defense navigation as its first market and spun out the navigation-sensor effort as a new company, Manifold Magnetics. The original startup, Atomic Sandwiches (MonArk Innovations Inc.), had four full-time employees by the end of the program. A compact navigation sensor that cannot be jammed could help protect U.S. service members and could provide a backup to GPS for commercial aircraft, ships, and self-driving vehicles. Finally, the project shows how tools built at an NSF-funded research facility in Arkansas can grow into new companies and high-technology jobs.\t\t\t\t\tLast Modified: 11/03/2026\n\n\t\t\t\t\tSubmitted by: HughChurchill\n"
+ }
+}

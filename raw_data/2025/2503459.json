@@ -1,0 +1,105 @@
+{
+ "awd_id": "2503459",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "CAREER: CAS: Developing Gas Bubbles as a New Tool for Surface-Active Agent Analysis",
+ "cfda_num": "47.049",
+ "org_code": "03090000",
+ "po_phone": "7032925327",
+ "po_email": "cfoss@nsf.gov",
+ "po_sign_block_name": "Colby Foss",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 650000.0,
+ "awd_amount": 101088.0,
+ "awd_min_amd_letter_date": "2024-11-12",
+ "awd_max_amd_letter_date": "2024-11-12",
+ "awd_abstract_narration": "With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Long Luo and his group at Wayne State University are working to develop a powerful new approach for the identification and quantitative analysis of an important class of chemical compounds.  Specifically, they are targeting molecules known as surfactants, which are widely used as emulsifiers, detergents, fabric softeners, and wetting agents in many household cleaners and industrial products and processes. Naturally occurring surfactants such as glycolipids, lipopeptides, lipoproteins, fatty acids, neutral lipids, and phospholipids are also essential to the functioning of biological systems. Current methods for surfactant analysis do not detect specific products (selectivity) and low concentrations (sensitivity). Professor Luo and his group are developing new electrochemical approaches to address these challenges. They are also working on applying the tools for on-site detection of polyfluoroalkyl substances (PFAS), a group of emerging surfactants that are contaminants of concern in drinking water. The integrated educational aims of this work seek to increase STEM awareness, interest, and career preparedness across a range of ages, educational levels, and socioeconomic and cultural backgrounds by performing science shows at public locations; developing STEM exposure programs for middle and high school students; and establishing and running a student chapter of the Electrochemical Society at Wayne State University.  Notably, the team will reach out to the public about the relevance of science in everyday life by organizing and performing a science show at the Great Lakes Crossing Outlets Mall and Detroit Zoo, the two largest family attractions in Michigan.\r\n\r\nLimited selectivity and sensitivity have been a long-standing problem in surfactant analysis. To address these issues, the Luo group is using the gas bubble-surfactant interaction to establish a selective and sensitive detection method coupled with rapid and efficient preconcentration. Specifically, the unique amphiphilic characteristics of surfactants affect electrochemical gas bubble nucleation, which in turn impacts an electrochemical signal used for the quantification of surfactants. An approach mimicking sea-spray aerosol enrichment is used to preconcentrate the surfactants. These features are being combined in a portable device to address the unmet need for on-site detection of PFAS in drinking water, addressing concerns arising from U.S. Environmental Protection Agency identification of PFAS quantitation as a national priority. Broader impacts of the educational plan include increasing public interest in science and technology, promoting middle and high school students\u2019 engagement in analytical chemistry activities, and boosting undergraduate and graduate students\u2019 interest in electrochemistry.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "CHE",
+ "org_div_long_name": "Division Of Chemistry",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Long",
+   "pi_last_name": "Luo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Long Luo",
+   "pi_email_addr": "long.luo@utah.edu",
+   "nsf_id": "000787416",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "688000",
+   "pgm_ele_name": "Chemical Measurement & Imaging"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "090Z",
+   "pgm_ref_txt": "CAS-Critical Aspects of Sustainability"
+  },
+  {
+   "pgm_ref_code": "1045",
+   "pgm_ref_txt": "CAREER-Faculty Erly Career Dev"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002021DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 101088.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><h3 class=\"PDq2pG_selectionAnchorContainer\">Project Outcomes Report</h3>\r\n<p>This CAREER project explored how gas bubbles can be used as practical analytical tools for detecting, concentrating, and separating surface-active chemicals in water. Surface-active chemicals naturally collect at gas&ndash;water interfaces, but conventional analytical methods rarely take full advantage of this behavior. The project developed two complementary approaches: using the formation of very small bubbles at electrodes as a sensing signal and using rising and bursting bubbles to collect target chemicals from large volumes of water. The long-term goal was to enable simpler and more sensitive measurements of environmental contaminants, particularly per- and polyfluoroalkyl substances (PFAS).</p>\r\n<p>The research produced several important <strong>scientific outcomes</strong>. The team showed that electrochemically generated bubbles could concentrate PFAS and improve their subsequent detection. By controlling interactions between bubbles and electrode surfaces, the researchers combined bubble-based concentration and detection to measure PFAS at 70 nanograms per liter. A improved oil-barrier bubble-bursting method was developed to selectively concentrates PFAS while reducing interference from common hydrocarbon surfactants. With a one-millimeter dodecane layer, the method achieved approximately 4,500-fold PFOS concentration in 30 minutes and approximately sevenfold selectivity over sodium dodecyl sulfate. It remained effective across widely varying PFOS-to-surfactant ratios and was successfully applied to a mixture of ten PFAS compounds. A molecular-level model explained the result through adsorption, partitioning between interfaces, and selective aerosol formation.</p>\r\n<p>The bubble-based approach was extended beyond PFAS analysis. Using surface-active molecules that bind gadolinium, the team extracted approximately 75% of the gadolinium from water containing only 50 parts per billion and concentrated it by as much as 390-fold. About 80% of the binding molecules could be recovered and reused, demonstrating a potentially greener approach for recycling gadolinium and other valuable rare-earth elements from dilute waste streams.</p>\r\n<p>Bubble-assisted synthesis also produced assemblies of metal nanoparticles containing large numbers of grain boundaries, which can enhance catalytic activity. During this work, the team discovered a palladium-based material capable of responding to hydrogen gas in approximately one second. These findings resulted in intellectual-property disclosures.</p>\r\n<p>The project&rsquo;s broader impacts included training graduate students, postdoctoral researchers, and undergraduates in research, scientific writing, presentations, patent preparation, and career skills. Undergraduate students entered research through the ACS Seed program and&nbsp; the University of Utah Science Research Initiative. Outreach activities included electrochemistry workshops and seminar series, STEM Day and Chemistry Day programs for school students in Detroit, and Chemistry Night at the Natural History Museum of Utah. These activities expanded public exposure to chemistry and helped students from different educational backgrounds develop confidence, skills, and a sense of belonging in science.&nbsp;</p><br>\n<p>\n Last Modified: 07/31/2026<br>\nModified by: Long&nbsp;Luo</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "Project Outcomes Report\r\n\n\nThis CAREER project explored how gas bubbles can be used as practical analytical tools for detecting, concentrating, and separating surface-active chemicals in water. Surface-active chemicals naturally collect at gaswater interfaces, but conventional analytical methods rarely take full advantage of this behavior. The project developed two complementary approaches: using the formation of very small bubbles at electrodes as a sensing signal and using rising and bursting bubbles to collect target chemicals from large volumes of water. The long-term goal was to enable simpler and more sensitive measurements of environmental contaminants, particularly per- and polyfluoroalkyl substances (PFAS).\r\n\n\nThe research produced several important scientific outcomes. The team showed that electrochemically generated bubbles could concentrate PFAS and improve their subsequent detection. By controlling interactions between bubbles and electrode surfaces, the researchers combined bubble-based concentration and detection to measure PFAS at 70 nanograms per liter. A improved oil-barrier bubble-bursting method was developed to selectively concentrates PFAS while reducing interference from common hydrocarbon surfactants. With a one-millimeter dodecane layer, the method achieved approximately 4,500-fold PFOS concentration in 30 minutes and approximately sevenfold selectivity over sodium dodecyl sulfate. It remained effective across widely varying PFOS-to-surfactant ratios and was successfully applied to a mixture of ten PFAS compounds. A molecular-level model explained the result through adsorption, partitioning between interfaces, and selective aerosol formation.\r\n\n\nThe bubble-based approach was extended beyond PFAS analysis. Using surface-active molecules that bind gadolinium, the team extracted approximately 75% of the gadolinium from water containing only 50 parts per billion and concentrated it by as much as 390-fold. About 80% of the binding molecules could be recovered and reused, demonstrating a potentially greener approach for recycling gadolinium and other valuable rare-earth elements from dilute waste streams.\r\n\n\nBubble-assisted synthesis also produced assemblies of metal nanoparticles containing large numbers of grain boundaries, which can enhance catalytic activity. During this work, the team discovered a palladium-based material capable of responding to hydrogen gas in approximately one second. These findings resulted in intellectual-property disclosures.\r\n\n\nThe projects broader impacts included training graduate students, postdoctoral researchers, and undergraduates in research, scientific writing, presentations, patent preparation, and career skills. Undergraduate students entered research through the ACS Seed program and the University of Utah Science Research Initiative. Outreach activities included electrochemistry workshops and seminar series, STEM Day and Chemistry Day programs for school students in Detroit, and Chemistry Night at the Natural History Museum of Utah. These activities expanded public exposure to chemistry and helped students from different educational backgrounds develop confidence, skills, and a sense of belonging in science.\t\t\t\t\tLast Modified: 07/31/2026\n\n\t\t\t\t\tSubmitted by: LongLuo\n"
+ }
+}

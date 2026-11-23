@@ -1,0 +1,101 @@
+{
+ "awd_id": "2507694",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Low-Cost, Waste-Resilient Polyethylene Terephthalate (PET) and Polyester Upcycling Through Macrocyclic Chemistry",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032925041",
+ "po_email": "vinlee@nsf.gov",
+ "po_sign_block_name": "Vincent Lee",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-08-20",
+ "awd_max_amd_letter_date": "2025-08-20",
+ "awd_abstract_narration": "The broader/commercial impact of this SBIR Phase I project is the development of an efficient recycling technology that converts mixed and contaminated low value polyester textile waste into a high-purity, high value solution. This innovation enhances scientific understanding of recycling through investigation of impurities in plastic waste and the removal of the latter. Commercially, the technology addresses a global market exceeding 100 million metric tons and >$130B per year, where demand for high-quality recycled content is rapidly growing. The initial market focus will be on packaging and textiles, sectors actively seeking cost-effective, virgin-grade recycled plastic. By avoiding costly breakdown into lower value components and high energy inputs, this technology achieves cost parity, providing a sustained competitive advantage over incumbents. It enables domestic supply chain resiliency, while diverting strategic resources into fuel and energy rather than plastics, and waste away from our waterways. The business model involves direct sales of recycled plastic to converters and brands. Because the recycled plastic meets virgin performance specifications and integrates seamlessly into existing supply chains, it enables customers to meet recycled content targets without a cost premium.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project develops a new process to recycle polyethylene terephthalate (PET) and polyester materials through a non-destructive and selective process. In the >$100 billion PET and polyester markets, existing mechanical recycling is very limited given typically observed contamination levels and the inability to remove them. Chemical recycling technologies, such as Methanolysis, Glycolysis or Enzymolysis of PET back into its monomers, have the potential to derive virgin-grade PET from wastes but are complex, costly, and thus mostly not economically competitive with fossil-based plastic production. This SBIR Phase I project develops a new technology that does not follow the depolymerization of plastic waste to monomers but performs the formation of macrocyclic oligomers from polyester waste by means of solvents and catalysts, the ring-opening polymerization thereof to obtain virgin-grade PET, while removing non-PET impurities such as dyes and other contaminants along the process. In this project, new impurity removal steps will be developed to make the technology resilient to mixed waste streams, product quality will be assessed and benchmarked with state-of-the-art analytics to elucidate fit for market demands, and technoeconomic analysis will be performed to assess the process\u2019 competitiveness with fossil PET production and other technologies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jan-Georg",
+   "pi_last_name": "Rosenboom",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jan-Georg Rosenboom",
+   "pi_email_addr": "jangeorgrosenboom@gmail.com",
+   "nsf_id": "000997164",
+   "pi_start_date": "2025-08-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "MACROCYCLE TECHNOLOGIES",
+  "inst_street_address": "750 MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "8579289496",
+  "inst_zip_code": "021393544",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MACROCYCLE TECHNOLOGIES INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "CLAULHJTH996"
+ },
+ "perf_inst": {
+  "perf_inst_name": "MACROCYCLE TECHNOLOGIES INC.",
+  "perf_str_addr": "750 MAIN ST",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021393544",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>MacroCycle&rsquo;s &ldquo;SolvoGenesis&rdquo; process is a novel approach to PET polyester recycling that uses a highly selective solvent system to selectively extract, purify, and upgrade the chain length of PET, avoiding the decomposition steps on which most other chemical recycling technologies rely. This simpler approach has the potential to unlock much more competitive pricing than those more costly alternatives. This project tested whether that approach works on real-world waste and can compete on cost and energy demand.</p>\r\n<p>Intellectual Merit: This lab-scale project tested whether the process could handle real-world waste and still deliver plastic good enough for commercial use. Working with packaging and textile waste, the team removed more than 95% of the most common contaminants, including dyes and non-PET polymers, well beyond the project's goal of 80%. An independent global plastic producer compared the recycled material to virgin-grade PET and found it measured up favorably on molecular weight, color, purity, and melting behavior. The team then used it to make test articles which showed significantly lower emission of volatile compounds than traditional mechanically recycled PET. Cost and energy modeling indicates the process uses around 70-80% less energy than needed to make polyester from oil, can run entirely on electricity, and could produce recycled plastic at prices comparable to new material.</p>\r\n<p>Broader Impacts: Recycling polyester into material of equal quality keeps plastic and textile waste out of landfills and the environment, reduces demand for fossil-based plastic, and offers a domestic manufacturing pathway to reduce reliance on foreign imports. Because many companies will not pay much more for recycled plastic than for new plastic, a low-cost process could make high recycled content the norm rather than a premium option. During the project, the company spoke with more than 40 companies that use PET and is working with several of these on scaling the technology towards market implementation. Next steps include recovering the separated cotton as a useful product, and scaling up to produce larger samples for industrial adoption trials.</p><br>\n<p>\n Last Modified: 11/10/2026<br>\nModified by: Jan-Georg&nbsp;Rosenboom</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989607314_Edo_textile_upgrading--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989607314_Edo_textile_upgrading--rgov-800width.jpg\" title=\"Recycled PET from colored textiles\"><img src=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989607314_Edo_textile_upgrading--rgov-66x44.jpg\" alt=\"Recycled PET from colored textiles\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Recycled PET from colored textiles</div>\n<div class=\"imageCredit\">MacroCycle</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Jan-Georg&nbsp;Rosenboom\n<div class=\"imageTitle\">Recycled PET from colored textiles</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989587434_DSC_8181_mirrored--rgov-214x142.JPG\" original=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989587434_DSC_8181_mirrored--rgov-800width.JPG\" title=\"Recycled PET from colored PET\"><img src=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989587434_DSC_8181_mirrored--rgov-66x44.JPG\" alt=\"Recycled PET from colored PET\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Recycled PET from colored PET</div>\n<div class=\"imageCredit\">MacroCycle</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Jan-Georg&nbsp;Rosenboom\n<div class=\"imageTitle\">Recycled PET from colored PET</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989702649_DSC_7116_cropped_b--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989702649_DSC_7116_cropped_b--rgov-800width.jpg\" title=\"MacroCycle Founders in Pilot Plant\"><img src=\"/por/images/Reports/POR/2026/2507694/2507694_11004946_1793989702649_DSC_7116_cropped_b--rgov-66x44.jpg\" alt=\"MacroCycle Founders in Pilot Plant\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">MacroCycle Founders in Pilot Plant</div>\n<div class=\"imageCredit\">MacroCycle</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Jan-Georg&nbsp;Rosenboom\n<div class=\"imageTitle\">MacroCycle Founders in Pilot Plant</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nMacroCycles SolvoGenesis process is a novel approach to PET polyester recycling that uses a highly selective solvent system to selectively extract, purify, and upgrade the chain length of PET, avoiding the decomposition steps on which most other chemical recycling technologies rely. This simpler approach has the potential to unlock much more competitive pricing than those more costly alternatives. This project tested whether that approach works on real-world waste and can compete on cost and energy demand.\r\n\n\nIntellectual Merit: This lab-scale project tested whether the process could handle real-world waste and still deliver plastic good enough for commercial use. Working with packaging and textile waste, the team removed more than 95% of the most common contaminants, including dyes and non-PET polymers, well beyond the project's goal of 80%. An independent global plastic producer compared the recycled material to virgin-grade PET and found it measured up favorably on molecular weight, color, purity, and melting behavior. The team then used it to make test articles which showed significantly lower emission of volatile compounds than traditional mechanically recycled PET. Cost and energy modeling indicates the process uses around 70-80% less energy than needed to make polyester from oil, can run entirely on electricity, and could produce recycled plastic at prices comparable to new material.\r\n\n\nBroader Impacts: Recycling polyester into material of equal quality keeps plastic and textile waste out of landfills and the environment, reduces demand for fossil-based plastic, and offers a domestic manufacturing pathway to reduce reliance on foreign imports. Because many companies will not pay much more for recycled plastic than for new plastic, a low-cost process could make high recycled content the norm rather than a premium option. During the project, the company spoke with more than 40 companies that use PET and is working with several of these on scaling the technology towards market implementation. Next steps include recovering the separated cotton as a useful product, and scaling up to produce larger samples for industrial adoption trials.\t\t\t\t\tLast Modified: 11/10/2026\n\n\t\t\t\t\tSubmitted by: Jan-GeorgRosenboom\n"
+ }
+}

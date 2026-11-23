@@ -1,0 +1,121 @@
+{
+ "awd_id": "2511050",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Travel Support for 28th International European Scientific Association for Material FORMing - ESAFORM 2025 Conference; Paestum, Italy; 7-9 May 2025",
+ "cfda_num": "47.041",
+ "org_code": "07230000",
+ "po_phone": "7032922487",
+ "po_email": "jterpenn@nsf.gov",
+ "po_sign_block_name": "Janis Terpenny",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 30000.0,
+ "awd_amount": 30000.0,
+ "awd_min_amd_letter_date": "2025-03-24",
+ "awd_max_amd_letter_date": "2025-03-24",
+ "awd_abstract_narration": "This award will support 15 students and faculty from US institutions to participate in the 28th International European Scientific Association for Material FORMing (ESAFORM 2025) Conference in Paestum, Italy, 7-9 May 2025.  ESAFORM is a world-leading conference that stimulates applied and fundamental research in the broad field of material forming. The event acts as a global bridge between industries and academic institutions as it brings together researchers in the field to encourage discussion, collaboration, and the exchange of ideas. The conference includes keynote speeches, technical presentations, industry tours, and a benchmark competition.\r\n\r\nA wide variety of forming processes are employed in the manufacturing economy, directly impacting economic welfare and national security. The support provides an opportunity for outstanding student and faculty researchers to attend the conference, present their work, learn from leading experts in the field, and interact with researchers from other institutions and countries, fostering a sense of worldwide community of scientific inquiry. The supported attendees will present research research results, among other activities. Interactions with conference attendees will help the students and faculty determine their specific areas of interest in this broad field and meet colleagues for future interactions and potential collaboration. This will stimulate learning in, provide training on, and expose the participants to new research concepts in material forming. The availability of support will encourage the participation of researchers who otherwise would be unable to afford attending highly specialized advanced manufacturing conferences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ihab",
+   "pi_last_name": "Ragai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ihab Ragai",
+   "pi_email_addr": "ifr1@psu.edu",
+   "nsf_id": "000653776",
+   "pi_start_date": "2025-03-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "16802",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Penn State Behrend",
+  "perf_str_addr": "4701 College Drive",
+  "perf_city_name": "Erie",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "165634117",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "PA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "082E",
+   "pgm_ref_txt": "MFG MACHINES & METROLOGY"
+  },
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 30000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This project supported students and faculty participation in the Twenty-Eighth and Twenty-Nineth European Scientific Association for Material Forming (ESAFORM) 2026 and 2026, respectively.&nbsp; The conferences took place on May 7-9, 2025, and April 27-29, 2026, in Paestum, Italy and Thessaloniki, Greece, respectively.&nbsp; Funds offset US researchers&rsquo; travel costs, which enabled them to participate and benefit from the gatherings.&nbsp; ESAFORM 2025 welcomed more than 370 participants from 25 Countries. Over the three-day event, around 280 presentations were delivered across fifteen minisymposia, covering a wide spectrum of topics, including: Additive Manufacturing, Composites Forming Processes, Extrusion and Drawing, Forging and Rolling, Formability of Metallic Materials, Friction and Wear in Metal Forming, Incremental and Sheet Metal Forming, Innovative Joining by Forming Technologies, Optimization and Inverse Analysis in Forming, Machining, Cutting, and Severe Plastic Deformation Processes, Material Behavior Modelling, New and Advanced Numerical Strategies for Material Forming, Non-Conventional Processes, Polymer Processing and Thermomechanical Properties and Sustainability in Material Forming. ESAFORM 2026 had 467 participants representing 32 countries. Overall, 281 oral presentations in 54 technical sessions and 55 posters took place. ESAFORM 2026 proceedings were published in a 4-book set totaling 3428 pages. All papers were published in Open Access, Scopus-indexed journals: Key Engineering Materials, Materials Science Forum, Defect &amp; Diffusion Forum, and Solid State Phenomena, all by Trans Tech Publications Ltd.<br /><br />Respecting US researcher support, the total request was for 15 researchers from US universities to each receive a travel reimbursement of $2,000 each. There were 7 qualified researchers who attended the 2025 ESAFORM conference.&nbsp; A no-cost extension was granted to allow 8 qualified US researchers to attend the 2026 conference.<br /><strong><br />Intellectual Merit<br /></strong>The Twenty-Eighth ESAFORM, held in Paestum, Italy on May 7-9, 2025, was attended by 370 international researchers. The following year, in Thessaloniki, Greece, total attendance was 467. The Symposia were organized in a manner to allow the multidisciplinary nature of the ESAFORM to be presented coherently, with various sessions emphasizing classical and emerging topics such as composite forming processes, optimization and inverse analysis in forming, polymer processing and thermomechanical properties, and sustainability on material forming. The three-day events were completely composed of individual oral and poster presentations to accommodate the demand for this dissemination format.&nbsp; The parallel sessions were split into six oral sessions to meet demand, and a poster session allowed researchers to present in this format.<br /><br />Information on the ESAFORM 2025 and 2026 conferences was made available through the worldwide web at https://www.esaform2025.it/ and https://esaform2026.org/, respectively. Online registration forms, hotel information, general information brochure, proceedings, maps and other relevant information were all available.<br /><strong><br />Broader Impacts<br /></strong>In addition to the benefits of direct meeting participation, US researchers were able to network and had the opportunity to interact with the international material forming research community from 25 and 32 countries in 2025 and 2026, respectively.&nbsp; Wider dissemination was accomplished through the proceedings. A total of 280 papers were included in the proceedings volume in 2025, and 281 total papers were published in 2026. Authors contributed proceedings manuscripts. All papers were published open access by Trans Tech Publications Ltd. in Scopus-indexed journals.<br /><br />The ESAFORM conference serves as a primary forum for networking and dissemination of information dealing with research issues in material forming. The Conference Proceedings are well cited in the archival literature, and it is anticipated that the 2026 Proceedings will be as well.<br /><br />Material forming is an extremely broad and interdisciplinary field, encompassing mechanical engineering, aerospace engineering, biomedical engineering, computer science and engineering, design, materials science and engineering, manufacturing science.&nbsp; The topics covered at the ESAFORM conference impact the automotive, aerospace, orthopedics, dentistry, surgical planning, implants, marine, architecture, furniture, art, etc.&nbsp; The 2025 and 2026 conferences served as a forum for this diverse interdisciplinary group of researchers to gather for the purpose of synergistic interaction and sharing of ideas and progress.<br /><br />The Proceedings of the ESAFORM is a significant contribution to the research literature in the field. The proceedings represent a concise annual corpus of 2600 &ndash; 3400 pages detailing research in forming back to 1997.&nbsp; The Proceedings volume for the 2025 meeting is 2616 pages. The 2026 Proceedings volumes span over 3428 pages in 4 books.&nbsp; The proceedings are heavily cited in archival literature including the Scopus-indexed journals <em>Key Engineering Materials</em>, <em>Materials Science Forum</em>, <em>Defect &amp; Diffusion Forum</em>, <em>Solid State Phenomena</em>.&nbsp;<br /><br />This conference serves as a meeting opportunity for researchers, a number of which are involved to varying degrees in entrepreneurial activities. The networking aspect of the conference is strong and includes early career faculty and students who are able to meet and discuss research with world-class leading experts in the field.</p><br>\n<p>\n Last Modified: 09/03/2026<br>\nModified by: Ihab&nbsp;Ragai</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2511050/2511050_10974895_1788444053970_55315902459_33faedaf42_o--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2511050/2511050_10974895_1788444053970_55315902459_33faedaf42_o--rgov-800width.jpg\" title=\"ESAFORM 2026 Conference Picture\"><img src=\"/por/images/Reports/POR/2026/2511050/2511050_10974895_1788444053970_55315902459_33faedaf42_o--rgov-66x44.jpg\" alt=\"ESAFORM 2026 Conference Picture\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">ESAFORM 2026 Conference Picture</div>\n<div class=\"imageCredit\">ESAFORM</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Ihab&nbsp;Ragai\n<div class=\"imageTitle\">ESAFORM 2026 Conference Picture</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project supported students and faculty participation in the Twenty-Eighth and Twenty-Nineth European Scientific Association for Material Forming (ESAFORM) 2026 and 2026, respectively. The conferences took place on May 7-9, 2025, and April 27-29, 2026, in Paestum, Italy and Thessaloniki, Greece, respectively. Funds offset US researchers travel costs, which enabled them to participate and benefit from the gatherings. ESAFORM 2025 welcomed more than 370 participants from 25 Countries. Over the three-day event, around 280 presentations were delivered across fifteen minisymposia, covering a wide spectrum of topics, including: Additive Manufacturing, Composites Forming Processes, Extrusion and Drawing, Forging and Rolling, Formability of Metallic Materials, Friction and Wear in Metal Forming, Incremental and Sheet Metal Forming, Innovative Joining by Forming Technologies, Optimization and Inverse Analysis in Forming, Machining, Cutting, and Severe Plastic Deformation Processes, Material Behavior Modelling, New and Advanced Numerical Strategies for Material Forming, Non-Conventional Processes, Polymer Processing and Thermomechanical Properties and Sustainability in Material Forming. ESAFORM 2026 had 467 participants representing 32 countries. Overall, 281 oral presentations in 54 technical sessions and 55 posters took place. ESAFORM 2026 proceedings were published in a 4-book set totaling 3428 pages. All papers were published in Open Access, Scopus-indexed journals: Key Engineering Materials, Materials Science Forum, Defect & Diffusion Forum, and Solid State Phenomena, all by Trans Tech Publications Ltd.\n\nRespecting US researcher support, the total request was for 15 researchers from US universities to each receive a travel reimbursement of $2,000 each. There were 7 qualified researchers who attended the 2025 ESAFORM conference. A no-cost extension was granted to allow 8 qualified US researchers to attend the 2026 conference.\n\nIntellectual Merit\nThe Twenty-Eighth ESAFORM, held in Paestum, Italy on May 7-9, 2025, was attended by 370 international researchers. The following year, in Thessaloniki, Greece, total attendance was 467. The Symposia were organized in a manner to allow the multidisciplinary nature of the ESAFORM to be presented coherently, with various sessions emphasizing classical and emerging topics such as composite forming processes, optimization and inverse analysis in forming, polymer processing and thermomechanical properties, and sustainability on material forming. The three-day events were completely composed of individual oral and poster presentations to accommodate the demand for this dissemination format. The parallel sessions were split into six oral sessions to meet demand, and a poster session allowed researchers to present in this format.\n\nInformation on the ESAFORM 2025 and 2026 conferences was made available through the worldwide web at https://www.esaform2025.it/ and https://esaform2026.org/, respectively. Online registration forms, hotel information, general information brochure, proceedings, maps and other relevant information were all available.\n\nBroader Impacts\nIn addition to the benefits of direct meeting participation, US researchers were able to network and had the opportunity to interact with the international material forming research community from 25 and 32 countries in 2025 and 2026, respectively. Wider dissemination was accomplished through the proceedings. A total of 280 papers were included in the proceedings volume in 2025, and 281 total papers were published in 2026. Authors contributed proceedings manuscripts. All papers were published open access by Trans Tech Publications Ltd. in Scopus-indexed journals.\n\nThe ESAFORM conference serves as a primary forum for networking and dissemination of information dealing with research issues in material forming. The Conference Proceedings are well cited in the archival literature, and it is anticipated that the 2026 Proceedings will be as well.\n\nMaterial forming is an extremely broad and interdisciplinary field, encompassing mechanical engineering, aerospace engineering, biomedical engineering, computer science and engineering, design, materials science and engineering, manufacturing science. The topics covered at the ESAFORM conference impact the automotive, aerospace, orthopedics, dentistry, surgical planning, implants, marine, architecture, furniture, art, etc. The 2025 and 2026 conferences served as a forum for this diverse interdisciplinary group of researchers to gather for the purpose of synergistic interaction and sharing of ideas and progress.\n\nThe Proceedings of the ESAFORM is a significant contribution to the research literature in the field. The proceedings represent a concise annual corpus of 2600  3400 pages detailing research in forming back to 1997. The Proceedings volume for the 2025 meeting is 2616 pages. The 2026 Proceedings volumes span over 3428 pages in 4 books. The proceedings are heavily cited in archival literature including the Scopus-indexed journals Key Engineering Materials, Materials Science Forum, Defect & Diffusion Forum, Solid State Phenomena.\n\nThis conference serves as a meeting opportunity for researchers, a number of which are involved to varying degrees in entrepreneurial activities. The networking aspect of the conference is strong and includes early career faculty and students who are able to meet and discuss research with world-class leading experts in the field.\t\t\t\t\tLast Modified: 09/03/2026\n\n\t\t\t\t\tSubmitted by: IhabRagai\n"
+ }
+}

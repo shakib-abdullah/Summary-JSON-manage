@@ -1,0 +1,101 @@
+{
+ "awd_id": "2533656",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation potential of a home aquaponic system to support aquatic environments",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-09-15",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-08-04",
+ "awd_max_amd_letter_date": "2025-08-04",
+ "awd_abstract_narration": "This I-Corps project is based on the development of a home aquaponic system used to grow high-value fish species and organic plants in a compact, sustainable design. Aquaponics combines growing fish and growing plants without soil in a closed loop system. The technology developed for this system uses crushed, demolished concrete in the filtration medium, to improve the environment for beneficial bacteria that convert fish waste into nutrients for plants. Beneficial bacteria are key in converting fish waste (ammonia) into materials that plants can absorb. Repurposing concrete rubble turns waste into a productive component of a closed-loop system. In addition, this technology is designed to use less water than traditional soil gardening and may offer a sustainable and organic approach, eliminating the need for synthetic fertilizers while reducing waste. Currently, there is a rising demand for at-home food production systems that promote food independence. This technology may allow users in urban areas to grow organic produce and fish at home.  \r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of an integrated aquaponic system that leverages recycled, demolished concrete as a functional component of its biological filtration system. The concrete acts as a pH stabilizer, enhancing the performance of nitrifying bacteria that convert ammonia into plant-friendly nutrients. This technology offers dual environmental benefits, purifying water within the system while diverting construction debris from landfills or waterways. In addition, the system is designed to include multilevel hydroponic plant cultivation, energy-efficient fish feeding mechanisms, and low-maintenance design for consistent performance. Compared with current aquaponics systems, this approach offers a higher-efficiency, modular setup tailored for residential and small-scale commercial use. Users may benefit from increased food self-reliance, improved water quality, reduced system maintenance, and a more sustainable food source, while the environment may benefit from decreased construction waste.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mohamed",
+   "pi_last_name": "Mahgoub",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohamed A Mahgoub",
+   "pi_email_addr": "mahgoub@njit.edu",
+   "nsf_id": "000556498",
+   "pi_start_date": "2025-08-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "New Jersey Institute of Technology",
+  "inst_street_address": "323 DR MARTIN LUTHER KING JR BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "9735965275",
+  "inst_zip_code": "071021824",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NJ10",
+  "org_lgl_bus_name": "NEW JERSEY INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SGBMHQ7VXNH5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "New Jersey Institute of Technology",
+  "perf_str_addr": "323 DR MARTIN LUTHER KING JR BLVD",
+  "perf_city_name": "NEWARK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "071021824",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "NJ10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9109",
+   "pgm_ref_txt": "AGRICULTURAL BIOTECHNOLOGY"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The overarching goal of the AquaNest project, supported by the National Science Foundation (NSF) I-Corps program, was to explore the commercial potential of controlled-environment agriculture and translate research-driven farming concepts into scalable market solutions. Over the life of the award, the project successfully completed a comprehensive market discovery process, resulting in a strategic pivot from a consumer-focused, residential aquaponics concept to an automated, high-density, AI-driven agricultural farming platform designed for commercial growers.</p>\r\n<p><strong>Intellectual Merit</strong></p>\r\n<p>The primary intellectual contribution of this project lies in the application of evidence-based customer discovery to guide hard engineering and system architecture decisions in modern agriculture. Through 4000 structured interviews across commercial growers, controlled-environment agriculture operators, industry experts, and retail stakeholders, the research revealed critical industry pain points: persistent labor shortages, high operational and energy expenditures, vulnerability to extreme weather patterns, and long crop cycle times.</p>\r\n<p>In response to these empirical findings, the team formulated the architecture for a commercial cuboid farming platform. This design integrates artificial intelligence, continuous sensor monitoring, and automated environmental controls to optimize resource efficiency, crop growth parameters, and yield reliability without requiring manual intervention. The technical framework established during this project laid the foundation for formal university technology transfer, leading to an invention disclosure to protect the core intellectual property.</p>\r\n<p><strong>Broader Impacts</strong></p>\r\n<p>The broader impacts of this work address pressing societal challenges related to food security, climate resilience, and sustainable agricultural production. By transitioning toward an automated, high-density commercial model, the project provides a pathway for year-round local crop generation that uses significantly less land and water than traditional field farming. This approach mitigates supply chain disruptions and reduces the exposure of food systems to climate variability.</p>\r\n<p>Furthermore, the award significantly enhanced STEM workforce development and entrepreneurship education. Participating team members underwent rigorous experiential training in business model iteration, market segmentation, and translational research through regional and national NSF I-Corps cohorts. The project fostered direct collaborations between academic researchers at the New Jersey Institute of Technology (NJIT) and agricultural industry stakeholders, bridging the gap between university-led technological innovation and commercial agricultural applications.</p>\r\n<p>Ultimately, the outcomes of this grant have established a clear technical and business roadmap, positioning the platform for prototype bench-testing and preparation for follow-on commercialization through federal Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) pathways.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/08/2026<br>\nModified by: Mohamed&nbsp;A&nbsp;Mahgoub</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe overarching goal of the AquaNest project, supported by the National Science Foundation (NSF) I-Corps program, was to explore the commercial potential of controlled-environment agriculture and translate research-driven farming concepts into scalable market solutions. Over the life of the award, the project successfully completed a comprehensive market discovery process, resulting in a strategic pivot from a consumer-focused, residential aquaponics concept to an automated, high-density, AI-driven agricultural farming platform designed for commercial growers.\r\n\n\nIntellectual Merit\r\n\n\nThe primary intellectual contribution of this project lies in the application of evidence-based customer discovery to guide hard engineering and system architecture decisions in modern agriculture. Through 4000 structured interviews across commercial growers, controlled-environment agriculture operators, industry experts, and retail stakeholders, the research revealed critical industry pain points: persistent labor shortages, high operational and energy expenditures, vulnerability to extreme weather patterns, and long crop cycle times.\r\n\n\nIn response to these empirical findings, the team formulated the architecture for a commercial cuboid farming platform. This design integrates artificial intelligence, continuous sensor monitoring, and automated environmental controls to optimize resource efficiency, crop growth parameters, and yield reliability without requiring manual intervention. The technical framework established during this project laid the foundation for formal university technology transfer, leading to an invention disclosure to protect the core intellectual property.\r\n\n\nBroader Impacts\r\n\n\nThe broader impacts of this work address pressing societal challenges related to food security, climate resilience, and sustainable agricultural production. By transitioning toward an automated, high-density commercial model, the project provides a pathway for year-round local crop generation that uses significantly less land and water than traditional field farming. This approach mitigates supply chain disruptions and reduces the exposure of food systems to climate variability.\r\n\n\nFurthermore, the award significantly enhanced STEM workforce development and entrepreneurship education. Participating team members underwent rigorous experiential training in business model iteration, market segmentation, and translational research through regional and national NSF I-Corps cohorts. The project fostered direct collaborations between academic researchers at the New Jersey Institute of Technology (NJIT) and agricultural industry stakeholders, bridging the gap between university-led technological innovation and commercial agricultural applications.\r\n\n\nUltimately, the outcomes of this grant have established a clear technical and business roadmap, positioning the platform for prototype bench-testing and preparation for follow-on commercialization through federal Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) pathways.\r\n\n\n\t\t\t\t\tLast Modified: 09/08/2026\n\n\t\t\t\t\tSubmitted by: MohamedAMahgoub\n"
+ }
+}

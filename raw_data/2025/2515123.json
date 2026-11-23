@@ -1,0 +1,121 @@
+{
+ "awd_id": "2515123",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "ISS/Collaborative Research: Studying the Effects of Microgravity on 3D Cardiac Organoid Cultures",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032924204",
+ "po_email": "shisharm@nsf.gov",
+ "po_sign_block_name": "Shivani Sharma",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 259350.0,
+ "awd_amount": 53217.0,
+ "awd_min_amd_letter_date": "2024-12-18",
+ "awd_max_amd_letter_date": "2024-12-18",
+ "awd_abstract_narration": "Exposure to microgravity during spaceflight is known to lead to cardiac atrophy, which is a reduction in tissue mass of the heart that causes debilitating changes in heart function. Cardiac atrophy can also present itself in patients suffering from cancer and other diseases, including muscular dystrophies, diabetes, sepsis and heart failure. Because cardiac atrophy is not well understood, this project seeks to improve fundamental understanding of cell and tissue function during progression of cardiac atrophy. Undertaking this research is an interdisciplinary and multi-institutional team comprised of biomedical engineers and scientists with complementary expertise in cardiac tissue bioprinting and cellular and molecular biology. Using the micro-gravity environment of the International Space Station (ISS) to induce atrophy, the team will use bioprinted heart tissue to study changes in tissue function.  The knowledge gained will support an improved understanding of how and why cardiac atrophy occurs, which may lead to improved treatment strategies.  The project will also develop a workshop for K12 students around tissue engineering on the international space station as well as implement a seminar for medical students, interns, and residents about the benefits and challenges of transitioning research from an Earth-based laboratory into space.\r\n\r\nTwo objectives have been established for this project.  First, to compare and contrast the morphology, viability, and altered energy metabolism in 3D bioprinted cardiac organoids under microgravity and Earth's gravity.  Second, to study the epigenetic changes in 3D bioprinted cardiac organoids under microgravity and assess how these changes may affect the development of cardiac atrophy when compared to Earth's gravity.  Specifically, the team will engineer and validate a chip design for culturing of cardiomyocytes, fibroblasts and endothelial cells to investigate underlying biological and signaling mediators responsible for damage to cells during microgravity exposure, leading to possible cardiac atrophy. Findings may suggest that epigenetic events could be one of the mechanistic bases for microgravity&#8208;induced gene expression changes related to cardiac atrophy and may facilitate the development of countermeasures to prevent the adverse effects of microgravity or other atrophy-inducing pathologies.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Binata",
+   "pi_last_name": "Joddar",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Binata Joddar",
+   "pi_email_addr": "binata.joddar@oregonstate.edu",
+   "nsf_id": "000711992",
+   "pi_start_date": "2024-12-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "150400",
+   "pgm_ele_name": "GOALI-Grnt Opp Acad Lia wIndus"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "019Z",
+   "pgm_ref_txt": "Grad Prep APG:Enhan. Experience"
+  },
+  {
+   "pgm_ref_code": "070Z",
+   "pgm_ref_txt": "MB-Mechanobiology"
+  },
+  {
+   "pgm_ref_code": "1504",
+   "pgm_ref_txt": "GRANT OPP FOR ACAD LIA W/INDUS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002021DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 7922.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 45294.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><div>\r\n<h2>\r\n<div style=\"font-weight: 400;\">\r\n<p><strong>Intellectual Merit:&nbsp;</strong>This project advances fundamental knowledge at the intersection of biofabrication, space biology, and tissue engineering by establishing one of the first long&#8209;duration, heterocellular human tissue platforms for studying cardiac and neural responses under spaceflight&#8209;relevant conditions. By integrating 3D bioprinting, advanced biomaterial scaffolds, multicellular co&#8209;culture systems, and biochemical and transcriptomic analyses, the work provides mechanistic insight into how microgravity and radiation exposure drive early pathological remodeling, including metabolic stress, cytoskeletal reorganization, and tissue atrophy.</p>\r\n<p><strong>Broader Impacts:&nbsp;</strong>The project supported the training of one master&rsquo;s student, three PhD students, and numerous undergraduates, providing interdisciplinary skills across biofabrication, data analysis, and spaceflight experimentation. Outcomes are informing a new <strong>Biofabrication</strong> course launching in Spring 2027, integrating spaceflight research into experiential learning. By conducting spaceflight&#8209;relevant research in an academic setting, the project broadened access to high&#8209;impact opportunities, promoted inclusion, and contributed to public understanding of how space&#8209;enabled biomedical research advances human health on Earth and in extreme environments.</p>\r\n</div>\r\n</h2>\r\n<div>\r\n<div><strong>Key products </strong>from this project include a sustained body of peer&#8209;reviewed research advancing 3D bioprinting, biofabrication, and space&#8209;enabled tissue engineering, spanning cardiac, neural, and microphysiological systems. These works report novel engineered tissue platforms for neural and cardiac differentiation (Padilla et&#8239;al., 2026; Keerthi et&#8239;al., 2026; Ramirez et&#8239;al., 2025, 2024). Foundational studies established heterocellular organoids and 3D spheroidal systems for drug toxicity screening and disease modeling (Joddar et&#8239;al., 2023; Hernandez et&#8239;al., 2023; El&#8239;Khoury et&#8239;al., 2023; Perez et&#8239;al., 2023), alongside mechanistic insights into metabolic and signaling pathways relevant to diabetic cardiomyopathy (Joddar et&#8239;al., 2023). Earlier contributions advanced extrusion&#8209;based bioprinting strategies and scaffold fabrication (Bilkic et&#8239;al., 2022; El&#8239;Khoury et&#8239;al., 2022; Nagiah et&#8239;al., 2022; Roman et&#8239;al., 2020; Alonzo et&#8239;al., 2019&ndash;2020).&nbsp;</div>\r\n</div>\r\n</div>\r\n<div id=\"_mcePaste\" class=\"mcePaste\" style=\"position: absolute; left: -10000px; top: 1187.26px; width: 1px; height: 1px; overflow: hidden;\">\r\n<p class=\"MsoNormal\" style=\"margin-left: .5in;\">&nbsp;</p>\r\n<ol style=\"margin-top: 0in;\" type=\"1\">\r\n<li>&nbsp;  \r\n<ul style=\"margin-top: 0in;\" type=\"disc\">\r\n<li class=\"MsoNormal\"><strong>Padilla,       A.</strong>, Jones, M.,&nbsp;<em>et al.</em>&nbsp;(2026).<br /> <em>Radiation&#8209;induced neurotoxicity: investigating human neuronal damage       in MEA&#8209;integrated microfluidic platforms.</em>&nbsp;<strong>RSC Advances.</strong><br /> https://doi.org/10.1039/D6RA01084A</li>\r\n<li class=\"MsoNormal\"><strong>Keerthi,       H.</strong>, Ramirez, S. P.,&nbsp;<em>et al.</em>&nbsp;(2026).<br /> <em>Microstructural analysis of the human ventricular myocardium in       subjects with Type II diabetes.</em>&nbsp;<strong>Biochemistry and Biophysics       Reports</strong>, 102459.<br /> https://doi.org/10.1016/j.bbrep.2026.102459</li>\r\n<li class=\"MsoNormal\"><strong><span lang=\"DE\">Ramirez, S. P.</span></strong><span lang=\"DE\">, Hernandez, I.,&nbsp;<em>et al.</em>&nbsp;</span>(2025).<br /> <em>Fibrin&#8209;polycaprolactone scaffolds for differentiation of human neural       progenitor cells into dopaminergic neurons.</em>&nbsp;<strong>ACS Omega.</strong><br /> <a href=\"https://doi.org/10.1021/acsomega.4c03952\">https://doi.org/10.1021/acsomega.4c03952</a></li>\r\n<li class=\"MsoNormal\"><strong><span lang=\"DE\">Ramirez, S. P.</span></strong><span lang=\"DE\">, Hernandez, I.,&nbsp;<em>et al.</em>&nbsp;</span>(2024).<br /> <em>Microcomputed tomography for microstructural evaluation of 3D       bioprinted scaffolds.</em>&nbsp;<strong>ACS Applied Bio Materials</strong>, 7(3),       1221&ndash;1232.<br /> https://doi.org/10.1021/acsabm.3c00621</li>\r\n<li class=\"MsoNormal\"><strong>Joddar,       B.</strong>, Natividad&#8209;Diaz, S. L.,&nbsp;<em>et al.</em>&nbsp;(2023).<br /> <em>Engineering approaches for cardiac organoid formation and their       characterization.</em>&nbsp;<strong>Translational Research</strong>, 252, 1&ndash;18.<br /> https://doi.org/10.1016/j.trsl.2022.08.009</li>\r\n<li class=\"MsoNormal\"><strong><span lang=\"DE\">Hernandez, I.</span></strong><span lang=\"DE\">, Ramirez, S. P.,&nbsp;<em>et al.</em>&nbsp;</span>(2023).<br /> <em>A semi&#8209;three&#8209;dimensional bioprinted neurocardiac system for       engineering a cardiac autonomic nervous system model.</em>&nbsp;<strong>Bioengineering</strong>,       10(7), 834.<br /> https://doi.org/10.3390/bioengineering10070834</li>\r\n<li class=\"MsoNormal\"><strong>El       Khoury, R.</strong>, Ramirez, S. P.,&nbsp;<em>et al.</em>&nbsp;(2023).<br /> <em>Demonstration of doxorubicin cardiotoxicity using a 3D bioprinted       spheroidal droplet&#8209;based system.</em>&nbsp;<strong>RSC Advances</strong>, 13,       10489&ndash;10502.<br /> https://doi.org/10.1039/D3RA00421J</li>\r\n<li class=\"MsoNormal\"><strong><span lang=\"DE\">Perez, M. R.</span></strong><span lang=\"DE\">, da Silva, V. A.,&nbsp;<em>et al.</em>&nbsp;</span>(2023).<br /> <em>3D&#8209;bioprinted cardiac tissues and their potential for disease       modeling.</em>&nbsp;<strong>3D Printing in Medicine</strong>, 9(1).<br /> https://doi.org/10.2217/3dp-2022-0023</li>\r\n<li class=\"MsoNormal\"><strong>Joddar,       B.</strong>, Loyola, C. D.,&nbsp;<em>et al.</em>&nbsp;(2023).<br /> <em>Inhibition of ERK1/2 downregulates YAP1/TAZ signaling in       cardiomyocytes under hyperglycemic conditions.</em>&nbsp;<strong>Biochemical       and Biophysical Research Communications</strong>, 654, 31&ndash;38.<br /> https://doi.org/10.1016/j.bbrc.2023.01.014</li>\r\n<li class=\"MsoNormal\"><strong>Padilla,       A. E.</strong>, Hovell, C., Mares, J., Reumers, V.,&nbsp;<strong>Joddar, B.</strong>&nbsp;(2023).<br /> <em>Electrophysiological recording of human neuronal networks during       suborbital spaceflight.</em>&nbsp;<strong>bioRxiv (preprint).</strong><br /> https://doi.org/10.1101/2022.10.25.512608</li>\r\n<li class=\"MsoNormal\"><strong>Bilkic,       I.</strong>, Sotelo, D.,&nbsp;<em>et al.</em>&nbsp;(2022).<br /> <em>Development of an extrusion&#8209;based 3D&#8209;printing strategy for clustering       of human neural progenitor cells.</em>&nbsp;<strong>Heliyon</strong>, 8(12), e12250.<br /> https://doi.org/10.1016/j.heliyon.2022.e12250</li>\r\n<li class=\"MsoNormal\"><strong>El       Khoury, R.</strong>, Alonzo, M.,&nbsp;<em>et al.</em>&nbsp;(2022).<br /> <em>3D biofabrication of a cardiac tissue construct for sustained       longevity and function.</em>&nbsp;<strong>ACS Applied Materials &amp;       Interfaces</strong>, 14(20), 22958&ndash;22971.<br /> https://doi.org/10.1021/acsami.1c23883</li>\r\n<li class=\"MsoNormal\"><strong>Nagiah,       N.</strong>, El Khoury, R.,&nbsp;<em>et al.</em>&nbsp;(2022).<br /> <em>Development and characterization of furfuryl&#8209;gelatin electrospun       scaffolds for cardiac tissue engineering.</em>&nbsp;<strong>ACS Omega</strong>,       7(10), 8744&ndash;8756.<br /> https://doi.org/10.1021/acsomega.2c00271</li>\r\n<li class=\"MsoNormal\"><strong>El       Khoury, R.</strong>, Nagiah, N.,&nbsp;<em>et al.</em>&nbsp;(2021).<br /> <em>3D bioprinted spheroidal droplets for engineering heterocellular       coupling between cardiomyocytes and cardiac fibroblasts.</em>&nbsp;<strong>Bioengineering</strong>,       8(8), 113.<br /> https://doi.org/10.34133/2021/9864212</li>\r\n<li class=\"MsoNormal\"><strong>Alvarez&#8209;Primo,       F.</strong>, Anil Kumar, S.,&nbsp;<em>et al.</em>&nbsp;(2020).<br /> <em>Fabrication of surfactant&#8209;dispersed HiPco single&#8209;walled carbon       nanotube&#8209;based alginate hydrogel composites as cellular products.</em>&nbsp;<strong>International       Journal of Molecular Sciences</strong>, 20(19), 4802.<br /> https://doi.org/10.3390/ijms20194802</li>\r\n<li class=\"MsoNormal\"><strong>Alonzo,       M.</strong>, Dominguez, E., Alvarez&#8209;Primo, F.,&nbsp;<em>et al.</em>&nbsp;(2020).<br /> <em>A comparative study of bioink printability and 3D models across two       bioprinting platforms.</em>&nbsp;<strong>Materials Letters</strong>, 264, 127382.<br /> https://doi.org/10.1016/j.matlet.2020.127382</li>\r\n<li class=\"MsoNormal\"><strong>Alonzo,       M.</strong>, Alvarez&#8209;Primo, F.,&nbsp;<em>et al.</em>&nbsp;(2020).<br /> <em>Bone tissue engineering techniques, advances, and scaffolds for the       treatment of bone defects.</em>&nbsp;<strong>Current Opinion in Biomedical       Engineering</strong>, 15, 100248.<br /> https://doi.org/10.1016/j.cobme.2020.100248</li>\r\n<li class=\"MsoNormal\"><strong>Alonzo,       M.</strong>, Delgado, M.,&nbsp;<em>et al.</em>&nbsp;(2020).<br /> <em>Methods for histological characterization of cryo&#8209;induced myocardial       infarction in a rat model.</em>&nbsp;<strong>Acta Histochemica</strong>, 122(5),       151624.<br /> https://doi.org/10.1016/j.acthis.2020.151624</li>\r\n<li class=\"MsoNormal\"><strong><span lang=\"DE\">Roman, B.</span></strong><span lang=\"DE\">, Kumar, S. A.,&nbsp;<em>et al.</em>&nbsp;</span>(2020).<br /> <em>A model for studying biomechanical effects of varying collagen I/III       ratios on cardiomyocytes.</em>&nbsp;<strong>Journal of Cardiovascular       Translational Research.</strong><br /> https://doi.org/10.1007/s13239-020-00514-7</li>\r\n<li class=\"MsoNormal\"><strong>Alonzo,       M.</strong>, Anil Kumar, S.,&nbsp;<em>et al.</em>&nbsp;(2019).<br /> <em>3D bioprinting of cardiac tissue and cardiac stem cell therapy.</em>&nbsp;<strong>Translational       Research</strong>, 211, 64&ndash;83.<br /> https://doi.org/10.1016/j.trsl.2019.04.004</li>\r\n</ul>\r\n</li>\r\n</ol>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n<p class=\"MsoNormal\">&nbsp;</p>\r\n</div><br>\n<p>\n Last Modified: 03/24/2026<br>\nModified by: Binata&nbsp;Joddar</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\r\n\r\n\r\n\n\nIntellectual Merit:This project advances fundamental knowledge at the intersection of biofabrication, space biology, and tissue engineering by establishing one of the first long&#8209;duration, heterocellular human tissue platforms for studying cardiac and neural responses under spaceflight&#8209;relevant conditions. By integrating 3D bioprinting, advanced biomaterial scaffolds, multicellular co&#8209;culture systems, and biochemical and transcriptomic analyses, the work provides mechanistic insight into how microgravity and radiation exposure drive early pathological remodeling, including metabolic stress, cytoskeletal reorganization, and tissue atrophy.\r\n\n\nBroader Impacts:The project supported the training of one masters student, three PhD students, and numerous undergraduates, providing interdisciplinary skills across biofabrication, data analysis, and spaceflight experimentation. Outcomes are informing a new Biofabrication course launching in Spring 2027, integrating spaceflight research into experiential learning. By conducting spaceflight&#8209;relevant research in an academic setting, the project broadened access to high&#8209;impact opportunities, promoted inclusion, and contributed to public understanding of how space&#8209;enabled biomedical research advances human health on Earth and in extreme environments.\r\n\r\n\r\n\r\nKey products from this project include a sustained body of peer&#8209;reviewed research advancing 3D bioprinting, biofabrication, and space&#8209;enabled tissue engineering, spanning cardiac, neural, and microphysiological systems. These works report novel engineered tissue platforms for neural and cardiac differentiation (Padilla et&#8239;al., 2026; Keerthi et&#8239;al., 2026; Ramirez et&#8239;al., 2025, 2024). Foundational studies established heterocellular organoids and 3D spheroidal systems for drug toxicity screening and disease modeling (Joddar et&#8239;al., 2023; Hernandez et&#8239;al., 2023; El&#8239;Khoury et&#8239;al., 2023; Perez et&#8239;al., 2023), alongside mechanistic insights into metabolic and signaling pathways relevant to diabetic cardiomyopathy (Joddar et&#8239;al., 2023). Earlier contributions advanced extrusion&#8209;based bioprinting strategies and scaffold fabrication (Bilkic et&#8239;al., 2022; El&#8239;Khoury et&#8239;al., 2022; Nagiah et&#8239;al., 2022; Roman et&#8239;al., 2020; Alonzo et&#8239;al., 20192020).\r\n\r\n\r\n\r\n\n\n\r\n\r\n  \r\n\r\nPadilla,       A., Jones, M.,et al.(2026).\n Radiation&#8209;induced neurotoxicity: investigating human neuronal damage       in MEA&#8209;integrated microfluidic platforms.RSC Advances.\n https://doi.org/10.1039/D6RA01084A\r\nKeerthi,       H., Ramirez, S. P.,et al.(2026).\n Microstructural analysis of the human ventricular myocardium in       subjects with Type II diabetes.Biochemistry and Biophysics       Reports, 102459.\n https://doi.org/10.1016/j.bbrep.2026.102459\r\nRamirez, S. P., Hernandez, I.,et al.(2025).\n Fibrin&#8209;polycaprolactone scaffolds for differentiation of human neural       progenitor cells into dopaminergic neurons.ACS Omega.\n https://doi.org/10.1021/acsomega.4c03952\r\nRamirez, S. P., Hernandez, I.,et al.(2024).\n Microcomputed tomography for microstructural evaluation of 3D       bioprinted scaffolds.ACS Applied Bio Materials, 7(3),       12211232.\n https://doi.org/10.1021/acsabm.3c00621\r\nJoddar,       B., Natividad&#8209;Diaz, S. L.,et al.(2023).\n Engineering approaches for cardiac organoid formation and their       characterization.Translational Research, 252, 118.\n https://doi.org/10.1016/j.trsl.2022.08.009\r\nHernandez, I., Ramirez, S. P.,et al.(2023).\n A semi&#8209;three&#8209;dimensional bioprinted neurocardiac system for       engineering a cardiac autonomic nervous system model.Bioengineering,       10(7), 834.\n https://doi.org/10.3390/bioengineering10070834\r\nEl       Khoury, R., Ramirez, S. P.,et al.(2023).\n Demonstration of doxorubicin cardiotoxicity using a 3D bioprinted       spheroidal droplet&#8209;based system.RSC Advances, 13,       1048910502.\n https://doi.org/10.1039/D3RA00421J\r\nPerez, M. R., da Silva, V. A.,et al.(2023).\n 3D&#8209;bioprinted cardiac tissues and their potential for disease       modeling.3D Printing in Medicine, 9(1).\n https://doi.org/10.2217/3dp-2022-0023\r\nJoddar,       B., Loyola, C. D.,et al.(2023).\n Inhibition of ERK1/2 downregulates YAP1/TAZ signaling in       cardiomyocytes under hyperglycemic conditions.Biochemical       and Biophysical Research Communications, 654, 3138.\n https://doi.org/10.1016/j.bbrc.2023.01.014\r\nPadilla,       A. E., Hovell, C., Mares, J., Reumers, V.,Joddar, B.(2023).\n Electrophysiological recording of human neuronal networks during       suborbital spaceflight.bioRxiv (preprint).\n https://doi.org/10.1101/2022.10.25.512608\r\nBilkic,       I., Sotelo, D.,et al.(2022).\n Development of an extrusion&#8209;based 3D&#8209;printing strategy for clustering       of human neural progenitor cells.Heliyon, 8(12), e12250.\n https://doi.org/10.1016/j.heliyon.2022.e12250\r\nEl       Khoury, R., Alonzo, M.,et al.(2022).\n 3D biofabrication of a cardiac tissue construct for sustained       longevity and function.ACS Applied Materials &       Interfaces, 14(20), 2295822971.\n https://doi.org/10.1021/acsami.1c23883\r\nNagiah,       N., El Khoury, R.,et al.(2022).\n Development and characterization of furfuryl&#8209;gelatin electrospun       scaffolds for cardiac tissue engineering.ACS Omega,       7(10), 87448756.\n https://doi.org/10.1021/acsomega.2c00271\r\nEl       Khoury, R., Nagiah, N.,et al.(2021).\n 3D bioprinted spheroidal droplets for engineering heterocellular       coupling between cardiomyocytes and cardiac fibroblasts.Bioengineering,       8(8), 113.\n https://doi.org/10.34133/2021/9864212\r\nAlvarez&#8209;Primo,       F., Anil Kumar, S.,et al.(2020).\n Fabrication of surfactant&#8209;dispersed HiPco single&#8209;walled carbon       nanotube&#8209;based alginate hydrogel composites as cellular products.International       Journal of Molecular Sciences, 20(19), 4802.\n https://doi.org/10.3390/ijms20194802\r\nAlonzo,       M., Dominguez, E., Alvarez&#8209;Primo, F.,et al.(2020).\n A comparative study of bioink printability and 3D models across two       bioprinting platforms.Materials Letters, 264, 127382.\n https://doi.org/10.1016/j.matlet.2020.127382\r\nAlonzo,       M., Alvarez&#8209;Primo, F.,et al.(2020).\n Bone tissue engineering techniques, advances, and scaffolds for the       treatment of bone defects.Current Opinion in Biomedical       Engineering, 15, 100248.\n https://doi.org/10.1016/j.cobme.2020.100248\r\nAlonzo,       M., Delgado, M.,et al.(2020).\n Methods for histological characterization of cryo&#8209;induced myocardial       infarction in a rat model.Acta Histochemica, 122(5),       151624.\n https://doi.org/10.1016/j.acthis.2020.151624\r\nRoman, B., Kumar, S. A.,et al.(2020).\n A model for studying biomechanical effects of varying collagen I/III       ratios on cardiomyocytes.Journal of Cardiovascular       Translational Research.\n https://doi.org/10.1007/s13239-020-00514-7\r\nAlonzo,       M., Anil Kumar, S.,et al.(2019).\n 3D bioprinting of cardiac tissue and cardiac stem cell therapy.Translational       Research, 211, 6483.\n https://doi.org/10.1016/j.trsl.2019.04.004\r\n\r\n\r\n\r\n\n\n\r\n\n\n\r\n\t\t\t\t\tLast Modified: 03/24/2026\n\n\t\t\t\t\tSubmitted by: BinataJoddar\n"
+ }
+}

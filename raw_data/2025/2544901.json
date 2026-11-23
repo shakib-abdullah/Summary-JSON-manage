@@ -1,0 +1,105 @@
+{
+ "awd_id": "2544901",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Travel: NSF Student Grant for 2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+ "cfda_num": "47.070",
+ "org_code": "05230000",
+ "po_phone": "7032924286",
+ "po_email": "yduan@nsf.gov",
+ "po_sign_block_name": "Andy Duan",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 20000.0,
+ "awd_amount": 20000.0,
+ "awd_min_amd_letter_date": "2025-08-15",
+ "awd_max_amd_letter_date": "2025-08-15",
+ "awd_abstract_narration": "This award provides travel support for students enrolled at U.S. institutions to participate in the Doctoral Consortium at the 2025 IEEE/CVF International Conference on Computer Vision (ICCV), to be held in Honolulu, Hawaii. Now in its 20th year, ICCV is a premier international conference that convenes leading researchers and students working on computer vision, a foundational area of artificial intelligence (AI) with broad applications in fields such as healthcare, security, robotics, and autonomous systems. The Doctoral Consortium helps cultivate future leaders in AI and computer vision by providing early-career researchers with opportunities to engage in technical discourse, refine their research directions, and build professional networks. By enabling approximately 20 Ph.D. students from a diverse range of academic institutions to attend the Consortium, the award promotes access to mentorship, career development, and scholarly exchange. In doing so, this award directly supports the progress of science and the development of the U.S. scientific workforce.\r\n\r\nThe award provides travel support for 20 students from US institutions to participate in a structured program held in conjunction with ICCV 2025. The Doctoral Consortium includes poster sessions, mentorship sessions with senior researchers, and focused discussions on career pathways in academia and industry. Student applicants will be evaluated by the Consortium chairs based on the quality and relevance of their research, their potential for leadership in the field, and the expected impact of their participation. The travel awards will help students cover key expenses such as airfare, lodging, and local transportation. By providing this support, the award ensures that promising young researchers can contribute to and benefit from one of the most influential venues in computer vision and artificial intelligence research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CAIF",
+ "org_div_long_name": "Computing & AI Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tanmay",
+   "pi_last_name": "Gupta",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tanmay Gupta",
+   "pi_email_addr": "tanmay2099@gmail.com",
+   "nsf_id": "0000A5BR1",
+   "pi_start_date": "2025-08-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "THE ALLEN INSTITUTE FOR ARTIFICIAL INTELLIGENCE",
+  "inst_street_address": "3800 LATONA AVE NE STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "4152250940",
+  "inst_zip_code": "981056405",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WA07",
+  "org_lgl_bus_name": "THE ALLEN INSTITUTE FOR ARTIFICIAL INTELLIGENCE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H2VSQE9MCUU5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "THE ALLEN INSTITUTE FOR ARTIFICIAL INTELLIGENCE",
+  "perf_str_addr": "2157 N NORTHLAKE WAY STE 110",
+  "perf_city_name": "SEATTLE",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "981039185",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7495",
+   "pgm_ref_txt": "ROBUST INTELLIGENCE"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 20000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This award supported travel grants for U.S.-based doctoral students to attend the ICCV 2025 Doctoral Consortium (DC), held on October 22, 2025 at the Hawai'i Convention Center in Honolulu, Hawai'i, as part of the 2025 IEEE/CVF International Conference on Computer Vision (ICCV). ICCV is one of the premier venues in computer vision and artificial intelligence, attracting 6,190 in-person attendees from 65 countries in 2025 &mdash; including 2,721 U.S. participants.<br /><br /><strong>Award Summary.</strong>&nbsp;Sixteen Ph.D. students from U.S. universities received travel grants totaling $14,740.08 to attend the Doctoral Consortium in person. Awardees represented a geographically and institutionally diverse group, coming from Rutgers University, Penn State University, Stony Brook University, the University of Maryland College Park, UC Santa Cruz, the University of Illinois Urbana-Champaign, Georgia Tech, the University of Wisconsin-Madison, Oregon State University, Johns Hopkins University, the University of Rochester, Princeton University, and the University of Pennsylvania. Grant amounts covered eligible travel and accommodation expenses up to $1,000 per student.<br /><br /><strong>Intellectual Merit.</strong>&nbsp;The Doctoral Consortium provided a structured environment for advanced Ph.D. researchers to present and receive expert feedback on their dissertation work as well as career guidance. Of the 43 accepted participants, 30 presented their research via posters and 13 through informal laptop presentations. Each participant was paired one-on-one or two-on-one with one of 31 mentors &mdash; senior researchers including tenured faculty and scientific leaders from major industry research labs &mdash; for personalized, in-depth career and research guidance. The DC also featured a panel discussion with six distinguished researchers: Bill Freeman (MIT and Google Research), Angjoo Kanazawa (UC Berkeley), Bryan Russell (Adobe Research), Cordelia Schmid (Inria and Google), Christoph Feichtenhofer (Meta Superintelligence Labs), and Ranjay Krishna (University of Washington and Allen Institute for AI). The panel addressed questions on research project selection, academia vs. industry career paths, career resilience, and building a meaningful research trajectory &mdash; questions curated from submissions by all DC applicants.<br /><br /><strong>Broader Impacts.</strong>&nbsp;By covering travel and accommodation costs, the NSF grant directly enabled domestic Ph.D. students &mdash; many of whom could not otherwise have attended &mdash; to participate in one of the most important professional development opportunities in their field. Several awardees reported that the grant was essential to their attendance, with others noting it significantly reduced financial stress. Awardees gained access to a global community of researchers at a conference representing 65 countries, built lasting professional connections, and received mentorship that shaped their research directions and career decisions. One awardee described meeting a senior researcher who gave pivotal advice on problem selection and career planning; another highlighted the value of connecting with industry researchers in ways the main conference does not easily facilitate.<br /><br />The selection process prioritized research quality, graduation timeline, and diversity across institutions and geographic regions to ensure the cohort reflected a broad cross-section of the U.S. computer vision research community that is likely to be shaping the field over the coming years. Together, the grant and the DC program contributed to training the next generation of American computer vision and AI researchers, strengthening the pipeline of U.S. scientific talent in a globally competitive field.</p><br>\n<p>\n Last Modified: 06/12/2026<br>\nModified by: Tanmay&nbsp; &nbsp;Gupta</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis award supported travel grants for U.S.-based doctoral students to attend the ICCV 2025 Doctoral Consortium (DC), held on October 22, 2025 at the Hawai'i Convention Center in Honolulu, Hawai'i, as part of the 2025 IEEE/CVF International Conference on Computer Vision (ICCV). ICCV is one of the premier venues in computer vision and artificial intelligence, attracting 6,190 in-person attendees from 65 countries in 2025  including 2,721 U.S. participants.\n\nAward Summary.Sixteen Ph.D. students from U.S. universities received travel grants totaling $14,740.08 to attend the Doctoral Consortium in person. Awardees represented a geographically and institutionally diverse group, coming from Rutgers University, Penn State University, Stony Brook University, the University of Maryland College Park, UC Santa Cruz, the University of Illinois Urbana-Champaign, Georgia Tech, the University of Wisconsin-Madison, Oregon State University, Johns Hopkins University, the University of Rochester, Princeton University, and the University of Pennsylvania. Grant amounts covered eligible travel and accommodation expenses up to $1,000 per student.\n\nIntellectual Merit.The Doctoral Consortium provided a structured environment for advanced Ph.D. researchers to present and receive expert feedback on their dissertation work as well as career guidance. Of the 43 accepted participants, 30 presented their research via posters and 13 through informal laptop presentations. Each participant was paired one-on-one or two-on-one with one of 31 mentors  senior researchers including tenured faculty and scientific leaders from major industry research labs  for personalized, in-depth career and research guidance. The DC also featured a panel discussion with six distinguished researchers: Bill Freeman (MIT and Google Research), Angjoo Kanazawa (UC Berkeley), Bryan Russell (Adobe Research), Cordelia Schmid (Inria and Google), Christoph Feichtenhofer (Meta Superintelligence Labs), and Ranjay Krishna (University of Washington and Allen Institute for AI). The panel addressed questions on research project selection, academia vs. industry career paths, career resilience, and building a meaningful research trajectory  questions curated from submissions by all DC applicants.\n\nBroader Impacts.By covering travel and accommodation costs, the NSF grant directly enabled domestic Ph.D. students  many of whom could not otherwise have attended  to participate in one of the most important professional development opportunities in their field. Several awardees reported that the grant was essential to their attendance, with others noting it significantly reduced financial stress. Awardees gained access to a global community of researchers at a conference representing 65 countries, built lasting professional connections, and received mentorship that shaped their research directions and career decisions. One awardee described meeting a senior researcher who gave pivotal advice on problem selection and career planning; another highlighted the value of connecting with industry researchers in ways the main conference does not easily facilitate.\n\nThe selection process prioritized research quality, graduation timeline, and diversity across institutions and geographic regions to ensure the cohort reflected a broad cross-section of the U.S. computer vision research community that is likely to be shaping the field over the coming years. Together, the grant and the DC program contributed to training the next generation of American computer vision and AI researchers, strengthening the pipeline of U.S. scientific talent in a globally competitive field.\t\t\t\t\tLast Modified: 06/12/2026\n\n\t\t\t\t\tSubmitted by: Tanmay Gupta\n"
+ }
+}

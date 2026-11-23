@@ -1,0 +1,145 @@
+{
+ "awd_id": "2453830",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Groups in Geometry, Analysis, and Logic",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032927972",
+ "po_email": "plimafil@nsf.gov",
+ "po_sign_block_name": "Paulo Lima Filho",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 40000.0,
+ "awd_amount": 40000.0,
+ "awd_min_amd_letter_date": "2025-02-05",
+ "awd_max_amd_letter_date": "2025-02-05",
+ "awd_abstract_narration": "This award is to support participants to attend the workshop: Groups in Geometry, Analysis, and Logic, to be held at Vanderbilt University in May 2025. The organizers plan to hold a series of workshops at Vanderbilt University under the common theme annually. The primary objectives of these events will be to foster collaboration among researchers in these fields, identify compelling research problems, and provide educational opportunities for graduate students and early-career researchers.\r\n \r\nThe inaugural edition of the workshops will bring together up to 50 researchers for a five-day event at Vanderbilt University in May 2025. The main focus of this first workshop is to prioritize topics at the interface of group theory and logic. The following distinguished mathematicians, including two International Congress of Mathematicians speakers, will give teach mini-courses: Isaac Goldbring, Thomas Koberda, Andrew Marks, Katrin Tent, and Simon Thomas; these mini-courses will cover the necessary background and review recent developments in areas of current interest. In addition, the workshop will feature invited research talks, problem sessions, and small group discussions. More information can be found at https://sites.google.com/view/groups-geom-analysis-logic2025\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Denis",
+   "pi_last_name": "Osin",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Denis Osin",
+   "pi_email_addr": "denis.osin@gmail.com",
+   "nsf_id": "000349185",
+   "pi_start_date": "2025-02-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Spencer",
+   "pi_last_name": "Dowdall",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Spencer D Dowdall",
+   "pi_email_addr": "spencer.dowdall@vanderbilt.edu",
+   "nsf_id": "000575317",
+   "pi_start_date": "2025-02-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Carolyn",
+   "pi_last_name": "Abbott",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Carolyn Abbott",
+   "pi_email_addr": "carolynabbott@brandeis.edu",
+   "nsf_id": "000760234",
+   "pi_start_date": "2025-02-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Filippo",
+   "pi_last_name": "Calderoni",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Filippo Calderoni",
+   "pi_email_addr": "filippo.calderoni@rutgers.edu",
+   "nsf_id": "000830396",
+   "pi_start_date": "2025-02-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Vanderbilt University",
+  "inst_street_address": "110 21ST AVE S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NASHVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "6153222631",
+  "inst_zip_code": "372032416",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "TN05",
+  "org_lgl_bus_name": "VANDERBILT UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GTNBNWXJ12D5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Vanderbilt University",
+  "perf_str_addr": "110 21ST AVE S",
+  "perf_city_name": "NASHVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "372032416",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "TN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  },
+  {
+   "pgm_ele_code": "126800",
+   "pgm_ele_name": "FOUNDATIONS"
+  },
+  {
+   "pgm_ele_code": "126500",
+   "pgm_ele_name": "GEOMETRIC ANALYSIS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 40000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The National Science Foundation supported the inaugural workshop <em>Groups in Geometry, Analysis, and Logic</em>, held at Vanderbilt University in Nashville, Tennessee, on May 28&ndash;June 1, 2025. The workshop brought together mathematicians working in several interconnected areas, including group theory, geometry, mathematical logic, dynamical systems, and operator algebras. Its primary goals were to promote interdisciplinary research, foster new collaborations, and provide educational and professional development opportunities for graduate students and early-career researchers.</p>\r\n<p>Group theory is a fundamental area of mathematics concerned with understanding symmetry. It has important connections to many other fields, ranging from geometry and mathematical logic to theoretical physics and computer science. Recent advances have revealed particularly fruitful interactions between these subjects, but researchers working in different areas often use different methods and mathematical languages. The workshop was designed to bridge these gaps by bringing together experts from several disciplines and creating opportunities for them to exchange ideas and explore common research problems.</p>\r\n<p><strong>Intellectual Merit</strong></p>\r\n<p>The scientific program featured five mini-courses taught by internationally recognized mathematicians: Isaac Goldbring, Thomas Koberda, Andrew Marks, Katrin Tent, and Simon Thomas. Each mini-course consisted of two lectures introducing participants to important recent developments and research methods. Topics included the logical foundations of operator algebras, the relationship between algebraic properties and the geometry of spaces, mathematical approaches to classification problems, and connections between infinite groups and descriptive set theory.</p>\r\n<p>In addition, the workshop featured eight research talks and nine shorter presentations highlighting recent mathematical discoveries and ongoing research. These presentations demonstrated how methods developed in one field can help address problems arising in another.</p>\r\n<p>A distinctive feature of the workshop was its emphasis on active research collaboration. A dedicated problem session introduced open mathematical questions, and participants subsequently worked in small groups to discuss possible approaches. The workshop concluded with a session devoted to summarizing these discussions. This format encouraged interactions across disciplinary boundaries and provided opportunities to develop new research directions and potential collaborations.</p>\r\n<p><strong>Broader Impacts</strong></p>\r\n<p>An important goal of the project was to support the next generation of mathematicians. The mini-courses were designed to be accessible to participants outside the speakers' areas of expertise, allowing graduate students and postdoctoral researchers to acquire new knowledge and broaden their research perspectives.</p>\r\n<p>The workshop provided opportunities for early-career researchers to present their work, receive feedback, and interact directly with established experts. Small-group discussions encouraged collaborative learning and helped reduce barriers between researchers at different career stages.</p>\r\n<p>The project also addressed professional development through three panel discussions devoted to applying for academic jobs, applying for research grants, and maintaining work-life balance. These sessions provided practical guidance on navigating academic careers and offered opportunities for mentoring and professional networking.</p>\r\n<p>The conference website makes the scientific program, presentation abstracts, and selected lecture materials publicly available, extending the educational benefits of the workshop beyond those who attended.</p>\r\n<p><strong>Overall Outcomes</strong></p>\r\n<p>The workshop successfully implemented the major activities outlined in the original proposal and achieved its central objectives of promoting interdisciplinary mathematical exchange, supporting collaborative research, and providing training and professional development opportunities. By connecting researchers across several active areas of mathematics and encouraging interactions between junior and senior participants, the project contributed to strengthening the mathematical research community and creating opportunities for future scientific advances.</p>\r\n<p>Conference website: <a href=\"https://sites.google.com/view/groups-geom-analysis-logic2025/home\">https://sites.google.com/view/groups-geom-analysis-logic2025/home</a></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/12/2026<br>\nModified by: Denis&nbsp;Osin</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe National Science Foundation supported the inaugural workshop Groups in Geometry, Analysis, and Logic, held at Vanderbilt University in Nashville, Tennessee, on May 28June 1, 2025. The workshop brought together mathematicians working in several interconnected areas, including group theory, geometry, mathematical logic, dynamical systems, and operator algebras. Its primary goals were to promote interdisciplinary research, foster new collaborations, and provide educational and professional development opportunities for graduate students and early-career researchers.\r\n\n\nGroup theory is a fundamental area of mathematics concerned with understanding symmetry. It has important connections to many other fields, ranging from geometry and mathematical logic to theoretical physics and computer science. Recent advances have revealed particularly fruitful interactions between these subjects, but researchers working in different areas often use different methods and mathematical languages. The workshop was designed to bridge these gaps by bringing together experts from several disciplines and creating opportunities for them to exchange ideas and explore common research problems.\r\n\n\nIntellectual Merit\r\n\n\nThe scientific program featured five mini-courses taught by internationally recognized mathematicians: Isaac Goldbring, Thomas Koberda, Andrew Marks, Katrin Tent, and Simon Thomas. Each mini-course consisted of two lectures introducing participants to important recent developments and research methods. Topics included the logical foundations of operator algebras, the relationship between algebraic properties and the geometry of spaces, mathematical approaches to classification problems, and connections between infinite groups and descriptive set theory.\r\n\n\nIn addition, the workshop featured eight research talks and nine shorter presentations highlighting recent mathematical discoveries and ongoing research. These presentations demonstrated how methods developed in one field can help address problems arising in another.\r\n\n\nA distinctive feature of the workshop was its emphasis on active research collaboration. A dedicated problem session introduced open mathematical questions, and participants subsequently worked in small groups to discuss possible approaches. The workshop concluded with a session devoted to summarizing these discussions. This format encouraged interactions across disciplinary boundaries and provided opportunities to develop new research directions and potential collaborations.\r\n\n\nBroader Impacts\r\n\n\nAn important goal of the project was to support the next generation of mathematicians. The mini-courses were designed to be accessible to participants outside the speakers' areas of expertise, allowing graduate students and postdoctoral researchers to acquire new knowledge and broaden their research perspectives.\r\n\n\nThe workshop provided opportunities for early-career researchers to present their work, receive feedback, and interact directly with established experts. Small-group discussions encouraged collaborative learning and helped reduce barriers between researchers at different career stages.\r\n\n\nThe project also addressed professional development through three panel discussions devoted to applying for academic jobs, applying for research grants, and maintaining work-life balance. These sessions provided practical guidance on navigating academic careers and offered opportunities for mentoring and professional networking.\r\n\n\nThe conference website makes the scientific program, presentation abstracts, and selected lecture materials publicly available, extending the educational benefits of the workshop beyond those who attended.\r\n\n\nOverall Outcomes\r\n\n\nThe workshop successfully implemented the major activities outlined in the original proposal and achieved its central objectives of promoting interdisciplinary mathematical exchange, supporting collaborative research, and providing training and professional development opportunities. By connecting researchers across several active areas of mathematics and encouraging interactions between junior and senior participants, the project contributed to strengthening the mathematical research community and creating opportunities for future scientific advances.\r\n\n\nConference website: https://sites.google.com/view/groups-geom-analysis-logic2025/home\r\n\n\n\t\t\t\t\tLast Modified: 10/12/2026\n\n\t\t\t\t\tSubmitted by: DenisOsin\n"
+ }
+}

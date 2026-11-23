@@ -1,0 +1,129 @@
+{
+ "awd_id": "2521672",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Participant Support for Student and Junior Researchers for the 2025 American Control Conference (ACC); Denver, Colorado; 8-10 July 2025",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927557",
+ "po_email": "amedinab@nsf.gov",
+ "po_sign_block_name": "Alexandra Medina-Borja",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 19849.0,
+ "awd_amount": 19849.0,
+ "awd_min_amd_letter_date": "2025-03-18",
+ "awd_max_amd_letter_date": "2025-03-18",
+ "awd_abstract_narration": "This grant supports the next generation of researchers in control systems, automation, and robotics by funding graduate students and junior researchers to attend the 2025 American Control Conference (ACC), held in Denver, Colorado, 8-10 July 2025. The ACC is a premier venue for disseminating research on control theory, learning-based control, optimization, and intelligent systems design. The conference brings together researchers from academia, industry, and government laboratories to discuss recent advances in autonomous systems, energy networks, and cyber-physical security. The primary objective of this grant is to broaden participation by enabling students from a wide range of institutions to present their work and engage with experts in the field. Student travel support expands access to professional development opportunities and allows participants to engage with the latest scientific developments and establish valuable professional connections. The conference also includes structured professional development activities to equip students with the skills necessary to contribute to future technological advancements, supporting national interests in economic growth, infrastructure resilience, and scientific progress.\r\n\r\nThe 2025 ACC features a broad technical program that includes learning-based control, networked and distributed systems, and the intersection of artificial intelligence with control engineering. Core topics include advances in data-driven control, robust and adaptive system design, and novel transportation, healthcare, and manufacturing applications. The conference will also include dedicated sessions for career development, mentorship opportunities, and networking with leaders from both academia and industry. Attendees will have the opportunity to participate in sessions focused on broadening participation and technical panels that highlight emerging challenges and opportunities in the field. This initiative strengthens the pipeline of future control engineers and researchers by supporting student attendance, ensuring that the next generation of innovators can engage in high-impact scientific discussions and contribute to advancing the field.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Cesar",
+   "pi_last_name": "Uribe",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cesar A Uribe",
+   "pi_email_addr": "cauribe@rice.edu",
+   "nsf_id": "000841506",
+   "pi_start_date": "2025-03-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "William Marsh Rice University",
+  "inst_street_address": "6100 MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUSTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "7133484820",
+  "inst_zip_code": "77005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "TX07",
+  "org_lgl_bus_name": "WILLIAM MARSH RICE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "K51LECU1G8N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "William Marsh Rice University",
+  "perf_str_addr": "6100 MAIN ST",
+  "perf_city_name": "Houston",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "770051827",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "TX07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "152E",
+   "pgm_ref_txt": "Cyber-Physical Systems"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 19849.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>During the <strong>2025 American Control Conference (ACC)</strong>, held <strong>July 8&ndash;10, 2025 in Denver, Colorado</strong>, this NSF award provided participant support to expand in-person participation by <strong>students and junior researchers</strong> who are helping build the next generation of U.S. capabilities in automation, autonomy, and resilient engineered systems. The award (issued <strong>March 18, 2025</strong>) provided <strong>$19,850</strong> to support <strong>35 students</strong> with complimentary conference registration, including <strong>32 students</strong> who also received partial lodging support and <strong>3 students</strong> who received registration support only.</p>\r\n<p><strong>Intellectual merit:</strong> ACC is a leading forum for advances in &ldquo;control&rdquo;&mdash;the mathematics and engineering that enable complex systems to operate <strong>safely, reliably, and efficiently</strong>. These methods underpin technologies central to U.S. innovation and competitiveness, including robotics and autonomy, aerospace systems, advanced manufacturing, transportation, and the stability of interconnected infrastructure. This project ensured that supported participants were active contributors to the technical program: applicants were required to be enrolled as students at the ACC paper submission deadline (<strong>September 22, 2024</strong>) and to be the <strong>in-person presenter of an accepted paper</strong>. By enabling these presenters to attend and share peer-reviewed results, the award strengthened scientific exchange, improved research through direct feedback, and accelerated new collaborations across academia, industry, and government.</p>\r\n<p><strong>Broader impacts:</strong> Cost is a major barrier for student participation in high-impact professional venues. By reducing registration and lodging burdens, this award expanded access to hands-on professional development and helped broaden participation in the control community. The ACC 2025 student support effort prioritized broad access: all complete applications received registration support, while hotel support was allocated to maximize impact and expanded as additional funds became available. In partnership with other ACC sponsors, the overall ACC 2025 student support effort provided assistance (registration and/or lodging) to <strong>187 students</strong>, sponsoring <strong>384 hotel nights</strong> in total. These opportunities help trainees build durable professional networks and gain the communication and leadership skills needed for a strong STEM workforce.</p>\r\n<p>ACC 2025 also delivered structured career and mentoring programming. A dedicated student networking event, <strong>&ldquo;Accelerate Your Career&rdquo;</strong> (10:00am&ndash;12:00pm, Majestic Ballroom, Tower Building), used small-group rotating conversations with professionals from academia, industry, national laboratories, and government and was opened to the first <strong>100</strong> registered students. This format helped participants learn about multiple career pathways, identify mentors, and connect their research to real-world needs.</p>\r\n<p>Overall, this project advanced NSF&rsquo;s goals by strengthening the research-to-workforce pipeline and ensuring that early-career researchers could disseminate high-quality results, build collaborations, and contribute to U.S. leadership in critical technologies and infrastructure.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 01/05/2026<br>\nModified by: Cesar&nbsp;A&nbsp;Uribe</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nDuring the 2025 American Control Conference (ACC), held July 810, 2025 in Denver, Colorado, this NSF award provided participant support to expand in-person participation by students and junior researchers who are helping build the next generation of U.S. capabilities in automation, autonomy, and resilient engineered systems. The award (issued March 18, 2025) provided $19,850 to support 35 students with complimentary conference registration, including 32 students who also received partial lodging support and 3 students who received registration support only.\r\n\n\nIntellectual merit: ACC is a leading forum for advances in controlthe mathematics and engineering that enable complex systems to operate safely, reliably, and efficiently. These methods underpin technologies central to U.S. innovation and competitiveness, including robotics and autonomy, aerospace systems, advanced manufacturing, transportation, and the stability of interconnected infrastructure. This project ensured that supported participants were active contributors to the technical program: applicants were required to be enrolled as students at the ACC paper submission deadline (September 22, 2024) and to be the in-person presenter of an accepted paper. By enabling these presenters to attend and share peer-reviewed results, the award strengthened scientific exchange, improved research through direct feedback, and accelerated new collaborations across academia, industry, and government.\r\n\n\nBroader impacts: Cost is a major barrier for student participation in high-impact professional venues. By reducing registration and lodging burdens, this award expanded access to hands-on professional development and helped broaden participation in the control community. The ACC 2025 student support effort prioritized broad access: all complete applications received registration support, while hotel support was allocated to maximize impact and expanded as additional funds became available. In partnership with other ACC sponsors, the overall ACC 2025 student support effort provided assistance (registration and/or lodging) to 187 students, sponsoring 384 hotel nights in total. These opportunities help trainees build durable professional networks and gain the communication and leadership skills needed for a strong STEM workforce.\r\n\n\nACC 2025 also delivered structured career and mentoring programming. A dedicated student networking event, Accelerate Your Career (10:00am12:00pm, Majestic Ballroom, Tower Building), used small-group rotating conversations with professionals from academia, industry, national laboratories, and government and was opened to the first 100 registered students. This format helped participants learn about multiple career pathways, identify mentors, and connect their research to real-world needs.\r\n\n\nOverall, this project advanced NSFs goals by strengthening the research-to-workforce pipeline and ensuring that early-career researchers could disseminate high-quality results, build collaborations, and contribute to U.S. leadership in critical technologies and infrastructure.\r\n\n\n\t\t\t\t\tLast Modified: 01/05/2026\n\n\t\t\t\t\tSubmitted by: CesarAUribe\n"
+ }
+}

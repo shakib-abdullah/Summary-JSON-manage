@@ -1,0 +1,138 @@
+{
+ "awd_id": "2533222",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "NSF Safe-OSE: Enhancing Safety, Security, and Privacy in the Community Earth System Model (CESM) Ecosystem",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032920000",
+ "po_email": "nratha@nsf.gov",
+ "po_sign_block_name": "Nalini Ratha",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 1500000.0,
+ "awd_amount": 1500000.0,
+ "awd_min_amd_letter_date": "2025-09-22",
+ "awd_max_amd_letter_date": "2025-09-22",
+ "awd_abstract_narration": "This Safety, Security, and Privacy of Open-Source Ecosystems (Safe-OSE) project aims to improve the safety, security, and privacy of the Community Earth System Model (CESM), an important open-source tool used to simulate Earth systems and predict events like hurricanes, floods, droughts, and wildfires. CESM helps guide critical decisions in areas such as disaster response, agriculture, energy planning, public health, and national defense. The project develops a security framework to identify and fix weaknesses in the CESM code and its software supply chain, preventing potential backdoors and cyber threats. The project will also improve automated testing, streamline software updates, and raise awareness among developers about secure coding practices. By making CESM more secure and reliable, this effort will serve as a model for upgrading the security of other scientific software used across sectors.\r\n\r\nThis Safe-OSE project begins by refactoring the CESM codebase to address foundational barriers to integrating modern security practices. This includes decoupling computational and control logic to support modularization and rewriting the control layer in Python to enable modernization. Building on this foundation, this project develops three clusters of automated security techniques: (1) static analysis using a query engine, compiler-time testing, and large language models tailored to CESM structure; (2) dynamic testing via targeted unit and regression tests for scientific workflows; and (3) supply chain security techniques to detect and mitigate risks from vulnerable dependencies. These techniques are integrated into an upgraded continuous integration (CI) and continuous delivery (CD) pipeline. To address socio-technical risks and ensure long-term sustainability, this project implements a maintainer vetting process and provides community-focused security training through hands-on tutorials and live demonstrations. The anticipated outcome is a comprehensive security framework for CESM that can be generalized to other legacy scientific software ecosystems.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yueqi",
+   "pi_last_name": "Chen",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yueqi Chen",
+   "pi_email_addr": "yueqi.chen@colorado.edu",
+   "nsf_id": "000935071",
+   "pi_start_date": "2025-09-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Lauritzen",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter H Lauritzen",
+   "pi_email_addr": "pel@ucar.edu",
+   "nsf_id": "000567101",
+   "pi_start_date": "2025-09-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jun",
+   "pi_last_name": "Xu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jun Xu",
+   "pi_email_addr": "junxzm@cs.utah.edu",
+   "nsf_id": "000808138",
+   "pi_start_date": "2025-09-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Guanhong",
+   "pi_last_name": "Tao",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guanhong Tao",
+   "pi_email_addr": "guanhong.tao@utah.edu",
+   "nsf_id": "0000A1C6Q",
+   "pi_start_date": "2025-09-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Colorado at Boulder",
+  "inst_street_address": "3100 MARINE ST STE 481",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOULDER",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034926221",
+  "inst_zip_code": "803031058",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "THE REGENTS OF THE UNIVERSITY OF COLORADO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SPVKK1RC2MZ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado at Boulder",
+  "perf_str_addr": "3100 MARINE ST",
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803090001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "324Y00",
+   "pgm_ele_name": "SafeOSE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1238",
+   "pgm_ref_txt": "TECH FOR SUSTAINABLE ENVIRONMENT"
+  },
+  {
+   "pgm_ref_code": "8027",
+   "pgm_ref_txt": "Cyber Secur - Cyberinfrastruc"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1500000.0
+  }
+ ],
+ "por": null
+}

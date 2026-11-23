@@ -1,0 +1,133 @@
+{
+ "awd_id": "2530195",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Practice and Experience in Advanced Research Computing 2025 - Student Program",
+ "cfda_num": "47.070",
+ "org_code": "05200000",
+ "po_phone": "7032928104",
+ "po_email": "shabagch@nsf.gov",
+ "po_sign_block_name": "Sharmistha Bagchi-Sen",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-06-06",
+ "awd_max_amd_letter_date": "2025-08-08",
+ "awd_abstract_narration": "Research computing stakeholders have grown to consider The Practice and Experience in Advanced Research Computing (PEARC) Conference series as a forum for discussing challenges, opportunities, and solutions specific to research computing. Also, the consistent growth in data and the ubiquity of research instruments has increased the array of research areas that rely on advanced research computing. Thus, access to reliable, robust and resilient high-performance computing (HPC) resources as well as data solutions is no longer a luxury, but an expectation and requirement for researchers to stay competitive in their domain. \r\n\r\nHighly skilled individuals are needed to facilitate computation and accompany users in their usage of research computing tools. Thus, the theme for this year\u2019s PEARC conference is \u201cThe Power of Collaboration\u201d. Building on the success of the XSEDE and PEARC conference series, this year\u2019s conference aims to highlight the role and importance of the power of collaboration while broadening the community by introducing the next generation to the world of Research Computing. The conference exposes students and scientists to professional networks and other resources that facilitate research workforce development. Students are paired with mentors from a community of experts, who provide support and networking opportunities at and beyond the conference. Research presentations and lightning talks are additional opportunities available to attendees. PEARC25\u2019s program offers students with a unique opportunity to gain hands-on-experience in advanced research computing and encourages them to pursue a career in it.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCP",
+ "org_div_long_name": "CSE - Core Programs",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Former Principal Investigator",
+   "pi_first_name": "Lavanya",
+   "pi_last_name": "Podila",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lavanya Podila",
+   "pi_email_addr": "lpodila2@illinois.edu",
+   "nsf_id": "0000A2TQ5",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": "2025-08-08"
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alaine",
+   "pi_last_name": "Martaus",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alaine Martaus",
+   "pi_email_addr": "martaus2@illinois.edu",
+   "nsf_id": "0000A0CYB",
+   "pi_start_date": "2025-08-08",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Brian",
+   "pi_last_name": "Haymore",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Brian D Haymore",
+   "pi_email_addr": "brian.haymore@utah.edu",
+   "nsf_id": "0000A4JYP",
+   "pi_start_date": "2025-06-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Illinois at Urbana-Champaign",
+  "inst_street_address": "506 S WRIGHT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "URBANA",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2173332187",
+  "inst_zip_code": "618013620",
+  "inst_country_name": "United States",
+  "cong_dist_code": "13",
+  "st_cong_dist_code": "IL13",
+  "org_lgl_bus_name": "UNIVERSITY OF ILLINOIS",
+  "org_prnt_uei_num": "V2PHZ2CSCH63",
+  "org_uei_num": "Y8CWNJRCNN91"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Illinois at Urbana-Champaign",
+  "perf_str_addr": "506 S WRIGHT ST",
+  "perf_city_name": "URBANA",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "618013620",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "IL13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736100",
+   "pgm_ele_name": "EDUCATION AND WORKFORCE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7231",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-3b1ea35d-7fff-7c97-7ad3-8f28bfe55604\">\r\n<p dir=\"ltr\"><span>The Practice and Experience in Advanced Research Computing (PEARC) Conference regularly supports a dedicated Student Program, providing substantive support for student participants at varying levels of collegiate education and at different stages of career development who are interested in becoming active members of the research computing and data (RCD) professional community. A one-year NSF grant (#2530195) provided the PEARC 2025 Student Program with the funding necessary to dismantle financial barriers for an expanded cohort of 76 emerging scholars to attend the annual PEARC conference in Columbus, Ohio. The resulting student program empowered participants by integrating hands-on technical training, formal career development, professional society engagement, and continuous peer-to-peer networking, successfully accelerating entry into the national RCD workforce pipeline.&nbsp;</span></p>\r\n<p dir=\"ltr\"><strong>Technical training:</strong><span> The program provided students with opportunities to engage with technical training, both through dedicated lectures on existing resources and access to conference workshops with more hands-on options. Exposure to state-of-the-art supercomputing platforms, including Purdue Anvil, SDSC Expanse/Voyager/PNRP, Jetstream2, and ACCESS allocations, raised awareness of HPC resources and introduced students to essential topics like containerization, AI inference, and data management. Cross-institutional mentorship enabled students from non-R1 institutions to build direct professional ties with national center staff, transforming their educational trajectory. Conference workshops and tutorials gave students who attended practical training to execute complex, interdisciplinary computational research on national supercomputing assets.&nbsp;</span></p>\r\n<p dir=\"ltr\"><strong>Career development: </strong><span>The program also offered a comprehensive suite of career development and professional preparation activities designed to transition students into Research Computing and Data (RCD) careers, including pre-conference sessions on general resume standards, adapting resumes for specific job descriptions, LinkedIn etiquette, and crafting an elevator pitch. Students met individually with seasoned RCD professionals to receive detailed feedback on their resumes. Workforce groups discussed expected career trajectories and foundational skills for RCD roles, while experienced researchers provided workshops on understanding the peer-review process for successful paper submissions. An integrated job fair connected students directly with recruiters and staff from national research laboratories, academic supercomputing centers, and industry sponsors, where participants could learn about current job openings, post-graduate opportunities, and internships across various sectors. Students also prepared brief single-slide presentations, delivered during lunches, coffee breaks, and continuously broadcast at the PEARC Student Program Booth, allowing students to highlight their background, research, and career goals to potential employers and collaborators.</span></p>\r\n<p dir=\"ltr\"><strong>Professional networking and mentorship:</strong><span> Participants were intentionally paired with experienced professionals recruited across the spectrum of the RCD community. Mentors helped students select sessions, decode technical presentations, build professional networks, and explore non-traditional entry points into high-performance computing (HPC) and research computing. The mentorship program included pre-conference outreach, a dedicated networking hour, and the Prot&eacute;g&eacute;-Mentor Dinner. Further networking opportunities were provided through conference volunteering, small-group lunches with conference keynote speakers, and a hosted dinner with conference leaders, advisory board members, and senior figures in the field.&nbsp;</span></p>\r\n<p dir=\"ltr\"><span>The overarching outcomes of the PEARC 2025 Student Program that reflect the intellectual merit and broader impacts of the associated NSF grant are: providing community practitioner-mentored activities and hands-on training to equip students with skills to conduct interdisciplinary research on national cyberinfrastructure resources and recruiting students from a wide range of institutions and socio-economic backgrounds to train, inspire, and introduce them to Research Computing and Data (RCD) facilitation, while connecting them with expert networks that extend beyond the conference week. The program successfully integrated students directly into the main conference through a combination of focused pre-conference sessions, daily conference support roles, full access to conference presentations and professional workshops, and a host of networking opportunities with conference attendees.&nbsp;</span></p>\r\n<p dir=\"ltr\"><span>Participants noted broad-scale satisfaction with the program and its results, and specifically called out the impact of the financial support provided by the NSF grant: 92.3% of participating students agreed or strongly agreed that their conference goals were achieved; 98.0% of students rated the organized student activities as valuable and well-structured; 96.1% of students connected meaningfully with RCD scientists/researchers, and 94.3% connected meaningfully with fellow students; 90.4% of students confirmed that travel funding was sufficient to enable their attendance. Evaluative data from the PEARC25 General Conference Survey, representing a robust 35.5% response rate (262 out of 739 total conference attendees), demonstrated widespread community enthusiasm for the Student Program. Conference attendees and national center directors repeatedly cited the student cohort as a highlight of PEARC25, characterizing this iteration as one of the most vibrant in the conference series' history.</span></p>\r\n<div><span><br /></span></div>\r\n</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/29/2026<br>\nModified by: Alaine&nbsp;Martaus</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n\r\n\n\nThe Practice and Experience in Advanced Research Computing (PEARC) Conference regularly supports a dedicated Student Program, providing substantive support for student participants at varying levels of collegiate education and at different stages of career development who are interested in becoming active members of the research computing and data (RCD) professional community. A one-year NSF grant (#2530195) provided the PEARC 2025 Student Program with the funding necessary to dismantle financial barriers for an expanded cohort of 76 emerging scholars to attend the annual PEARC conference in Columbus, Ohio. The resulting student program empowered participants by integrating hands-on technical training, formal career development, professional society engagement, and continuous peer-to-peer networking, successfully accelerating entry into the national RCD workforce pipeline.\r\n\n\nTechnical training: The program provided students with opportunities to engage with technical training, both through dedicated lectures on existing resources and access to conference workshops with more hands-on options. Exposure to state-of-the-art supercomputing platforms, including Purdue Anvil, SDSC Expanse/Voyager/PNRP, Jetstream2, and ACCESS allocations, raised awareness of HPC resources and introduced students to essential topics like containerization, AI inference, and data management. Cross-institutional mentorship enabled students from non-R1 institutions to build direct professional ties with national center staff, transforming their educational trajectory. Conference workshops and tutorials gave students who attended practical training to execute complex, interdisciplinary computational research on national supercomputing assets.\r\n\n\nCareer development: The program also offered a comprehensive suite of career development and professional preparation activities designed to transition students into Research Computing and Data (RCD) careers, including pre-conference sessions on general resume standards, adapting resumes for specific job descriptions, LinkedIn etiquette, and crafting an elevator pitch. Students met individually with seasoned RCD professionals to receive detailed feedback on their resumes. Workforce groups discussed expected career trajectories and foundational skills for RCD roles, while experienced researchers provided workshops on understanding the peer-review process for successful paper submissions. An integrated job fair connected students directly with recruiters and staff from national research laboratories, academic supercomputing centers, and industry sponsors, where participants could learn about current job openings, post-graduate opportunities, and internships across various sectors. Students also prepared brief single-slide presentations, delivered during lunches, coffee breaks, and continuously broadcast at the PEARC Student Program Booth, allowing students to highlight their background, research, and career goals to potential employers and collaborators.\r\n\n\nProfessional networking and mentorship: Participants were intentionally paired with experienced professionals recruited across the spectrum of the RCD community. Mentors helped students select sessions, decode technical presentations, build professional networks, and explore non-traditional entry points into high-performance computing (HPC) and research computing. The mentorship program included pre-conference outreach, a dedicated networking hour, and the Protg-Mentor Dinner. Further networking opportunities were provided through conference volunteering, small-group lunches with conference keynote speakers, and a hosted dinner with conference leaders, advisory board members, and senior figures in the field.\r\n\n\nThe overarching outcomes of the PEARC 2025 Student Program that reflect the intellectual merit and broader impacts of the associated NSF grant are: providing community practitioner-mentored activities and hands-on training to equip students with skills to conduct interdisciplinary research on national cyberinfrastructure resources and recruiting students from a wide range of institutions and socio-economic backgrounds to train, inspire, and introduce them to Research Computing and Data (RCD) facilitation, while connecting them with expert networks that extend beyond the conference week. The program successfully integrated students directly into the main conference through a combination of focused pre-conference sessions, daily conference support roles, full access to conference presentations and professional workshops, and a host of networking opportunities with conference attendees.\r\n\n\nParticipants noted broad-scale satisfaction with the program and its results, and specifically called out the impact of the financial support provided by the NSF grant: 92.3% of participating students agreed or strongly agreed that their conference goals were achieved; 98.0% of students rated the organized student activities as valuable and well-structured; 96.1% of students connected meaningfully with RCD scientists/researchers, and 94.3% connected meaningfully with fellow students; 90.4% of students confirmed that travel funding was sufficient to enable their attendance. Evaluative data from the PEARC25 General Conference Survey, representing a robust 35.5% response rate (262 out of 739 total conference attendees), demonstrated widespread community enthusiasm for the Student Program. Conference attendees and national center directors repeatedly cited the student cohort as a highlight of PEARC25, characterizing this iteration as one of the most vibrant in the conference series' history.\r\n\n\r\n\r\n\n\n\t\t\t\t\tLast Modified: 09/29/2026\n\n\t\t\t\t\tSubmitted by: AlaineMartaus\n"
+ }
+}

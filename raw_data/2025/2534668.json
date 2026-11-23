@@ -1,0 +1,129 @@
+{
+ "awd_id": "2534668",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "2025 NSF Dynamics, Control and System Diagnostics (DCSD) PI Meeting; Alexandria, Virginia; 4-5 September 2025",
+ "cfda_num": "47.041",
+ "org_code": "07230000",
+ "po_phone": "7032922949",
+ "po_email": "atalkach@nsf.gov",
+ "po_sign_block_name": "Alena Talkachova",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 154670.0,
+ "awd_amount": 154670.0,
+ "awd_min_amd_letter_date": "2025-07-01",
+ "awd_max_amd_letter_date": "2025-07-01",
+ "awd_abstract_narration": "This grant provides funding to support a platform for sharing progress, exchanging ideas, and facilitating further collaboration between interdisciplinary researchers, stakeholders, and public, private and government representatives. This grant will design, organize and execute the 2025 Dynamics, Control and Systems Diagnostics (DCSD) PI Meeting at National Science Foundation (NSF) in Alexandria, Virginia on September 4 and 5, 2025. The two-day program will provide a centralized and lasting repository of information illustrating research ideas explored and milestones achieved by DCSD funded projects. The PI Meeting will advance knowledge by: exposing the rich progress of current DCSD funded research; reviewing new developments in DCSD foundations and the efficacy of new, emerging applications; exploring technology transfer and partnerships; discussing future directions of the DCSD program by identifying long-term challenges and opportunities; allowing PIs to showcase their research results; providing a networking environment; and promoting general outreach. \r\n\r\nThe 2025 NSF DCSD PI Meeting will be the first PI Meeting since the establishment of the DCSD program. Hence it will provide an opportunity for this community to have fruitful discussions and collaborations between established and junior DCSD researchers to discuss innovative ideas and ultimately to expand the number of new DCSD PIs. The program will specifically provide support for DCSD PIs from R2 institutions and non-PIs who either have not been successful in pursuing an NSF DCSD award or who have never applied for a DCSD grant but would like to. The meeting will provide a pathway for aspiring PIs to directly interact with current DCSD awardees and program directors to understand what NSF will expect to see in a successful DCSD research. The mini-workshops and discussion panels with NSF program directors will provide opportunities for PIs of interest to consult or discuss their projects, thereby providing an interactive pathway for direct engagement and for quickly seeking advice or feedback on the scope and significance of the future proposals. If successful, this type of session could be a standard program component of future DCSD PI Meetings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Juan",
+   "pi_last_name": "Ren",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Juan Ren",
+   "pi_email_addr": "juanren@iastate.edu",
+   "nsf_id": "000717932",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ossama",
+   "pi_last_name": "Abdelkhalik",
+   "pi_mid_init": "O",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ossama O Abdelkhalik",
+   "pi_email_addr": "ossama@iastate.edu",
+   "nsf_id": "000500458",
+   "pi_start_date": "2025-07-01",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Iowa State University",
+  "inst_street_address": "1350 BEARDSHEAR HALL",
+  "inst_street_address_2": "515 MORRILL ROAD",
+  "inst_city_name": "AMES",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "5152945225",
+  "inst_zip_code": "500112103",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IA04",
+  "org_lgl_bus_name": "IOWA STATE UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "DQDBM7FGJPC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Iowa State University",
+  "perf_str_addr": "1350 BEARDSHEAR HALL",
+  "perf_city_name": "AMES",
+  "perf_st_code": "IA",
+  "perf_st_name": "Iowa",
+  "perf_zip_code": "500112103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "756900",
+   "pgm_ele_name": "Dynamics, Control and System D"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "030E",
+   "pgm_ref_txt": "CONTROL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "034E",
+   "pgm_ref_txt": "Dynamical systems"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 154670.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><div class=\"n6owBd awi2gc\">This award provided the foundational support required to organize and execute the inaugural <span class=\"rQesXe MPyX\"><span class=\"iNqyIf\"><span><span><span><span class=\"iNqyIf\">2025 Dynamics, Control and Systems Diagnostics (DCSD) Principal Investigator (PI) Meeting<!--TgQPHd|||[]--></span><!--TgQPHd|||[false,\"\",false,{\"u\":0}]--></span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></span>. Held in person from September 4&ndash;5, 2025, at the <span class=\"rQesXe MPyX\"><span class=\"iNqyIf\"><span class=\"wfWfIf fxyaSe\"><span class=\"jAOkJc\"><span class=\"iNqyIf\">NSF Headquarters<!--TgQPHd|||[]--></span><!--TgQPHd|||[[[\"/g/1261wkpjt\",null,null,[\"modern building exterior\",\"conference auditorium\",\"poster presentation session\",\"networking lobby\",\"presentation stage\"],null,\"write a NSF outcome report for a grant supports the 2025 Dynamics, Control and Systems Diagnostics PI meeting. There were 192 attendees.\"],\"\",0,[null,null,null,1,null,null,null,null,null,null,null,null,[256809,null,1,1],null,null,[{\"205\":[null,\"/g/1261wkpjt\"],\"3524\":[10]}]],null,0,null,null,\"\",0,3,0]]--></span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></span> in Alexandria, VA, this conference successfully brought together <span class=\"rQesXe MPyX\">192 attendees<!--TgQPHd|||[]--></span>, including principal investigators, co-PIs, and NSF program directors from across the nation. The meeting served as a critical platform to advance the frontiers of systems engineering, foster cross-disciplinary collaboration, and catalyze community building.<!--TgQPHd|||[]--></div>\r\n<div class=\"yhAwj\"><!--TgQPHd|||[]--></div>\r\n<div class=\"n6owBd awi2gc\">The meeting functioned as a vital nexus for technical and intellectual exchange in the fields of dynamic systems, controls, and diagnostics. Key intellectual outcomes included:</div>\r\n<div class=\"n6owBd awi2gc\"><span class=\"rQesXe MPyX\">1. Strategic Research Alignment:</span> Interactive breakout sessions allowed PIs to collaboratively roadmap future engineering frameworks, ensuring that foundational control theories directly address modern constraints in automation, complex cyber-physical systems, and smart infrastructure.</div>\r\n<div class=\"n6owBd awi2gc\"><span class=\"rQesXe MPyX\">2. Peer Dissemination:</span> Comprehensive poster sessions provided immediate peer-review channels for ongoing NSF-funded projects, sparking technical cross-pollination across disparate engineering tracks.</div>\r\n<div class=\"n6owBd awi2gc\"><span class=\"rQesXe MPyX\">3. Plenary Exchange:</span> Focused plenary presentations highlighted emerging methodologies in autonomous systems safety, localized data-driven diagnostics, and resilient mechanical architectures.</div>\r\n<div class=\"n6owBd awi2gc\">Beyond theoretical advancements, the grant achieved deep societal and workforce impacts by strengthening the national engineering ecosystem:</div>\r\n<div class=\"n6owBd awi2gc\"><span class=\"rQesXe MPyX\">1. Early-Career Mentorship:</span> A dedicated <span class=\"rQesXe MPyX\"><span class=\"iNqyIf\"><span class=\"iNqyIf\">Early Career PI Mentoring Workshop</span></span></span> directly paired junior faculty with experienced senior researchers, guiding them on laboratory leadership, grant management, and long-term research strategies. Travel support was provided to 26 aspiring PIs.</div>\r\n<div class=\"n6owBd awi2gc\"><span class=\"rQesXe MPyX\">2. Professional Development:</span> Targeted proposal and proposal-writing workshops were integrated into the core agenda, optimizing skill transfer and maximizing success rates for incoming researchers.</div>\r\n<div class=\"n6owBd awi2gc\"><span class=\"rQesXe MPyX\">3. Community and Network Expansion:</span> By lowering institutional boundaries and convening 192 key stakeholders under one roof, the event intentionally fostered a highly collaborative and inclusive national network of systems engineers.</div>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/28/2026<br>\nModified by: Juan&nbsp;Ren</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "This award provided the foundational support required to organize and execute the inaugural 2025 Dynamics, Control and Systems Diagnostics (DCSD) Principal Investigator (PI) Meeting. Held in person from September 45, 2025, at the NSF Headquarters in Alexandria, VA, this conference successfully brought together 192 attendees, including principal investigators, co-PIs, and NSF program directors from across the nation. The meeting served as a critical platform to advance the frontiers of systems engineering, foster cross-disciplinary collaboration, and catalyze community building.\r\n\r\nThe meeting functioned as a vital nexus for technical and intellectual exchange in the fields of dynamic systems, controls, and diagnostics. Key intellectual outcomes included:\r\n1. Strategic Research Alignment: Interactive breakout sessions allowed PIs to collaboratively roadmap future engineering frameworks, ensuring that foundational control theories directly address modern constraints in automation, complex cyber-physical systems, and smart infrastructure.\r\n2. Peer Dissemination: Comprehensive poster sessions provided immediate peer-review channels for ongoing NSF-funded projects, sparking technical cross-pollination across disparate engineering tracks.\r\n3. Plenary Exchange: Focused plenary presentations highlighted emerging methodologies in autonomous systems safety, localized data-driven diagnostics, and resilient mechanical architectures.\r\nBeyond theoretical advancements, the grant achieved deep societal and workforce impacts by strengthening the national engineering ecosystem:\r\n1. Early-Career Mentorship: A dedicated Early Career PI Mentoring Workshop directly paired junior faculty with experienced senior researchers, guiding them on laboratory leadership, grant management, and long-term research strategies. Travel support was provided to 26 aspiring PIs.\r\n2. Professional Development: Targeted proposal and proposal-writing workshops were integrated into the core agenda, optimizing skill transfer and maximizing success rates for incoming researchers.\r\n3. Community and Network Expansion: By lowering institutional boundaries and convening 192 key stakeholders under one roof, the event intentionally fostered a highly collaborative and inclusive national network of systems engineers.\r\n\n\n\t\t\t\t\tLast Modified: 09/28/2026\n\n\t\t\t\t\tSubmitted by: JuanRen\n"
+ }
+}

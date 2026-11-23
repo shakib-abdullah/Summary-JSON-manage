@@ -1,0 +1,101 @@
+{
+ "awd_id": "2524834",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Annual meeting of the New England Association of Parasitologists 2025",
+ "cfda_num": "47.074",
+ "org_code": "08090000",
+ "po_phone": "7032927265",
+ "po_email": "mrawat@nsf.gov",
+ "po_sign_block_name": "Mamta Rawat",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 8000.0,
+ "awd_amount": 8000.0,
+ "awd_min_amd_letter_date": "2025-03-07",
+ "awd_max_amd_letter_date": "2025-03-07",
+ "awd_abstract_narration": "This award supports the \u201c2025 Annual Meeting of the New England Association of Parasitology (NEAP 2025)\u201d. Parasitology is the study of parasites that can cause disease in humans and animals. Parasites represent some of the most successful and biologically diverse organisms on Earth and studying the biology of parasites is important for the health of humans, livestock, and wildlife. This regional conference brings together researchers at all levels \u2013 college students to faculty \u2013 who are interested in animal (including human) and zoonotic parasites.  This conference will integrate research with education, training, and career development of young researchers. It will provide a means of improving communication between scientists and non-scientists.\r\n\r\nThe study of animal parasites contributes to fundamental biological knowledge, advances medical and veterinary sciences, and enhances our understanding of ecological and evolutionary processes. Parasitic infections exert strong selective pressures on animal populations, driving the evolution of host immune responses, reproductive strategies, and even behavior. Investigating their life cycles, host interactions, and transmission dynamics provides insights that extend across disciplines, from molecular biology to epidemiology and conservation science. NEAP 2025 will lead to the exchange of ideas amongst researchers and teachers of a variety of parasites, accelerating ground-breaking research and teaching of these unique organisms.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "IOS",
+ "org_div_long_name": "Division Of Integrative Organismal Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Purnima",
+   "pi_last_name": "Bhanot",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Purnima Bhanot",
+   "pi_email_addr": "bhanotpu@njms.rutgers.edu",
+   "nsf_id": "000567952",
+   "pi_start_date": "2025-03-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY",
+  "inst_street_address": "65 BERGEN ST",
+  "inst_street_address_2": "STE 1",
+  "inst_city_name": "NEWARK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "071073001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "NJ10",
+  "org_lgl_bus_name": "RUTGERS THE STATE UNIVERSITY OF NEW JERSEY",
+  "org_prnt_uei_num": "YHAYMDR5EXX7",
+  "org_uei_num": "YVVTQD8CJC79"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lehman College, City University of New York",
+  "perf_str_addr": "250 Bedford Park Boulevard West",
+  "perf_city_name": "BRONX",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "104681527",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "13",
+  "perf_st_cong_dist": "NY13",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "765600",
+   "pgm_ele_name": "Symbiosis Infection & Immunity"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 8000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Award Context</strong><br /> Support from the National Science Foundation enabled participation in and organization of the 2025 New England Association of Parasitologists (NEAP) Regional Meeting. This meeting brought together trainees, early-career researchers, and established investigators in parasitology to disseminate new findings and foster collaboration.</p>\r\n<p><strong>1. Participant Training and Development</strong></p>\r\n<p>NSF support directly enabled participation of trainees, including undergraduate, postbaccalaureate, graduate, and postdoctoral researchers. These individuals presented their work in both poster and oral formats, gaining experience in scientific communication and peer engagement.</p>\r\n<p>Trainees benefited from:</p>\r\n<ul>\r\n<li>Presenting      original research and receiving feedback from experts</li>\r\n<li>Engaging in      interdisciplinary discussions across parasitology subfields</li>\r\n<li>Building      professional networks with peers and senior investigators</li>\r\n</ul>\r\n<p>Notably, trainee excellence was recognized through awards for &lsquo;Best Poster&rsquo; and &lsquo;Best Talk&rsquo;, highlighting the quality of trainee research supported by this meeting.</p>\r\n<p><strong>2. Scientific Dissemination</strong></p>\r\n<p>The NEAP 2025 meeting facilitated the dissemination of current research in parasitology, including advances in parasite biology, host&ndash;pathogen interactions, and therapeutic development.</p>\r\n<p>Outcomes include:</p>\r\n<ul>\r\n<li>Presentation of      unpublished data to a specialized scientific audience</li>\r\n<li>Exchange of new      methodologies and experimental approaches</li>\r\n<li>Contribution to      a written meeting summary prepared for publication in the <em>Journal of      Parasitology</em></li>\r\n</ul>\r\n<p>This publication serves as a permanent record of the meeting and extends its impact to the broader parasitology community.</p>\r\n<p><strong>3. Collaboration and Community Building</strong></p>\r\n<p>The meeting fostered new collaborations across institutions by providing opportunities for in-person interaction. Discussions initiated at the meeting have led to:</p>\r\n<ul>\r\n<li>Follow-up      scientific exchanges</li>\r\n<li>Potential      collaborative research directions</li>\r\n<li>Mentorship      connections between trainees and established investigators</li>\r\n</ul>\r\n<p>These activities contribute to the long-term strengthening of the parasitology research community.</p>\r\n<p><strong>4. Broader Impacts</strong></p>\r\n<p>The meeting advanced NSF-funded goals by promoting:</p>\r\n<ul>\r\n<li>Workforce      development in biomedical and parasitology research</li>\r\n<li>Inclusion of      trainees at multiple career stages</li>\r\n<li>Dissemination      of research relevant to infectious disease biology and global health</li>\r\n</ul>\r\n<p>By supporting trainee participation and facilitating knowledge exchange, the meeting contributed to the development of the next generation of scientists.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/17/2026<br>\nModified by: Purnima&nbsp;Bhanot</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nAward Context\n Support from the National Science Foundation enabled participation in and organization of the 2025 New England Association of Parasitologists (NEAP) Regional Meeting. This meeting brought together trainees, early-career researchers, and established investigators in parasitology to disseminate new findings and foster collaboration.\r\n\n\n1. Participant Training and Development\r\n\n\nNSF support directly enabled participation of trainees, including undergraduate, postbaccalaureate, graduate, and postdoctoral researchers. These individuals presented their work in both poster and oral formats, gaining experience in scientific communication and peer engagement.\r\n\n\nTrainees benefited from:\r\n\r\nPresenting      original research and receiving feedback from experts\r\nEngaging in      interdisciplinary discussions across parasitology subfields\r\nBuilding      professional networks with peers and senior investigators\r\n\r\n\n\nNotably, trainee excellence was recognized through awards for Best Poster and Best Talk, highlighting the quality of trainee research supported by this meeting.\r\n\n\n2. Scientific Dissemination\r\n\n\nThe NEAP 2025 meeting facilitated the dissemination of current research in parasitology, including advances in parasite biology, hostpathogen interactions, and therapeutic development.\r\n\n\nOutcomes include:\r\n\r\nPresentation of      unpublished data to a specialized scientific audience\r\nExchange of new      methodologies and experimental approaches\r\nContribution to      a written meeting summary prepared for publication in the Journal of      Parasitology\r\n\r\n\n\nThis publication serves as a permanent record of the meeting and extends its impact to the broader parasitology community.\r\n\n\n3. Collaboration and Community Building\r\n\n\nThe meeting fostered new collaborations across institutions by providing opportunities for in-person interaction. Discussions initiated at the meeting have led to:\r\n\r\nFollow-up      scientific exchanges\r\nPotential      collaborative research directions\r\nMentorship      connections between trainees and established investigators\r\n\r\n\n\nThese activities contribute to the long-term strengthening of the parasitology research community.\r\n\n\n4. Broader Impacts\r\n\n\nThe meeting advanced NSF-funded goals by promoting:\r\n\r\nWorkforce      development in biomedical and parasitology research\r\nInclusion of      trainees at multiple career stages\r\nDissemination      of research relevant to infectious disease biology and global health\r\n\r\n\n\nBy supporting trainee participation and facilitating knowledge exchange, the meeting contributed to the development of the next generation of scientists.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 06/17/2026\n\n\t\t\t\t\tSubmitted by: PurnimaBhanot\n"
+ }
+}

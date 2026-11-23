@@ -1,0 +1,154 @@
+{
+ "awd_id": "2419195",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "Ship Operations: R/V ROGER REVELLE",
+ "cfda_num": "47.050, 47.078",
+ "org_code": "06200000",
+ "po_phone": "7032928811",
+ "po_email": "rdufour@nsf.gov",
+ "po_sign_block_name": "Rose Dufour",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2028-12-31",
+ "tot_intn_awd_amt": 42825392.0,
+ "awd_amount": 28479901.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2026-07-15",
+ "awd_abstract_narration": "This project provides funding for the Research Vessel Roger Revelle to conduct oceanographic research missions supported by the National Science Foundation. The oceanographic research vessels of the Academic Research Fleet (ARF), operated by the academic institutions within the University-National Oceanographic Laboratory System (UNOLS) framework are multi-use facilities used to expand knowledge of the ocean environment. The surface work of these ships is complemented by human-occupied, remotely operated, and autonomous undersea vehicles and sensors that provide vital tools to understand the oceans and their resources.\r\n\r\nThese seagoing research and educational facilities enable scientists and students to study natural phenomena and train future scientists while on board state-of-the-art oceanographic research vessels utilizing high-quality instrumentation. The ship operators will also conduct learning activities for students and the general public including hands-on demonstrations of marine science research guided by faculty, students and ship crew members.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "GCP",
+ "org_div_long_name": "GEO - Core Programs",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Terry",
+   "pi_last_name": "Appelgate",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "Jr",
+   "pi_full_name": "Terry B Appelgate",
+   "pi_email_addr": "bappelgate@ucsd.edu",
+   "nsf_id": "000463246",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joost",
+   "pi_last_name": "van der Zwaag",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joost van der Zwaag",
+   "pi_email_addr": "jvanderzwaag@ucsd.edu",
+   "nsf_id": "000897288",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-San Diego Scripps Inst of Oceanography",
+  "inst_street_address": "8622 DISCOVERY WAY # 116",
+  "inst_street_address_2": "",
+  "inst_city_name": "LA JOLLA",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8585341293",
+  "inst_zip_code": "92093",
+  "inst_country_name": "United States",
+  "cong_dist_code": "50",
+  "st_cong_dist_code": "CA50",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA SAN DIEGO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "QJ8HMDK7MRM3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-San Diego Scripps Inst of Oceanography",
+  "perf_str_addr": "8622 DISCOVERY WAY RM 116",
+  "perf_city_name": "LA JOLLA",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "920931500",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "50",
+  "perf_st_cong_dist": "CA50",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "541100",
+   "pgm_ele_name": "SHIP OPERATIONS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5411",
+   "pgm_ref_txt": "SHIP OPERATIONS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627RB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "0100CYXXDB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 19229901.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2026,
+   "fund_oblg_amt": 9250000.0
+  }
+ ],
+ "por": null
+}

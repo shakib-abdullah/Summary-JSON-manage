@@ -1,0 +1,105 @@
+{
+ "awd_id": "2521776",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Travel: NSF Student Travel Grant for 2025 IEEE International Conference on Healthcare Informatics (IEEE ICHI)",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032920000",
+ "po_email": "gyamini@nsf.gov",
+ "po_sign_block_name": "Goli Yamini",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 20000.0,
+ "awd_amount": 20000.0,
+ "awd_min_amd_letter_date": "2025-04-30",
+ "awd_max_amd_letter_date": "2025-04-30",
+ "awd_abstract_narration": "This NSF travel award aims to support 10 students to travel to the 13th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2025) at the University of Calabria in Italy. The funding will cover expenditures of the students, including registration, travel, and lodging. Those students will present their research work either as a presentation talk or poster presentation, providing them a valuable platform to connect with the community and promote their scientific career development. The students will have the valuable opportunity to receive research feedback, participate in roundtable discussions, and discuss career advice from internationally recognized experts through the three-day conference programs. This award will not only promote next-generation trainings of future leaders and workforce in health informatics but also strengthen valuable US-Europe research connections in the interdisciplinary field, contributing to health informatics research, education, and practice.\r\n\r\nIEEE ICHI 2025 serves as the premier community forum focusing on the application of computer science principles, information science principles, information technology, and communication technology to address problems in healthcare, public health, and everyday wellness. This travel grant will enable the students from the US institutions to engage deeply with the international scientific community through diverse programs of the IEEE ICHI-25, including research presentations, tutorials, keynotes, and workshops. The programs cover three major tracks, including analytics track, human factors track, and system track, which will highlight novel technical contributions in health informatics, computational healthcare, and bioinformatics to conference participants. The award will foster research collaborations and exposes the student participants to different disciplinary approaches and support networking with other conference attendees, aiming to promote next-generation workforce development.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Xiaolei",
+   "pi_last_name": "Huang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Xiaolei Huang",
+   "pi_email_addr": "xiaolei.huang@missouri.edu",
+   "nsf_id": "000845551",
+   "pi_start_date": "2025-04-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Memphis",
+  "inst_street_address": "115 JOHN WILDER TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "MEMPHIS",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "9016783251",
+  "inst_zip_code": "381520001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "TN09",
+  "org_lgl_bus_name": "UNIVERSITY OF MEMPHIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F2VSMAKDH8Z7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Memphis",
+  "perf_str_addr": "115 JOHN WILDER TOWER",
+  "perf_city_name": "MEMPHIS",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "381520001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "TN09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "801800",
+   "pgm_ele_name": "Smart and Connected Health"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "8018",
+   "pgm_ref_txt": "Smart and Connected Health"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 20000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This NSF Student Travel Grant (IIS-2521776) supported 11 U.S.-based students to participate in the 13th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2025), held June 18&ndash;21, 2025 at the University of Calabria in Rende (Cosenza), Italy. The students come from different backgrounds and US institutions of high school graduate, undergraduate, master's, and PhD programs.&nbsp;The award covered essential costs including conference registration, travel, and lodging.</p>\r\n<p><strong>Intellectual Merit</strong>: IEEE ICHI is a premier forum for applying computer and information sciences to healthcare, public health, and wellness. The funded students engaged with cutting-edge research across the conference&rsquo;s major tracks (analytics, human factors, and systems) and participated in keynotes, tutorials, workshops, and technical sessions. Students also presented peer-reviewed research through oral talks and posters on topics such as improving robustness in healthcare prediction, developing reliable models for clinical outcomes, and exploring privacy-preserving and large language model techniques for clinical data. Several students highlighted the importance of transparency and explainability for building clinician trust and increasing the likelihood that AI methods can be adopted in practice.</p>\r\n<p><strong>Broader Impacts</strong>: The award directly advanced workforce development in science and engineering by providing hands-on training in scientific communication, networking, and career development. Students gained experience presenting to an international audience, responding to questions from experts, and learning how to frame their research for diverse stakeholders. Mentoring activities (e.g., doctoral consortium and mentoring programs) provided individualized feedback and guidance that will shape students&rsquo; next research steps and dissertation trajectories. Beyond technical learning, the program strengthened US participation in international health informatics and built lasting U.S.&ndash;Europe connections.</p>\r\n<p>Overall, this travel grant achieved its goals of expanding access to a leading international venue, amplifying student research dissemination, strengthening research training, and supporting the development of the next generation of health informatics researchers and practitioners. Optional images that could accompany this report include a group photo of student awardees, photos of poster/oral presentations, and conference activities that illustrate mentoring and community-building.</p><br>\n<p>\n Last Modified: 03/28/2026<br>\nModified by: Xiaolei&nbsp;Huang</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738546686_1000022505--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738546686_1000022505--rgov-800width.jpg\" title=\"Keynote\"><img src=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738546686_1000022505--rgov-66x44.jpg\" alt=\"Keynote\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Students engaged with the keynote sessions.</div>\n<div class=\"imageCredit\">Mayira H Sharif</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Xiaolei&nbsp;Huang\n<div class=\"imageTitle\">Keynote</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738627361_30898a46_40ae_4b81_b71f_d1dc184806f3--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738627361_30898a46_40ae_4b81_b71f_d1dc184806f3--rgov-800width.jpg\" title=\"Student Research Presentation\"><img src=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738627361_30898a46_40ae_4b81_b71f_d1dc184806f3--rgov-66x44.jpg\" alt=\"Student Research Presentation\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Student Research Presentation</div>\n<div class=\"imageCredit\">Coralie Phanord</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Xiaolei&nbsp;Huang\n<div class=\"imageTitle\">Student Research Presentation</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738440668_Picture1--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738440668_Picture1--rgov-800width.jpg\" title=\"Networking activities\"><img src=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738440668_Picture1--rgov-66x44.jpg\" alt=\"Networking activities\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Researchers gathering at the historical city.</div>\n<div class=\"imageCredit\">Amanda Glime</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Xiaolei&nbsp;Huang\n<div class=\"imageTitle\">Networking activities</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738203808_1000023007--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738203808_1000023007--rgov-800width.jpg\" title=\"Networking sessions\"><img src=\"/por/images/Reports/POR/2026/2521776/2521776_10979167_1774738203808_1000023007--rgov-66x44.jpg\" alt=\"Networking sessions\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Networking sessions between students and leading researchers.</div>\n<div class=\"imageCredit\">Mayira H Sharif</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Xiaolei&nbsp;Huang\n<div class=\"imageTitle\">Networking sessions</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis NSF Student Travel Grant (IIS-2521776) supported 11 U.S.-based students to participate in the 13th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2025), held June 1821, 2025 at the University of Calabria in Rende (Cosenza), Italy. The students come from different backgrounds and US institutions of high school graduate, undergraduate, master's, and PhD programs.The award covered essential costs including conference registration, travel, and lodging.\r\n\n\nIntellectual Merit: IEEE ICHI is a premier forum for applying computer and information sciences to healthcare, public health, and wellness. The funded students engaged with cutting-edge research across the conferences major tracks (analytics, human factors, and systems) and participated in keynotes, tutorials, workshops, and technical sessions. Students also presented peer-reviewed research through oral talks and posters on topics such as improving robustness in healthcare prediction, developing reliable models for clinical outcomes, and exploring privacy-preserving and large language model techniques for clinical data. Several students highlighted the importance of transparency and explainability for building clinician trust and increasing the likelihood that AI methods can be adopted in practice.\r\n\n\nBroader Impacts: The award directly advanced workforce development in science and engineering by providing hands-on training in scientific communication, networking, and career development. Students gained experience presenting to an international audience, responding to questions from experts, and learning how to frame their research for diverse stakeholders. Mentoring activities (e.g., doctoral consortium and mentoring programs) provided individualized feedback and guidance that will shape students next research steps and dissertation trajectories. Beyond technical learning, the program strengthened US participation in international health informatics and built lasting U.S.Europe connections.\r\n\n\nOverall, this travel grant achieved its goals of expanding access to a leading international venue, amplifying student research dissemination, strengthening research training, and supporting the development of the next generation of health informatics researchers and practitioners. Optional images that could accompany this report include a group photo of student awardees, photos of poster/oral presentations, and conference activities that illustrate mentoring and community-building.\t\t\t\t\tLast Modified: 03/28/2026\n\n\t\t\t\t\tSubmitted by: XiaoleiHuang\n"
+ }
+}

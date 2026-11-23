@@ -1,0 +1,117 @@
+{
+ "awd_id": "2432091",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: Data- and model-driven optimization of the SZ4D MultiArray: An on-shore/offshore network for integrated observations of subduction zone geohazards",
+ "cfda_num": "47.050",
+ "org_code": "06040200",
+ "po_phone": "7032925081",
+ "po_email": "emestes@nsf.gov",
+ "po_sign_block_name": "Emily Estes",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 19183.0,
+ "awd_amount": 19183.0,
+ "awd_min_amd_letter_date": "2025-03-26",
+ "awd_max_amd_letter_date": "2025-03-26",
+ "awd_abstract_narration": "Geohazards pose large risks at geologically active continental margins. These geohazards are interconnected and thus difficult to study in isolation. The goal of this project is to bring together experts to develop plans for an integrated array of instruments to observe these hazards. The array will be designed using Chile as a case study. This is a unique location where frequent events and existing networks provide a global understanding of interacting hazards.  Teams of experts in computer modeling and technical planning will design sub-arrays for earthquake, volcanic, and landslide observations. Teams will also compile new catalogs of earthquakes and landslide susceptibility in the study area. The teams will meet in a 3-day workshop to synthesize results. Broad input from the scientific community will be solicited through a series of webinars. New models and catalogs will be shared openly through the SZ4D website and data repositories to benefit communities exposed to subduction-related hazards in the U.S. and internationally.\r\n\r\nSubduction of ocean lithosphere results in the largest earthquakes, volcanic activity, and landscapes highly prone to destructive landslides. For decades research related to subduction and related geohazards has proceeded piecemeal. This research will provide the basis for an overarching framework for integrated studies that can directly address the linkages between earthquake, volcano, tsunami, and landslide geohazards. This award will support a series of modeling studies and technical planning that will be used to design three overlapping arrays of instrumentation at the Chile Subduction Zone. Chile is unique in combining a high level of geological activity and good logistical access. The instrument array will be designed to observe a broad range of earthquake, volcanic, and landslide processes. The work is organized into ten work packages. Five will assess and plan various aspects of the seismic detection and geodetic network. Two will address sediment and hydrologic transport for landslides. Two will address using seismicity to forecast volcanic processes. The final work package will bring together the others with a  three-day workshop and with scientific community input via a series of webinars. The connection between this research and the SZ4D initiative makes very clear the connection of this planning activity to benefit people who live with subduction-related geohazards in the U.S. and globally.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OCE",
+ "org_div_long_name": "Division Of Ocean Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Laura",
+   "pi_last_name": "Wallace",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Laura Wallace",
+   "pi_email_addr": "lwallace@ig.utexas.edu",
+   "nsf_id": "000608926",
+   "pi_start_date": "2025-03-26",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Erik",
+   "pi_last_name": "Fredrickson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Erik Fredrickson",
+   "pi_email_addr": "erikfred@utexas.edu",
+   "nsf_id": "0000A064S",
+   "pi_start_date": "2025-03-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "X5NKD2NFF2V3",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "10100 Burnet Rd. ROC/Bldg 196",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787584445",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "37",
+  "perf_st_cong_dist": "TX37",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "162000",
+   "pgm_ele_name": "Marine Geology and Geophysics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1620",
+   "pgm_ref_txt": "MARINE GEOLOGY AND GEOPHYSICS"
+  },
+  {
+   "pgm_ref_code": "4444",
+   "pgm_ref_txt": "INTERDISCIPLINARY PROPOSALS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 19183.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>A major aim of this work is to undertake analysis to inform the design of offshore instrument networks that can detect offshore &ldquo;silent&rdquo; or &ldquo;slow motion&rdquo; earthquakes at subduction zones, where one tectonic plate dives beneath another.&nbsp; Subduction zones produce the planet&rsquo;s largest and deadliest earthquakes, such as the 2004 Indian Ocean M9.2 earthquake, and 1960 Chile M9.5 Earthquake. There is mounting evidence that such earthquakes could be preceded by precursory swarms and/or &ldquo;slow motion&rdquo; earthquakes, which can last days to months.&nbsp; These slow motion earthquakes unfold over weeks to months, and do not produce the seismic energy radiation that normal seismic events can produce, so they are difficult to detect without monitoring networks capable of detecting centimeter-level displacements of the Earth&rsquo;s surface directly overlying the area where the slow motion earthquake is occurring. &nbsp;</p>\r\n<p>As most of the largest subduction earthquakes occur on the offshore plate boundary, a key component of being able to detect possible slow motion earthquakes (that may be a precursor to great subduction earthquakes) are the establishment of offshore monitoring networks.&nbsp; Such networks (particularly if they are designed appropriately) are critical to improving forecasts of hazards posed by our planet&rsquo;s most dangerous earthquake sources.&nbsp; Continuous measurements of changes in seafloor pressure due to vertical centimeter-level displacement of the seabed have proven to be highly successful in detecting offshore slow motion earthquakes offshore New Zealand and Japan. This is because the seafloor pressure sensors are measuring pressure at the seabed due to the overlying water column, and if the seabed goes up in a slow motion earthquake a pressure decrease will be recorded (as less water is overlying the seabed), and the opposite will be true if the seabed drops down (pressure increase). However, changes in the water column due to oceanographic circulation processes (which strongly impact seafloor pressure measurements) degrade our ability to detect these events, and we must be able to reduce the &ldquo;oceanographic noise&rdquo; in seafloor pressure datasets.&nbsp; The main aim of our work in this project is to assess the ability to remove oceanographic noise in seafloor pressure datasets offshore Chile, and use this to inform the design of future offshore networks that can detect centimeter-level vertical movement of the seabed during slow motion earthquakes.</p>\r\n<p>Previous studies in Cascadia and New Zealand have shown that having pressure sensor reference sites outside of the area of slow motion earthquakes, but at similar water depths to the network overlying these slow motion earthquakes is currently our best way to reduce this oceanographic noise, and provide centimeter-level sensitivity to seabed movement.&nbsp; Using reference sites in similar water depths allows us to take advantage of the common oceanographic signals between the reference sites and the rest of the network to remove the ocean noise from the rest of the network.&nbsp;</p>\r\n<p>In this project we undertook analysis of existing oceanographic models offshore Chile to inform an optimal design of seafloor pressure sensor networks (with appropriate reference sites to mitigate oceanographic noise) to capture vertical seabed deformation due slow motion earthquakes on the offshore Chilean subduction thrust.&nbsp; A key aim was to establish whether or not the common water depth reference site approach will be effective here, and to establish where reference sites should be positioned to optimize our ability to detect slow motion earthquakes. Our analysis of oceanographic models in Chile have revealed that the oceanographic coherency along the coast (at similar water depths) is very strong (over 100s of km), and that utilizing reference sites will provide resolution of cm-level vertical deformation. This is particularly the case if the reference sites are within a few 100 meters of water depth (for shallow water stations that are at less &lt;1000 m deep), or within several 100 meters of water depth (for stations deeper than 2000 m).&nbsp; This analysis will enable optimization of design of a network of seafloor pressure sensors at the Chilean subduction zone that will ultimately improve our ability to forecast the likelihood of earthquakes there.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/10/2026<br>\nModified by: Laura&nbsp;Wallace</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nA major aim of this work is to undertake analysis to inform the design of offshore instrument networks that can detect offshore silent or slow motion earthquakes at subduction zones, where one tectonic plate dives beneath another. Subduction zones produce the planets largest and deadliest earthquakes, such as the 2004 Indian Ocean M9.2 earthquake, and 1960 Chile M9.5 Earthquake. There is mounting evidence that such earthquakes could be preceded by precursory swarms and/or slow motion earthquakes, which can last days to months. These slow motion earthquakes unfold over weeks to months, and do not produce the seismic energy radiation that normal seismic events can produce, so they are difficult to detect without monitoring networks capable of detecting centimeter-level displacements of the Earths surface directly overlying the area where the slow motion earthquake is occurring. \r\n\n\nAs most of the largest subduction earthquakes occur on the offshore plate boundary, a key component of being able to detect possible slow motion earthquakes (that may be a precursor to great subduction earthquakes) are the establishment of offshore monitoring networks. Such networks (particularly if they are designed appropriately) are critical to improving forecasts of hazards posed by our planets most dangerous earthquake sources. Continuous measurements of changes in seafloor pressure due to vertical centimeter-level displacement of the seabed have proven to be highly successful in detecting offshore slow motion earthquakes offshore New Zealand and Japan. This is because the seafloor pressure sensors are measuring pressure at the seabed due to the overlying water column, and if the seabed goes up in a slow motion earthquake a pressure decrease will be recorded (as less water is overlying the seabed), and the opposite will be true if the seabed drops down (pressure increase). However, changes in the water column due to oceanographic circulation processes (which strongly impact seafloor pressure measurements) degrade our ability to detect these events, and we must be able to reduce the oceanographic noise in seafloor pressure datasets. The main aim of our work in this project is to assess the ability to remove oceanographic noise in seafloor pressure datasets offshore Chile, and use this to inform the design of future offshore networks that can detect centimeter-level vertical movement of the seabed during slow motion earthquakes.\r\n\n\nPrevious studies in Cascadia and New Zealand have shown that having pressure sensor reference sites outside of the area of slow motion earthquakes, but at similar water depths to the network overlying these slow motion earthquakes is currently our best way to reduce this oceanographic noise, and provide centimeter-level sensitivity to seabed movement. Using reference sites in similar water depths allows us to take advantage of the common oceanographic signals between the reference sites and the rest of the network to remove the ocean noise from the rest of the network.\r\n\n\nIn this project we undertook analysis of existing oceanographic models offshore Chile to inform an optimal design of seafloor pressure sensor networks (with appropriate reference sites to mitigate oceanographic noise) to capture vertical seabed deformation due slow motion earthquakes on the offshore Chilean subduction thrust. A key aim was to establish whether or not the common water depth reference site approach will be effective here, and to establish where reference sites should be positioned to optimize our ability to detect slow motion earthquakes. Our analysis of oceanographic models in Chile have revealed that the oceanographic coherency along the coast (at similar water depths) is very strong (over 100s of km), and that utilizing reference sites will provide resolution of cm-level vertical deformation. This is particularly the case if the reference sites are within a few 100 meters of water depth (for shallow water stations that are at less \r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 06/10/2026\n\n\t\t\t\t\tSubmitted by: LauraWallace\n"
+ }
+}

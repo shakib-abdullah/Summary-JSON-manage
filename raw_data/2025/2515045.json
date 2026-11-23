@@ -1,0 +1,108 @@
+{
+ "awd_id": "2515045",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Frontiers of Engineering Symposia (2025 JAFOE, 2025 USFOE, 2025 EU-US FOE)",
+ "cfda_num": "47.041",
+ "org_code": "07200000",
+ "po_phone": "7032922548",
+ "po_email": "lhowe@nsf.gov",
+ "po_sign_block_name": "Louise R. Howe",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 150000.0,
+ "awd_amount": 150000.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2026-05-29",
+ "awd_abstract_narration": "The Frontiers of Engineering (FOE) Symposia, organized by the National Academy of Engineering, provide emerging engineering leaders from academia, industry, and government laboratories the opportunity to share research insights to facilitate an interdisciplinary transfer of knowledge and research methodologies. The nature of emerging technologies and how they fit together to create products and processes that drive economic growth makes it essential that engineers understand research developments, techniques and approaches beyond their own discipline. The FOE symposia serve as a catalyst to spur engineering innovation and foster collaborative networks of researchers within the United States and between engineers from the United States and partnering countries. The FOE program has the potential to benefit society both by supporting innovation and by increasing the visibility of engineering and the important ways in which engineers serve society.\r\n\r\nThis award will provide partial support for three Frontiers of Engineering (FOE) symposia, to be held in 2025. These symposia, organized by the National Academy of Engineering (NAE) in concert with international partner organizations, are for early career researchers. The meetings to be funded by this award in 2025 are: Japan-America FOE (June, 2025; San Diego, CA); US FOE (September, 2025; Philadelphia, PA); and EU-US FOE (October, 2025; Bordeaux, France). The 2025 Japan-America FOE will focus on: Resilience in Fusion Science and Engineering, Heterogeneous Integration in Semiconductors, Clinical-Grade Wearable Sensors, Sustainable Ocean Engineering. Topics for the 2025 US FOE symposium are: Advances in Neural Engineering, Next Generation Computing/Quantum Computing, Fusion Energy, Sustainable Aerial Mobility. The topics for the EU-US FOE meeting in 2025 are: Crypto Systems and New Age of Distributed Consensus (including Security), Future Wireless Communications, Internet of Medical/Bio Things, Circular Economy of Polymers. Approximately 100 outstanding young engineers for the U.S. symposium and 30 from each country for the bilateral symposia will participate. Each 2.5 day symposium will include plenary sessions, break-out and poster sessions, and opportunities for developing collaborative research partnerships. Sessions will consist of presentations on cutting-edge research, innovations, and emerging research opportunities in engineering fields relevant to the symposium. FOE symposium papers, abstracts, presentation videos, and slides will be made available on the FOE website (www.naefrontiers.org).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ENCP",
+ "org_div_long_name": "ENG - Core Programs",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Former Principal Investigator",
+   "pi_first_name": "Vernon",
+   "pi_last_name": "Dunn",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "Jr",
+   "pi_full_name": "Vernon K Dunn",
+   "pi_email_addr": "vdunn@nae.edu",
+   "nsf_id": "0000A0760",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": "2026-05-29"
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Stephanie",
+   "pi_last_name": "Houser",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Stephanie A Houser",
+   "pi_email_addr": "shouser@nae.edu",
+   "nsf_id": "0000A8C4F",
+   "pi_start_date": "2026-05-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "National Academy of Sciences",
+  "inst_street_address": "2101 CONSTITUTION AVE NW",
+  "inst_street_address_2": "",
+  "inst_city_name": "WASHINGTON",
+  "inst_state_code": "DC",
+  "inst_state_name": "District of Columbia",
+  "inst_phone_num": "2023342254",
+  "inst_zip_code": "204180007",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DC00",
+  "org_lgl_bus_name": "NATIONAL ACADEMY OF SCIENCES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "PKFJZHG2MLG9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "National Academy of Sciences",
+  "perf_str_addr": "2101 CONSTITUTION AVE NW",
+  "perf_city_name": "WASHINGTON",
+  "perf_st_code": "DC",
+  "perf_st_name": "District of Columbia",
+  "perf_zip_code": "204180007",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DC00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "138500",
+   "pgm_ele_name": "SSA-Special Studies & Analysis"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 150000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Abstract-</strong>The Frontiers of Engineering (FOE) Symposia, organized by the National Academy of Engineering, bring together emerging engineering leaders from academia, industry, and government laboratories to share research insights and facilitate interdisciplinary transfer of knowledge and research methodologies. As emerging technologies increasingly converge to create products and processes that drive economic growth, engineers must understand research developments, techniques, and approaches beyond their own disciplines. The FOE symposia spur engineering innovation and foster collaborative networks within the United States and between U.S. engineers and international partners. The FOE program benefits society by supporting innovation and increasing the visibility of engineering and the important ways engineers serve society.</p>\r\n<p><strong>Project Outcomes- </strong>The FOE symposia supported by this award, organized by the NAE and international partner organizations, provide highly accomplished early-career engineers the opportunity to share research and technical work, facilitating interdisciplinary exchange across diverse engineering fields. This award provided partial support for the Japan-America FOE (JAFOE), June 1-4 in San Diego, California; US FOE, September 14-17 in Philadelphia, Pennsylvania; and EU-US FOE, October 20-23 in Bordeaux, France.</p>\r\n<p>JAFOE sessions: Resurgence in Fusion Science and Engineering, Heterogeneous Integration in Semiconductors, Clinical-Grade Wearable Sensors, and Sustainable Ocean Engineering.</p>\r\n<p>USFOE sessions: Advances in Neural Engineering, Quantum and Neuromorphic Computing Technologies, Fusion Energy, and Sustainable Aerial Mobility.</p>\r\n<p>EU-US FOE sessions: Crypto Systems and New Age of Distributed Consensus, Future Wireless Communications, Circular Economy of Polymers, and Internet of Medical/Bio Things.</p>\r\n<p>The meetings included networking time, poster sessions, and breakout groups. Presentation abstracts, slides, and full programs are available on the meeting websites at <a href=\"http://www.naefrontiers.org/\">www.naefrontiers.org</a>. <strong>&nbsp;</strong></p>\r\n<p>The following impacts were obtained from surveys of meeting attendees:</p>\r\n<ul>\r\n</ul>\r\n<p><strong>2025 JAFOE</strong></p>\r\n<p>Choice of topics: excellent or good &ndash; 98.0%</p>\r\n<p>Quality of presentations: excellent or good &ndash; 93.8%</p>\r\n<p>As a result of this symposium, did you:</p>\r\n<ul>\r\n<li>Identify potential collaborative opportunities: yes or possibly- 97.9%</li>\r\n<li>Identify potential applications of interdisciplinary methods to your research activities: 95.6%</li>\r\n</ul>\r\n<p>Anecdotal Evidence:</p>\r\n<ul>\r\n<li><em>Presenting and communicating our engineering research and challenges to industry outsiders is a clear growth area for most engineers. The opportunity to present to a strong technical audience is great to get critical feedback.</em></li>\r\n<li><em>I left this meeting re-energized to focus on the broader impacts and strategic directions for my research lab. I also have confidence that the professional connections I made are going to open future doors - and likewise will be looking for opportunities to include participants in future activities I plan.</em></li>\r\n</ul>\r\n<p><strong>2025 USFOE</strong></p>\r\n<p>Choice of topics: excellent or good- 91.5%</p>\r\n<p>Quality of presentations: excellent or good-95.7%</p>\r\n<p>As a result of this symposium, did you:</p>\r\n<ul>\r\n<li>Identify potential collaborative opportunities: yes or possibly- 88.9%</li>\r\n<li>Identify potential applications of interdisciplinary methods to your research activities: yes or possibly- 87.0%<em> </em></li>\r\n</ul>\r\n<p>Anecdotal Evidence:</p>\r\n<ul>\r\n<li><em>The extended question/answer sessions following the technical talks were the most&nbsp;</em><em>engaging I've ever witnessed. The questions - even from individuals outside the speaker's&nbsp;</em><em>field - were incredibly probing and thought provoking, leading to such a rich discussion&nbsp;</em><em>after every single presentation. As a speaker myself, some of the questions posed by the&nbsp;</em><em>audience helped to challenge assumptions I may have taken for granted in my work and&nbsp;</em><em>ultimately will help me craft research program content that is more impactful to my field&nbsp;</em><em>and the aviation community.</em></li>\r\n<li><em>I've been attending interdisciplinary events for over a decade, but this one was truly exceptional. The level of engagement and genuine interest everyone showed, regardless of their specific research area, was inspiring.</em></li>\r\n</ul>\r\n<p><em>&nbsp;</em><strong>2025 EU-US FOE</strong></p>\r\n<p>Choice of topics: excellent or good &ndash; 84.0%</p>\r\n<p>Quality of presentations: excellent or good &ndash; 92.0%</p>\r\n<p>As a result of this symposium, did you:</p>\r\n<ul>\r\n<li>Identify potential collaborative opportunities: yes or possibly- 95.6%</li>\r\n<li>Identify potential applications of interdisciplinary methods to your research activities: 95.6%</li>\r\n</ul>\r\n<p>&nbsp;Anecdotal Evidence:</p>\r\n<ul>\r\n<li><em>Gaining a valuable network of potential collaborators working at the boundaries of&nbsp;</em><em>fundamental engineering interdisciplines. Most especially for me, I found it cool to see&nbsp;</em><em>the future of my research through the lens of other people in another field, which I&nbsp;</em><em>believe would enable me to push the new frontiers of engineering innovations.</em></li>\r\n<li><em>Since my research is interdisciplinary, this symposium provides a unique opportunity for me to&nbsp;</em><em>get to know more experts who are not in my own fields, which is very rare when I attend&nbsp;</em><em>meetings in my own fields, such as IEEE conferences.</em></li>\r\n</ul>\r\n<p><strong>Grainger Grants and Engineering Research Visioning Alliance (ERVA) Idea Prize</strong></p>\r\n<p>Two $30,000 grants from The Grainger Foundation were awarded to 2024 U.S. FOE participants who developed collaborative research projects. The grants provide seed funding to support interdisciplinary research and projects stimulated by participation in U.S. FOE.</p>\r\n<p>The FOE ERVA Idea Prize recognizes FOE alumni who propose bold, cross disciplinary research visions with potential for broad societal impact. Awardees receive support to further develop their ideas and engage with research communities beyond their primary disciplines.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/29/2026<br>\nModified by: Stephanie&nbsp;A&nbsp;Houser</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nAbstract-The Frontiers of Engineering (FOE) Symposia, organized by the National Academy of Engineering, bring together emerging engineering leaders from academia, industry, and government laboratories to share research insights and facilitate interdisciplinary transfer of knowledge and research methodologies. As emerging technologies increasingly converge to create products and processes that drive economic growth, engineers must understand research developments, techniques, and approaches beyond their own disciplines. The FOE symposia spur engineering innovation and foster collaborative networks within the United States and between U.S. engineers and international partners. The FOE program benefits society by supporting innovation and increasing the visibility of engineering and the important ways engineers serve society.\r\n\n\nProject Outcomes- The FOE symposia supported by this award, organized by the NAE and international partner organizations, provide highly accomplished early-career engineers the opportunity to share research and technical work, facilitating interdisciplinary exchange across diverse engineering fields. This award provided partial support for the Japan-America FOE (JAFOE), June 1-4 in San Diego, California; US FOE, September 14-17 in Philadelphia, Pennsylvania; and EU-US FOE, October 20-23 in Bordeaux, France.\r\n\n\nJAFOE sessions: Resurgence in Fusion Science and Engineering, Heterogeneous Integration in Semiconductors, Clinical-Grade Wearable Sensors, and Sustainable Ocean Engineering.\r\n\n\nUSFOE sessions: Advances in Neural Engineering, Quantum and Neuromorphic Computing Technologies, Fusion Energy, and Sustainable Aerial Mobility.\r\n\n\nEU-US FOE sessions: Crypto Systems and New Age of Distributed Consensus, Future Wireless Communications, Circular Economy of Polymers, and Internet of Medical/Bio Things.\r\n\n\nThe meetings included networking time, poster sessions, and breakout groups. Presentation abstracts, slides, and full programs are available on the meeting websites at www.naefrontiers.org. \r\n\n\nThe following impacts were obtained from surveys of meeting attendees:\r\n\r\n\r\n\n\n2025 JAFOE\r\n\n\nChoice of topics: excellent or good  98.0%\r\n\n\nQuality of presentations: excellent or good  93.8%\r\n\n\nAs a result of this symposium, did you:\r\n\r\nIdentify potential collaborative opportunities: yes or possibly- 97.9%\r\nIdentify potential applications of interdisciplinary methods to your research activities: 95.6%\r\n\r\n\n\nAnecdotal Evidence:\r\n\r\nPresenting and communicating our engineering research and challenges to industry outsiders is a clear growth area for most engineers. The opportunity to present to a strong technical audience is great to get critical feedback.\r\nI left this meeting re-energized to focus on the broader impacts and strategic directions for my research lab. I also have confidence that the professional connections I made are going to open future doors - and likewise will be looking for opportunities to include participants in future activities I plan.\r\n\r\n\n\n2025 USFOE\r\n\n\nChoice of topics: excellent or good- 91.5%\r\n\n\nQuality of presentations: excellent or good-95.7%\r\n\n\nAs a result of this symposium, did you:\r\n\r\nIdentify potential collaborative opportunities: yes or possibly- 88.9%\r\nIdentify potential applications of interdisciplinary methods to your research activities: yes or possibly- 87.0% \r\n\r\n\n\nAnecdotal Evidence:\r\n\r\nThe extended question/answer sessions following the technical talks were the mostengaging I've ever witnessed. The questions - even from individuals outside the speaker'sfield - were incredibly probing and thought provoking, leading to such a rich discussionafter every single presentation. As a speaker myself, some of the questions posed by theaudience helped to challenge assumptions I may have taken for granted in my work andultimately will help me craft research program content that is more impactful to my fieldand the aviation community.\r\nI've been attending interdisciplinary events for over a decade, but this one was truly exceptional. The level of engagement and genuine interest everyone showed, regardless of their specific research area, was inspiring.\r\n\r\n\n\n2025 EU-US FOE\r\n\n\nChoice of topics: excellent or good  84.0%\r\n\n\nQuality of presentations: excellent or good  92.0%\r\n\n\nAs a result of this symposium, did you:\r\n\r\nIdentify potential collaborative opportunities: yes or possibly- 95.6%\r\nIdentify potential applications of interdisciplinary methods to your research activities: 95.6%\r\n\r\n\n\nAnecdotal Evidence:\r\n\r\nGaining a valuable network of potential collaborators working at the boundaries offundamental engineering interdisciplines. Most especially for me, I found it cool to seethe future of my research through the lens of other people in another field, which Ibelieve would enable me to push the new frontiers of engineering innovations.\r\nSince my research is interdisciplinary, this symposium provides a unique opportunity for me toget to know more experts who are not in my own fields, which is very rare when I attendmeetings in my own fields, such as IEEE conferences.\r\n\r\n\n\nGrainger Grants and Engineering Research Visioning Alliance (ERVA) Idea Prize\r\n\n\nTwo $30,000 grants from The Grainger Foundation were awarded to 2024 U.S. FOE participants who developed collaborative research projects. The grants provide seed funding to support interdisciplinary research and projects stimulated by participation in U.S. FOE.\r\n\n\nThe FOE ERVA Idea Prize recognizes FOE alumni who propose bold, cross disciplinary research visions with potential for broad societal impact. Awardees receive support to further develop their ideas and engage with research communities beyond their primary disciplines.\r\n\n\n\t\t\t\t\tLast Modified: 09/29/2026\n\n\t\t\t\t\tSubmitted by: StephanieAHouser\n"
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2449127",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: Evolving an Open-Source Ecosystem for the InVEST Modeling Suite for Mapping and Quantifying Values from Nature",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 279852.0,
+ "awd_amount": 299852.0,
+ "awd_min_amd_letter_date": "2025-07-02",
+ "awd_max_amd_letter_date": "2025-08-19",
+ "awd_abstract_narration": "Earth\u2019s lands, waters, and ecosystems underpin human well-being and economic prosperity, providing a wide array of ecosystem services from food to clean water to protection from flooding. An active ecosystem service research community continues to deepen the understanding of where and how nature contributes to human well-being, alongside growing demand from governments, financial institutions, companies, and society in support of decision-making and environmental management. This project will scope and develop a plan for transitioning one of the most widely used tools for mapping and quantifying ecosystem services into a full open-source ecosystem, accelerating innovation in and the use of ecosystem services science across the public and private sectors. By engaging a broad set of users and contributors, this project will support increased partnerships among research, industry, and policy makers to develop, maintain, and use the software and the ecosystem services information it provides, for the benefit of people and nature.\r\n\r\nThis project will scope the evolution of the open-source InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) suite of ecosystem service models into an open-source ecosystem with an open and engaged community of users and contributors. The project team will undertake surveys to understand the existing user and contributor community, develop guidance and onboarding materials to increase the intellectual contributor community, and organize a workshop of InVEST contributors and developers to create a plan for evolving InVEST governance and for measuring success. Through these efforts, the project team will chart a path towards an open-source ecosystem for InVEST that makes it easier and faster to incorporate ecosystem service science into research and decision-making.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gretchen",
+   "pi_last_name": "Daily",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gretchen C Daily",
+   "pi_email_addr": "gdaily@stanford.edu",
+   "nsf_id": "000171570",
+   "pi_start_date": "2025-07-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "EHZJU5ZHP968",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stanford University",
+  "perf_str_addr": "450 JANE STANFORD WAY",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1238",
+   "pgm_ref_txt": "TECH FOR SUSTAINABLE ENVIRONMENT"
+  },
+  {
+   "pgm_ref_code": "1718",
+   "pgm_ref_txt": "BIOINFORMATICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 299852.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Nature loss and the degradation of ecosystems and the services they provide are increasingly recognized as critical risks to economic prosperity, national security, and human well-being. For example, well-managed ecosystems support water security by maintaining water quality and regulating flows across seasons, support food security through soil fertility and pollination of nutritious and high-value crops, and reduce risks to people and critical infrastructure from natural hazards such as flooding.</p>\r\n<p>Growing recognition that the loss of nature threatens human well-being and economic prosperity has ignited demand for ecosystem service science aimed at understanding and predicting how and where nature benefits people.This project advanced the evolution of the InVEST&reg; (Integrated Valuation of Ecosystem Services and Tradeoffs) suite of ecosystem service models, one of the most widely used tools for mapping and evaluating ecosystem services, from an open-source project into an open-source ecosystem.</p>\r\n<p>This one-year project has resulted in new pathways for the ecosystem services community to contribute scientific advances to the InVEST platform and activation of a contributor community for InVEST. Most significantly, we created the InVEST Plugins Registry, a hub that makes advancements in ecosystem service modeling and analysis from the community shareable, accessible and discoverable. The design and governance of the InVEST Plugins Registry was informed by a workshop we held that brought together InVEST community members and potential contributors from across a wide range of institutions. We also developed new guidance and onboarding materials for InVEST contributors, including a redesigned website that makes contributor pathways clear.</p>\r\n<p>To engage the contributor community, we organized training events and conducted active outreach to potential contributors. We worked closely with an initial set of contributors to bring their advances into the Plugins Registry. This led to two new community-contributed plugins, making accessible new methods for model calibration as well as optimization across multiple objectives. We developed and led a highly successful InVEST Contributor Track series of sessions at the 2026 Natural Capital Symposium, which included training in contributing plugins and featured plugins contributors from the community. The plugins training attracted over 30 participants, including students and postdocs.The materials we developed for the Contributor Track will additionally support our workshop at the American Geophysical Union annual meeting in December, 2026. Finally, informed by our participation in NSF&rsquo;s I-Corps training and interviews and surveys with the InVEST community, we developed a strategy for future directions for the InVEST open-source ecosystem, including its long-term financial sustainability.</p>\r\n<p>The intellectual merit of this work lies in its capacity to accelerate innovation in ecosystem service science.The InVEST Plugins Registry now enables the ecosystem service science community to more rapidly share their advances in ecosystem service modeling and analysis and to access and build off others&rsquo; advances.</p>\r\n<p>By speeding the path from science to practice, the advancements made in this project set the stage for amplifying the use of ecosystem service science in decision-making across the public and private sectors. It strengthens the tools that governments, businesses and communities have for decisions such as land-use planning, coastal management, and infrastructure design. This project has also supported the professional development and training of graduate students, postdocs and early career researchers in geospatial ecosystem service modeling and open-source software best practices.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/13/2026<br>\nModified by: Gretchen&nbsp;C&nbsp;Daily</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nNature loss and the degradation of ecosystems and the services they provide are increasingly recognized as critical risks to economic prosperity, national security, and human well-being. For example, well-managed ecosystems support water security by maintaining water quality and regulating flows across seasons, support food security through soil fertility and pollination of nutritious and high-value crops, and reduce risks to people and critical infrastructure from natural hazards such as flooding.\r\n\n\nGrowing recognition that the loss of nature threatens human well-being and economic prosperity has ignited demand for ecosystem service science aimed at understanding and predicting how and where nature benefits people.This project advanced the evolution of the InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) suite of ecosystem service models, one of the most widely used tools for mapping and evaluating ecosystem services, from an open-source project into an open-source ecosystem.\r\n\n\nThis one-year project has resulted in new pathways for the ecosystem services community to contribute scientific advances to the InVEST platform and activation of a contributor community for InVEST. Most significantly, we created the InVEST Plugins Registry, a hub that makes advancements in ecosystem service modeling and analysis from the community shareable, accessible and discoverable. The design and governance of the InVEST Plugins Registry was informed by a workshop we held that brought together InVEST community members and potential contributors from across a wide range of institutions. We also developed new guidance and onboarding materials for InVEST contributors, including a redesigned website that makes contributor pathways clear.\r\n\n\nTo engage the contributor community, we organized training events and conducted active outreach to potential contributors. We worked closely with an initial set of contributors to bring their advances into the Plugins Registry. This led to two new community-contributed plugins, making accessible new methods for model calibration as well as optimization across multiple objectives. We developed and led a highly successful InVEST Contributor Track series of sessions at the 2026 Natural Capital Symposium, which included training in contributing plugins and featured plugins contributors from the community. The plugins training attracted over 30 participants, including students and postdocs.The materials we developed for the Contributor Track will additionally support our workshop at the American Geophysical Union annual meeting in December, 2026. Finally, informed by our participation in NSFs I-Corps training and interviews and surveys with the InVEST community, we developed a strategy for future directions for the InVEST open-source ecosystem, including its long-term financial sustainability.\r\n\n\nThe intellectual merit of this work lies in its capacity to accelerate innovation in ecosystem service science.The InVEST Plugins Registry now enables the ecosystem service science community to more rapidly share their advances in ecosystem service modeling and analysis and to access and build off others advances.\r\n\n\nBy speeding the path from science to practice, the advancements made in this project set the stage for amplifying the use of ecosystem service science in decision-making across the public and private sectors. It strengthens the tools that governments, businesses and communities have for decisions such as land-use planning, coastal management, and infrastructure design. This project has also supported the professional development and training of graduate students, postdocs and early career researchers in geospatial ecosystem service modeling and open-source software best practices.\r\n\n\n\t\t\t\t\tLast Modified: 10/13/2026\n\n\t\t\t\t\tSubmitted by: GretchenCDaily\n"
+ }
+}

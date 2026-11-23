@@ -1,0 +1,113 @@
+{
+ "awd_id": "2445783",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of a System for Stormwater Utility Management",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2024-12-04",
+ "awd_max_amd_letter_date": "2024-12-04",
+ "awd_abstract_narration": "The broader impact/commercial potential of this I-Corps project is the development of a comprehensive software tool for stormwater utility management. This innovation addresses the growing need for efficient and equitable stormwater fee implementation in municipalities across the United States. The software streamlines the process of developing rate structures, managing data, performing assessments, and aligning stormwater utility programs with management goals. By reducing the time and cost associated with establishing stormwater utilities, this tool enables local governments to more effectively fund critical infrastructure and programs. The potential impact extends to tens of millions of Americans and their associated property accounts. Furthermore, the software's versatility allows for conducting feasibility studies, implementing stormwater trading programs, and obtaining credits for best management practices. This innovation has the potential to significantly enhance environmental sustainability efforts and promote more resilient stormwater management strategies in communities nationwide. \r\n\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of software dedicated for stormwater utility decision support and management. As municipalities face mounting regulatory pressures to upgrade stormwater infrastructure, yet traditional fee structures based on equivalent residential units lack precision in addressing stormwater challenges comprehensively. Many municipalities utilize this approach without tools that allow for accurate credit accounting or incentives for behavior change, limiting their effectiveness. There is a critical need for analytical tools that guides municipalities in implementing fee structures tied to specific service levels, improving decision-making and planning. The proposed Stormwater Utility Management System provides a groundbreaking solution, enabling municipalities to determine equitable fees, abatements, and tradable stormwater credits. This system integrates advanced methods to assess stormwater impacts based on both quantity and quality, ensuring that fees reflect the actual impact of activities on the landscape. Beyond revenue generation, the system has the potential to influence property owners, businesses, and other stakeholders to adopt practices that protect water resources and reduce flooding. By offering municipalities a precise and adaptable tool, this project supports more effective and sustainable stormwater management practices.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "James",
+   "pi_last_name": "Hunter",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "Jr",
+   "pi_full_name": "James G Hunter",
+   "pi_email_addr": "james.hunter@morgan.edu",
+   "nsf_id": "000592740",
+   "pi_start_date": "2024-12-04",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Donghee",
+   "pi_last_name": "Kang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Donghee Kang",
+   "pi_email_addr": "donghee.kang@morgan.edu",
+   "nsf_id": "000684783",
+   "pi_start_date": "2024-12-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Morgan State University",
+  "inst_street_address": "1700 E COLD SPRING LN",
+  "inst_street_address_2": "",
+  "inst_city_name": "BALTIMORE",
+  "inst_state_code": "MD",
+  "inst_state_name": "Maryland",
+  "inst_phone_num": "4438853200",
+  "inst_zip_code": "212510001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MD07",
+  "org_lgl_bus_name": "MORGAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "KULSKCCZJT27",
+  "org_uei_num": "KULSKCCZJT27"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Morgan State University",
+  "perf_str_addr": "1700 E COLD SPRING LN",
+  "perf_city_name": "BALTIMORE",
+  "perf_st_code": "MD",
+  "perf_st_name": "Maryland",
+  "perf_zip_code": "212510001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MD07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8032",
+   "pgm_ref_txt": "Software Services and Applications"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-dc88a420-7fff-cfec-1519-06c4170f4954\"> </span></p>\r\n<p dir=\"ltr\">What Was Accomplished</p>\r\n<p dir=\"ltr\"><span>Major Activities:</span><span> The Entrepreneurial Lead conducted 125 customer discovery interviews with stormwater professionals across 20 states and the District of Columbia. Interviewees represented the full spectrum of the stormwater management ecosystem: large Phase I MS4 municipalities with established stormwater utility fee programs, smaller Phase II communities still building capacity, jurisdictions without dedicated fees, regional authorities, consulting firms, nonprofit organizations, and state agencies. All interviews followed the I-Corps customer discovery framework under the guidance of Industry Mentor David Hirschman of Hirschman Water &amp; Environment.&nbsp;</span></p>\r\n<p dir=\"ltr\"><span>Significant Results:</span><span> Four major findings emerged. First, dedicated funding fundamentally transforms what a stormwater program can accomplish. Municipalities with stormwater utility fees can plan multi-year capital projects, maintain specialized staff, and leverage federal grants, while those relying on general fund appropriations must compete with police, fire, and schools for every dollar. Funding alone, however, is not sufficient: institutional commitment and political support from elected officials are equally essential.</span></p>\r\n<p dir=\"ltr\"><span>Second, operations and maintenance represent the most neglected dimension of stormwater management. While federal grant programs focus on capital construction, the day-to-day maintenance of existing infrastructure, particularly detention basins built in the 1970s and 1980s that now require costly dredging, goes chronically underfunded. Practitioners described mounting \"hidden liabilities\" that will eventually demand attention regardless of budget constraints.</span></p>\r\n<p dir=\"ltr\"><span>Third, state-level policy is a decisive factor in program strength. States with enabling legislation and clear regulatory frameworks produce more capable local programs, while restrictive state environments create structural barriers that dedicated local staff cannot overcome on their own.</span></p>\r\n<p dir=\"ltr\"><span>Fourth, the team identified five distinct program archetypes across the stormwater sector, from mature enterprise utilities to emerging grant-driven programs and regional consortia, each with different needs, constraints, and readiness for technology adoption.</span></p>\r\n<p dir=\"ltr\"><span>Key Outcomes and Other Achievements:</span><span> The customer discovery process identified a combined market opportunity of approximately $960 million for solutions addressing data management inefficiencies and inequitable utility structures in the stormwater sector. Based on the evidence gathered, the team reached a GO decision, supporting movement toward the commercialization of a stormwater management platform. The team is actively exploring early-stage funding pathways to support product development.&nbsp;</span></p>\r\n<p dir=\"ltr\"><span>Impact</span></p>\r\n<p dir=\"ltr\"><span>Impact on the Principal Discipline:</span><span> This project makes a meaningful contribution to the fields of urban stormwater management and civil/environmental engineering. Prior research has largely focused on the technical dimensions of stormwater infrastructure, hydraulic design, pollutant removal, and green infrastructure performance, while the institutional, financial, and governance dimensions have received far less systematic attention. By conducting&nbsp; interviews spanning 21 jurisdictions and five distinct program archetypes, this project generates empirical knowledge about how funding structures, state policy environments, and organizational capacity shape stormwater program outcomes.&nbsp;</span></p>\r\n<p dir=\"ltr\"><span>Impact on Other Disciplines:</span><span> The findings of this project have relevance well beyond civil engineering. For urban planning and public administration, the research illuminates how local governments make infrastructure investment decisions under fiscal constraints, contributing to scholarship on municipal finance, public works governance, and climate adaptation planning. For environmental policy and regulation, the project provides on-the-ground evidence of how federal regulatory frameworks (such as MS4 permit requirements and Total Maximum Daily Load standards) translate, or fail to translate, into effective local action, with implications for how future policy might be designed to better support under-resourced communities. For science and technology studies, the project demonstrates the value of applying entrepreneurial customer discovery methods to understand public-sector technology needs, a methodological contribution applicable across infrastructure domains.</span></p>\r\n<p dir=\"ltr\"><span>Impact on Technology Transfer:</span><span> The customer discovery process directly informed the design trajectory of a stormwater utility management platform. Practitioner interviews revealed that existing tools fail to integrate data management, regulatory compliance tracking, and financial planning into a unified workflow, a gap that represents both a market opportunity and a public need. Based on the evidence gathered, the team reached a GO decision to pursue commercialization. The team is actively exploring early-stage funding opportunities to advance product development. If successfully commercialized, this technology would transfer directly to municipal stormwater programs, consulting firms, and regional authorities, organizations that collectively manage stormwater infrastructure serving tens of millions of Americans.</span></p>\r\n<p><span>Impact on Society Beyond Science and Technology:</span><span> Stormwater management is fundamentally a matter of public health, environmental quality, and community resilience. When stormwater programs are underfunded or poorly managed, the consequences fall disproportionately on lower-income communities that lack the political capital to secure dedicated utility fees or federal grants. By identifying the structural barriers that prevent equitable and effective stormwater management and by pointing toward technology solutions that could help close those gaps, this project contributes to efforts to improve water quality, reduce urban flooding, and advance environmental equity across the United States. Insights were shared with practitioners throughout the discovery process, and the forthcoming academic publication will further amplify these contributions by providing an evidence base for future policy development, funding decisions, and infrastructure investment.</span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 05/20/2026<br>\nModified by: Donghee&nbsp;Kang</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n \r\n\n\nWhat Was Accomplished\r\n\n\nMajor Activities: The Entrepreneurial Lead conducted 125 customer discovery interviews with stormwater professionals across 20 states and the District of Columbia. Interviewees represented the full spectrum of the stormwater management ecosystem: large Phase I MS4 municipalities with established stormwater utility fee programs, smaller Phase II communities still building capacity, jurisdictions without dedicated fees, regional authorities, consulting firms, nonprofit organizations, and state agencies. All interviews followed the I-Corps customer discovery framework under the guidance of Industry Mentor David Hirschman of Hirschman Water & Environment.\r\n\n\nSignificant Results: Four major findings emerged. First, dedicated funding fundamentally transforms what a stormwater program can accomplish. Municipalities with stormwater utility fees can plan multi-year capital projects, maintain specialized staff, and leverage federal grants, while those relying on general fund appropriations must compete with police, fire, and schools for every dollar. Funding alone, however, is not sufficient: institutional commitment and political support from elected officials are equally essential.\r\n\n\nSecond, operations and maintenance represent the most neglected dimension of stormwater management. While federal grant programs focus on capital construction, the day-to-day maintenance of existing infrastructure, particularly detention basins built in the 1970s and 1980s that now require costly dredging, goes chronically underfunded. Practitioners described mounting \"hidden liabilities\" that will eventually demand attention regardless of budget constraints.\r\n\n\nThird, state-level policy is a decisive factor in program strength. States with enabling legislation and clear regulatory frameworks produce more capable local programs, while restrictive state environments create structural barriers that dedicated local staff cannot overcome on their own.\r\n\n\nFourth, the team identified five distinct program archetypes across the stormwater sector, from mature enterprise utilities to emerging grant-driven programs and regional consortia, each with different needs, constraints, and readiness for technology adoption.\r\n\n\nKey Outcomes and Other Achievements: The customer discovery process identified a combined market opportunity of approximately $960 million for solutions addressing data management inefficiencies and inequitable utility structures in the stormwater sector. Based on the evidence gathered, the team reached a GO decision, supporting movement toward the commercialization of a stormwater management platform. The team is actively exploring early-stage funding pathways to support product development.\r\n\n\nImpact\r\n\n\nImpact on the Principal Discipline: This project makes a meaningful contribution to the fields of urban stormwater management and civil/environmental engineering. Prior research has largely focused on the technical dimensions of stormwater infrastructure, hydraulic design, pollutant removal, and green infrastructure performance, while the institutional, financial, and governance dimensions have received far less systematic attention. By conducting interviews spanning 21 jurisdictions and five distinct program archetypes, this project generates empirical knowledge about how funding structures, state policy environments, and organizational capacity shape stormwater program outcomes.\r\n\n\nImpact on Other Disciplines: The findings of this project have relevance well beyond civil engineering. For urban planning and public administration, the research illuminates how local governments make infrastructure investment decisions under fiscal constraints, contributing to scholarship on municipal finance, public works governance, and climate adaptation planning. For environmental policy and regulation, the project provides on-the-ground evidence of how federal regulatory frameworks (such as MS4 permit requirements and Total Maximum Daily Load standards) translate, or fail to translate, into effective local action, with implications for how future policy might be designed to better support under-resourced communities. For science and technology studies, the project demonstrates the value of applying entrepreneurial customer discovery methods to understand public-sector technology needs, a methodological contribution applicable across infrastructure domains.\r\n\n\nImpact on Technology Transfer: The customer discovery process directly informed the design trajectory of a stormwater utility management platform. Practitioner interviews revealed that existing tools fail to integrate data management, regulatory compliance tracking, and financial planning into a unified workflow, a gap that represents both a market opportunity and a public need. Based on the evidence gathered, the team reached a GO decision to pursue commercialization. The team is actively exploring early-stage funding opportunities to advance product development. If successfully commercialized, this technology would transfer directly to municipal stormwater programs, consulting firms, and regional authorities, organizations that collectively manage stormwater infrastructure serving tens of millions of Americans.\r\n\n\nImpact on Society Beyond Science and Technology: Stormwater management is fundamentally a matter of public health, environmental quality, and community resilience. When stormwater programs are underfunded or poorly managed, the consequences fall disproportionately on lower-income communities that lack the political capital to secure dedicated utility fees or federal grants. By identifying the structural barriers that prevent equitable and effective stormwater management and by pointing toward technology solutions that could help close those gaps, this project contributes to efforts to improve water quality, reduce urban flooding, and advance environmental equity across the United States. Insights were shared with practitioners throughout the discovery process, and the forthcoming academic publication will further amplify these contributions by providing an evidence base for future policy development, funding decisions, and infrastructure investment.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 05/20/2026\n\n\t\t\t\t\tSubmitted by: DongheeKang\n"
+ }
+}

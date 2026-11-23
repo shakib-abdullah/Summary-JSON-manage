@@ -1,0 +1,141 @@
+{
+ "awd_id": "2545076",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Workshop on Future Plans for Geotechnical Extreme Events Reconnaissance (GEER); Reston, Virginia; Spring 2026",
+ "cfda_num": "47.041",
+ "org_code": "07230000",
+ "po_phone": "7032922339",
+ "po_email": "gibiscon@nsf.gov",
+ "po_sign_block_name": "Giovanna Biscontin",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 49980.0,
+ "awd_amount": 49980.0,
+ "awd_min_amd_letter_date": "2025-08-22",
+ "awd_max_amd_letter_date": "2025-08-22",
+ "awd_abstract_narration": "The Geotechnical Extreme Events Reconnaissance (GEER) Association provides for investigation, data collection and public dissemination of information from natural disasters. GEER\u2019s mission to \u201cturn disasters into knowledge\u201d benefits the geotechnical engineering profession by providing information that can improve design and construction practices to reduce poor performance in extreme events; benefits the engineering profession by fostering innovative methods to perform reconnaissance to learn from extreme events; and benefits society by improving the management of risk in future extreme events. This project intends to identify opportunities for improvement moving forward to ensure the objectives remain relevant and new and emerging technologies are leveraged.\r\n\r\nThe methodology will be to conduct a two-day workshop to discuss and brainstorm opportunities for GEER. Specific objectives include identifying priorities for future efforts, developing best practices for incorporating new technology, and reshaping governance to provide adaptability and transparency. The workshop will include invited talks by professionals (academics and practitioners) with GEER experience, as well as panels shaped around specific questions and objectives. It will involve 30  participants intended to provide representation from senior and junior levels, people who have led and/or participated in GEER activities for many years and people who have not, people with a broad range of perspectives about different types of extreme events, and people with knowledge about a variety of geographic regions. The workshop will be preceded by an online survey among GEER members to collect additional input on critical topics that should be addressed during the workshop. The product of the workshop will be a report summarizing the discussions and providing guidance for the future of GEER.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Robert",
+   "pi_last_name": "Gilbert",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Robert B Gilbert",
+   "pi_email_addr": "bob_gilbert@mail.utexas.edu",
+   "nsf_id": "000295134",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Adda",
+   "pi_last_name": "Athanasopoulos-Zekkos",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adda Athanasopoulos-Zekkos",
+   "pi_email_addr": "adda.zekkos@berkeley.edu",
+   "nsf_id": "000514951",
+   "pi_start_date": "2025-08-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "X5NKD2NFF2V3",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "037E",
+   "pgm_ref_txt": "GEOTECHNICAL ENGINEERING"
+  },
+  {
+   "pgm_ref_code": "038E",
+   "pgm_ref_txt": "FOUNDATION ENGINEERING"
+  },
+  {
+   "pgm_ref_code": "042E",
+   "pgm_ref_txt": "HAZARD AND DISASTER RESPONSE"
+  },
+  {
+   "pgm_ref_code": "043E",
+   "pgm_ref_txt": "EARTHQUAKE ENGINEERING"
+  },
+  {
+   "pgm_ref_code": "1576",
+   "pgm_ref_txt": "NATIONL EARTHQK HZRD REDCT PRG"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "CVIS",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 49980.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The Geotechnical Extreme Events Reconnaissance Association provides for investigation, data collection and public dissemination of information from natural disasters. GEER&rsquo;s mission to &ldquo;turn disasters into knowledge&rdquo; benefits the geotechnical engineering profession by providing information that can improve design and construction practices to reduce poor performance in extreme events; benefits the engineering profession by fostering innovative methods to perform reconnaissance to learn from extreme events; and benefits society by improving the management of risk in future extreme events. GEER has been sponsored by the National Science Foundation for more than 20 years. This project was intended to identify opportunities for improvement moving forward to ensure the objectives remain relevant and new and emerging technologies are leveraged.</p>\r\n<p>The methodology was to conduct a two-day workshop to discuss and brainstorm how GEER could be improved. Specific objectives included identifying priorities for future efforts, developing best practices for incorporating new technology, and reshaping governance to provide adaptability and transparency. The workshop included invited talks by professionals (academics and practitioners) with GEER experience, as well as panels shaped around specific questions and objectives. It comprised 47 participants providing broad representation considering career stage, GEER experience, technical expertise and geographic familiarity. The workshop was preceded by an online survey among GEER members to collect additional input on topics to be addressed during the workshop. The product of the workshop was a report summarizing the discussions and providing guidance for the future of GEER.</p>\r\n<p>The recommendation coming from the workshop was transition GEER into a <strong>self-sustaining, multi-hazard, full-life-cycle professional institution </strong>governed with transparency and interdisciplinary agility. The following guidelines were provided to help achieve this goal:</p>\r\n<p><strong>1. Broaden Hazard Scope &amp; Define Deployment Thresholds</strong></p>\r\n<ul>\r\n<li><strong>Beyond      Earthquakes &amp; Hurricanes:</strong> Formally expand GEER&rsquo;s operational scope      to encompass non-seismic, cascading, chronic, and anthropogenic      hazards&mdash;including wildfires (hydrophobicity/debris flow), coastal scour,      tailings/dam failures, permafrost thaw, karst sinkholes, and      structural/facility collapses.</li>\r\n<li><strong>Deployment      Thresholds:</strong> Trigger missions based on <strong>data perishability, regional      anomaly, and transferable geotechnical learning potential</strong> rather than      event magnitude alone.</li>\r\n<li><strong>Cascading      Risk Frameworks:</strong> Include complex hazard chains (e.g., <em>Wildfire </em> <em>&nbsp;Landslide </em> <em>&nbsp;River Damming </em> <em>&nbsp;Flooding </em> <em>&nbsp;Infrastructure Failure</em>) to      avoid compartmentalized assessments.</li>\r\n</ul>\r\n<p><strong>2. Modernize Field Technology &amp; Data Curation</strong></p>\r\n<ul>\r\n<li><strong>Emerging      Technologies:</strong> Form a dedicated <strong>GEER Committee on Emerging      Technologies</strong> to advance the integration of autonomous robotics,      fiber-optic sensing, remote sensing, AI processing of large datasets, and      rapid subsurface characterization tools (e.g., porewater and saturation      profiling).</li>\r\n<li><strong>Data      Transparency &amp; Curation:</strong> Mandate the rapid upload of all geotagged      field data to <strong>DesignSafe</strong> with assigned DOIs. Standardize training      in field data acquisition to ensure data quality across multi-scale and      pre- vs. post-event performance observations.</li>\r\n</ul>\r\n<p><strong>3. Reframe Reconnaissance as a Full Project Life Cycle</strong></p>\r\n<ul>\r\n<li><strong>Pre-Event      Phase:</strong> Establish a <strong>Pre-Event Data Committee</strong> and a pilot <strong>\"Adopt-a-Region\"      initiative</strong> (enabling firms/universities to collect baseline LiDAR and      geospatial data in exchange for equipment access) to build baseline      datasets before events occur.</li>\r\n<li><strong>Operational      Execution:</strong> Standardize field activation, daily track/photo logging,      virtual-field team coordination, and tracking apps (e.g., SiteEye /      Sahagozu).</li>\r\n<li><strong>Multi-Tiered      Dissemination Policy:</strong> Update operational procedures to enforce a      three-stage publishing pipeline:<ol>\r\n<li><em>Immediate       (Days):</em> 1-page plain-language public summary / press release / video.</li>\r\n<li><em>Short-Term       (Weeks):</em> Early-release field summary report.</li>\r\n<li><em>Final       (Months):</em> Comprehensive GEER report complete with research seeds.</li>\r\n</ol></li>\r\n<li><strong>Clear      Operational Endpoints:</strong> Restrict GEER&rsquo;s direct role to capturing      perishable data and framing research questions to avoid legal liabilities      associated with long-term monitoring. Transition longitudinal studies to      designated local leads.</li>\r\n</ul>\r\n<p><strong>4. Drive Practice and Policy Impact</strong></p>\r\n<ul>\r\n<li><strong>Translational      Pathways:</strong> Actively track long-term impacts on design standards,      building codes, and policy (e.g., state legislation, OpEds, ASCE Public      Policy Committee links).</li>\r\n<li><strong>Community      Dissemination:</strong> Institutionalize regular GEER technical sessions at      Geo-Congresses, coordinate with the NHERI Technology Transfer Committee,      and build a culture of post-mission follow-up.</li>\r\n</ul>\r\n<p><strong>5. Modernize Governance &amp; Ensure Financial Sustainability</strong></p>\r\n<ul>\r\n<li><strong>Governance      Transition:</strong> Shift from a single PI-centric model toward an independent      <strong>501(c)(3) non-profit entity</strong> (similar to USUCGER) governed by an      elected Board of Directors, decentralized sub-committees (by      hazard/region), an Ombud position, and a dedicated Executive Director.</li>\r\n<li><strong>Diversified      Funding Model:</strong> Form an <strong>Endowment &amp; Corporate Committee</strong> to      secure corporate sponsorships and long-term endowment funds. Establish      formal agency contracts (USGS, USACE, NOAA, NIST, FEMA) and offer      monetized training workshops for industry while keeping individual and      student membership free.</li>\r\n<li><strong>Year-Round      Engagement:</strong> Host an <strong>Annual Hybrid GEER Meeting</strong>, institute      early-career mentorship programs, and establish virtual <strong>\"Home-Team\"      rosters</strong> (remote GIS, data curation, literature reviews) to keep the      community continuously engaged between major disaster events.</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/12/2026<br>\nModified by: Robert&nbsp;B&nbsp;Gilbert</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2545076/2545076_11006490_1791842122828_Workshop_Participants--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2545076/2545076_11006490_1791842122828_Workshop_Participants--rgov-800width.jpeg\" title=\"Workshop Participants\"><img src=\"/por/images/Reports/POR/2026/2545076/2545076_11006490_1791842122828_Workshop_Participants--rgov-66x44.jpeg\" alt=\"Workshop Participants\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Workshop participants, June 2 2026</div>\n<div class=\"imageCredit\">Photo courtesy of Krystina Scott, ASCE Geo-Institute</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Robert&nbsp;B&nbsp;Gilbert\n<div class=\"imageTitle\">Workshop Participants</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe Geotechnical Extreme Events Reconnaissance Association provides for investigation, data collection and public dissemination of information from natural disasters. GEERs mission to turn disasters into knowledge benefits the geotechnical engineering profession by providing information that can improve design and construction practices to reduce poor performance in extreme events; benefits the engineering profession by fostering innovative methods to perform reconnaissance to learn from extreme events; and benefits society by improving the management of risk in future extreme events. GEER has been sponsored by the National Science Foundation for more than 20 years. This project was intended to identify opportunities for improvement moving forward to ensure the objectives remain relevant and new and emerging technologies are leveraged.\r\n\n\nThe methodology was to conduct a two-day workshop to discuss and brainstorm how GEER could be improved. Specific objectives included identifying priorities for future efforts, developing best practices for incorporating new technology, and reshaping governance to provide adaptability and transparency. The workshop included invited talks by professionals (academics and practitioners) with GEER experience, as well as panels shaped around specific questions and objectives. It comprised 47 participants providing broad representation considering career stage, GEER experience, technical expertise and geographic familiarity. The workshop was preceded by an online survey among GEER members to collect additional input on topics to be addressed during the workshop. The product of the workshop was a report summarizing the discussions and providing guidance for the future of GEER.\r\n\n\nThe recommendation coming from the workshop was transition GEER into a self-sustaining, multi-hazard, full-life-cycle professional institution governed with transparency and interdisciplinary agility. The following guidelines were provided to help achieve this goal:\r\n\n\n1. Broaden Hazard Scope & Define Deployment Thresholds\r\n\r\nBeyond      Earthquakes & Hurricanes: Formally expand GEERs operational scope      to encompass non-seismic, cascading, chronic, and anthropogenic      hazardsincluding wildfires (hydrophobicity/debris flow), coastal scour,      tailings/dam failures, permafrost thaw, karst sinkholes, and      structural/facility collapses.\r\nDeployment      Thresholds: Trigger missions based on data perishability, regional      anomaly, and transferable geotechnical learning potential rather than      event magnitude alone.\r\nCascading      Risk Frameworks: Include complex hazard chains (e.g., Wildfire  Landslide  River Damming  Flooding  Infrastructure Failure) to      avoid compartmentalized assessments.\r\n\r\n\n\n2. Modernize Field Technology & Data Curation\r\n\r\nEmerging      Technologies: Form a dedicated GEER Committee on Emerging      Technologies to advance the integration of autonomous robotics,      fiber-optic sensing, remote sensing, AI processing of large datasets, and      rapid subsurface characterization tools (e.g., porewater and saturation      profiling).\r\nData      Transparency & Curation: Mandate the rapid upload of all geotagged      field data to DesignSafe with assigned DOIs. Standardize training      in field data acquisition to ensure data quality across multi-scale and      pre- vs. post-event performance observations.\r\n\r\n\n\n3. Reframe Reconnaissance as a Full Project Life Cycle\r\n\r\nPre-Event      Phase: Establish a Pre-Event Data Committee and a pilot \"Adopt-a-Region\"      initiative (enabling firms/universities to collect baseline LiDAR and      geospatial data in exchange for equipment access) to build baseline      datasets before events occur.\r\nOperational      Execution: Standardize field activation, daily track/photo logging,      virtual-field team coordination, and tracking apps (e.g., SiteEye /      Sahagozu).\r\nMulti-Tiered      Dissemination Policy: Update operational procedures to enforce a      three-stage publishing pipeline:\r\nImmediate       (Days): 1-page plain-language public summary / press release / video.\r\nShort-Term       (Weeks): Early-release field summary report.\r\nFinal       (Months): Comprehensive GEER report complete with research seeds.\r\n\r\nClear      Operational Endpoints: Restrict GEERs direct role to capturing      perishable data and framing research questions to avoid legal liabilities      associated with long-term monitoring. Transition longitudinal studies to      designated local leads.\r\n\r\n\n\n4. Drive Practice and Policy Impact\r\n\r\nTranslational      Pathways: Actively track long-term impacts on design standards,      building codes, and policy (e.g., state legislation, OpEds, ASCE Public      Policy Committee links).\r\nCommunity      Dissemination: Institutionalize regular GEER technical sessions at      Geo-Congresses, coordinate with the NHERI Technology Transfer Committee,      and build a culture of post-mission follow-up.\r\n\r\n\n\n5. Modernize Governance & Ensure Financial Sustainability\r\n\r\nGovernance      Transition: Shift from a single PI-centric model toward an independent      501(c)(3) non-profit entity (similar to USUCGER) governed by an      elected Board of Directors, decentralized sub-committees (by      hazard/region), an Ombud position, and a dedicated Executive Director.\r\nDiversified      Funding Model: Form an Endowment & Corporate Committee to      secure corporate sponsorships and long-term endowment funds. Establish      formal agency contracts (USGS, USACE, NOAA, NIST, FEMA) and offer      monetized training workshops for industry while keeping individual and      student membership free.\r\nYear-Round      Engagement: Host an Annual Hybrid GEER Meeting, institute      early-career mentorship programs, and establish virtual \"Home-Team\"      rosters (remote GIS, data curation, literature reviews) to keep the      community continuously engaged between major disaster events.\r\n\r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 10/12/2026\n\n\t\t\t\t\tSubmitted by: RobertBGilbert\n"
+ }
+}

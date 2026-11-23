@@ -1,0 +1,113 @@
+{
+ "awd_id": "2510328",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CRCNS US-German Research Proposal: Inception loops for interpretable tuning in macaque area V4",
+ "cfda_num": "47.070, 47.075",
+ "org_code": "05200000",
+ "po_phone": "7032927220",
+ "po_email": "jctoscan@nsf.gov",
+ "po_sign_block_name": "Joseph Toscano",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 700000.0,
+ "awd_amount": 335158.0,
+ "awd_min_amd_letter_date": "2024-11-20",
+ "awd_max_amd_letter_date": "2025-01-24",
+ "awd_abstract_narration": "A long-standing hypothesis posits that along a hierarchy of visual areas of the brain, increasingly complex humanly interpretable features are represented. Moreover, vision in primates is an active process, where information about a scene is acquired through sequences of short fixations of the eyes. Despite decades of study, the characterization of response properties of neurons along the visual cortical hierarchy and the tuning dynamics associated with free viewing is still far from complete. Two major reasons are the non-linear nature of information processing in the brain, and the high dimensionality of the visual input itself. To address these inherent challenges, the investigators will apply an innovative method called Inception Loops, that combines big data and artificial intelligence (AI) to study the dynamics of how information is represented along the cortex during visual perception. This work will shed light on the mechanisms of one of the greatest mysteries of life -- the biological basis of perception and cognition. An algorithmic understanding of visual perception will have impact beyond neuroscience in developing smarter AI with more humanlike capabilities. The team is committed to broadening participation in science through educational outreach focused on neuroscience and AI. Outreach activities include public events, apprenticeships, research internships, and courses. The team will also engage in public discussions about brain research, AI, society and ethics.\r\n\r\nInception Loops, an innovative method developed by the investigators, combine multi-neuronal recordings and deep learning (DL) predictive models. This enables a systematic in silico characterization of neural tuning which can be verified in vivo. In aim 1, the investigators will record neural responses from macaque V4 to rendered naturalistic stimuli during fixation. The responses of neurons will be modeled with DL models, using the images and geometric features of the visual scene extracted from the rendering process. This will enable them to systematically characterize the nonlinear tuning functions of the neurons, in particular single cell invariances, in terms of interpretable geometric scene features such as slant, surface curvature and object identities. In aim 2, the investigators will use DL models together with an experimental paradigm of interleaved fixating and free viewing trials to study how the spatial receptive fields and tuning functions of V4 neurons are modulated by saccades and salient features in natural scenes under natural viewing conditions. Saliency will be determined from eye movements in free viewing experiments on the same images and modeled using a state-of-the-art DL saliency model. They hypothesize that receptive fields are attracted towards salient features in an image even when saccades are not executed. Together, these two aims will yield a more comprehensive and interpretable understanding of the representation of latent geometric scene features in V4 and how they are modulated by salient features and saccades during free viewing.\r\n\r\nA companion project is being funded by the Federal Ministry of Education and Research, Germany (BMBF).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCP",
+ "org_div_long_name": "CSE - Core Programs",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andreas",
+   "pi_last_name": "Tolias",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andreas S Tolias",
+   "pi_email_addr": "tolias@stanford.edu",
+   "nsf_id": "000550988",
+   "pi_start_date": "2024-11-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Stanford University",
+  "inst_street_address": "450 JANE STANFORD WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "STANFORD",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6507232300",
+  "inst_zip_code": "943052004",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+  "org_prnt_uei_num": "EHZJU5ZHP968",
+  "org_uei_num": "HJD6G4D6TJY5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Stanford University",
+  "perf_str_addr": "450 JANE STANFORD WAY",
+  "perf_city_name": "STANFORD",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "943052004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "732700",
+   "pgm_ele_name": "CRCNS-Computation Neuroscience"
+  },
+  {
+   "pgm_ele_code": "749500",
+   "pgm_ele_name": "Robust Intelligence"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7327",
+   "pgm_ref_txt": "CRCNS"
+  },
+  {
+   "pgm_ref_code": "8089",
+   "pgm_ref_txt": "Understanding the Brain/Cognitive Scienc"
+  },
+  {
+   "pgm_ref_code": "8091",
+   "pgm_ref_txt": "BRAIN Initiative Res Support"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002122DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 335156.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>&nbsp;</p>\r\n<h2>1. Original Objectives and Scientific and Technical State of the Art</h2>\r\n<p>The goal of visual processing is to extract behaviorally relevant properties of a scene from retinal images. An established hypothesis in neuroscience holds that increasingly complex, interpretable scene features are represented along the ventral visual pathway of primates. Visual area V4 occupies a central intermediate position in this pathway and is involved in the processing of two- and three-dimensional shape, surface curvature, texture, and color. However, because of the nonlinear response properties of its neurons and the high dimensionality of natural stimuli, a comprehensive, model-based characterization of the stimulus dimensions relevant to V4 was lacking.</p>\r\n<p>The most interpretable approach available at the time was based on adaptive searches through simple parametric shapes using genetic algorithms, but it was limited by the restricted parameter space and the time available during experiments. More recent work showed that de novo synthesized images, obtained by &ldquo;inverting&rdquo; deep neural networks, drive neuronal activity in V4 substantially more strongly than parametric shapes. This indicated that the true directions of maximal response and the invariances of V4 neurons were still incompletely understood.</p>\r\n<p>This was the starting point for the project. It used the Inception Loop paradigm, in which a deep neural network is trained to predict previously recorded neuronal responses and is subsequently used as a digital copy of the neuronal population to calculate strongly activating stimuli (&ldquo;Most Exciting Inputs,&rdquo; MEIs) and experimentally verify them in a closed loop. Within the framework of German-American cooperation in Computational Neuroscience, the project combined the experimental electrophysiology of the Tolias laboratory (Baylor College of Medicine, later Stanford University) with the methodological expertise of the Sinz laboratory (University of G&ouml;ttingen).</p>\r\n<h2>2. Course of the Project</h2>\r\n<p>The project ran from July 1, 2022 to May 31, 2026. During the first phase, a rendering pipeline for controlled variation of scene properties, deep-learning predictive models for V4, and methods for tuning analysis based on these models were developed; model predictions were experimentally validated in closed-loop experiments in primates. Building on this work, the methodological framework was extended to data-driven foundation models of the visual cortex that integrate video stimuli, eye movements, behavior, and neuronal responses and provide the basis for modeling vision under natural viewing conditions. Research and methodological development were carried out throughout the project through a close transnational division of labor between the experimental and theoretical/methodological partners.</p>\r\n<h2>3. Key Results and Collaboration</h2>\r\n<p>The central result is evidence for a topological organization in V4: MEIs of individual neurons generated from predictive models and experimentally validated are more similar to one another along vertical cortical penetrations than between different recording sites; psychophysical experiments confirmed this finding. The results provide evidence that cortical columns could represent an organizational principle in V4. An analysis using task-specifically trained networks also showed that models for semantic classification tasks predict V4 responses best, suggesting a specialization of V4 toward behaviorally relevant variables.</p>\r\n<p>Several methodological approaches were developed: a diffusion-based approach for faster MEI generation; a rendering pipeline for systematic variation of interpretable scene properties, which showed that strongly activating stimuli for one neuron often correspond to strongly suppressing stimuli for other neurons; evidence, confirmed in both biological and artificial networks, for a structured excitation-inhibition scheme of population coding; and a differentiable 3D rendering pipeline for investigating neuronal selectivity for factors such as pose and illumination. For modeling vision under natural conditions, the open-source library Experanto was also developed; it standardizes experimental data in different formats for machine-learning models and is now being used in additional projects.</p>\r\n<p>The project deepened and institutionalized a long-standing German-American collaboration through joint doctoral supervision, research visits, and a shared DataJoint-managed data and model pipeline. All software packages were made available as open source via GitHub; key methods were incorporated into the internationally used Sensorium Benchmark Competition. The results were published at leading conferences (NeurIPS, ICLR) and in peer-reviewed journals (PLoS Computational Biology, eLife).</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/25/2026<br>\nModified by: Andreas&nbsp;S&nbsp;Tolias</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n\r\n1. Original Objectives and Scientific and Technical State of the Art\r\n\n\nThe goal of visual processing is to extract behaviorally relevant properties of a scene from retinal images. An established hypothesis in neuroscience holds that increasingly complex, interpretable scene features are represented along the ventral visual pathway of primates. Visual area V4 occupies a central intermediate position in this pathway and is involved in the processing of two- and three-dimensional shape, surface curvature, texture, and color. However, because of the nonlinear response properties of its neurons and the high dimensionality of natural stimuli, a comprehensive, model-based characterization of the stimulus dimensions relevant to V4 was lacking.\r\n\n\nThe most interpretable approach available at the time was based on adaptive searches through simple parametric shapes using genetic algorithms, but it was limited by the restricted parameter space and the time available during experiments. More recent work showed that de novo synthesized images, obtained by inverting deep neural networks, drive neuronal activity in V4 substantially more strongly than parametric shapes. This indicated that the true directions of maximal response and the invariances of V4 neurons were still incompletely understood.\r\n\n\nThis was the starting point for the project. It used the Inception Loop paradigm, in which a deep neural network is trained to predict previously recorded neuronal responses and is subsequently used as a digital copy of the neuronal population to calculate strongly activating stimuli (Most Exciting Inputs, MEIs) and experimentally verify them in a closed loop. Within the framework of German-American cooperation in Computational Neuroscience, the project combined the experimental electrophysiology of the Tolias laboratory (Baylor College of Medicine, later Stanford University) with the methodological expertise of the Sinz laboratory (University of Gttingen).\r\n2. Course of the Project\r\n\n\nThe project ran from July 1, 2022 to May 31, 2026. During the first phase, a rendering pipeline for controlled variation of scene properties, deep-learning predictive models for V4, and methods for tuning analysis based on these models were developed; model predictions were experimentally validated in closed-loop experiments in primates. Building on this work, the methodological framework was extended to data-driven foundation models of the visual cortex that integrate video stimuli, eye movements, behavior, and neuronal responses and provide the basis for modeling vision under natural viewing conditions. Research and methodological development were carried out throughout the project through a close transnational division of labor between the experimental and theoretical/methodological partners.\r\n3. Key Results and Collaboration\r\n\n\nThe central result is evidence for a topological organization in V4: MEIs of individual neurons generated from predictive models and experimentally validated are more similar to one another along vertical cortical penetrations than between different recording sites; psychophysical experiments confirmed this finding. The results provide evidence that cortical columns could represent an organizational principle in V4. An analysis using task-specifically trained networks also showed that models for semantic classification tasks predict V4 responses best, suggesting a specialization of V4 toward behaviorally relevant variables.\r\n\n\nSeveral methodological approaches were developed: a diffusion-based approach for faster MEI generation; a rendering pipeline for systematic variation of interpretable scene properties, which showed that strongly activating stimuli for one neuron often correspond to strongly suppressing stimuli for other neurons; evidence, confirmed in both biological and artificial networks, for a structured excitation-inhibition scheme of population coding; and a differentiable 3D rendering pipeline for investigating neuronal selectivity for factors such as pose and illumination. For modeling vision under natural conditions, the open-source library Experanto was also developed; it standardizes experimental data in different formats for machine-learning models and is now being used in additional projects.\r\n\n\nThe project deepened and institutionalized a long-standing German-American collaboration through joint doctoral supervision, research visits, and a shared DataJoint-managed data and model pipeline. All software packages were made available as open source via GitHub; key methods were incorporated into the internationally used Sensorium Benchmark Competition. The results were published at leading conferences (NeurIPS, ICLR) and in peer-reviewed journals (PLoS Computational Biology, eLife).\r\n\n\n\t\t\t\t\tLast Modified: 09/25/2026\n\n\t\t\t\t\tSubmitted by: AndreasSTolias\n"
+ }
+}

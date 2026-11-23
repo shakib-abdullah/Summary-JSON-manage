@@ -1,0 +1,113 @@
+{
+ "awd_id": "2530500",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Student Support for the 2025 American Society for Composites Annual Technical Conference; Dayton, Ohio; 6-8 October 2025",
+ "cfda_num": "47.041, 47.049",
+ "org_code": "07230000",
+ "po_phone": "7022924526",
+ "po_email": "ksolanki@nsf.gov",
+ "po_sign_block_name": "Kiran Solanki",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 43000.0,
+ "awd_amount": 43000.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2025-07-09",
+ "awd_abstract_narration": "This conference award is to provide travel support for participating students to attend the 2025 American Society for Composites (ASC) 40th Annual Technical Conference, to be held in Dayton, Ohio, 6-8 October 2025. The ASC conference, established in 1986, is the premier venue for disseminating fundamental research and technological advancements in composites materials and structures in the United States. The funds will be used to provide travel awards for approximately 30 students in STEM to attend the conference. The funds will also be used to support the development of professional development and community-building activities, including workshops, training sessions, and mentoring opportunities for these students during the conference. This award will offer students from US institutions of higher education unique opportunities to: i) engage with subject-matter experts from academia, industry, and government research organizations; ii) build a network of early-career researchers to foster future nationwide collaborations; and iii) deepen their scientific knowledge in the mechanics and manufacturing of composite materials by incorporating new research perspectives.\r\n\r\nBy supporting student participation in the ASC 2025 conference, this project will help expand the involvement of emerging researchers in the composite materials field, promote fresh perspectives and novel approaches to tackle the industry\u2019s future challenges, and contribute to talent retention and training of the next generation of researchers in advanced composites.\r\n\r\nThis project is jointly supported by the Mechanics of Materials and Structures (MoMS) program, the Advanced Manufacturing (AM) program and the DMR Polymers program.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Paulina",
+   "pi_last_name": "Diaz-Montiel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Paulina Diaz-Montiel",
+   "pi_email_addr": "pdiazmontiel@sandiego.edu",
+   "nsf_id": "000905827",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of San Diego",
+  "inst_street_address": "5998 ALCALA PARK FRNT",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN DIEGO",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "6192606825",
+  "inst_zip_code": "921102476",
+  "inst_country_name": "United States",
+  "cong_dist_code": "51",
+  "st_cong_dist_code": "CA51",
+  "org_lgl_bus_name": "UNIVERSITY OF SAN DIEGO",
+  "org_prnt_uei_num": "V6S1GT51XD56",
+  "org_uei_num": "V6S1GT51XD56"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of San Diego",
+  "perf_str_addr": "5998 ALCALA PARK FRNT",
+  "perf_city_name": "SAN DIEGO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "921102476",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "51",
+  "perf_st_cong_dist": "CA51",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163000",
+   "pgm_ele_name": "Mechanics of Materials and Str"
+  },
+  {
+   "pgm_ele_code": "177300",
+   "pgm_ele_name": "POLYMERS"
+  },
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 43000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The main objective of this project was to broaden student participation in the American Society for Composites (ASC) 40th Annual Technical Conference, held in Dayton, OH, on October 6-8, 2025. The project focused on three tasks: 1) distributing travel grants to increase student participation at the conference, 2) developing and organizing professional development activities for students before the conference, and 3) organizing in-person mentoring sessions and an education panel discussion focused on workforce development and emerging career opportunities in the composites field.</p>\r\n<p>A total of 77 students attended the ASC 40th conference. This attendance reflects ongoing efforts to sustain student participation, beginning with the first implementation of this project in 2024. The proportion of student attendees increased from 23% in 2014 to 38% in 2024 and remained at a comparable level of 37% in 2025. Of the 77 student attendees in 2025, 11 had also attended the ASC conference in 2024.</p>\r\n<p>A total of 51 student travel award applications were received from universities across the country, representing students at various academic levels, from undergraduates to Ph.D. candidates. This project provided travel grants to 30 students, while the ASC Executive Committee funded 10 additional student awards, bringing the total number of awardees to 40. Together, NSF and ASC supported approximately 52% of the 77 student attendees.</p>\r\n<p>Late-stage doctoral students comprised 40% of the award recipients (16 students), while master's and undergraduate students accounted for 15% (6 students) and 5% (2 students), respectively. The remaining recipients (16 students) were doctoral students at earlier stages of their studies. Notably, 40% of the awardees were attending the ASC conference for the first time. The selected student awardees represented 21 universities across 16 states. To broaden geographic participation, awards were intentionally distributed across different states.</p>\r\n<p>Three professional development events were organized as virtual workshops in the month leading up to the conference. These workshops covered effective conference presentation practices and networking strategies and provided opportunities for students to connect with professors and industry experts before the conference. The day before the conference, an in-person community-building activity was held at the Engineers Club of Dayton, allowing students to meet their peers in an informal setting.</p>\r\n<p>This project also supported the development and implementation of a new student-focused initiative: an in-person <em>Speed Mentoring</em> event at the conference. During this event, small groups of students were paired with mentors from academia, industry, and government for 15-minute discussions. Students then rotated to different tables to meet new mentors. This initiative was well received by both mentors and students. A total of 21 mentors from the ASC community volunteered to participate, and 42 students attended the event. A virtual Speed Mentoring session was also organized before the conference, during which students rotated through Zoom breakout rooms to engage with different mentors.</p>\r\n<p>For the second consecutive year, we organized an <em>Education Panel Discussion</em> at the conference to foster community-wide discussions on best practices for student training and preparation of the next generation of composite materials researchers and engineers. The panel, titled \"<em>Composites 2030: Education and Workforce Development for the Challenges and Opportunities Ahead\"</em>, featured professionals from industry, academia, and government. Panelists shared their perspectives on technological and workforce challenges shaping the future of composites, including the integration of early-career engineers into the workforce, essential skill sets for emerging careers, and strategies for curricular transformation.</p>\r\n<p>Student feedback collected through the post-conference exit survey indicates that the professional development activities supported students' preparation, networking, and career exploration. Among 40 respondents, 95% rated the presentation workshop 4 or 5 on a five-point scale, and the same percentage provided these ratings for the networking workshop. Additionally, 92.5% rated the value of speed mentoring in clarifying career questions 4 or 5. Open-ended responses complemented these findings, describing new research ideas, valuable professional connections, increased confidence, and clearer career goals. Students also emphasized the importance of the travel grant to their conference participation. Ten respondents (25% of student awardees) indicated that attending the ASC conference would have been difficult or impossible without the travel award.</p>\r\n<p>Supporting a growing network of students in composite materials serves national priorities by strengthening the future engineering workforce, fostering research partnerships, and advancing knowledge in composite mechanics and manufacturing. Interactions with researchers from academia, industry, and government at the ASC conference help students connect their work to current technical challenges and explore opportunities for future research and workforce integration. Broader student participation also brings new ideas and perspectives to the composites community and supports preparation of the future workforce. The student feedback, sustained participation, and successful implementation of the planned activities indicate that the project achieved its proposed objectives.</p><br>\n<p>\n Last Modified: 10/29/2026<br>\nModified by: Paulina&nbsp;Diaz-Montiel</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793259342276_PanelDiscussion_Oct7--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793259342276_PanelDiscussion_Oct7--rgov-800width.png\" title=\"Education Panel Discussion\"><img src=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793259342276_PanelDiscussion_Oct7--rgov-66x44.png\" alt=\"Education Panel Discussion\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Education panel discussion on student training and workforce development featuring distinguished composite experts from industry, academia, and government.</div>\n<div class=\"imageCredit\">Paulina Diaz-Montiel</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Paulina&nbsp;Diaz-Montiel\n<div class=\"imageTitle\">Education Panel Discussion</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793258955599_SpeedMentoring_GroupPhoto_Oct6--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793258955599_SpeedMentoring_GroupPhoto_Oct6--rgov-800width.jpg\" title=\"Speed Mentoring with Composite Experts\"><img src=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793258955599_SpeedMentoring_GroupPhoto_Oct6--rgov-66x44.jpg\" alt=\"Speed Mentoring with Composite Experts\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Students and mentors after the Speed Mentoring Event on October 6, 2026 during the ASC conference.</div>\n<div class=\"imageCredit\">Paulina Diaz-Montiel</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Paulina&nbsp;Diaz-Montiel\n<div class=\"imageTitle\">Speed Mentoring with Composite Experts</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793259178911_SpeedMentoring_Conversations_Oct6--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793259178911_SpeedMentoring_Conversations_Oct6--rgov-800width.jpg\" title=\"Speed Mentoring with Composite Experts\"><img src=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793259178911_SpeedMentoring_Conversations_Oct6--rgov-66x44.jpg\" alt=\"Speed Mentoring with Composite Experts\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Students and mentors at the Speed Mentoring Event on October 6, 2026 during the ASC conference.</div>\n<div class=\"imageCredit\">Paulina Diaz-Montiel</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Paulina&nbsp;Diaz-Montiel\n<div class=\"imageTitle\">Speed Mentoring with Composite Experts</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793258861314_StudentAwardees_EngineersClub_Oct5--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793258861314_StudentAwardees_EngineersClub_Oct5--rgov-800width.jpg\" title=\"Student Awardees 2025\"><img src=\"/por/images/Reports/POR/2026/2530500/2530500_10989988_1793258861314_StudentAwardees_EngineersClub_Oct5--rgov-66x44.jpg\" alt=\"Student Awardees 2025\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Student awardees networking at the Engineers Club of Dayton on October 5, 2025.</div>\n<div class=\"imageCredit\">Paulina Diaz-Montiel</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Paulina&nbsp;Diaz-Montiel\n<div class=\"imageTitle\">Student Awardees 2025</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe main objective of this project was to broaden student participation in the American Society for Composites (ASC) 40th Annual Technical Conference, held in Dayton, OH, on October 6-8, 2025. The project focused on three tasks: 1) distributing travel grants to increase student participation at the conference, 2) developing and organizing professional development activities for students before the conference, and 3) organizing in-person mentoring sessions and an education panel discussion focused on workforce development and emerging career opportunities in the composites field.\r\n\n\nA total of 77 students attended the ASC 40th conference. This attendance reflects ongoing efforts to sustain student participation, beginning with the first implementation of this project in 2024. The proportion of student attendees increased from 23% in 2014 to 38% in 2024 and remained at a comparable level of 37% in 2025. Of the 77 student attendees in 2025, 11 had also attended the ASC conference in 2024.\r\n\n\nA total of 51 student travel award applications were received from universities across the country, representing students at various academic levels, from undergraduates to Ph.D. candidates. This project provided travel grants to 30 students, while the ASC Executive Committee funded 10 additional student awards, bringing the total number of awardees to 40. Together, NSF and ASC supported approximately 52% of the 77 student attendees.\r\n\n\nLate-stage doctoral students comprised 40% of the award recipients (16 students), while master's and undergraduate students accounted for 15% (6 students) and 5% (2 students), respectively. The remaining recipients (16 students) were doctoral students at earlier stages of their studies. Notably, 40% of the awardees were attending the ASC conference for the first time. The selected student awardees represented 21 universities across 16 states. To broaden geographic participation, awards were intentionally distributed across different states.\r\n\n\nThree professional development events were organized as virtual workshops in the month leading up to the conference. These workshops covered effective conference presentation practices and networking strategies and provided opportunities for students to connect with professors and industry experts before the conference. The day before the conference, an in-person community-building activity was held at the Engineers Club of Dayton, allowing students to meet their peers in an informal setting.\r\n\n\nThis project also supported the development and implementation of a new student-focused initiative: an in-person Speed Mentoring event at the conference. During this event, small groups of students were paired with mentors from academia, industry, and government for 15-minute discussions. Students then rotated to different tables to meet new mentors. This initiative was well received by both mentors and students. A total of 21 mentors from the ASC community volunteered to participate, and 42 students attended the event. A virtual Speed Mentoring session was also organized before the conference, during which students rotated through Zoom breakout rooms to engage with different mentors.\r\n\n\nFor the second consecutive year, we organized an Education Panel Discussion at the conference to foster community-wide discussions on best practices for student training and preparation of the next generation of composite materials researchers and engineers. The panel, titled \"Composites 2030: Education and Workforce Development for the Challenges and Opportunities Ahead\", featured professionals from industry, academia, and government. Panelists shared their perspectives on technological and workforce challenges shaping the future of composites, including the integration of early-career engineers into the workforce, essential skill sets for emerging careers, and strategies for curricular transformation.\r\n\n\nStudent feedback collected through the post-conference exit survey indicates that the professional development activities supported students' preparation, networking, and career exploration. Among 40 respondents, 95% rated the presentation workshop 4 or 5 on a five-point scale, and the same percentage provided these ratings for the networking workshop. Additionally, 92.5% rated the value of speed mentoring in clarifying career questions 4 or 5. Open-ended responses complemented these findings, describing new research ideas, valuable professional connections, increased confidence, and clearer career goals. Students also emphasized the importance of the travel grant to their conference participation. Ten respondents (25% of student awardees) indicated that attending the ASC conference would have been difficult or impossible without the travel award.\r\n\n\nSupporting a growing network of students in composite materials serves national priorities by strengthening the future engineering workforce, fostering research partnerships, and advancing knowledge in composite mechanics and manufacturing. Interactions with researchers from academia, industry, and government at the ASC conference help students connect their work to current technical challenges and explore opportunities for future research and workforce integration. Broader student participation also brings new ideas and perspectives to the composites community and supports preparation of the future workforce. The student feedback, sustained participation, and successful implementation of the planned activities indicate that the project achieved its proposed objectives.\t\t\t\t\tLast Modified: 10/29/2026\n\n\t\t\t\t\tSubmitted by: PaulinaDiaz-Montiel\n"
+ }
+}

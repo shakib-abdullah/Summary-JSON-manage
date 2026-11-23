@@ -1,0 +1,105 @@
+{
+ "awd_id": "2507255",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: NIVA: A Multimodal Foundation Model for Actionable Earth System Intelligence",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922174",
+ "po_email": "rmehta@nsf.gov",
+ "po_sign_block_name": "Rajesh Mehta",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 304943.0,
+ "awd_amount": 304943.0,
+ "awd_min_amd_letter_date": "2025-05-09",
+ "awd_max_amd_letter_date": "2025-05-09",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is to provide businesses and governments with the essential environmental intelligence needed to navigate environmental volatility, including extreme weather (e.g. wildfires, floods, severe storms, heatwaves).  The project develops and tests an AI-driven foundation modeling framework of the atmosphere and ocean, which can be used for long-range weather forecasting, extreme weather event alerts, local-scale environmental intelligence, and others.  While AI methods have revolutionized weather forecasting, AI (Artificial Intelligence) foundation modeling has not yet been deployed for large-scale Earth system modeling beyond the atmosphere, which is necessary for environmental use cases beyond short-term weather.  As such, developing an AI-driven atmosphere-ocean foundation model is a high-risk, high-reward scientific innovation, and brings the power of AI to a broad range of environmental intelligence applications.  Success of this project would help fortify businesses, municipalities, and governments against environmental volatility, extreme weather, and uncertainty, ensuring continued economic vitality and resilience.  Businesses in many industries, including energy, agriculture, insurance, forestry, real estate, infrastructure, logistics, and finance, would benefit from deploying this technology.  \r\n\r\n\r\nThe primary focus of this project is on the development of an advanced multimodal AI foundation model for environmental intelligence that actively learns the foundational knowledge of the Earth system components and their interactions.  Incorporating the ocean and other components, all of which evolve over much longer time horizons than the atmosphere, will ensure the generalizability of the model to a range of present-day and future conditions. The model will be pretrained on the petabytes of Earth system model output, combined with decades of observational data (e.g. satellite data) and reanalyses, synthesizing the corpus of current physical knowledge of the Earth system. This will require parallel input/output optimization, distributed computing, and careful data chunking to avoid loss of information and minimize error compounding. The model will also be designed to be computationally efficient and fine-tunable for a variety of applications such as predicting environmental risk and extreme weather events, and sub-seasonal-to-seasonal forecasting.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kalai",
+   "pi_last_name": "Ramea",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kalai Ramea",
+   "pi_email_addr": "kalai@planette.ai",
+   "nsf_id": "000903112",
+   "pi_start_date": "2025-05-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "PLANETTE ANALYTICS INC",
+  "inst_street_address": "1215 4TH AVE 15TH FL",
+  "inst_street_address_2": "",
+  "inst_city_name": "SEATTLE",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "3238363057",
+  "inst_zip_code": "94536",
+  "inst_country_name": "United States",
+  "cong_dist_code": "14",
+  "st_cong_dist_code": "WA14",
+  "org_lgl_bus_name": "PLANETTE ANALYTICS INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M1NCQ7EMA977"
+ },
+ "perf_inst": {
+  "perf_inst_name": "PLANETTE ANALYTICS INC",
+  "perf_str_addr": "1250 Borregas Avenue",
+  "perf_city_name": "Sunnyvale",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "940891309",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "CA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "090Z",
+   "pgm_ref_txt": "CAS-Critical Aspects of Sustainability"
+  },
+  {
+   "pgm_ref_code": "1238",
+   "pgm_ref_txt": "TECH FOR SUSTAINABLE ENVIRONMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304943.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span>Scientific Machine Learning (SciML) is a subfield of Artificial Intelligence and the machine learning community in which algorithms </span><span>are tailored</span><span> to specific scientific disciplines, often through domain-guided learning. In recent years, SciML has transformed weather prediction by extending the capabilities of traditional numerical weather models. Although these developments are promising, such models have historically reached a predictive limit of about two to three weeks. This limitation arises because they rely almost exclusively on atmospheric data, which varies rapidly and therefore supports only short-interval training. As a result, while there is abundant atmospheric data, it does not enable long-range skill.</span></p>\r\n<p><span>To extend prediction beyond this 2-week limit, it is necessary to incorporate additional components of the Earth system, particularly the oceans. Oceans play a critical role because, beyond roughly two weeks, they begin to influence and inform the state of the atmosphere. Our work addresses this challenge by introducing a framework that integrates these broader Earth-system components, allowing us to capture the fundamental interactions among them. Through this approach, we surpass the existing state-of-the-art in two primary ways:</span></p>\r\n<ol>\r\n<li>Training on multi-million-year Earth system model simulations rather than solely on observational data.</li>\r\n<li><span> Observational ocean data is minimal because the ocean evolves slowly and offers relatively few realizations. By contrast, the simulation data provide a wide range of possible ocean states together with their co-varying atmospheric states, enabling much richer learning.</span></li>\r\n<li>Developing a novel multi-modal foundation model for the Earth system that jointly learns ocean&ndash;atmosphere representations.</li>\r\n<li><span> We pre-train this model in a manner conceptually similar to how mainstream AI models (e.g., CLIP) </span><span>are</span><span> trained</span><span>, which learn relationships between text and images. In our analogy, the slowly varying ocean state plays the role of &ldquo;text&rdquo;, with relatively few distinct realizations. In contrast, the rapidly varying atmospheric state plays the role of &ldquo;images&rdquo; with many possible realizations for each ocean state. Just as CLIP learns associations between words and many corresponding images, our model learns associations between ocean conditions and the wide range of atmospheric states they can induce.</span></li>\r\n</ol>\r\n<p><span>In this Phase 1 proof-of-concept, we demonstrate that such a model can be successfully pre-trained on large-scale simulation data. A key advantage of using simulation data is that it can be imperfect: the model only needs to learn broad structural patterns, which we later refine through fine-tuning on high-quality observational datasets for downstream tasks.</span></p>\r\n<p><span>To show how this works in practice, we fine-tuned our pre-trained model to predict one of the most important climate indicators: the ENSO index. ENSO (El Ni&ntilde;o&ndash;Southern Oscillation) includes </span>El Ni&ntilde;o<span>, a climate phenomenon characterized by warmer-than-normal surface waters in the central and eastern Pacific Ocean. This ocean warming disrupts typical wind and weather patterns, leading to significant changes around the world (such as wetter conditions in parts of the Americas and drier conditions in Australia and Southeast Asia). Because of these far-reaching impacts, accurately predicting El Ni&ntilde;o is extremely valuable. Our model shows excellent skill at predicting the ENSO index, demonstrating the strength of our approach and setting us well for Phase II, where we plan to include additional Earth-system components, such as sea ice and land, to improve accuracy and reliability further.</span>&nbsp;</p>\r\n<p><span>The most important takeaway of this project is that, once fully trained, our foundation model, NIVA, can be fine-tuned for numerous environmental intelligence applications, including sub-seasonal-to-seasonal forecasting (S2S), i.e., forecasting beyond a 2-week timeframe, climate risk assessments, extreme weather prediction, and climate change attribution. These applications will serve as a backbone for climate adaptation and resilience across environmentally vulnerable industries, including agriculture, natural resource management, (re)insurance, energy, and logistics.</span></p><br>\n<p>\n Last Modified: 11/25/2025<br>\nModified by: Kalai&nbsp;Ramea</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2025/2507255/2507255_10979931_1764104159458_NIVA_Schematic--rgov-214x142.png\" original=\"/por/images/Reports/POR/2025/2507255/2507255_10979931_1764104159458_NIVA_Schematic--rgov-800width.png\" title=\"NIVA Schematic\"><img src=\"/por/images/Reports/POR/2025/2507255/2507255_10979931_1764104159458_NIVA_Schematic--rgov-66x44.png\" alt=\"NIVA Schematic\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">NIVA: A multi-modal foundation model for earth system intelligence</div>\n<div class=\"imageCredit\">Kalai Ramea</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Kalai&nbsp;Ramea\n<div class=\"imageTitle\">NIVA Schematic</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nScientific Machine Learning (SciML) is a subfield of Artificial Intelligence and the machine learning community in which algorithms are tailored to specific scientific disciplines, often through domain-guided learning. In recent years, SciML has transformed weather prediction by extending the capabilities of traditional numerical weather models. Although these developments are promising, such models have historically reached a predictive limit of about two to three weeks. This limitation arises because they rely almost exclusively on atmospheric data, which varies rapidly and therefore supports only short-interval training. As a result, while there is abundant atmospheric data, it does not enable long-range skill.\r\n\n\nTo extend prediction beyond this 2-week limit, it is necessary to incorporate additional components of the Earth system, particularly the oceans. Oceans play a critical role because, beyond roughly two weeks, they begin to influence and inform the state of the atmosphere. Our work addresses this challenge by introducing a framework that integrates these broader Earth-system components, allowing us to capture the fundamental interactions among them. Through this approach, we surpass the existing state-of-the-art in two primary ways:\r\n\r\nTraining on multi-million-year Earth system model simulations rather than solely on observational data.\r\n Observational ocean data is minimal because the ocean evolves slowly and offers relatively few realizations. By contrast, the simulation data provide a wide range of possible ocean states together with their co-varying atmospheric states, enabling much richer learning.\r\nDeveloping a novel multi-modal foundation model for the Earth system that jointly learns oceanatmosphere representations.\r\n We pre-train this model in a manner conceptually similar to how mainstream AI models (e.g., CLIP) are trained, which learn relationships between text and images. In our analogy, the slowly varying ocean state plays the role of text, with relatively few distinct realizations. In contrast, the rapidly varying atmospheric state plays the role of images with many possible realizations for each ocean state. Just as CLIP learns associations between words and many corresponding images, our model learns associations between ocean conditions and the wide range of atmospheric states they can induce.\r\n\r\n\n\nIn this Phase 1 proof-of-concept, we demonstrate that such a model can be successfully pre-trained on large-scale simulation data. A key advantage of using simulation data is that it can be imperfect: the model only needs to learn broad structural patterns, which we later refine through fine-tuning on high-quality observational datasets for downstream tasks.\r\n\n\nTo show how this works in practice, we fine-tuned our pre-trained model to predict one of the most important climate indicators: the ENSO index. ENSO (El NioSouthern Oscillation) includes El Nio, a climate phenomenon characterized by warmer-than-normal surface waters in the central and eastern Pacific Ocean. This ocean warming disrupts typical wind and weather patterns, leading to significant changes around the world (such as wetter conditions in parts of the Americas and drier conditions in Australia and Southeast Asia). Because of these far-reaching impacts, accurately predicting El Nio is extremely valuable. Our model shows excellent skill at predicting the ENSO index, demonstrating the strength of our approach and setting us well for Phase II, where we plan to include additional Earth-system components, such as sea ice and land, to improve accuracy and reliability further.\r\n\n\nThe most important takeaway of this project is that, once fully trained, our foundation model, NIVA, can be fine-tuned for numerous environmental intelligence applications, including sub-seasonal-to-seasonal forecasting (S2S), i.e., forecasting beyond a 2-week timeframe, climate risk assessments, extreme weather prediction, and climate change attribution. These applications will serve as a backbone for climate adaptation and resilience across environmentally vulnerable industries, including agriculture, natural resource management, (re)insurance, energy, and logistics.\t\t\t\t\tLast Modified: 11/25/2025\n\n\t\t\t\t\tSubmitted by: KalaiRamea\n"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "awd_id": "2528295",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Neural Haptics for Next-Generation Wearables",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032928848",
+ "po_email": "lportnoy@nsf.gov",
+ "po_sign_block_name": "Lindsay Portnoy",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase 1 project is to propel novel haptic technology towards commercial use in the spatial computing industry. Tens of millions of Americans use head worn devices but are not as widely adopted as mobile computing devices like cell phones due to poor user experience from a lack of touch.  Neural haptics are a novel technique to create the sense of touch using wearables like rings and watches. The Smart Watch and Smart Ring market segments encompass more than $30 billion dollars. Neural haptics leverage decades of research on neural interfaces and how to stimulate the nervous system to trick the brain into feeling things that aren\u2019t there. This background and patent portfolio produces a durable competitive advantage. The business model entails the sale of a custom chipset and software licensing. The Smart Ring market will be reached first followed by the Smart Watch market. The potential broad impact by year three of production of Neural Haptics will widespread adoption of Neural Haptics consumer electronics and therefore lower power, more informative, and more seamless interactions in spatial computing environments.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase 1 project promotes novel neuroscience techniques like peripheral nerve stimulation to create artificial sensations. Neural haptics uses well-established techniques for neuromodulation from the fields of rehabilitation and neuroscience but deploys those techniques into consumer electronics like smart rings and watches. Neural Haptics provide numerous advantages to traditional mechanical actuators (e.g., vibration from a cell phone) including five times lower power, no moving parts, and best in class latencies. However, Neural Haptics currently have the technical hurdle of relying on high voltages (200V) to create artificial neural activity due to high skin impedances. The goals of the proposed research efforts are focused on studying the way neural haptic design elements can reduce the skin impedance and thereby reduce voltage requirements of the neural haptic technology. The aims of the proposed research include: 1) Characterization of neurostimulation performance across contact shape, contact materials, and skin pressure, 2) Improved neurostimulation performance through optimal neural haptic ring design The anticipated technical results include validation of an optimal neural haptic ring design including contact shape, materials, and skin pressure specifications. These results will enable further miniaturization including the design of a custom application specific integrated chip (ASIC).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jacob",
+   "pi_last_name": "Segil",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jacob Segil",
+   "pi_email_addr": "jacob@afference.io",
+   "nsf_id": "0000A1HY6",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "AFFERENCE INC",
+  "inst_street_address": "4190 19TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOULDER",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "2178400649",
+  "inst_zip_code": "80304",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "AFFERENCE INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "PHT7TZZ3QBB1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "AFFERENCE INC",
+  "perf_str_addr": "4190 19TH ST",
+  "perf_city_name": "BOULDER",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803040903",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1654",
+   "pgm_ref_txt": "HUMAN COMPUTER INTERFACE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>\r\n<div class=\"notion-selectable notion-text-block\">\r\n<div>\r\n<div>\r\n<div>\r\n<div class=\"x78zum5\">\r\n<div id=\":r4oa:\" class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\">This project advanced a new approach to haptic feedback for wearable devices. Afference is developing &ldquo;neural haptics,&rdquo; a technology that creates touch sensations by delivering small, carefully controlled electrical currents through the skin to sensory nerves. Unlike conventional haptic motors, this approach does not require moving parts and could enable compact devices such as smart rings to communicate rich tactile information.</span></div>\r\n<div class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\"><br /></span></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"notion-selectable notion-text-block\">\r\n<div>\r\n<div>\r\n<div>\r\n<div class=\"x78zum5\">\r\n<div id=\":r4ob:\" class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\">The central goal of this NSF SBIR Phase I project was to reduce a key technical risk: creating a stable, low-impedance electrical connection between a ring and the skin while maintaining comfort. Lower electrical impedance reduces the voltage required to produce a sensation, which in turn can enable smaller electronics, lower power consumption, and more practical wearable products.</span></div>\r\n<div class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\"><br /></span></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"notion-selectable notion-text-block\">\r\n<div>\r\n<div>\r\n<div>\r\n<div class=\"x78zum5\">\r\n<div id=\":r4oc:\" class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\">The team built an instrumented experimental system that applied controlled force to the base of the finger while measuring the electrical response of different electrode interfaces. The study evaluated electrode pressure, material, size, and shape using a conventional metal interface and commercially available conductive polymer materials. It also connected these engineering measurements with participants&rsquo; assessments of comfort and suitability for a wearable ring.</span></div>\r\n<div class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\"><br /></span></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"notion-selectable notion-text-block\">\r\n<div>\r\n<div>\r\n<div>\r\n<div class=\"x78zum5\">\r\n<div id=\":r4od:\" class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\">The results showed that pressure is a major determinant of interface impedance. Impedance dropped rapidly as the electrode moved from initial contact to full engagement with the skin, then approached a minimum where additional pressure produced diminishing benefits. Importantly, this low-impedance regime could be reached at pressures participants considered comfortable for a ring. Among the tested materials, metal electrodes reached lower impedance more quickly than the conductive polymer alternatives. Larger electrodes also reduced impedance, generally in proportion to their surface area. Electrode shape had a smaller effect, although curved &ldquo;saddle&rdquo; electrodes performed less consistently when their curvature did not closely match the user&rsquo;s finger.</span></div>\r\n<div class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\"><br /></span></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"notion-selectable notion-text-block\">\r\n<div>\r\n<div>\r\n<div>\r\n<div class=\"x78zum5\">\r\n<div id=\":r4oe:\" class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\">These findings establish practical design guidance for future neural-haptic wearables. They support the use of durable metal electrodes, adequate electrode area, and mechanical designs that maintain full and even skin contact without excessive pressure. The results also identify the next major research challenge: ensuring that a wearable ring can maintain comfortable, reliable contact as finger size, movement, temperature, and activity change throughout the day.</span></div>\r\n<div class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\"><br /></span></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"notion-selectable notion-text-block\">\r\n<div>\r\n<div>\r\n<div>\r\n<div class=\"x78zum5\">\r\n<div id=\":r4of:\" class=\"content-editable-leaf-rtl\"><span class=\"notion-enable-hover\">The project&rsquo;s broader impact is to advance compact, low-power tactile interfaces for human&ndash;computer interaction. Neural haptics could eventually improve accessibility, immersive communication, training, navigation, and interaction with spatial-computing systems by providing intuitive tactile cues in everyday wearable devices. The project also created reusable experimental infrastructure and strengthened interdisciplinary capabilities in neuroscience, biomedical engineering, electrical engineering, and wearable product design.</span></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</p><br>\n<p>\n Last Modified: 09/25/2026<br>\nModified by: Jacob&nbsp; &nbsp;Segil</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n\r\n\r\n\r\n\r\n\r\n\r\nThis project advanced a new approach to haptic feedback for wearable devices. Afference is developing neural haptics, a technology that creates touch sensations by delivering small, carefully controlled electrical currents through the skin to sensory nerves. Unlike conventional haptic motors, this approach does not require moving parts and could enable compact devices such as smart rings to communicate rich tactile information.\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThe central goal of this NSF SBIR Phase I project was to reduce a key technical risk: creating a stable, low-impedance electrical connection between a ring and the skin while maintaining comfort. Lower electrical impedance reduces the voltage required to produce a sensation, which in turn can enable smaller electronics, lower power consumption, and more practical wearable products.\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThe team built an instrumented experimental system that applied controlled force to the base of the finger while measuring the electrical response of different electrode interfaces. The study evaluated electrode pressure, material, size, and shape using a conventional metal interface and commercially available conductive polymer materials. It also connected these engineering measurements with participants assessments of comfort and suitability for a wearable ring.\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThe results showed that pressure is a major determinant of interface impedance. Impedance dropped rapidly as the electrode moved from initial contact to full engagement with the skin, then approached a minimum where additional pressure produced diminishing benefits. Importantly, this low-impedance regime could be reached at pressures participants considered comfortable for a ring. Among the tested materials, metal electrodes reached lower impedance more quickly than the conductive polymer alternatives. Larger electrodes also reduced impedance, generally in proportion to their surface area. Electrode shape had a smaller effect, although curved saddle electrodes performed less consistently when their curvature did not closely match the users finger.\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThese findings establish practical design guidance for future neural-haptic wearables. They support the use of durable metal electrodes, adequate electrode area, and mechanical designs that maintain full and even skin contact without excessive pressure. The results also identify the next major research challenge: ensuring that a wearable ring can maintain comfortable, reliable contact as finger size, movement, temperature, and activity change throughout the day.\r\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nThe projects broader impact is to advance compact, low-power tactile interfaces for humancomputer interaction. Neural haptics could eventually improve accessibility, immersive communication, training, navigation, and interaction with spatial-computing systems by providing intuitive tactile cues in everyday wearable devices. The project also created reusable experimental infrastructure and strengthened interdisciplinary capabilities in neuroscience, biomedical engineering, electrical engineering, and wearable product design.\r\n\r\n\r\n\r\n\r\n\r\n\t\t\t\t\tLast Modified: 09/25/2026\n\n\t\t\t\t\tSubmitted by: Jacob Segil\n"
+ }
+}

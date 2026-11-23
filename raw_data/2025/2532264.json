@@ -1,0 +1,101 @@
+{
+ "awd_id": "2532264",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of a Hemostatic Biofoam for Wound Care",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "This I-Corps project focuses on the development of a hemostatic wound care product capable of quickly stopping bleeding for a variety of traumatic and surgical wounds. This product is important for treating traumatic soldier injuries including those occurring on the battlefield. It also has numerous civilian applications for both common and severe wounds as well as surgical wounds. The product is in the form of a compressible, absorbent and insoluble foam composed of starch, chitosan and glycerol. This solution is completely bioabsorbable and as it absorbs blood and wound extrudates, it slowly transitions into an insoluble gel at the interface between the wound and foam. The biofoam\u2019s physical properties in conjunction with its bioabsorbability allows it to be removed from the wound site without disturbing a clot or healing tissue. The technology may have other applications in chronic wound care. \r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of an insoluble hemostatic foam comprised of starch, chitosan and glycerol. Insolubility is achieved through the formation of a polysaccharide polyelectrolyte complex of anionic potato starch and cationic chitosan. Chitosan is a key component as it aggregates red blood cells and stimulates clotting. The foam is made soft through the incorporation of glycerol which acts as a plasticizer. The material is distinct from other products as it is stable, compressible, bioabsorbable, and hemostatic. The form can be made in many shapes and sizes, is simple to use, can be packaged compressed in a flat pack and stored for years without any special environmental requirements. The solution is a superior drop-in replacement for combat gauze and can be used for surface and intracavity wounds.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jeffrey",
+   "pi_last_name": "Catchmark",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jeffrey Catchmark",
+   "pi_email_addr": "jmc102@psu.edu",
+   "nsf_id": "000535498",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "16802",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Pennsylvania State Univ University Park",
+  "perf_str_addr": "201 OLD MAIN",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7573",
+   "pgm_ref_txt": "BIO-RELATED MATERIALS RESEARCH"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p class=\"p1\">LionFoam is a biomedical technology developed to help control serious bleeding. The technology is designed as a flexible, absorbent foam material that can conform to and fill wounds, providing a potentially useful approach for managing bleeding in situations where conventional products may be difficult to use effectively. Prior to participation in the NSF I-Corps program, the project team had identified several potential applications for LionFoam, including trauma care, surgical hemostasis, and chronic wound management. However, the team had not yet determined which application represented the strongest initial commercial opportunity or what technical, clinical, and commercial evidence would be most important for successful adoption.</p>\r\n<p class=\"p1\">The NSF I-Corps program enabled the team to systematically investigate these questions through customer discovery. The team conducted more than 100 interviews with surgeons, emergency medical services personnel, hematology-related specialists, and other stakeholders involved in bleeding control and wound management. Rather than asking potential customers whether they wanted to use the technology, the team sought to understand how bleeding is currently managed, where existing approaches create difficulties, how purchasing and adoption decisions are made, and which product characteristics provide the greatest value to users.</p>\r\n<p class=\"p1\">These interviews substantially changed and strengthened the project&rsquo;s commercialization strategy. The team moved from considering several potential markets simultaneously to identifying a more focused initial market opportunity. Customer discovery also helped clarify LionFoam&rsquo;s value propositions, the roles of different decision-makers and end users, barriers that could affect adoption, and the evidence necessary to support future commercialization. The resulting strategy prioritizes an actionable initial application while preserving opportunities to expand LionFoam into additional applications as the technology develops.</p>\r\n<p class=\"p1\">The I-Corps experience also helped the team better define the technical and translational work required to advance the technology. Customer discovery and commercialization planning identified bench and preclinical studies needed to characterize product performance and strengthen the evidence base for future regulatory planning, commercial partnerships, and investment. These include studies related to bleeding control, absorbency, and other aspects of product performance. The team is pursuing follow-on funding to support this next stage of development.</p>\r\n<p class=\"p1\">The broader impact of the I-Corps project is the advancement of a potentially useful biomedical technology toward practical application. Serious bleeding remains an important challenge in trauma and other medical settings, and technologies that improve the ability to manage difficult wounds could ultimately benefit patients and healthcare providers. I-Corps helped ensure that continued development of LionFoam is guided not only by its technical capabilities but also by the needs of the people and organizations that could eventually use, purchase, and implement it.</p>\r\n<p class=\"p1\">Overall, NSF I-Corps transformed LionFoam from a promising technology with several possible commercial directions into a more focused translational effort with a defined initial market strategy, refined value propositions, identified adoption requirements, and an actionable development plan. The team intends to continue development through follow-on validation, funding, venture formation, and strategic partnerships, with the long-term objective of bringing the technology into practical use.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/24/2026<br>\nModified by: Jeffrey&nbsp;Catchmark</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2532264/2532264_10984457_1790256595299_Biofoam___1--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2532264/2532264_10984457_1790256595299_Biofoam___1--rgov-800width.png\" title=\"Pre-production Lionfoam prototype\"><img src=\"/por/images/Reports/POR/2026/2532264/2532264_10984457_1790256595299_Biofoam___1--rgov-66x44.png\" alt=\"Pre-production Lionfoam prototype\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Image of a pre-production Lionfoam prototype manufactured using a high volume production process. Uniformity of the prototype was significantly better than lab made versions. This proved Lionfoam could be manufactured at any anticipated volume needed.</div>\n<div class=\"imageCredit\">Penn State University</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Jeffrey&nbsp;Catchmark\n<div class=\"imageTitle\">Pre-production Lionfoam prototype</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nLionFoam is a biomedical technology developed to help control serious bleeding. The technology is designed as a flexible, absorbent foam material that can conform to and fill wounds, providing a potentially useful approach for managing bleeding in situations where conventional products may be difficult to use effectively. Prior to participation in the NSF I-Corps program, the project team had identified several potential applications for LionFoam, including trauma care, surgical hemostasis, and chronic wound management. However, the team had not yet determined which application represented the strongest initial commercial opportunity or what technical, clinical, and commercial evidence would be most important for successful adoption.\r\n\n\nThe NSF I-Corps program enabled the team to systematically investigate these questions through customer discovery. The team conducted more than 100 interviews with surgeons, emergency medical services personnel, hematology-related specialists, and other stakeholders involved in bleeding control and wound management. Rather than asking potential customers whether they wanted to use the technology, the team sought to understand how bleeding is currently managed, where existing approaches create difficulties, how purchasing and adoption decisions are made, and which product characteristics provide the greatest value to users.\r\n\n\nThese interviews substantially changed and strengthened the projects commercialization strategy. The team moved from considering several potential markets simultaneously to identifying a more focused initial market opportunity. Customer discovery also helped clarify LionFoams value propositions, the roles of different decision-makers and end users, barriers that could affect adoption, and the evidence necessary to support future commercialization. The resulting strategy prioritizes an actionable initial application while preserving opportunities to expand LionFoam into additional applications as the technology develops.\r\n\n\nThe I-Corps experience also helped the team better define the technical and translational work required to advance the technology. Customer discovery and commercialization planning identified bench and preclinical studies needed to characterize product performance and strengthen the evidence base for future regulatory planning, commercial partnerships, and investment. These include studies related to bleeding control, absorbency, and other aspects of product performance. The team is pursuing follow-on funding to support this next stage of development.\r\n\n\nThe broader impact of the I-Corps project is the advancement of a potentially useful biomedical technology toward practical application. Serious bleeding remains an important challenge in trauma and other medical settings, and technologies that improve the ability to manage difficult wounds could ultimately benefit patients and healthcare providers. I-Corps helped ensure that continued development of LionFoam is guided not only by its technical capabilities but also by the needs of the people and organizations that could eventually use, purchase, and implement it.\r\n\n\nOverall, NSF I-Corps transformed LionFoam from a promising technology with several possible commercial directions into a more focused translational effort with a defined initial market strategy, refined value propositions, identified adoption requirements, and an actionable development plan. The team intends to continue development through follow-on validation, funding, venture formation, and strategic partnerships, with the long-term objective of bringing the technology into practical use.\r\n\n\n\t\t\t\t\tLast Modified: 09/24/2026\n\n\t\t\t\t\tSubmitted by: JeffreyCatchmark\n"
+ }
+}

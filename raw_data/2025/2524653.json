@@ -1,0 +1,145 @@
+{
+ "awd_id": "2524653",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RAPID: 2025 Southern California Fires Embers Project: Crowdsourcing Data on the Distribution and Transport of Firebrands",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927732",
+ "po_email": "lsneed@nsf.gov",
+ "po_sign_block_name": "Lesley Sneed",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 70007.0,
+ "awd_amount": 70007.0,
+ "awd_min_amd_letter_date": "2025-03-24",
+ "awd_max_amd_letter_date": "2025-03-24",
+ "awd_abstract_narration": "Starting on January 7, 2025, a series of wildfires broke out in Southern California in the greater Los Angeles region. Due to extreme drought and severe winds, the fires entered densely populated areas, producing mass destruction, causing loss of life, and damaging or destroying 17,000 buildings. These wildland-urban interface (WUI) fires observed in Southern California can attack buildings by two means: (1) flames impinging on surfaces, and (2) embers (also called \u201cfirebrands\u201d) being carried by the wind and raining down on buildings. While ignition due to flames is relatively well understood, ember exposures are much less studied. This Grant for Rapid Response Research (RAPID) will crowdsource video footage of the Palisades and Eaton fires in Southern California to understand how embers travel in an urban environment. This data will inform computational models as well as testing methods that can advance the robust performance of structures under exterior fire exposures. This research will contribute to national welfare, namely, how to ensure the fire safety and resilience of WUI communities. \r\n\r\nThe objective of this RAPID project is to crowdsource time-sensitive video and image data from news outlets, businesses, and private citizens, in conjunction with satellite data and event timelines, to measure the distribution and transport of firebrands based on windspeed and fire-proximity data from the Palisades and Eaton fires in Southern California. Using machine learning techniques, the videos will be analyzed to estimate the distribution and trajectory of embers in an urban environment. Site visits will be made to video locations to take measurements of distances, e.g., between buildings, observe and record the damage, interview witnesses, and collect other available contextual information. Project data will be archived and published in the NSF-supported Natural Hazards Engineering Research Infrastructure (NHERI) Data Depot repository (https://www.Designsafe-ci.org).\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ann",
+   "pi_last_name": "Jeffers",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ann E Jeffers",
+   "pi_email_addr": "jffrs@umich.edu",
+   "nsf_id": "000544600",
+   "pi_start_date": "2025-03-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Seymour",
+   "pi_last_name": "Spence",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Seymour M Spence",
+   "pi_email_addr": "smjs@umich.edu",
+   "nsf_id": "000667535",
+   "pi_start_date": "2025-03-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "inst_street_address": "1109 GEDDES AVE STE 3300",
+  "inst_street_address_2": "",
+  "inst_city_name": "ANN ARBOR",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "7347636438",
+  "inst_zip_code": "481091015",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "MI06",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MICHIGAN",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GNJ7BBP73WE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Regents of the University of Michigan - Ann Arbor",
+  "perf_str_addr": "1109 GEDDES AVE, SUITE 3300",
+  "perf_city_name": "ANN ARBOR",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "481091079",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "MI06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "073Y00",
+   "pgm_ele_name": "ECI-Engineering for Civil Infr"
+  },
+  {
+   "pgm_ele_code": "138500",
+   "pgm_ele_name": "SSA-Special Studies & Analysis"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "039E",
+   "pgm_ref_txt": "STRUCTURAL SYSTEMS"
+  },
+  {
+   "pgm_ref_code": "040E",
+   "pgm_ref_txt": "Haz mitigation of structural sys"
+  },
+  {
+   "pgm_ref_code": "1057",
+   "pgm_ref_txt": "CIS BASE RESEARCH"
+  },
+  {
+   "pgm_ref_code": "132Z",
+   "pgm_ref_txt": "FIRE-Wildland Fire"
+  },
+  {
+   "pgm_ref_code": "7231",
+   "pgm_ref_txt": "CYBERINFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 70007.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>On January 7, 2025, a series of devastating wildfires broke out in the greater Los Angeles area, destroying more than seventeen thousand structures and killing 29 people. Among the most destructive forces driving these fires were firebrands, i.e., embers carried by the wind that can travel more than a mile ahead of a fire front and ignite buildings far from the main blaze. Despite their emphasized role in WUI fire destruction, firebrands are among the least understood aspects of wildfire hazard, in part because they are extremely difficult to measure during an active fire.</p>\r\n<p>This project developed a novel approach to that measurement problem: crowdsourcing. Recognizing that residents, businesses, and news crews had recorded the fires on smartphones, security cameras, and professional video equipment, the research team launched a public platform to collect video footage from the affected areas. Working with participants who shared their recordings, and with a documentarian who had systematically captured footage across multiple neighborhoods, the team assembled a dataset of approximately 200 unique videos from the Palisades and Eaton fire areas.</p>\r\n<p>The team applied a machine learning algorithm to the footage to detect and track individual firebrands, which estimate how many were present at different locations and times and how far they traveled relative to the fire front and local wind conditions. This data will help engineers and policymakers understand how severe firebrand exposure was during the LA fires and whether current building codes and testing standards are adequate for fires of this intensity.</p>\r\n<p>Interviews with residents of West Altadena led to an unexpected finding, namely, that radiative preheating from a ground-hugging smoke layer significantly increased the ignition potential of fuels ahead of the fire front. Calculations made by the research team showed that the heat from the smoke layer may have been enough to cause fine fuels like grasses and leaves to ignite more than 100 meters ahead of the fire front and to prime thick fuels like wood and PVC for ignition from other sources like embers. This finding may help explain the extraordinary speed at which fires like the Eaton, Lahaina, and Marshall fires spread through densely built neighborhoods, and opens a new line of inquiry for the fire science community.</p>\r\n<p>The machine-learning analysis of video data is in preparation for peer-reviewed publication, and the analysis of the radiative preheating mechanism has been submitted for peer-reviewed publication. The project trained four graduate students in post-disaster field research, machine learning, and fire science, contributing to the next generation of engineers working on community resilience to wildfire.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 08/14/2026<br>\nModified by: Ann&nbsp;E&nbsp;Jeffers</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n<div class=\"porColContainerHR\">\n<div class=\"porContentCol\">\n<h2>Addendum # 1</h2><p><p>I'd like to make a small modification to the last two paragraphs of the narrative to reflect some changes that have happened in the research in the last few weeks. We found a mistake in the formulation of the preheating calculations and switched to a numerical CFD model to do the preheating calcs. It should read as follows:</p>\r\n<p>\"Interviews with residents of West Altadena led to an unexpected finding, namely, that preheating from a ground-hugging smoke layer significantly increased the ignition potential of fuels ahead of the fire front. Calculations made by the research team showed that the heat from the smoke layer were enough to cause fine fuels like grasses and leaves to ignite at significant distances from the fire front and to prime thick fuels like wood and PVC for ignition from other sources like embers. This finding may help explain the extraordinary speed at which fires like the Eaton, Lahaina, and Marshall fires spread through densely built neighborhoods, and opens a new line of inquiry for the fire science community.</p>\r\n<p>The machine-learning analysis of video data is in preparation for peer-reviewed publication, and the analysis of the radiative preheating mechanism will be submitted for peer-reviewed publication. The project trained four graduate students in post-disaster field research, machine learning, and fire science, contributing to the next generation of engineers working on community resilience to wildfire.\"</p></p><br>\n<p>Added: 08/14/2026<br>Submitted by: Ann&nbsp;E&nbsp;Jeffers</p>\n</div>\n<div class=\"porSideCol\"></div>\n</div>",
+  "por_txt_cntn": "\n\nOn January 7, 2025, a series of devastating wildfires broke out in the greater Los Angeles area, destroying more than seventeen thousand structures and killing 29 people. Among the most destructive forces driving these fires were firebrands, i.e., embers carried by the wind that can travel more than a mile ahead of a fire front and ignite buildings far from the main blaze. Despite their emphasized role in WUI fire destruction, firebrands are among the least understood aspects of wildfire hazard, in part because they are extremely difficult to measure during an active fire.\r\n\n\nThis project developed a novel approach to that measurement problem: crowdsourcing. Recognizing that residents, businesses, and news crews had recorded the fires on smartphones, security cameras, and professional video equipment, the research team launched a public platform to collect video footage from the affected areas. Working with participants who shared their recordings, and with a documentarian who had systematically captured footage across multiple neighborhoods, the team assembled a dataset of approximately 200 unique videos from the Palisades and Eaton fire areas.\r\n\n\nThe team applied a machine learning algorithm to the footage to detect and track individual firebrands, which estimate how many were present at different locations and times and how far they traveled relative to the fire front and local wind conditions. This data will help engineers and policymakers understand how severe firebrand exposure was during the LA fires and whether current building codes and testing standards are adequate for fires of this intensity.\r\n\n\nInterviews with residents of West Altadena led to an unexpected finding, namely, that radiative preheating from a ground-hugging smoke layer significantly increased the ignition potential of fuels ahead of the fire front. Calculations made by the research team showed that the heat from the smoke layer may have been enough to cause fine fuels like grasses and leaves to ignite more than 100 meters ahead of the fire front and to prime thick fuels like wood and PVC for ignition from other sources like embers. This finding may help explain the extraordinary speed at which fires like the Eaton, Lahaina, and Marshall fires spread through densely built neighborhoods, and opens a new line of inquiry for the fire science community.\r\n\n\nThe machine-learning analysis of video data is in preparation for peer-reviewed publication, and the analysis of the radiative preheating mechanism has been submitted for peer-reviewed publication. The project trained four graduate students in post-disaster field research, machine learning, and fire science, contributing to the next generation of engineers working on community resilience to wildfire.\r\n\n\n\t\t\t\t\tLast Modified: 08/14/2026\n\n\t\t\t\t\tSubmitted by: AnnEJeffers\n\n\nI'd like to make a small modification to the last two paragraphs of the narrative to reflect some changes that have happened in the research in the last few weeks. We found a mistake in the formulation of the preheating calculations and switched to a numerical CFD model to do the preheating calcs. It should read as follows:\r\n\n\n\"Interviews with residents of West Altadena led to an unexpected finding, namely, that preheating from a ground-hugging smoke layer significantly increased the ignition potential of fuels ahead of the fire front. Calculations made by the research team showed that the heat from the smoke layer were enough to cause fine fuels like grasses and leaves to ignite at significant distances from the fire front and to prime thick fuels like wood and PVC for ignition from other sources like embers. This finding may help explain the extraordinary speed at which fires like the Eaton, Lahaina, and Marshall fires spread through densely built neighborhoods, and opens a new line of inquiry for the fire science community.\r\n\n\nThe machine-learning analysis of video data is in preparation for peer-reviewed publication, and the analysis of the radiative preheating mechanism will be submitted for peer-reviewed publication. The project trained four graduate students in post-disaster field research, machine learning, and fire science, contributing to the next generation of engineers working on community resilience to wildfire.\"Last Modified: 08/14/2026\nSubmitted by: AnnEJeffers\n"
+ }
+}

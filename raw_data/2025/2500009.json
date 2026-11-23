@@ -1,0 +1,105 @@
+{
+ "awd_id": "2500009",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Predicting and Diagnosing Alzheimers Disease and Mild Cognitive Impairment by MRI Using Variational Autoencoder and Machine Learning Algorithm",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032927069",
+ "po_email": "hahn@nsf.gov",
+ "po_sign_block_name": "Henry Ahn",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 303089.0,
+ "awd_amount": 303089.0,
+ "awd_min_amd_letter_date": "2025-04-09",
+ "awd_max_amd_letter_date": "2025-04-09",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is developing a low-cost diagnostic tool for brain imaging using an artificial intelligence (AI)/machine learning (ML)-based algorithm. The goal of the proposal is to develop a technology that can distinguish mild cognitive impairment (MCI) patients and Alzheimer's disease (AD) cases using Magnetic Resonance Imaging (MRI) scans. Diagnosing AD at the MCI stage and therapeutic intervention at this stage are the keys to developing effective therapeutics, lifestyle changes, and future planning for patients, caregivers, and stakeholders. Clinical diagnosis of AD is miserably low (~60% specificity and sensitivity). Such an image analysis platform will ensure a sophisticated tool for geriatric primary care and neurologists to detect a predementia patient with a certain chance of being converted to AD shortly. In the broader commercial potential, the user-friendly brain imaging data analysis platform will be transferred to the clinic to assist in the early diagnosis of AD, particularly the MCI stage and prognosis, using MRI images.\r\n \r\nThis Small Business Innovation Research (SBIR) Phase I project is to utilize 3-dimensional (3D) Structural Magnetic Resonance Imaging (sMRI) brain scans from the patients as input to a specialized artificial intelligence (AI) platform that reduces dimensions and extracts latent features evolved from the affected whole brain by the disease. This AI-Machine Learning (ML) measures changes related to the atrophy of the brain, and relative temporal and region-specific changes correlated with the level of the patient's cognitive function. The algorithm classified Alzheimer\u2019s disease (AD) vs. mild cognitive impairment (MCI) with accuracies of 81.41% and autopsy-confirmed AD vs. MCI at 92.75%. Proof-of-concept has been published in a peer-reviewed journal. There is no definitive diagnostic tool for AD that is cost-effective. In the broader commercial potential of this SBIR Phase I project, Neurologists/Gerontologists will use it for diagnostic and patient stratification. As the anticipated results, the technology would overlay MRI retrieval and provide an additional interpretive and diagnostic aspect to help neurologists provide a more accurate diagnosis of AD, MCI, other non-AD dementia, and normal brain. The resulting product of this study will address the differential diagnosis of AD, a significant unmet need. The algorithm can be extended to diagnosing other neurological diseases, such as autism, depression, traumatic brain injuries, and schizophrenia.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tapan",
+   "pi_last_name": "Khan",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tapan K Khan",
+   "pi_email_addr": "khantapan67@gmail.com",
+   "nsf_id": "000878407",
+   "pi_start_date": "2025-04-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "BIOIMAGINIX LLC",
+  "inst_street_address": "410 MALLARD RUN",
+  "inst_street_address_2": "",
+  "inst_city_name": "MORGANTOWN",
+  "inst_state_code": "WV",
+  "inst_state_name": "West Virginia",
+  "inst_phone_num": "3042163974",
+  "inst_zip_code": "265087369",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WV02",
+  "org_lgl_bus_name": "BIOIMAGINIX LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HY3SVBEJ5683"
+ },
+ "perf_inst": {
+  "perf_inst_name": "BIOIMAGINIX LLC",
+  "perf_str_addr": "410 MALLARD RUN",
+  "perf_city_name": "MORGANTOWN",
+  "perf_st_code": "WV",
+  "perf_st_name": "West Virginia",
+  "perf_zip_code": "265087369",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WV02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "004E",
+   "pgm_ref_txt": "BIOMEDICAL ENG AND DIAGNOSTICS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 303089.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>BioImaginix Public Project Outcomes Report </strong></p>\r\n<p>NSF-SBIR Phase-I: Award number 2500009</p>\r\n<p><em><span>Abstract</span></em><span>: BioImaginix is developing AI-powered medical imaging analysis platforms that help clinicians diagnose neurodegenerative diseases more quickly and accurately. BioImaginix&rsquo;s core technology uses AI and machine learning to analyze MRI scans for Alzheimer&rsquo;s disease (AD) detection and patient stratification. This technology can be adapted to expand across additional imaging modalities such as PET and X-ray. Founded in 2022, BioImaginix has completed SBIR Phase 1 and is focused on applying to Phase II towards building an FDA-approved imaging platform that enables providers anywhere in the world to upload scans and receive AI-supported diagnostic insights in real time.</span></p>\r\n<p><em><span>Key accomplishments in Phase I are</span></em><span>:</span></p>\r\n<p><span>1. AI-powered Brain imaging analysis platform using only 3-D MRI scans can differentiate between AD and non-AD dementia cases with high accuracy and outperforms most previous studies. This innovation provides a strong competitive advantage that is not easily replicable to our competitors (even technically proficient ones).</span></p>\r\n<p><span>2. Al/ML Algorithm tested in MRI scans from 5 different cohorts.</span></p>\r\n<p><span>3. Platform technology can be used across heterogeneous populations and a wide variety of MRI scanners.</span></p>\r\n<p><span>4. As a product prototype, BioImaginix is now developing a web-based portal to upload MRI scans from anywhere in the world and get results analyzed within a minute. Eventually, it will be running on a cloud server.</span></p>\r\n<p><em><span>Problems it solves</span></em><span>: There is no stand-alone test for AD. Any clinician would recommend an MRI for any patient with memory problems at an older age. Therefore, MRI scans are readily available. AD-specific MRI analysis requires region-specific atrophy changes, which are time-consuming, prone to error, and subject to subjectivity. The AI-powered MRI image analysis will provide doctors with accurate, fast, and easy-to-use tools at a fraction of the cost of a brain scan. Product-Market Fit: Analyzing 3-D MRI scans for an Alzheimer's patient typically follows a two-part timeline: the procedure of physical scanning in the MRI machine takes 15&ndash;90 minutes, and the radiological analysis, which usually takes 1 to 2 weeks to reach the patient. While automated software can perform specific measurements in minutes or hours, a final diagnosis requires review by a board-certified radiologist and the ordering physician. Our AI-powered image analysis platform can analyze within minutes. Operators can run multiple scans in a batch without supervision. Technology is validated in multiple cohorts, gold standard autopsy validated, and can differentiate from MCI and other non-AD dementia cases.</span></p>\r\n<p><em><span>Target market</span></em><span>: Commercialization of the BioImaginix LLC market will focus on three distinct markets: Front-line Healthcare providers (Generalists and Specialists providing healthcare for older patients with dementia who will order the test), Managed Care organizations (Medicare Advantage organizations and Commercial payers to ensure coverage for the test) and Industry and academia researchers in patient stratification AD clinical trials.</span></p>\r\n<p><em><span>Commercialization</span></em><span>: According to the Mayo Clinic's AD diagnostic protocol, a recently FDA-approved blood test for AD alone is not sufficient. Blood tests and MRI scans serve two distinct but complementary aspects of AD diagnosis. AD diagnostic blood tests measure the build-up of AD-related plaques and tangles in the brain, which can replace expensive Amyloid-PET or spinal tap CSF biomarkers. In contrast, MRI scans are used to visualize the physical structure of the brain affected by neurodegenerative diseases. MRI scans remain the gold standard for anatomical detail in dementia.&nbsp;A BioImaginix FDA-cleared AI-powered MRI analysis platform for AD will address a significant and growing market need for early, accurate, and scalable diagnosis, differentiation from other forms of dementia, and support for emerging therapies. The commercial viability of AI-platform technology is driven by strong clinical demand for tools that improve diagnostic confidence, reduce interpretation time, and enable earlier intervention. To support commercialization, Phase II will focus on mitigating key adoption risks, including product prototype validation, clinical integration, and interpretability. The platform is undergoing an extensive multi-cohort, direct patient access validation across diverse patient populations to ensure robustness, generalizability, and accurate differentiation between AD and non-AD dementias. In parallel, BioImaginix is prioritizing seamless integration into existing radiology workflows and PACS environments to facilitate clinical adoption. We understand that the trust of radiologists and clinicians is crucial to incorporate it into patient care.&nbsp; Explainable AI outputs that provide transparent, clinically interpretable insights to support decision-making is the ultimate goal. This approach enhances user confidence and aligns with regulatory and clinical expectations for software as a medical device. BioImaginix plans to pursue regulatory clearance through the FDA 510(k) pathway and align reimbursement strategy with frameworks from the Centers for Medicare &amp; Medicaid Services (CMS).</span></p>\r\n<p><em><span>Conclusion</span></em><span>: Strong evidence of demand, including clinical need, customer interest, and favorable reimbursement trends&mdash;supports the market opportunity. The platform will deliver a measurable value through improved diagnostic accuracy and consistency, reduced clinician workload, earlier disease detection, and lower operational costs for healthcare providers, positioning BioImaginix for successful commercialization and market adoption</span><span>.</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/15/2026<br>\nModified by: Tapan&nbsp;Kumar&nbsp;Khan</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nBioImaginix Public Project Outcomes Report \r\n\n\nNSF-SBIR Phase-I: Award number 2500009\r\n\n\nAbstract: BioImaginix is developing AI-powered medical imaging analysis platforms that help clinicians diagnose neurodegenerative diseases more quickly and accurately. BioImaginixs core technology uses AI and machine learning to analyze MRI scans for Alzheimers disease (AD) detection and patient stratification. This technology can be adapted to expand across additional imaging modalities such as PET and X-ray. Founded in 2022, BioImaginix has completed SBIR Phase 1 and is focused on applying to Phase II towards building an FDA-approved imaging platform that enables providers anywhere in the world to upload scans and receive AI-supported diagnostic insights in real time.\r\n\n\nKey accomplishments in Phase I are:\r\n\n\n1. AI-powered Brain imaging analysis platform using only 3-D MRI scans can differentiate between AD and non-AD dementia cases with high accuracy and outperforms most previous studies. This innovation provides a strong competitive advantage that is not easily replicable to our competitors (even technically proficient ones).\r\n\n\n2. Al/ML Algorithm tested in MRI scans from 5 different cohorts.\r\n\n\n3. Platform technology can be used across heterogeneous populations and a wide variety of MRI scanners.\r\n\n\n4. As a product prototype, BioImaginix is now developing a web-based portal to upload MRI scans from anywhere in the world and get results analyzed within a minute. Eventually, it will be running on a cloud server.\r\n\n\nProblems it solves: There is no stand-alone test for AD. Any clinician would recommend an MRI for any patient with memory problems at an older age. Therefore, MRI scans are readily available. AD-specific MRI analysis requires region-specific atrophy changes, which are time-consuming, prone to error, and subject to subjectivity. The AI-powered MRI image analysis will provide doctors with accurate, fast, and easy-to-use tools at a fraction of the cost of a brain scan. Product-Market Fit: Analyzing 3-D MRI scans for an Alzheimer's patient typically follows a two-part timeline: the procedure of physical scanning in the MRI machine takes 1590 minutes, and the radiological analysis, which usually takes 1 to 2 weeks to reach the patient. While automated software can perform specific measurements in minutes or hours, a final diagnosis requires review by a board-certified radiologist and the ordering physician. Our AI-powered image analysis platform can analyze within minutes. Operators can run multiple scans in a batch without supervision. Technology is validated in multiple cohorts, gold standard autopsy validated, and can differentiate from MCI and other non-AD dementia cases.\r\n\n\nTarget market: Commercialization of the BioImaginix LLC market will focus on three distinct markets: Front-line Healthcare providers (Generalists and Specialists providing healthcare for older patients with dementia who will order the test), Managed Care organizations (Medicare Advantage organizations and Commercial payers to ensure coverage for the test) and Industry and academia researchers in patient stratification AD clinical trials.\r\n\n\nCommercialization: According to the Mayo Clinic's AD diagnostic protocol, a recently FDA-approved blood test for AD alone is not sufficient. Blood tests and MRI scans serve two distinct but complementary aspects of AD diagnosis. AD diagnostic blood tests measure the build-up of AD-related plaques and tangles in the brain, which can replace expensive Amyloid-PET or spinal tap CSF biomarkers. In contrast, MRI scans are used to visualize the physical structure of the brain affected by neurodegenerative diseases. MRI scans remain the gold standard for anatomical detail in dementia.A BioImaginix FDA-cleared AI-powered MRI analysis platform for AD will address a significant and growing market need for early, accurate, and scalable diagnosis, differentiation from other forms of dementia, and support for emerging therapies. The commercial viability of AI-platform technology is driven by strong clinical demand for tools that improve diagnostic confidence, reduce interpretation time, and enable earlier intervention. To support commercialization, Phase II will focus on mitigating key adoption risks, including product prototype validation, clinical integration, and interpretability. The platform is undergoing an extensive multi-cohort, direct patient access validation across diverse patient populations to ensure robustness, generalizability, and accurate differentiation between AD and non-AD dementias. In parallel, BioImaginix is prioritizing seamless integration into existing radiology workflows and PACS environments to facilitate clinical adoption. We understand that the trust of radiologists and clinicians is crucial to incorporate it into patient care. Explainable AI outputs that provide transparent, clinically interpretable insights to support decision-making is the ultimate goal. This approach enhances user confidence and aligns with regulatory and clinical expectations for software as a medical device. BioImaginix plans to pursue regulatory clearance through the FDA 510(k) pathway and align reimbursement strategy with frameworks from the Centers for Medicare & Medicaid Services (CMS).\r\n\n\nConclusion: Strong evidence of demand, including clinical need, customer interest, and favorable reimbursement trendssupports the market opportunity. The platform will deliver a measurable value through improved diagnostic accuracy and consistency, reduced clinician workload, earlier disease detection, and lower operational costs for healthcare providers, positioning BioImaginix for successful commercialization and market adoption.\r\n\n\n\t\t\t\t\tLast Modified: 06/15/2026\n\n\t\t\t\t\tSubmitted by: TapanKumarKhan\n"
+ }
+}

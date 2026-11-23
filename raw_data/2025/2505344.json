@@ -1,0 +1,105 @@
+{
+ "awd_id": "2505344",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RAPID: Preserving the geochemical and biological changes in an acid mine drainage reservoir undergoing rapid geochemical change",
+ "cfda_num": "47.050",
+ "org_code": "06030000",
+ "po_phone": "7032920000",
+ "po_email": "yyanes@nsf.gov",
+ "po_sign_block_name": "Yurena Yanes",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 15430.0,
+ "awd_amount": 15430.0,
+ "awd_min_amd_letter_date": "2024-11-22",
+ "awd_max_amd_letter_date": "2024-11-22",
+ "awd_abstract_narration": "Acid mine drainage is a major pollution problem in the United States and abroad. It often results from mining activities that expose reactive minerals to oxygen in the atmosphere or in groundwater. As these minerals react, they create acid and release heavy metals that are damaging to downstream ecosystems. Reservoirs can be constructed to hold back polluted sediments and water, preventing them from influencing downstream environments. However, these reservoirs can be difficult to manage long term. This project will examine an acid mine drainage reservoir near Redding, CA which contains contaminated sediments from the Iron Mountain Mining complex. When the lake level becomes too low, the reservoir becomes acidic and metal-laden so it is managed to keep the lake above this level. In September 2024, the lake was nearly completely drained for dam maintenance which provides a rare opportunity to examine the chemical and biological processes that generate pollution. This proposal will sample the lake water and sediment as the lake level remains low to determine what processes generate pollution and to inform future remediation. This research helps to improve the well-being of individuals in society by improving bioremediation in AMD-impacted reservoirs and will help to develop a diverse, globally competitive STEM workforce by training an undergraduate student.\r\n\r\nThe team will collect and archive samples of surface and pore water and sediment cores from Spring Creek Reservoir. Because some analyses are time-sensitive, the team will also analyze water samples for the concentration of metals using ICPMS and sediment samples for acid volatile sulfide. The remaining samples will be preserved and archived for future analysis of organic carbon content and microbial community composition. Future work will also use the samples collected to perform an experiment that aims to determine if lake drawdowns can be a sustainable bioremediation technique for AMD reservoirs. This research helps to improve the well-being of individuals in society by improving bioremediation in AMD-impacted reservoirs and will help to develop a diverse, globally competitive STEM workforce by training an undergraduate student.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "EAR",
+ "org_div_long_name": "Division Of Earth Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Christen",
+   "pi_last_name": "Grettenberger",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christen Grettenberger",
+   "pi_email_addr": "clgrettenberger@ucdavis.edu",
+   "nsf_id": "000787314",
+   "pi_start_date": "2024-11-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Davis",
+  "inst_street_address": "1850 RESEARCH PARK DR STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAVIS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5307547700",
+  "inst_zip_code": "956186153",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "CA04",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TX2DAGQPENZ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Davis",
+  "perf_str_addr": "One Shields Avenue",
+  "perf_city_name": "DAVIS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "956165270",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "CA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "332Y00",
+   "pgm_ele_name": "LET-Life & Enviro Through Time"
+  },
+  {
+   "pgm_ele_code": "722200",
+   "pgm_ele_name": "XC-Crosscutting Activities Pro"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 15430.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This work, funded through the NSF RAPID program, took advantage of a rare opportunity to understand how water quality changes in a reservoir affected by acid mine drainage (AMD). AMD is a widespread pollution problem caused by mining activities. Here, we had the opportunity to examine how the chemistry of Spring Creek Reservoir changed as the lake level was dropped below a critical threshold. This reservoir received drainage from a nearby superfund site and contains metal-rich sediments. It is usually managed to keep water levels above 720 ft in elevation, a level below which acidity and metals are released into the lake through unknown mechanisms. In 2024, the Bureau of Reclamation performed scheduled dam maintenance on the SCR dam reservoir, causing the reservoir to be nearly completely drained. This provided a unique opportunity to collect samples that will allow us to better understand this transition.&nbsp;</p>\r\n<p>The primary goal of this work was to collect and preserve sediment and water samples during the drawdown. These samples will be used in our future work which will aim to understand the chemical and biological processes that control the release or stabilization of metals in the reservoir. As the water level in the reservoir dropped, we were able to collect sediment cores and water samples across six time points from multiple locations. We also collected field measurements including pH, dissolved iron, and sulfide. These measurements allowed us to track the water quality in real-time. We preserved our samples for a wide-range of future studies including for geochemical, organic carbon, and DNA-based analyses</p>\r\n<p>We are now using the samples to determine how sediments respond when exposed to oxygen, and whether these processes can be used to inform bioremediation and management of this and other AMD reservoirs. Specifically, we want to determine if repeatedly filling and lowering the reservoir can permanently transform iron-bearing minerals into stable forms. We have already used some of the samples in an ongoing laboratory-based experiment to determine if this is the case. If successful, our work may help to develop new strategies for remediating contaminated reservoirs.</p>\r\n<p>This project also provided training opportunities for the next generation of scientists. Over the course of the project, one undergraduate and one graduate student gained hands-on experience in geochemical field sampling and laboratory techniques and experimental design. As a result of this experience, the undergraduate researcher chose to pursue a graduate degree focused on AMD bioremediation.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 04/10/2026<br>\nModified by: Christen&nbsp;Grettenberger</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis work, funded through the NSF RAPID program, took advantage of a rare opportunity to understand how water quality changes in a reservoir affected by acid mine drainage (AMD). AMD is a widespread pollution problem caused by mining activities. Here, we had the opportunity to examine how the chemistry of Spring Creek Reservoir changed as the lake level was dropped below a critical threshold. This reservoir received drainage from a nearby superfund site and contains metal-rich sediments. It is usually managed to keep water levels above 720 ft in elevation, a level below which acidity and metals are released into the lake through unknown mechanisms. In 2024, the Bureau of Reclamation performed scheduled dam maintenance on the SCR dam reservoir, causing the reservoir to be nearly completely drained. This provided a unique opportunity to collect samples that will allow us to better understand this transition.\r\n\n\nThe primary goal of this work was to collect and preserve sediment and water samples during the drawdown. These samples will be used in our future work which will aim to understand the chemical and biological processes that control the release or stabilization of metals in the reservoir. As the water level in the reservoir dropped, we were able to collect sediment cores and water samples across six time points from multiple locations. We also collected field measurements including pH, dissolved iron, and sulfide. These measurements allowed us to track the water quality in real-time. We preserved our samples for a wide-range of future studies including for geochemical, organic carbon, and DNA-based analyses\r\n\n\nWe are now using the samples to determine how sediments respond when exposed to oxygen, and whether these processes can be used to inform bioremediation and management of this and other AMD reservoirs. Specifically, we want to determine if repeatedly filling and lowering the reservoir can permanently transform iron-bearing minerals into stable forms. We have already used some of the samples in an ongoing laboratory-based experiment to determine if this is the case. If successful, our work may help to develop new strategies for remediating contaminated reservoirs.\r\n\n\nThis project also provided training opportunities for the next generation of scientists. Over the course of the project, one undergraduate and one graduate student gained hands-on experience in geochemical field sampling and laboratory techniques and experimental design. As a result of this experience, the undergraduate researcher chose to pursue a graduate degree focused on AMD bioremediation.\r\n\n\n\t\t\t\t\tLast Modified: 04/10/2026\n\n\t\t\t\t\tSubmitted by: ChristenGrettenberger\n"
+ }
+}

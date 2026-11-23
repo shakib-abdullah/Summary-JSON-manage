@@ -1,0 +1,101 @@
+{
+ "awd_id": "2537757",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Collaborative Research: EAGER: CSR: Full-stack defense of vision-based autonomous driving systems",
+ "cfda_num": "47.070",
+ "org_code": "05220000",
+ "po_phone": "7032925197",
+ "po_email": "mmcclure@nsf.gov",
+ "po_sign_block_name": "Marilyn McClure",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 109992.0,
+ "awd_amount": 91988.0,
+ "awd_min_amd_letter_date": "2025-07-13",
+ "awd_max_amd_letter_date": "2025-07-13",
+ "awd_abstract_narration": "This project focuses on enhancing the safety and reliability of autonomous driving systems, making them more trustworthy in a variety of environments, including potentially hostile ones. The research will develop advanced detection and countermeasure techniques at the application, system, and hardware layers to help ensure that self-driving cars can make safe driving decisions even when faced with deliberate attempts to disrupt their operation. This involves creating robust deep-learning modules for driving decisions, enhancing the safety and security of automotive processors, and developing tools to detect and fix hardware issues in mission mode. By conducting extensive real-world testing with popular automotive benchmarks, the project aims to validate these innovations, ensuring they can be confidently adopted in everyday use. This comprehensive approach addresses current and future challenges in autonomous driving technology, paving the way for safer and more efficient transportation systems that the public can trust. \r\n\r\nThe broader impact of this research extends beyond automotive technology to other critical systems such as space exploration, smart medical devices, and various Internet of Things (IoT) applications. With the deep learning market expected to grow to $24.5 billion by 2025, advancements from this project will play a crucial role in ensuring the safety and security of numerous technologies that impact daily life. The project\u2019s findings will be widely disseminated through publications, software releases, and educational courses, contributing to the development of a skilled workforce in this rapidly evolving field. Further, the researchers will engage in educational outreach, including workshops and summer camps for students from diverse backgrounds, promoting inclusivity and inspiring future scientists and engineers. The researchers\u2019 ongoing collaboration with leading semiconductor companies will also support translation into practice. The project not only advances technology, but contributes to societal well-being by making autonomous systems safer and more reliable, ensuring that the benefits of these innovations are widely accessible.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "SSF",
+ "org_div_long_name": "Software & Systems Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kanad",
+   "pi_last_name": "Basu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kanad Basu",
+   "pi_email_addr": "basuk@rpi.edu",
+   "nsf_id": "000806761",
+   "pi_start_date": "2025-07-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rensselaer Polytechnic Institute",
+  "inst_street_address": "110 8TH ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TROY",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5182766000",
+  "inst_zip_code": "12180",
+  "inst_country_name": "United States",
+  "cong_dist_code": "20",
+  "st_cong_dist_code": "NY20",
+  "org_lgl_bus_name": "RENSSELAER POLYTECHNIC INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "U5WBFKEBLMX3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rensselaer Polytechnic Institute",
+  "perf_str_addr": "110 8TH ST",
+  "perf_city_name": "TROY",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "121803590",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "20",
+  "perf_st_cong_dist": "NY20",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "735400",
+   "pgm_ele_name": "CSR-Computer Systems Research"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 91988.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><ul>\r\n<li>Key Findings</li>\r\n</ul>\r\n<ol> </ol>\r\n<p>Autonomous driving systems rely on artificial intelligence (AI) to interpret their surroundings and support driving decisions. The reliability of these systems depends on both their software and the hardware executing it. Hardware faults and deliberate corruption of stored data can cause incorrect results, potentially compromising safety. The overarching goal of this project was to investigate vulnerabilities across these computing layers and develop methods to improve the reliability and security of AI components relevant to autonomous systems. The work began at the University of Texas at Dallas and continued at Rensselaer Polytechnic Institute following the award&rsquo;s transfer.</p>\r\n<p><em>The key research results include the following:</em></p>\r\n<p>&bull; A framework for evaluating hardware faults in emerging AI accelerators. The team developed FaultCiM to systematically introduce controlled errors into floating-point compute-in-memory accelerators. These accelerators perform calculations within or near memory to reduce data movement. Experiments with image-recognition and language models showed how errors at different computational stages affect overall model accuracy. The results demonstrated that some hardware locations are substantially more vulnerable than others. Under the evaluated conditions, a single fault in an arithmetic component could reduce language-model benchmark accuracy to zero.</p>\r\n<p>&bull; Architectural strategies for improving fault resilience. Using the fault-analysis results, the team developed ResCiM, a compute-in-memory design that limits the amplification and spread of certain computational errors. The study demonstrated that changing the organization of calculations and the placement of intermediate numerical adjustments can improve reliability. In one evaluated configuration, ResCiM reduced the accuracy loss caused by a single arithmetic fault by a factor of 49 compared with the baseline design. These findings provide concrete guidance for designing more dependable AI accelerators.</p>\r\n<p>&bull; A method for identifying critical vulnerabilities in stored AI model parameters. The team developed AttentionBreaker to identify small sets of bits&mdash;the individual zeros and ones representing model data&mdash;whose corruption can severely degrade model performance. In a controlled experiment where the attacker had full knowledge of the model, changing only three carefully selected bits in an eight-billion-parameter language model reduced its accuracy on a knowledge benchmark from 67.3 percent to zero. The method also bypassed an existing defense evaluated in the study, demonstrating the need for stronger protection of critical model data.</p>\r\n<p>Together, these results connect hardware-level errors with their effects on AI behavior and demonstrate the value of considering hardware design and model sensitivity jointly.</p>\r\n<ul>\r\n<li>Impacts</li>\r\n</ul>\r\n<ol> </ol>\r\n<p><strong>Societal Impact.</strong> Reliable and secure AI computing is important for transportation and other applications where incorrect decisions can endanger people. The project identified vulnerabilities and demonstrated architectural mitigation strategies that can support future efforts to reduce these risks. Its findings provide a foundation for improving the trustworthiness of AI components relevant to autonomous systems.</p>\r\n<p><strong>Scientific and Technological Impact.</strong> The research produced two journal publications: AttentionBreaker in Transactions on Machine Learning Research (TMLR) and ResCiM in IEEE Transactions on Circuits and Systems for Artificial Intelligence (IEEE TCASAI(. FaultCiM and ResCiM provide methods for evaluating hardware faults and improving accelerator resilience. <strong>AttentionBreaker was released as open-source software to support reproducibility, independent vulnerability assessment, and further research on defenses.</strong></p>\r\n<p><strong>Impact on Teaching and Pedagogy.</strong> Research findings supported undergraduate research projects and instructional activities at UT Dallas. Following the transfer to RPI, modules based on the research were incorporated into PI Basu&rsquo;s Hardware Security course. These activities introduced students to fault injection, AI model vulnerabilities, and mitigation strategies, helping prepare them to address reliability and cybersecurity challenges in future research and professional practice.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/26/2026<br>\nModified by: Kanad&nbsp;Basu</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\r\nKey Findings\r\n\r\n \r\n\n\nAutonomous driving systems rely on artificial intelligence (AI) to interpret their surroundings and support driving decisions. The reliability of these systems depends on both their software and the hardware executing it. Hardware faults and deliberate corruption of stored data can cause incorrect results, potentially compromising safety. The overarching goal of this project was to investigate vulnerabilities across these computing layers and develop methods to improve the reliability and security of AI components relevant to autonomous systems. The work began at the University of Texas at Dallas and continued at Rensselaer Polytechnic Institute following the awards transfer.\r\n\n\nThe key research results include the following:\r\n\n\n A framework for evaluating hardware faults in emerging AI accelerators. The team developed FaultCiM to systematically introduce controlled errors into floating-point compute-in-memory accelerators. These accelerators perform calculations within or near memory to reduce data movement. Experiments with image-recognition and language models showed how errors at different computational stages affect overall model accuracy. The results demonstrated that some hardware locations are substantially more vulnerable than others. Under the evaluated conditions, a single fault in an arithmetic component could reduce language-model benchmark accuracy to zero.\r\n\n\n Architectural strategies for improving fault resilience. Using the fault-analysis results, the team developed ResCiM, a compute-in-memory design that limits the amplification and spread of certain computational errors. The study demonstrated that changing the organization of calculations and the placement of intermediate numerical adjustments can improve reliability. In one evaluated configuration, ResCiM reduced the accuracy loss caused by a single arithmetic fault by a factor of 49 compared with the baseline design. These findings provide concrete guidance for designing more dependable AI accelerators.\r\n\n\n A method for identifying critical vulnerabilities in stored AI model parameters. The team developed AttentionBreaker to identify small sets of bitsthe individual zeros and ones representing model datawhose corruption can severely degrade model performance. In a controlled experiment where the attacker had full knowledge of the model, changing only three carefully selected bits in an eight-billion-parameter language model reduced its accuracy on a knowledge benchmark from 67.3 percent to zero. The method also bypassed an existing defense evaluated in the study, demonstrating the need for stronger protection of critical model data.\r\n\n\nTogether, these results connect hardware-level errors with their effects on AI behavior and demonstrate the value of considering hardware design and model sensitivity jointly.\r\n\r\nImpacts\r\n\r\n \r\n\n\nSocietal Impact. Reliable and secure AI computing is important for transportation and other applications where incorrect decisions can endanger people. The project identified vulnerabilities and demonstrated architectural mitigation strategies that can support future efforts to reduce these risks. Its findings provide a foundation for improving the trustworthiness of AI components relevant to autonomous systems.\r\n\n\nScientific and Technological Impact. The research produced two journal publications: AttentionBreaker in Transactions on Machine Learning Research (TMLR) and ResCiM in IEEE Transactions on Circuits and Systems for Artificial Intelligence (IEEE TCASAI(. FaultCiM and ResCiM provide methods for evaluating hardware faults and improving accelerator resilience. AttentionBreaker was released as open-source software to support reproducibility, independent vulnerability assessment, and further research on defenses.\r\n\n\nImpact on Teaching and Pedagogy. Research findings supported undergraduate research projects and instructional activities at UT Dallas. Following the transfer to RPI, modules based on the research were incorporated into PI Basus Hardware Security course. These activities introduced students to fault injection, AI model vulnerabilities, and mitigation strategies, helping prepare them to address reliability and cybersecurity challenges in future research and professional practice.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 10/26/2026\n\n\t\t\t\t\tSubmitted by: KanadBasu\n"
+ }
+}

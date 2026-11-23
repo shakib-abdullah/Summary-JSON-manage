@@ -1,0 +1,101 @@
+{
+ "awd_id": "2451653",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: In situ vitrification to unlock routine atomic-scale imaging of biomolecule structure and chemistry in three dimensions",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032928323",
+ "po_email": "bschrag@nsf.gov",
+ "po_sign_block_name": "Benaiah Schrag",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-05-22",
+ "awd_max_amd_letter_date": "2025-05-22",
+ "awd_abstract_narration": "This Small Business Innovation Research Phase I project investigates feasibility of a new microscope sample vessel technology to provide the world\u2019s first routine capability for in situ vitrification and imaging (vitrification on the microscope stage). Ex situ vitrification, such as plunge freezing, is a well-known bottleneck to the speed and quality of vitrified sample studies in cryo-electron microscopy (cryo-EM), cryo-X-ray tomography, and atom probe tomography (APT).  Compounding the problem, ex situ vitrification equipment is inaccessible to most researchers due to high costs ranging from tens of thousands to millions of dollars.  The new sample vessel will be formed in a confined and ready-to-image geometry, avoiding air-water interface damage and eliminating the need for blotting, milling, and cutting.  Successful development will make ex situ vitrification obsolete for many applications, enabling a 100-fold reduction in costs and a 20-fold improvement in time-to-data.  Combined with APT, the new sample vessel will provide the first routine capability for imaging the structure and chemistry of biomolecules in 3D.  A breakthrough that can be used streamline computer-aided drug design (CADD) by providing data that can reduce pharmaceutical development costs by up to half, a savings of up to $1 billion per drug.\r\n\r\nThe intellectual merit of this project resides in the innovative methods and transformative potential of proving a new microscope sample vessel technology that can physically and chemically suppress ice nucleation in order to provide routine in situ vitrification and imaging. Ex situ vitrification, such as plunge freezing, has had major scientific impact, as recognized with the 2017 Nobel Prize. Successful in situ vitrification development will make ex situ vitrification obsolete for many applications. In previous work, combining the new sample vessel with APT permitted collecting world-first three-dimensional atom maps of mononucleosomes. Phosphorous atoms in the backbone of DNA were used to measure the double-helix structure with an average resolution of 3.8 \u00c5ngstroms. Broader application of new sample vessel faces two challenges: (1) low filling success, for e.g., 20 days to image mononucleosomes, and (2) an inability to achieve 1.5 \u00c5ngstrom resolution, a key target for CADD.  This project aims to: (1) achieve 1 day time-to-data by employing front filling, graphene sealing, and functionalizing a superhydrophilic lumen; and (2) attain 1.5 \u00c5ngstrom resolution using a laser matching scission energy of the dominant O-H bond.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Liddicoat",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter Liddicoat",
+   "pi_email_addr": "peter@atomnaut.com",
+   "nsf_id": "000698191",
+   "pi_start_date": "2025-05-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Atomnaut Inc.",
+  "inst_street_address": "7020 WESTMOORLAND DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "8314715539",
+  "inst_zip_code": "947051755",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "ATOMNAUT INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H7FAANJUJM19"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Atomnaut Inc.",
+  "perf_str_addr": "399 FREMONT ST UNIT 3502",
+  "perf_city_name": "SAN FRANCISCO",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "941052357",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "CA11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8616",
+   "pgm_ref_txt": "Instr Rsrch,Metro&Std NanTech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This project established Cryoglass-enabled atom probe tomography as a rapid, atomic-scale, three-dimensional metrology platform for DNA in solution. To our knowledge, the work produced the first three-dimensional atom maps of individual DNA molecules, including chemically injured DNA, and demonstrated a high-yield, repeatable workflow producing datasets within one day. &nbsp;This represents a substantial advance over state-of-the-art biological APT specimen-preparation workflows, in which obtaining usable biomolecular data can require weeks to months. The reconstructed phosphorus distribution could be fitted to the expected double-helical phosphate-backbone geometry, demonstrating that recognizable molecular structure was preserved at sub-nanometer scale while retaining element-specific information. This combination is scientifically important because most characterization methods emphasize either molecular form or chemical identity, whereas atom probe tomography can measure three-dimensional position and elemental composition together. The project therefore moved biological atom probe tomography beyond proof-of-presence measurements toward repeatable analysis of individual biomolecules in their solution-derived state.</p>\r\n<p>The principal scientific outcome was the extension of DNA imaging into quantitative injury-state metrology. A programmed DNA sequence containing defined vulnerable and control regions was exposed to cisplatin, whose platinum-containing adducts provided a chemically specific marker of injury. The resulting datasets resolved dose-dependent adduct occupancy, sequence-associated enrichment, inter-adduct spacing, molecular heterogeneity, and adduct-associated conformational differences. These measurements were integrated into a DNA injury-state vector comprising burden, localization, spatial architecture, consistency, persistence, and statistical separation from untreated control. This vector converts a complex three-dimensional dataset into standardized, comparable measurements that describe not only how much injury is present, but where it occurs, how it is arranged, and how consistently it is expressed across a molecular population. It also provides a framework for adding persistence measurements after repair, processing, or elapsed time. The results showed that molecules with similar aggregate lesion burdens can contain different lesion arrangements and three-dimensional conformations, differences that may affect replication blockage, repairability, mutagenicity, and cytotoxicity. These observations showed that aggregate lesion burden alone is an incomplete description of molecular injury. The intellectual merit lies in establishing a new quantitative relationship among injury chemistry, sequence context, spatial organization, molecular conformation, and population heterogeneity. Rather than treating DNA damage as a single scalar value, the work provides a framework for measuring injury as a multidimensional molecular state and for testing whether different exposure or treatment conditions create distinct distributions of those states.</p>\r\n<p>The broader impact is a new measurement layer for therapeutic development, toxicology, and medical-countermeasure research. In oncology, quantified injury-state vectors could be used to compare DNA-damaging drugs, combination therapies, and repair-pathway modulators according to the molecular injury architectures they create or resolve. In Defense applications, the same approach could evaluate whether a candidate countermeasure prevents, redirects, repairs, or reduces high-consequence DNA injury caused by hazardous chemical exposures. More broadly, the platform could provide an objective function for outcome-guided, mechanism-informed computer-aided design: candidate interventions could be ranked not only by total lesion reduction, but by whether they shift the distribution of molecular injury away from architectures associated with persistence or biological consequence. The one-day workflow is central to this broader impact because it makes cohort-scale, comparative studies practical; measurements that previously required weeks to months can now be repeated across doses, sequence contexts, time points, and interventions. The resulting datasets could also provide a uniquely information-rich training layer for predictive models that relate exposure chemistry and molecular injury architecture to repair response or biological outcome. The project created the experimental foundation for template-guided ensemble reconstruction and statistical super-resolution. By aligning and integrating measurements from many molecules with the same known architecture, future work can improve lesion localization, quantify conformation, estimate uncertainty, and preserve biologically meaningful heterogeneity rather than collapsing all molecules into a single average. Collectively, the findings establish a path from rapid three-dimensional DNA imaging to decision-relevant molecular injury metrology, with potential to deepen fundamental understanding of DNA-reactive agents and accelerate development of therapeutics and protective interventions.</p>\r\n<div id=\"highlighter--hover-tools\" style=\"display: none;\"></div><br>\n<p>\n Last Modified: 07/15/2026<br>\nModified by: Peter&nbsp;Liddicoat</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project established Cryoglass-enabled atom probe tomography as a rapid, atomic-scale, three-dimensional metrology platform for DNA in solution. To our knowledge, the work produced the first three-dimensional atom maps of individual DNA molecules, including chemically injured DNA, and demonstrated a high-yield, repeatable workflow producing datasets within one day. This represents a substantial advance over state-of-the-art biological APT specimen-preparation workflows, in which obtaining usable biomolecular data can require weeks to months. The reconstructed phosphorus distribution could be fitted to the expected double-helical phosphate-backbone geometry, demonstrating that recognizable molecular structure was preserved at sub-nanometer scale while retaining element-specific information. This combination is scientifically important because most characterization methods emphasize either molecular form or chemical identity, whereas atom probe tomography can measure three-dimensional position and elemental composition together. The project therefore moved biological atom probe tomography beyond proof-of-presence measurements toward repeatable analysis of individual biomolecules in their solution-derived state.\r\n\n\nThe principal scientific outcome was the extension of DNA imaging into quantitative injury-state metrology. A programmed DNA sequence containing defined vulnerable and control regions was exposed to cisplatin, whose platinum-containing adducts provided a chemically specific marker of injury. The resulting datasets resolved dose-dependent adduct occupancy, sequence-associated enrichment, inter-adduct spacing, molecular heterogeneity, and adduct-associated conformational differences. These measurements were integrated into a DNA injury-state vector comprising burden, localization, spatial architecture, consistency, persistence, and statistical separation from untreated control. This vector converts a complex three-dimensional dataset into standardized, comparable measurements that describe not only how much injury is present, but where it occurs, how it is arranged, and how consistently it is expressed across a molecular population. It also provides a framework for adding persistence measurements after repair, processing, or elapsed time. The results showed that molecules with similar aggregate lesion burdens can contain different lesion arrangements and three-dimensional conformations, differences that may affect replication blockage, repairability, mutagenicity, and cytotoxicity. These observations showed that aggregate lesion burden alone is an incomplete description of molecular injury. The intellectual merit lies in establishing a new quantitative relationship among injury chemistry, sequence context, spatial organization, molecular conformation, and population heterogeneity. Rather than treating DNA damage as a single scalar value, the work provides a framework for measuring injury as a multidimensional molecular state and for testing whether different exposure or treatment conditions create distinct distributions of those states.\r\n\n\nThe broader impact is a new measurement layer for therapeutic development, toxicology, and medical-countermeasure research. In oncology, quantified injury-state vectors could be used to compare DNA-damaging drugs, combination therapies, and repair-pathway modulators according to the molecular injury architectures they create or resolve. In Defense applications, the same approach could evaluate whether a candidate countermeasure prevents, redirects, repairs, or reduces high-consequence DNA injury caused by hazardous chemical exposures. More broadly, the platform could provide an objective function for outcome-guided, mechanism-informed computer-aided design: candidate interventions could be ranked not only by total lesion reduction, but by whether they shift the distribution of molecular injury away from architectures associated with persistence or biological consequence. The one-day workflow is central to this broader impact because it makes cohort-scale, comparative studies practical; measurements that previously required weeks to months can now be repeated across doses, sequence contexts, time points, and interventions. The resulting datasets could also provide a uniquely information-rich training layer for predictive models that relate exposure chemistry and molecular injury architecture to repair response or biological outcome. The project created the experimental foundation for template-guided ensemble reconstruction and statistical super-resolution. By aligning and integrating measurements from many molecules with the same known architecture, future work can improve lesion localization, quantify conformation, estimate uncertainty, and preserve biologically meaningful heterogeneity rather than collapsing all molecules into a single average. Collectively, the findings establish a path from rapid three-dimensional DNA imaging to decision-relevant molecular injury metrology, with potential to deepen fundamental understanding of DNA-reactive agents and accelerate development of therapeutics and protective interventions.\r\n\t\t\t\t\tLast Modified: 07/15/2026\n\n\t\t\t\t\tSubmitted by: PeterLiddicoat\n"
+ }
+}

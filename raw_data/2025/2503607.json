@@ -1,0 +1,113 @@
+{
+ "awd_id": "2503607",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: 53rd Barrett Memorial Lectures: Recent Development in Geometric Group Theory",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924876",
+ "po_email": "snaik@nsf.gov",
+ "po_sign_block_name": "Swatee Naik",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 20000.0,
+ "awd_amount": 20000.0,
+ "awd_min_amd_letter_date": "2025-01-16",
+ "awd_max_amd_letter_date": "2025-01-16",
+ "awd_abstract_narration": "The \"Current Developments in Geometric Group Theory Conference\" will be held as part of the 53rd John and Lida Barrett Memorial Lectures at the Highland Manor Inn & Conference Center in Townsend, Tennessee, on May 22 - 25, 2025.  The Barrett Lectures began in 1970 as a tribute to Drs. John H. and Lida Barrett, former faculty and department heads of the Mathematics Department at the University of Tennessee. The Barrett Lectures have been held annually since 1970 and are known as one of the oldest and most prestigious mathematics conferences in the southeastern United States. This event is expected to draw 40-50 participants and will include local and regional, national and international researchers and graduate students. One of the primary goals of the Barrett Lectures is to bring prominent researchers working in active areas to Knoxville, as a service to the southeastern region of the country as well as the national mathematics community. The conferences invite a range of mathematicians, from established experts to early career researchers and graduate students, to attack the biggest challenges in the area of mapping class groups and the newly emerged field of big mapping class groups. \r\n\r\nThe topic of the 2025 Barrett Lectures has the advantage of a broad appeal to researchers at universities throughout the country who are exploring a range of problems and techniques in the current development of geometry and dynamics of non-positively curved groups.  Participants will present and learn about breakthrough results in the area of low dimensional topology and geometric group theory, such as the first examples of purely pseudo-Anosov closed surface groups in a mapping class group. The topics covered will include large scale geometry of Teichmuller space, random walks in non-positively curved groups, surface subgroups of mapping class groups, algorithmic problems in Out(Fn) and coarse geometry of large mapping class groups. Juxtaposing discussions with different techniques has the potential to result in synergy and fresh ideas.  More information about the conference can be found at: https://math.utk.edu/barrett/53rd-lectures/.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yulan",
+   "pi_last_name": "Qing",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yulan Qing",
+   "pi_email_addr": "yqing@utk.edu",
+   "nsf_id": "000950101",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Conrad",
+   "pi_last_name": "Plaut",
+   "pi_mid_init": "P",
+   "pi_sufx_name": "",
+   "pi_full_name": "Conrad P Plaut",
+   "pi_email_addr": "conradplaut@gmail.com",
+   "nsf_id": "000247278",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Tennessee Knoxville",
+  "inst_street_address": "201 ANDY HOLT TOWER",
+  "inst_street_address_2": "",
+  "inst_city_name": "KNOXVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "8659743466",
+  "inst_zip_code": "379960001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "TN02",
+  "org_lgl_bus_name": "UNIVERSITY OF TENNESSEE",
+  "org_prnt_uei_num": "RZ1YV5AUBN39",
+  "org_uei_num": "FN2YCS2YAUW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Tennessee Knoxville",
+  "perf_str_addr": "201 ANDY HOLT TOWER",
+  "perf_city_name": "KNOXVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "379960001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "TN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126500",
+   "pgm_ele_name": "GEOMETRIC ANALYSIS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 20000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p class=\"p1\">The 53rd Barrett Lectures, hosted by the Department of Mathematics at the University of Tennessee, Knoxville, focused on&nbsp;<em>Recent Developments in Geometric Group Theory</em>, a central and rapidly advancing area at the intersection of geometry, topology, and group theory. Established in 1970, the Barrett Lectures are one of the longest-running mathematics lecture series in the southeastern United States and serve as an important regional venue for sustained, high-level mathematical exchange.</p>\r\n<p class=\"p2\">&nbsp;</p>\r\n<p class=\"p1\">The 2025 Lectures featured two internationally recognized keynote speakers: Mladen Bestvina (University of Utah), a leading figure in geometric group theory who has delivered invited and plenary addresses at the International Congress of Mathematicians, and Chris Leininger (Rice University), a Fellow of the American Mathematical Society known for foundational contributions to hyperbolic 3-manifolds, mapping class groups, and free group automorphisms. Each presented a lecture surveying significant recent breakthroughs and outlining emerging research directions. The program also included invited talks by established and rising scholars, as well as lightning talks that broadened participation and highlighted ongoing research across institutions.</p>\r\n<p class=\"p2\">&nbsp;</p>\r\n<p class=\"p1\">Topics addressed included large-scale geometry of Teichm&uuml;ller space, random walks in non-positively curved groups, surface subgroups in mapping class groups, and algorithmic problems in $\\mathrm{Out}(F_n)$. These themes represent active research frontiers with deep structural, geometric, and dynamical implications that influence multiple areas of modern mathematics.</p>\r\n<p class=\"p2\">&nbsp;</p>\r\n<p class=\"p1\">The event attracted&nbsp;<span class=\"s1\"><strong>65 registered participants</strong></span>, approximately&nbsp;<span class=\"s1\"><strong>70% of whom were graduate students and postdoctoral researchers</strong></span>. NSF support played a critical role in enabling early-career participation and expanding access to advanced research engagement in a region where such opportunities are comparatively limited. The Lectures strengthened research networks across institutions, fostered new collaborations, and provided direct mentorship between internationally recognized leaders and emerging scholars.</p>\r\n<p class=\"p2\">&nbsp;</p>\r\n<p class=\"p1\">A concrete scholarly outcome of the conference is a forthcoming special issue of the&nbsp;<em>University of Tennessee Mathematics Journal</em>, devoted to recent developments in geometric group theory. This volume will disseminate the ideas and research directions highlighted at the Lectures to a broader audience, extending the impact of the meeting and contributing to the national research infrastructure in the mathematical sciences.</p>\r\n<p class=\"p2\">&nbsp;</p>\r\n<p class=\"p1\">Through sustained intellectual exchange, mentorship, and publication, the 53rd Barrett Lectures advanced fundamental research and reinforced the University of Tennessee&rsquo;s role as a regional center for mathematical scholarship.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 03/01/2026<br>\nModified by: Yulan&nbsp;Qing</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe 53rd Barrett Lectures, hosted by the Department of Mathematics at the University of Tennessee, Knoxville, focused onRecent Developments in Geometric Group Theory, a central and rapidly advancing area at the intersection of geometry, topology, and group theory. Established in 1970, the Barrett Lectures are one of the longest-running mathematics lecture series in the southeastern United States and serve as an important regional venue for sustained, high-level mathematical exchange.\r\n\n\n\r\n\n\nThe 2025 Lectures featured two internationally recognized keynote speakers: Mladen Bestvina (University of Utah), a leading figure in geometric group theory who has delivered invited and plenary addresses at the International Congress of Mathematicians, and Chris Leininger (Rice University), a Fellow of the American Mathematical Society known for foundational contributions to hyperbolic 3-manifolds, mapping class groups, and free group automorphisms. Each presented a lecture surveying significant recent breakthroughs and outlining emerging research directions. The program also included invited talks by established and rising scholars, as well as lightning talks that broadened participation and highlighted ongoing research across institutions.\r\n\n\n\r\n\n\nTopics addressed included large-scale geometry of Teichmller space, random walks in non-positively curved groups, surface subgroups in mapping class groups, and algorithmic problems in $\\mathrm{Out}(F_n)$. These themes represent active research frontiers with deep structural, geometric, and dynamical implications that influence multiple areas of modern mathematics.\r\n\n\n\r\n\n\nThe event attracted65 registered participants, approximately70% of whom were graduate students and postdoctoral researchers. NSF support played a critical role in enabling early-career participation and expanding access to advanced research engagement in a region where such opportunities are comparatively limited. The Lectures strengthened research networks across institutions, fostered new collaborations, and provided direct mentorship between internationally recognized leaders and emerging scholars.\r\n\n\n\r\n\n\nA concrete scholarly outcome of the conference is a forthcoming special issue of theUniversity of Tennessee Mathematics Journal, devoted to recent developments in geometric group theory. This volume will disseminate the ideas and research directions highlighted at the Lectures to a broader audience, extending the impact of the meeting and contributing to the national research infrastructure in the mathematical sciences.\r\n\n\n\r\n\n\nThrough sustained intellectual exchange, mentorship, and publication, the 53rd Barrett Lectures advanced fundamental research and reinforced the University of Tennessees role as a regional center for mathematical scholarship.\r\n\n\n\t\t\t\t\tLast Modified: 03/01/2026\n\n\t\t\t\t\tSubmitted by: YulanQing\n"
+ }
+}

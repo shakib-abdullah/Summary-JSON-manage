@@ -1,0 +1,101 @@
+{
+ "awd_id": "2449557",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: A Robotic Arm Architecture for Affordable Robots with Enhanced Reach and Payload",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 304952.0,
+ "awd_amount": 304952.0,
+ "awd_min_amd_letter_date": "2025-03-31",
+ "awd_max_amd_letter_date": "2025-03-31",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research Phase I project lies in its potential to revolutionize automation in critical U.S. industries, including agriculture, construction, and warehousing. Traditional robot arms are often prohibitively expensive and lack the performance capabilities required for many real-world applications, such as tasks involving high reach and heavy payloads, including fruit picking, painting, and shelf loading. This project will result in a novel robotic arm technology designed to overcome these limitations by providing significantly improved reach, payload capacity, and affordability. By enabling automation of physically demanding and hazardous tasks, this innovation aims to reduce workplace injuries, lower insurance costs, and enhance worker safety. Moreover, automating these roles will create opportunities for higher-paying, skilled positions, fostering economic growth and improving job quality. The resulting advancements in automation will also help lower costs associated with food production, construction, and consumer goods, benefiting the broader U.S. economy. Additionally, the novel robotic arm technology will open new avenues for research and innovation, enabling robotics educators and researchers to explore applications previously constrained by the limitations of existing technology.\r\n\r\nThis project will develop a robotic arm architecture featuring proprietary linear actuation technology to achieve commercial performance in reach, payload, and cost-efficiency. The technology innovates on lightweight, high-extension actuators in a parallel truss configuration to reduce bending stress and maintain precision over extended distances. Research tasks include developing simulation tools to model robot dynamics and environmental interactions, and integrating sensory modules for real-time feedback and collision detection. The project will deliver a fully integrated prototype capable of demonstrating its performance in industrial conditions. This work addresses limitations of traditional robot architectures and provides a scalable, cost-effective automation solution for industries such as agriculture, construction, and warehousing. The resulting technology will support increased commercial adoption of robotics in these fields and offer a high-performance platform for further research and development.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Justin",
+   "pi_last_name": "Hunt",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Justin Hunt",
+   "pi_email_addr": "justin@solrobotics.com",
+   "nsf_id": "000836184",
+   "pi_start_date": "2025-03-31",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SOL ROBOTICS, INC.",
+  "inst_street_address": "2424 HASTINGS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BELMONT",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4357608642",
+  "inst_zip_code": "940023320",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "CA15",
+  "org_lgl_bus_name": "SOL ROBOTICS, INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "K4NPA3JSZ7V8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SOL ROBOTICS, INC.",
+  "perf_str_addr": "9640 SAN BERNARDINO AVE NE",
+  "perf_city_name": "ALBUQUERQUE",
+  "perf_st_code": "NM",
+  "perf_st_name": "New Mexico",
+  "perf_zip_code": "871096611",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "NM01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304952.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This NSF Small Business Innovation Research Phase I project developed and tested a new kind of long-reach robot for dangerous elevated work. Falls remain the leading cause of death in construction, and much of that risk comes from routine tasks done from ladders, scaffolds, and lifts. Sol Robotics set out to prove that a compact ground-based robot could do this work at height instead. The project centered on the company's core invention, a long-reach robot arm architecture built around the Hyper Extension-Retraction Actuator, or HERA.</p>\r\n<p>HERA works like a steel tape measure reimagined as a robotic muscle. It stores thin spring steel coiled inside a small base and uncoils it into a long, stiff column on demand. The column extends to many times the length of the base that carries it, then retracts for transport. Arranging three HERAs in a parallel structure creates the arm itself, a robot the company calls the SR-Delta. Phase I set out to determine whether this architecture could be modeled, instrumented, and built into a robot with commercially useful reach, payload, and precision.</p>\r\n<p>The project delivered four technical outcomes. First, the team built a physics simulation of the full robot, matched to the hardware design, that lets engineers test motion under load before building parts. A campaign of 216 simulated trajectories mapped how accuracy changes with payload, height, and tool pose, and it identified the wrist as the main limit on accuracy under load. Second, the team built an internal laser measurement system that watches how each extended column bends in real time. The system resolved bending to about a quarter of a millimeter at a one meter test length, which is fine enough to correct the tool position under load. Third, the team fabricated three production-form actuators, a three-axis wrist, and the assembled SR-Delta robot. The robot extended to 4.9 m, carried 16.0 kg at a 1.5 m work height, and carried a 5.4 kg spray tool at a 3.0 m work height. Fourth, in a demonstration beyond the original plan, the robot spray painted at a 3.0 m work height using professional airless equipment supplied in kind by an industry partner. Videos of these demonstrations are published on the company's public channels.</p>\r\n<p>The project also produced a manufacturing innovation. No supplier would form the custom U-shaped spring steel tape the actuator needs, and conventional cold-rolling lines cost hundreds of thousands of dollars with lead times near a year. The team therefore designed and built a benchtop forming machine, similar to the job-site machines that shape seamless rain gutters from flat metal coil. It advances flat spring steel a few millimeters at a time and bends each segment through adjustable rollers, forming a 7.6 m tape in about four hours for about one thousand dollars in machine materials. This capability supports manufacturing the product in the United States.</p>\r\n<p>Customer discovery sharpened the commercial direction. Through the NSF I-Corps program the team completed more than one hundred customer and stakeholder interviews across construction, agriculture, and warehousing. The evidence identified elevated interior painting and coating as the first market, and it reshaped the robot from a planar design into the taller SR-Delta configuration that customers preferred. Written commitments from hospitality, construction, and coatings industry partners followed, including pilot agreements and in-kind equipment and materials support.</p>\r\n<p>The project's intellectual merit lies in showing that coiled spring steel actuators can serve as the structure of a precise parallel robot. Phase I contributed a validated design model for this class of machine, an internal optical sensing method that measures bending inside a hollow extending column, and quantified evidence that wrist dynamics rather than the extension actuators limit loaded accuracy. A United States patent application covering the actuation technology was allowed by the United States Patent and Trademark Office during the award period.</p>\r\n<p>The broader impacts center on worker safety and the construction workforce. The robot is designed to take over selected high-access repetitive tasks while painters keep the preparation, detail, inspection, and supervision roles. This hybrid approach targets fewer falls and higher productivity without displacing the trades that would operate the system. The industry also faces a workforce shortage estimated in the hundreds of thousands, so the productivity gains address a national need. The in-house tape forming process strengthens domestic manufacturing capability, and the published demonstration videos shared the results with customers, students, and the robotics community.</p>\r\n<p>Phase I established the feasibility of the HERA architecture and its SR-Delta embodiment. A Phase II proposal has been submitted to extend the robot to its full 7.0 m reach, add mobility and supervised autonomy, verify coating quality, complete a safety assessment, and validate job-level economics on customer sites.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 08/17/2026<br>\nModified by: Justin&nbsp;Hunt</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787008165536_laser--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787008165536_laser--rgov-800width.png\" title=\"Linear Actuator Laser Metrology\"><img src=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787008165536_laser--rgov-66x44.png\" alt=\"Linear Actuator Laser Metrology\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Internal laser metrology in the assembled actuator.</div>\n<div class=\"imageCredit\">Sol Robotics</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Justin&nbsp;Hunt\n<div class=\"imageTitle\">Linear Actuator Laser Metrology</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787007474838_tests--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787007474838_tests--rgov-800width.png\" title=\"SR-Delta Reach, Payload, and Painting Tests\"><img src=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787007474838_tests--rgov-66x44.png\" alt=\"SR-Delta Reach, Payload, and Painting Tests\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">The three integrated Phase I tests of the assembled SR-Delta. Left: 4.9 m extension test. Middle: 16 kg payload test. Right: painting test at 3.0 m.</div>\n<div class=\"imageCredit\">Sol Robotics</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Justin&nbsp;Hunt\n<div class=\"imageTitle\">SR-Delta Reach, Payload, and Painting Tests</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787007160781_delta--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787007160781_delta--rgov-800width.png\" title=\"SR-Delta Prototype\"><img src=\"/por/images/Reports/POR/2026/2449557/2449557_10975615_1787007160781_delta--rgov-66x44.png\" alt=\"SR-Delta Prototype\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">The assembled three-actuator SR-Delta prototype, shown from three angles.</div>\n<div class=\"imageCredit\">Sol Robotics</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Justin&nbsp;Hunt\n<div class=\"imageTitle\">SR-Delta Prototype</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis NSF Small Business Innovation Research Phase I project developed and tested a new kind of long-reach robot for dangerous elevated work. Falls remain the leading cause of death in construction, and much of that risk comes from routine tasks done from ladders, scaffolds, and lifts. Sol Robotics set out to prove that a compact ground-based robot could do this work at height instead. The project centered on the company's core invention, a long-reach robot arm architecture built around the Hyper Extension-Retraction Actuator, or HERA.\r\n\n\nHERA works like a steel tape measure reimagined as a robotic muscle. It stores thin spring steel coiled inside a small base and uncoils it into a long, stiff column on demand. The column extends to many times the length of the base that carries it, then retracts for transport. Arranging three HERAs in a parallel structure creates the arm itself, a robot the company calls the SR-Delta. Phase I set out to determine whether this architecture could be modeled, instrumented, and built into a robot with commercially useful reach, payload, and precision.\r\n\n\nThe project delivered four technical outcomes. First, the team built a physics simulation of the full robot, matched to the hardware design, that lets engineers test motion under load before building parts. A campaign of 216 simulated trajectories mapped how accuracy changes with payload, height, and tool pose, and it identified the wrist as the main limit on accuracy under load. Second, the team built an internal laser measurement system that watches how each extended column bends in real time. The system resolved bending to about a quarter of a millimeter at a one meter test length, which is fine enough to correct the tool position under load. Third, the team fabricated three production-form actuators, a three-axis wrist, and the assembled SR-Delta robot. The robot extended to 4.9 m, carried 16.0 kg at a 1.5 m work height, and carried a 5.4 kg spray tool at a 3.0 m work height. Fourth, in a demonstration beyond the original plan, the robot spray painted at a 3.0 m work height using professional airless equipment supplied in kind by an industry partner. Videos of these demonstrations are published on the company's public channels.\r\n\n\nThe project also produced a manufacturing innovation. No supplier would form the custom U-shaped spring steel tape the actuator needs, and conventional cold-rolling lines cost hundreds of thousands of dollars with lead times near a year. The team therefore designed and built a benchtop forming machine, similar to the job-site machines that shape seamless rain gutters from flat metal coil. It advances flat spring steel a few millimeters at a time and bends each segment through adjustable rollers, forming a 7.6 m tape in about four hours for about one thousand dollars in machine materials. This capability supports manufacturing the product in the United States.\r\n\n\nCustomer discovery sharpened the commercial direction. Through the NSF I-Corps program the team completed more than one hundred customer and stakeholder interviews across construction, agriculture, and warehousing. The evidence identified elevated interior painting and coating as the first market, and it reshaped the robot from a planar design into the taller SR-Delta configuration that customers preferred. Written commitments from hospitality, construction, and coatings industry partners followed, including pilot agreements and in-kind equipment and materials support.\r\n\n\nThe project's intellectual merit lies in showing that coiled spring steel actuators can serve as the structure of a precise parallel robot. Phase I contributed a validated design model for this class of machine, an internal optical sensing method that measures bending inside a hollow extending column, and quantified evidence that wrist dynamics rather than the extension actuators limit loaded accuracy. A United States patent application covering the actuation technology was allowed by the United States Patent and Trademark Office during the award period.\r\n\n\nThe broader impacts center on worker safety and the construction workforce. The robot is designed to take over selected high-access repetitive tasks while painters keep the preparation, detail, inspection, and supervision roles. This hybrid approach targets fewer falls and higher productivity without displacing the trades that would operate the system. The industry also faces a workforce shortage estimated in the hundreds of thousands, so the productivity gains address a national need. The in-house tape forming process strengthens domestic manufacturing capability, and the published demonstration videos shared the results with customers, students, and the robotics community.\r\n\n\nPhase I established the feasibility of the HERA architecture and its SR-Delta embodiment. A Phase II proposal has been submitted to extend the robot to its full 7.0 m reach, add mobility and supervised autonomy, verify coating quality, complete a safety assessment, and validate job-level economics on customer sites.\r\n\n\n\t\t\t\t\tLast Modified: 08/17/2026\n\n\t\t\t\t\tSubmitted by: JustinHunt\n"
+ }
+}

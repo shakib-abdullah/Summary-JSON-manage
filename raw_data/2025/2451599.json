@@ -1,0 +1,113 @@
+{
+ "awd_id": "2451599",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "STTR Phase I:  Design a Just-In-Time Formative Assessment Algorithm for an Adaptive Education Platform",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928848",
+ "po_email": "lportnoy@nsf.gov",
+ "po_sign_block_name": "Lindsay Portnoy",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-01-17",
+ "awd_max_amd_letter_date": "2025-01-17",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Technology Transfer (STTR) Phase I project will be achieved by developing and validating cutting edge assessment technology to address two critical problems in math education: a) student learning deficiencies and b) teacher overload and attrition. At the high school level, the Program for International Student Assessment (PISA) reported that the math scores of U.S. students in 2022 ranked 28th among 37 participating countries, posing substantial risk to the nation\u2019s competitiveness in STEM fields. This occurs while educators\u2019 burnout and attrition is at an all time high. Such significant learning deficiencies in math will cost an estimated $1.1T in GDP due to the loss of workforce productivity and innovation. Meanwhile, available tools and innovations for high school math are drastically low, in comparison to tools available for their K-8 counterparts. In response, this STTR project will develop a web-based system providing highly efficient, personalized, formative assessments that are easily customizable by teachers themselves. By addressing critical classroom and market needs, the project will help improve student math learning, cultivate a competitive and diverse STEM workforce, and contribute to high-tech innovation in a Federal Opportunity Zone in the heart of Midwest.\r\n\r\nThis Small Business Technology Transfer (STTR) Phase I project will develop a web-based formative assessment system providing highly efficient and personalized assessments that are easily customizable by teachers themselves, empowering teachers to do their work more effectively and efficiently. Unlike traditional adaptive assessment systems that often reduce the teacher\u2019s role, this platform leverages cognitive diagnostic modeling to identify students\u2019 strengths and weaknesses in high school math in real time, both individually and collectively. An innovative machine learning algorithm clusters students for targeted instruction based on their mathematical competencies and current understanding, while also tracking their progress to enable timely interventions. Teachers can regularly and flexibly regroup students based on updated assessments, ensuring that instruction remains tailored to each class\u2019s needs. Additionally, advancements in large language models (LLMs) will be utilized to expand the item bank, supporting the platform\u2019s scalability and meeting ongoing assessment demands in diverse classroom environments. The system\u2019s usability and effectiveness will be validated through a comprehensive pilot study, demonstrating its potential to enhance educational outcomes and streamline teaching processes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Merrill",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher Merrill",
+   "pi_email_addr": "cmerrill@adaptaeducation.com",
+   "nsf_id": "000995051",
+   "pi_start_date": "2025-01-17",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Cheng",
+   "pi_last_name": "Liu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cheng Liu",
+   "pi_email_addr": "cliu7@nd.edu",
+   "nsf_id": "000711963",
+   "pi_start_date": "2025-01-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "ND-DIAGENOMIX, INC.",
+  "inst_street_address": "1400 E ANGELA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "SOUTH BEND",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "8015204585",
+  "inst_zip_code": "466171364",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "IN02",
+  "org_lgl_bus_name": "ND-DIAGENOMIX, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J4FBXN13NLQ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "ND-DIAGENOMIX, INC.",
+  "perf_str_addr": "1400 E ANGELA BLVD",
+  "perf_city_name": "SOUTH BEND",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "466171364",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "IN02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "150500",
+   "pgm_ele_name": "STTR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-a8e6b57b-7fff-8af1-b41b-978e983e2ad7\"> </span></p>\r\n<h2 dir=\"ltr\"><span>Final Outcomes Report</span></h2>\r\n<h2 dir=\"ltr\"><span>&nbsp;STTR Phase I: Design a Just-In-Time Formative Assessment Algorithm for an Adaptive Education Platform</span></h2>\r\n<p dir=\"ltr\"><span>The pandemic and other societal issues increased the variability of student mathematics proficiency. The ripple effects of this event are still felt today, thereby increasing pressure on teachers to assess and customize their lessons to these broader student needs. This also exacerbates the challenge of balancing assessment, administrative, and instructional time. </span><span>In this Small Business Technology Transfer (STTR) Phase I project, we developed a web-based formative assessment system providing highly efficient and personalized assessments that are easily customizable by teachers themselves, empowering teachers to do their work more effectively and efficiently. Unlike traditional adaptive assessment systems that often reduce the teacher&rsquo;s role, this platform leverages cognitive diagnostic modeling to identify students&rsquo; strengths and weaknesses in high school math in real time, both individually and collectively.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\"><span>Through the project, we developed:&nbsp;</span></p>\r\n<p dir=\"ltr\"><span>a) The Learning Progress Reports, which pulls from the results given by the cognitive diagnostic modeling outcomes and produces a competency-based report that shows students progress over the course of a semester/school year. Showing the progress that has been made on a topic, skill, and competency-based level versus a grade and score level. This information helps educators evaluate instructional practices by directly informing them on the growth in proficiency levels on the skills they teach and evaluate.&nbsp;</span></p>\r\n<p dir=\"ltr\"><span>b) The Breakout Groups Generator, which combines the cognitive diagnostic modeling outcome with an innovative machine learning algorithm clusters students for targeted instruction based on their mathematical competencies and current understanding, while also tracking their progress to enable timely interventions. Teachers can regularly and flexibly regroup students based on updated assessments, ensuring that instruction remains tailored to each class&rsquo;s needs.&nbsp;</span></p>\r\n<p dir=\"ltr\"><span>c) The Multi-Agent Item Clone Generator, which leverages advancements in large language models (LLMs) to expand the item bank, supporting the platform&rsquo;s scalability and meeting ongoing assessment demands in diverse classroom environments. This item clone generator would use one AI Agent to generate item clones of existing items, then leverage different AI Agents to review the quality of the item and provide ratings in terms of difficulty and alignment with learning standards.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\"><span>By collecting feedback from veteran teachers and administrators, we evaluated the commercialization potential and marketing strategies for our platform with these built-in functionalities. Through a conjoint analysis with 30 teachers and administrators, we discovered that educators and administrators were willing to pay $7.89 more per student per year for the Learning Progress Reports. Educators also expressed the value of the data provided in these reports for students with I.E.P&rsquo;s (Individualized Educational Programs for students with unique educational needs). The Learning Progress Reports provide clarity when it comes to the individual proficiency growth for these students. Through the I-Corp program, we spoke to over 100 teachers and administered, and found that the Breakout Groups Generator helps educators achieve this personalization and efficiency in the classroom by providing the educator with a data-driven approach to forming Breakout Groups, while enabling the instructor to use their time more efficiently in the classroom. Our empirical analyses showed that the Multi-Agent Item Clone Generator can save 98% of time and over 90% of labor cost associated with item development and vetting.This allows us to scale to new content domains and enhance current item banks in a fraction of the time and resources.&nbsp;</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\"><span>Additionally, our conjoint analysis revealed that educators and administrators would be willing to pay $12.59 more per student if our platform was integrated with their current LMS and curriculum platforms. </span><span>This informed us of a potential business pivot. </span><span>During this project, we learned the importance of integrating and consolidating our tool into current LMS and curriculum publisher solutions vs existing as a stand alone product. Educators and students are overwhelmed by the amount of new tools they are required to learn and implement in the classroom. Whereas adopting an additional feature in an existing product is much less daunting, even if it requires the same amount of time and effort to train and implement. With that, our next steps as a company is to integrate and co-sell with strategic partners with a B2B2I approach. Be it a publisher/curriculum provider, or an LMS platform.</span></p>\r\n<p dir=\"ltr\">&nbsp;</p>\r\n<p dir=\"ltr\"><span>Beyond the technical and commercialization/marketing outcomes, the project supported the training and professional development of entrepreneurs, researchers, students, and postdoctoral researchers in terms of cognitive diagnostic modeling, machine learning algorithms, and generative AI tools in education research, as well as technology translation through the business model canvas framework to align the business and business model with the current ecosystem, user needs, and supply chain in order to give the new venture its greatest chance to succeed.&nbsp;&nbsp;</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 05/06/2026<br>\nModified by: Christopher&nbsp;Merrill</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n \r\nFinal Outcomes Report\r\nSTTR Phase I: Design a Just-In-Time Formative Assessment Algorithm for an Adaptive Education Platform\r\n\n\nThe pandemic and other societal issues increased the variability of student mathematics proficiency. The ripple effects of this event are still felt today, thereby increasing pressure on teachers to assess and customize their lessons to these broader student needs. This also exacerbates the challenge of balancing assessment, administrative, and instructional time. In this Small Business Technology Transfer (STTR) Phase I project, we developed a web-based formative assessment system providing highly efficient and personalized assessments that are easily customizable by teachers themselves, empowering teachers to do their work more effectively and efficiently. Unlike traditional adaptive assessment systems that often reduce the teachers role, this platform leverages cognitive diagnostic modeling to identify students strengths and weaknesses in high school math in real time, both individually and collectively.\r\n\n\n\r\n\n\nThrough the project, we developed:\r\n\n\na) The Learning Progress Reports, which pulls from the results given by the cognitive diagnostic modeling outcomes and produces a competency-based report that shows students progress over the course of a semester/school year. Showing the progress that has been made on a topic, skill, and competency-based level versus a grade and score level. This information helps educators evaluate instructional practices by directly informing them on the growth in proficiency levels on the skills they teach and evaluate.\r\n\n\nb) The Breakout Groups Generator, which combines the cognitive diagnostic modeling outcome with an innovative machine learning algorithm clusters students for targeted instruction based on their mathematical competencies and current understanding, while also tracking their progress to enable timely interventions. Teachers can regularly and flexibly regroup students based on updated assessments, ensuring that instruction remains tailored to each classs needs.\r\n\n\nc) The Multi-Agent Item Clone Generator, which leverages advancements in large language models (LLMs) to expand the item bank, supporting the platforms scalability and meeting ongoing assessment demands in diverse classroom environments. This item clone generator would use one AI Agent to generate item clones of existing items, then leverage different AI Agents to review the quality of the item and provide ratings in terms of difficulty and alignment with learning standards.\r\n\n\n\r\n\n\nBy collecting feedback from veteran teachers and administrators, we evaluated the commercialization potential and marketing strategies for our platform with these built-in functionalities. Through a conjoint analysis with 30 teachers and administrators, we discovered that educators and administrators were willing to pay $7.89 more per student per year for the Learning Progress Reports. Educators also expressed the value of the data provided in these reports for students with I.E.Ps (Individualized Educational Programs for students with unique educational needs). The Learning Progress Reports provide clarity when it comes to the individual proficiency growth for these students. Through the I-Corp program, we spoke to over 100 teachers and administered, and found that the Breakout Groups Generator helps educators achieve this personalization and efficiency in the classroom by providing the educator with a data-driven approach to forming Breakout Groups, while enabling the instructor to use their time more efficiently in the classroom. Our empirical analyses showed that the Multi-Agent Item Clone Generator can save 98% of time and over 90% of labor cost associated with item development and vetting.This allows us to scale to new content domains and enhance current item banks in a fraction of the time and resources.\r\n\n\n\r\n\n\nAdditionally, our conjoint analysis revealed that educators and administrators would be willing to pay $12.59 more per student if our platform was integrated with their current LMS and curriculum platforms. This informed us of a potential business pivot. During this project, we learned the importance of integrating and consolidating our tool into current LMS and curriculum publisher solutions vs existing as a stand alone product. Educators and students are overwhelmed by the amount of new tools they are required to learn and implement in the classroom. Whereas adopting an additional feature in an existing product is much less daunting, even if it requires the same amount of time and effort to train and implement. With that, our next steps as a company is to integrate and co-sell with strategic partners with a B2B2I approach. Be it a publisher/curriculum provider, or an LMS platform.\r\n\n\n\r\n\n\nBeyond the technical and commercialization/marketing outcomes, the project supported the training and professional development of entrepreneurs, researchers, students, and postdoctoral researchers in terms of cognitive diagnostic modeling, machine learning algorithms, and generative AI tools in education research, as well as technology translation through the business model canvas framework to align the business and business model with the current ecosystem, user needs, and supply chain in order to give the new venture its greatest chance to succeed.\r\n\n\n\t\t\t\t\tLast Modified: 05/06/2026\n\n\t\t\t\t\tSubmitted by: ChristopherMerrill\n"
+ }
+}

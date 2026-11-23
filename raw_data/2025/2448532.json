@@ -1,0 +1,113 @@
+{
+ "awd_id": "2448532",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Rutgers Symplectic Summer School 2025",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032924876",
+ "po_email": "snaik@nsf.gov",
+ "po_sign_block_name": "Swatee Naik",
+ "awd_eff_date": "2025-02-15",
+ "awd_exp_date": "2026-01-31",
+ "tot_intn_awd_amt": 29619.0,
+ "awd_amount": 29619.0,
+ "awd_min_amd_letter_date": "2025-02-12",
+ "awd_max_amd_letter_date": "2025-02-12",
+ "awd_abstract_narration": "This award provides support for Rutgers Symplectic Summer School 2025 (RSSS2025), which will take place at Rutgers University at New Brunswick, New Jersey, August 18-22, 2025. Symplectic geometry has been thriving in the past few decades and have very rich connections to other fields such as algebraic geometry, low-dimensional topology, and dynamical systems. The growing number of graduate students and young researchers calls for opportunities to learn beyond their regular curriculum, to be exposed to the cutting-edge developments, and to build professional connections. The RSSS2025 will strongly encourage graduates and postdocs to participate in this event and engage in formal and informal research collaboration.\r\n\r\nThe RSSS2025 features three days of minicourses on topics of Fukaya category, Atiyah-Floer conjecture, and Floer theoretic applications in low-dimensional topology. They are followed by two days of research talks covering a variety of topics including recent developments on Viterbo conjecture, contact geometry, global Kuranishi chart theory, equivariant Floer theory, and works related to birational geometry. These topics cover many recent important developments in this field, providing valuable opportunities for learning and exchanging ideas.  More information is available at the conference website: https://sites.google.com/view/rsss2025.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Guangbo",
+   "pi_last_name": "Xu",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Guangbo Xu",
+   "pi_email_addr": "guangbo.xu@rutgers.edu",
+   "nsf_id": "000653154",
+   "pi_start_date": "2025-02-12",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Shaoyun",
+   "pi_last_name": "Bai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shaoyun Bai",
+   "pi_email_addr": "shaoyunb@mit.edu",
+   "nsf_id": "000978472",
+   "pi_start_date": "2025-02-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rutgers University New Brunswick",
+  "inst_street_address": "3 RUTGERS PLZ",
+  "inst_street_address_2": "",
+  "inst_city_name": "NEW BRUNSWICK",
+  "inst_state_code": "NJ",
+  "inst_state_name": "New Jersey",
+  "inst_phone_num": "8489320150",
+  "inst_zip_code": "089018559",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "NJ12",
+  "org_lgl_bus_name": "RUTGERS, THE STATE UNIVERSITY",
+  "org_prnt_uei_num": "YHAYMDR5EXX7",
+  "org_uei_num": "M1LVPE5GLSD9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rutgers University New Brunswick",
+  "perf_str_addr": "110 Frelinghuysen Road",
+  "perf_city_name": "NEW BRUNSWICK",
+  "perf_st_code": "NJ",
+  "perf_st_name": "New Jersey",
+  "perf_zip_code": "089018559",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "NJ12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126500",
+   "pgm_ele_name": "GEOMETRIC ANALYSIS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 29619.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span class=\"BZ_Pyq_fadeIn\">The </span><span class=\"BZ_Pyq_fadeIn\">Rutgers </span><span class=\"BZ_Pyq_fadeIn\">Symplectic </span><span class=\"BZ_Pyq_fadeIn\">Summer </span><span class=\"BZ_Pyq_fadeIn\">School </span><span class=\"BZ_Pyq_fadeIn\">2025 </span><span class=\"BZ_Pyq_fadeIn\">was </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">second </span><span class=\"BZ_Pyq_fadeIn\">installment </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">a </span><span class=\"BZ_Pyq_fadeIn\">summer </span><span class=\"BZ_Pyq_fadeIn\">program </span><span class=\"BZ_Pyq_fadeIn\">designed </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">bring </span><span class=\"BZ_Pyq_fadeIn\">together </span><span class=\"BZ_Pyq_fadeIn\">researchers </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">students </span><span class=\"BZ_Pyq_fadeIn\">working </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">symplectic </span><span class=\"BZ_Pyq_fadeIn\">geometry, </span><span class=\"BZ_Pyq_fadeIn\">an </span><span class=\"BZ_Pyq_fadeIn\">area </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">mathematics </span><span class=\"BZ_Pyq_fadeIn\">that </span><span class=\"BZ_Pyq_fadeIn\">originated </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">study </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">classical </span><span class=\"BZ_Pyq_fadeIn\">mechanics </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">now </span><span class=\"BZ_Pyq_fadeIn\">plays </span><span class=\"BZ_Pyq_fadeIn\">an </span><span class=\"BZ_Pyq_fadeIn\">important </span><span class=\"BZ_Pyq_fadeIn\">role </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">modern </span><span class=\"BZ_Pyq_fadeIn\">geometry, </span><span class=\"BZ_Pyq_fadeIn\">topology, </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">mathematical </span><span class=\"BZ_Pyq_fadeIn\">physics. </span><span class=\"BZ_Pyq_fadeIn\">The </span><span class=\"BZ_Pyq_fadeIn\">program </span><span class=\"BZ_Pyq_fadeIn\">was </span><span class=\"BZ_Pyq_fadeIn\">held </span><span class=\"BZ_Pyq_fadeIn\">at </span><span class=\"BZ_Pyq_fadeIn\">Rutgers </span><span class=\"BZ_Pyq_fadeIn\">University </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">combined </span><span class=\"BZ_Pyq_fadeIn\">three </span><span class=\"BZ_Pyq_fadeIn\">days </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">introductory </span><span class=\"BZ_Pyq_fadeIn\">minicourses </span><span class=\"BZ_Pyq_fadeIn\">with </span><span class=\"BZ_Pyq_fadeIn\">a </span><span class=\"BZ_Pyq_fadeIn\">two-</span><span class=\"BZ_Pyq_fadeIn\">day </span><span class=\"BZ_Pyq_fadeIn\">research </span><span class=\"BZ_Pyq_fadeIn\">conference. </span><span class=\"BZ_Pyq_fadeIn\">This </span><span class=\"BZ_Pyq_fadeIn\">format </span><span class=\"BZ_Pyq_fadeIn\">allowed </span><span class=\"BZ_Pyq_fadeIn\">participants </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">first </span><span class=\"BZ_Pyq_fadeIn\">learn </span><span class=\"BZ_Pyq_fadeIn\">key </span><span class=\"BZ_Pyq_fadeIn\">ideas </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">techniques </span><span class=\"BZ_Pyq_fadeIn\">from </span><span class=\"BZ_Pyq_fadeIn\">experts </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">then </span><span class=\"BZ_Pyq_fadeIn\">explore </span><span class=\"BZ_Pyq_fadeIn\">current </span><span class=\"BZ_Pyq_fadeIn\">research </span><span class=\"BZ_Pyq_fadeIn\">developments </span><span class=\"BZ_Pyq_fadeIn\">through </span><span class=\"BZ_Pyq_fadeIn\">talks </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">discussions.</span></p>\r\n<p><span class=\"BZ_Pyq_fadeIn\">The </span><span class=\"BZ_Pyq_fadeIn\">minicourses </span><span class=\"BZ_Pyq_fadeIn\">were </span><span class=\"BZ_Pyq_fadeIn\">designed </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">make </span><span class=\"BZ_Pyq_fadeIn\">advanced </span><span class=\"BZ_Pyq_fadeIn\">topics </span><span class=\"BZ_Pyq_fadeIn\">accessible </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">graduate </span><span class=\"BZ_Pyq_fadeIn\">students </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">early-</span><span class=\"BZ_Pyq_fadeIn\">career </span><span class=\"BZ_Pyq_fadeIn\">researchers, </span><span class=\"BZ_Pyq_fadeIn\">providing </span><span class=\"BZ_Pyq_fadeIn\">a </span><span class=\"BZ_Pyq_fadeIn\">structured </span><span class=\"BZ_Pyq_fadeIn\">introduction </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">important </span><span class=\"BZ_Pyq_fadeIn\">themes </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">contemporary </span><span class=\"BZ_Pyq_fadeIn\">symplectic </span><span class=\"BZ_Pyq_fadeIn\">geometry. </span><span class=\"BZ_Pyq_fadeIn\">The </span><span class=\"BZ_Pyq_fadeIn\">following </span><span class=\"BZ_Pyq_fadeIn\">research </span><span class=\"BZ_Pyq_fadeIn\">conference </span><span class=\"BZ_Pyq_fadeIn\">featured </span><span class=\"BZ_Pyq_fadeIn\">presentations </span><span class=\"BZ_Pyq_fadeIn\">on </span><span class=\"BZ_Pyq_fadeIn\">recent </span><span class=\"BZ_Pyq_fadeIn\">advances </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">field </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">created </span><span class=\"BZ_Pyq_fadeIn\">opportunities </span><span class=\"BZ_Pyq_fadeIn\">for </span><span class=\"BZ_Pyq_fadeIn\">discussion </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">collaboration </span><span class=\"BZ_Pyq_fadeIn\">among </span><span class=\"BZ_Pyq_fadeIn\">participants. </span><span class=\"BZ_Pyq_fadeIn\">Together, </span><span class=\"BZ_Pyq_fadeIn\">these </span><span class=\"BZ_Pyq_fadeIn\">activities </span><span class=\"BZ_Pyq_fadeIn\">helped </span><span class=\"BZ_Pyq_fadeIn\">disseminate </span><span class=\"BZ_Pyq_fadeIn\">new </span><span class=\"BZ_Pyq_fadeIn\">ideas </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">foster </span><span class=\"BZ_Pyq_fadeIn\">communication </span><span class=\"BZ_Pyq_fadeIn\">across </span><span class=\"BZ_Pyq_fadeIn\">different </span><span class=\"BZ_Pyq_fadeIn\">areas </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">geometry </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">topology.</span></p>\r\n<p><span class=\"BZ_Pyq_fadeIn\">A </span><span class=\"BZ_Pyq_fadeIn\">major </span><span class=\"BZ_Pyq_fadeIn\">outcome </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">program </span><span class=\"BZ_Pyq_fadeIn\">was </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">training </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">development </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">young </span><span class=\"BZ_Pyq_fadeIn\">mathematicians. </span><span class=\"BZ_Pyq_fadeIn\">Graduate </span><span class=\"BZ_Pyq_fadeIn\">students </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">postdoctoral </span><span class=\"BZ_Pyq_fadeIn\">researchers </span><span class=\"BZ_Pyq_fadeIn\">were </span><span class=\"BZ_Pyq_fadeIn\">able </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">engage </span><span class=\"BZ_Pyq_fadeIn\">directly </span><span class=\"BZ_Pyq_fadeIn\">with </span><span class=\"BZ_Pyq_fadeIn\">leading </span><span class=\"BZ_Pyq_fadeIn\">researchers, </span><span class=\"BZ_Pyq_fadeIn\">ask </span><span class=\"BZ_Pyq_fadeIn\">questions </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">an </span><span class=\"BZ_Pyq_fadeIn\">informal </span><span class=\"BZ_Pyq_fadeIn\">setting, </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">build </span><span class=\"BZ_Pyq_fadeIn\">connections </span><span class=\"BZ_Pyq_fadeIn\">with </span><span class=\"BZ_Pyq_fadeIn\">peers </span><span class=\"BZ_Pyq_fadeIn\">working </span><span class=\"BZ_Pyq_fadeIn\">on </span><span class=\"BZ_Pyq_fadeIn\">related </span><span class=\"BZ_Pyq_fadeIn\">problems. </span><span class=\"BZ_Pyq_fadeIn\">This </span><span class=\"BZ_Pyq_fadeIn\">experience </span><span class=\"BZ_Pyq_fadeIn\">helped </span><span class=\"BZ_Pyq_fadeIn\">participants </span><span class=\"BZ_Pyq_fadeIn\">gain </span><span class=\"BZ_Pyq_fadeIn\">a </span><span class=\"BZ_Pyq_fadeIn\">clearer </span><span class=\"BZ_Pyq_fadeIn\">picture </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">current </span><span class=\"BZ_Pyq_fadeIn\">research </span><span class=\"BZ_Pyq_fadeIn\">directions </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">encouraged </span><span class=\"BZ_Pyq_fadeIn\">them </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">pursue </span><span class=\"BZ_Pyq_fadeIn\">new </span><span class=\"BZ_Pyq_fadeIn\">ideas </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">collaborations.</span></p>\r\n<p><span class=\"BZ_Pyq_fadeIn\">The </span><span class=\"BZ_Pyq_fadeIn\">program </span><span class=\"BZ_Pyq_fadeIn\">also </span><span class=\"BZ_Pyq_fadeIn\">contributed </span><span class=\"BZ_Pyq_fadeIn\">to </span><span class=\"BZ_Pyq_fadeIn\">strengthening </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">broader </span><span class=\"BZ_Pyq_fadeIn\">mathematical </span><span class=\"BZ_Pyq_fadeIn\">community. </span><span class=\"BZ_Pyq_fadeIn\">Participants </span><span class=\"BZ_Pyq_fadeIn\">came </span><span class=\"BZ_Pyq_fadeIn\">from </span><span class=\"BZ_Pyq_fadeIn\">many </span><span class=\"BZ_Pyq_fadeIn\">institutions </span><span class=\"BZ_Pyq_fadeIn\">across </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">United </span><span class=\"BZ_Pyq_fadeIn\">States, </span><span class=\"BZ_Pyq_fadeIn\">with </span><span class=\"BZ_Pyq_fadeIn\">additional </span><span class=\"BZ_Pyq_fadeIn\">international </span><span class=\"BZ_Pyq_fadeIn\">participation. </span><span class=\"BZ_Pyq_fadeIn\">By </span><span class=\"BZ_Pyq_fadeIn\">hosting </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">event </span><span class=\"BZ_Pyq_fadeIn\">at </span><span class=\"BZ_Pyq_fadeIn\">Rutgers </span><span class=\"BZ_Pyq_fadeIn\">University&mdash;</span><span class=\"BZ_Pyq_fadeIn\">an </span><span class=\"BZ_Pyq_fadeIn\">institution </span><span class=\"BZ_Pyq_fadeIn\">with </span><span class=\"BZ_Pyq_fadeIn\">a </span><span class=\"BZ_Pyq_fadeIn\">long </span><span class=\"BZ_Pyq_fadeIn\">tradition </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">research </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">geometry </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">topology&mdash;</span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">program </span><span class=\"BZ_Pyq_fadeIn\">helped </span><span class=\"BZ_Pyq_fadeIn\">reinforce </span><span class=\"BZ_Pyq_fadeIn\">Rutgers&rsquo; </span><span class=\"BZ_Pyq_fadeIn\">role </span><span class=\"BZ_Pyq_fadeIn\">as </span><span class=\"BZ_Pyq_fadeIn\">a </span><span class=\"BZ_Pyq_fadeIn\">hub </span><span class=\"BZ_Pyq_fadeIn\">for </span><span class=\"BZ_Pyq_fadeIn\">research </span><span class=\"BZ_Pyq_fadeIn\">activity </span><span class=\"BZ_Pyq_fadeIn\">in </span><span class=\"BZ_Pyq_fadeIn\">symplectic </span><span class=\"BZ_Pyq_fadeIn\">geometry. </span><span class=\"BZ_Pyq_fadeIn\">Events </span><span class=\"BZ_Pyq_fadeIn\">such </span><span class=\"BZ_Pyq_fadeIn\">as </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">Rutgers </span><span class=\"BZ_Pyq_fadeIn\">Symplectic </span><span class=\"BZ_Pyq_fadeIn\">Summer </span><span class=\"BZ_Pyq_fadeIn\">School </span><span class=\"BZ_Pyq_fadeIn\">help </span><span class=\"BZ_Pyq_fadeIn\">sustain </span><span class=\"BZ_Pyq_fadeIn\">an </span><span class=\"BZ_Pyq_fadeIn\">active </span><span class=\"BZ_Pyq_fadeIn\">research </span><span class=\"BZ_Pyq_fadeIn\">network </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">support </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">continued </span><span class=\"BZ_Pyq_fadeIn\">development </span><span class=\"BZ_Pyq_fadeIn\">of </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">field.</span></p>\r\n<p><span class=\"BZ_Pyq_fadeIn\">Overall, </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">Rutgers </span><span class=\"BZ_Pyq_fadeIn\">Symplectic </span><span class=\"BZ_Pyq_fadeIn\">Summer </span><span class=\"BZ_Pyq_fadeIn\">School </span><span class=\"BZ_Pyq_fadeIn\">2025 </span><span class=\"BZ_Pyq_fadeIn\">successfully </span><span class=\"BZ_Pyq_fadeIn\">promoted </span><span class=\"BZ_Pyq_fadeIn\">research </span><span class=\"BZ_Pyq_fadeIn\">communication, </span><span class=\"BZ_Pyq_fadeIn\">provided </span><span class=\"BZ_Pyq_fadeIn\">valuable </span><span class=\"BZ_Pyq_fadeIn\">training </span><span class=\"BZ_Pyq_fadeIn\">for </span><span class=\"BZ_Pyq_fadeIn\">early-</span><span class=\"BZ_Pyq_fadeIn\">career </span><span class=\"BZ_Pyq_fadeIn\">mathematicians, </span><span class=\"BZ_Pyq_fadeIn\">and </span><span class=\"BZ_Pyq_fadeIn\">strengthened </span><span class=\"BZ_Pyq_fadeIn\">connections </span><span class=\"BZ_Pyq_fadeIn\">within </span><span class=\"BZ_Pyq_fadeIn\">the </span><span class=\"BZ_Pyq_fadeIn\">international </span><span class=\"BZ_Pyq_fadeIn\">symplectic </span><span class=\"BZ_Pyq_fadeIn\">geometry </span><span class=\"BZ_Pyq_fadeIn\">community.</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 03/13/2026<br>\nModified by: Guangbo&nbsp;Xu</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe Rutgers Symplectic Summer School 2025 was the second installment of a summer program designed to bring together researchers and students working in symplectic geometry, an area of mathematics that originated in the study of classical mechanics and now plays an important role in modern geometry, topology, and mathematical physics. The program was held at Rutgers University and combined three days of introductory minicourses with a two-day research conference. This format allowed participants to first learn key ideas and techniques from experts and then explore current research developments through talks and discussions.\r\n\n\nThe minicourses were designed to make advanced topics accessible to graduate students and early-career researchers, providing a structured introduction to important themes in contemporary symplectic geometry. The following research conference featured presentations on recent advances in the field and created opportunities for discussion and collaboration among participants. Together, these activities helped disseminate new ideas and foster communication across different areas of geometry and topology.\r\n\n\nA major outcome of the program was the training and development of young mathematicians. Graduate students and postdoctoral researchers were able to engage directly with leading researchers, ask questions in an informal setting, and build connections with peers working on related problems. This experience helped participants gain a clearer picture of current research directions and encouraged them to pursue new ideas and collaborations.\r\n\n\nThe program also contributed to strengthening the broader mathematical community. Participants came from many institutions across the United States, with additional international participation. By hosting the event at Rutgers Universityan institution with a long tradition of research in geometry and topologythe program helped reinforce Rutgers role as a hub for research activity in symplectic geometry. Events such as the Rutgers Symplectic Summer School help sustain an active research network and support the continued development of the field.\r\n\n\nOverall, the Rutgers Symplectic Summer School 2025 successfully promoted research communication, provided valuable training for early-career mathematicians, and strengthened connections within the international symplectic geometry community.\r\n\n\n\t\t\t\t\tLast Modified: 03/13/2026\n\n\t\t\t\t\tSubmitted by: GuangboXu\n"
+ }
+}

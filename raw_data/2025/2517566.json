@@ -1,0 +1,149 @@
+{
+ "awd_id": "2517566",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "POSE: Phase I: Mississippi State University (MSU) Autonomous Vehicle Simulator (MAVS) Software Foundation",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032928808",
+ "po_email": "frabanal@nsf.gov",
+ "po_sign_block_name": "Florence Rabanal",
+ "awd_eff_date": "2025-08-15",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 259189.0,
+ "awd_amount": 259189.0,
+ "awd_min_amd_letter_date": "2025-08-06",
+ "awd_max_amd_letter_date": "2026-01-27",
+ "awd_abstract_narration": "This Pathways to Enable Open-Source Ecosystems (POSE) project builds a dynamic, collaborative community dedicated to advancing self-driving technologies through open-source innovation. By uniting stakeholders from industry, government, and academia around the Mississippi State University (MSU) Autonomous Vehicle Simulator (MAVS), a free, physics-based simulation platform, this project accelerates the development, knowledge sharing, and real-world deployment of autonomous systems. Although building and physically testing self-driving vehicles is slow, expensive, and potentially dangerous, simulation is fast, cheap, and safe. This project enables community access and governance of a high-quality simulator, allowing contributions to self-driving technologies from a variety of sources. This project develops an open-source ecosystem to support the growth and governance of MAVS through community contributions, allowing the capability and use of the software to grow with the number of users. The solution also allows the users to guide and contribute to the development of new simulator features that match the technology needs of the emerging field of self-driving cars, incorporating simulations of new types of sensors, environments, and vehicle behaviors.\r\n \r\nThis POSE project establishes a sustainable open-source ecosystem to support the MAVS software, an open-source software for simulating self-driving vehicles. The project creates a formal governance structure for MAVS, a process for contributing new features and code, and enable input from the growing community of MAVS users. This solution includes setting priorities such as the development of new cameras and radar-based sensor models for self-driving vehicles. Additionally, this project creates a process for addressing feature requests for MAVS. While MAVS already includes interfaces to commonly used tools like the robotic operating system, future feature requests may include the development of other interfaces or new terrain simulation properties to support simulated experimentation in on-road and off-road terrains. Because MAVS has supported a broad domain of experiments \u2013 from large-scale teaming exercises to cybersecurity analysis, the team expects feature requests to cover a wide variety of applications. This project will define a process for ordering the priority of new features in MAVS, ensuring the long-term utility of the software.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Goodin",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher T Goodin",
+   "pi_email_addr": "cgoodin@cavs.msstate.edu",
+   "nsf_id": "000842718",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Daniel",
+   "pi_last_name": "Carruth",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daniel W Carruth",
+   "pi_email_addr": "dwc2@cavs.msstate.edu",
+   "nsf_id": "000561941",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Hudson",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher R Hudson",
+   "pi_email_addr": "chudson@cse.msstate.edu",
+   "nsf_id": "000842721",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sara",
+   "pi_last_name": "Fuller",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sara C Fuller",
+   "pi_email_addr": "sfuller@cavs.msstate.edu",
+   "nsf_id": "0000A0Y6V",
+   "pi_start_date": "2025-08-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Austin",
+   "pi_last_name": "Check",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "II",
+   "pi_full_name": "Austin D Check",
+   "pi_email_addr": "adc120@msstate.edu",
+   "nsf_id": "0000A0WNZ",
+   "pi_start_date": "2026-01-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Mississippi State University",
+  "inst_street_address": "245 BARR AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "MISSISSIPPI STATE",
+  "inst_state_code": "MS",
+  "inst_state_name": "Mississippi",
+  "inst_phone_num": "6623257404",
+  "inst_zip_code": "39762",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MS03",
+  "org_lgl_bus_name": "MISSISSIPPI STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NTXJM52SHKS7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Mississippi State University",
+  "perf_str_addr": "245 BARR AVE",
+  "perf_city_name": "MISSISSIPPI STATE",
+  "perf_st_code": "MS",
+  "perf_st_name": "Mississippi",
+  "perf_zip_code": "39762",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MS03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "211Y00",
+   "pgm_ele_name": "POSE"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 259189.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The MSU Autonomous Vehicle Simulator (MAVS) is an open-source software simulation library for off-road autonomous ground vehicles (AGV). MAVS provides unique physics-simulation capabilities for environment, terrains, vehicles, and sensors of AGV operating in off-road environments. This capability makes it attractive to organizations and researchers in the field of off-road autonomy including the US DoD, agricultural applications, and mining.</p>\r\n<p>The POSE Phase 1 Project \"Mississippi State University Autonomous Vehicle Simulator (MAVS) Software Foundation\" was initiated to develop a plan for establishing an open-source ecosystem (OSE) for the MAVS software by providing strategies for governance, community outreach and growth, software development and sustainment, and customer discovery for the MAVS. The primary goal of this project was to establish the MAVS Software Foundation (MSF), perform customer discovery, and develop a formal plan for growing the MAVS OSE.</p>\r\n<p>One major outcome of this project was the completion of NSF I-Corps training by the MAVS team. I-Corps is \"an immersive, entrepreneurial training program that facilitates the transformation of invention to impact.\" As part of this training, the MAVS team completed over 100 customer discovery interviews, listening to users and potential users working in the field of off-road autonomy. The outcome of this process was a renewed focus on making MAVS accessible to and easy-to-use for both graduate and undergraduate students. We developed a strategy for creating tutorials and demos based on YouTube, rather than relying solely on written documentation.</p>\r\n<p>Another outcome of this POSE project was an increased emphasis on online promotion and outreach activities for MAVS. This includes implementing a regular bi-weekly posting schedule on the MAVS LinkedIn page, creating more content for the MAVS YouTube channel, and establishing a dedicated MAVS website, mavsim.org. LinkedIn posting has primarily highlighted the many journal articles and conference publications featuring MAVS, while also occasionally demonstrating new capabilities. The YouTube channel shows research highlights as well as hosting short tutorial videos demonstrating how to install and run MAVS. The website gives information about MAVS capabilities and links to the GitHub repo, YouTube channel, and LinkedIn page. This focus on online outreach has resulted in much more widespread adoption of MAVS, with the GitHub page now averaging about 15 unique cloners per week. Prior to this POSE project, this number was 1-2 unique cloners per week.</p>\r\n<p>An additional outcome of this project was the establishment of a governance structure for the MAVS software through the MAVS Software Foundation (MSF). The MSF consists of a seven-member advisory board with positions for Lead Developer, Technology Manager, Industry Advisor, Community Outreach, Commercial Engagement, Academic Representative, and Student Representative. This board will manage the approval of new source-code administrators, approve development priorities, and assist with the planning and promotion of the MAVS student competition, and key outcome of our I-Corps training and POSE Phase 1 Planning project.&nbsp;</p>\r\n<p>The final and most important outcome of this project is a formal plan for the growth and sustainment of the MAVS via the MSF. This plan is presented in our application for a PESOSE Track 2 grant. If funded, this project will implement the plan developed in the POSE Phase 1 grant, with the primary focus on the MAVS student competition and the development of additional outreach strategies for MAVS OSE growth.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/02/2026<br>\nModified by: Christopher&nbsp;T&nbsp;Goodin</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952778245_mavs_youtube_page--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952778245_mavs_youtube_page--rgov-800width.png\" title=\"MAVS YouTube Page\"><img src=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952778245_mavs_youtube_page--rgov-66x44.png\" alt=\"MAVS YouTube Page\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Screenshot of the MAVS YouTube page created for this project</div>\n<div class=\"imageCredit\">MAVS Team</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Christopher&nbsp;T&nbsp;Goodin\n<div class=\"imageTitle\">MAVS YouTube Page</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952741806_mavs_website--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952741806_mavs_website--rgov-800width.png\" title=\"MAVS Website\"><img src=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952741806_mavs_website--rgov-66x44.png\" alt=\"MAVS Website\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Screen shot of the MAVS website created during this project</div>\n<div class=\"imageCredit\">MAVS Team</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Christopher&nbsp;T&nbsp;Goodin\n<div class=\"imageTitle\">MAVS Website</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952702774_mavs_image--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952702774_mavs_image--rgov-800width.png\" title=\"MAVS\"><img src=\"/por/images/Reports/POR/2026/2517566/2517566_10999870_1790952702774_mavs_image--rgov-66x44.png\" alt=\"MAVS\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Example MAVS off-road simulation.</div>\n<div class=\"imageCredit\">MAVS Team</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Christopher&nbsp;T&nbsp;Goodin\n<div class=\"imageTitle\">MAVS</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe MSU Autonomous Vehicle Simulator (MAVS) is an open-source software simulation library for off-road autonomous ground vehicles (AGV). MAVS provides unique physics-simulation capabilities for environment, terrains, vehicles, and sensors of AGV operating in off-road environments. This capability makes it attractive to organizations and researchers in the field of off-road autonomy including the US DoD, agricultural applications, and mining.\r\n\n\nThe POSE Phase 1 Project \"Mississippi State University Autonomous Vehicle Simulator (MAVS) Software Foundation\" was initiated to develop a plan for establishing an open-source ecosystem (OSE) for the MAVS software by providing strategies for governance, community outreach and growth, software development and sustainment, and customer discovery for the MAVS. The primary goal of this project was to establish the MAVS Software Foundation (MSF), perform customer discovery, and develop a formal plan for growing the MAVS OSE.\r\n\n\nOne major outcome of this project was the completion of NSF I-Corps training by the MAVS team. I-Corps is \"an immersive, entrepreneurial training program that facilitates the transformation of invention to impact.\" As part of this training, the MAVS team completed over 100 customer discovery interviews, listening to users and potential users working in the field of off-road autonomy. The outcome of this process was a renewed focus on making MAVS accessible to and easy-to-use for both graduate and undergraduate students. We developed a strategy for creating tutorials and demos based on YouTube, rather than relying solely on written documentation.\r\n\n\nAnother outcome of this POSE project was an increased emphasis on online promotion and outreach activities for MAVS. This includes implementing a regular bi-weekly posting schedule on the MAVS LinkedIn page, creating more content for the MAVS YouTube channel, and establishing a dedicated MAVS website, mavsim.org. LinkedIn posting has primarily highlighted the many journal articles and conference publications featuring MAVS, while also occasionally demonstrating new capabilities. The YouTube channel shows research highlights as well as hosting short tutorial videos demonstrating how to install and run MAVS. The website gives information about MAVS capabilities and links to the GitHub repo, YouTube channel, and LinkedIn page. This focus on online outreach has resulted in much more widespread adoption of MAVS, with the GitHub page now averaging about 15 unique cloners per week. Prior to this POSE project, this number was 1-2 unique cloners per week.\r\n\n\nAn additional outcome of this project was the establishment of a governance structure for the MAVS software through the MAVS Software Foundation (MSF). The MSF consists of a seven-member advisory board with positions for Lead Developer, Technology Manager, Industry Advisor, Community Outreach, Commercial Engagement, Academic Representative, and Student Representative. This board will manage the approval of new source-code administrators, approve development priorities, and assist with the planning and promotion of the MAVS student competition, and key outcome of our I-Corps training and POSE Phase 1 Planning project.\r\n\n\nThe final and most important outcome of this project is a formal plan for the growth and sustainment of the MAVS via the MSF. This plan is presented in our application for a PESOSE Track 2 grant. If funded, this project will implement the plan developed in the POSE Phase 1 grant, with the primary focus on the MAVS student competition and the development of additional outreach strategies for MAVS OSE growth.\r\n\n\n\t\t\t\t\tLast Modified: 10/02/2026\n\n\t\t\t\t\tSubmitted by: ChristopherTGoodin\n"
+ }
+}

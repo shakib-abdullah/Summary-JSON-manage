@@ -1,0 +1,105 @@
+{
+ "awd_id": "2524685",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of a Multifunctional Uncrewed Aircraft System for Monitoring Water Quality Conditions",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-06-17",
+ "awd_max_amd_letter_date": "2025-06-17",
+ "awd_abstract_narration": "This I-Corps project focuses on the development of a multifunctional, uncrewed aircraft system (UAS) to monitor water quality and detect harmful algal blooms (HABs). HABs in freshwater bodies pose significant threats to both public health and the environment. These blooms, often fueled by excess nutrients such as phosphorus, can produce toxins that affect water quality. The neurotoxins released by certain bacteria species can contaminate water supplies, posing serious risks to human health. The rapid growth of these blooms can disrupt local ecosystems, harm biodiversity, and impact agriculture, tourism, and recreation. Timely monitoring of HABs and water conditions is critical for taking prompt action to protect public health and water safety and security. Current in-situ and remote sensing methods are limited by factors such as high labor intensity and cost, inefficiency, and an inability to provide real-time monitoring. This sensing system facilitates the identification of nutrient sources and conditions that promote algal bloom formation, helping to inform targeted strategies for mitigating or preventing future outbreaks. Furthermore, by tracking HABs and measuring water condition parameters, this technology allows researchers and policymakers to evaluate the effects of these events on aquatic ecosystems, including potential changes in species composition and ecosystem services. This solution has the potential to enhance sensing efficiency, reduce cost, expand coverage, and deliver more comprehensive monitoring results. \r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of an uncrewed aircraft system (UAS) that combines the benefits of both in-situ and remote sensing, enabling real-time monitoring of harmful algal bloom (HAB) distribution, movement, and water conditions. The technology is equipped with multiple onboard sensing devices including multispectral imaging cameras, and can measure temperature, total dissolved solids, turbidity, potential of hydrogen, and other factors in real-time, using wireless data transmission. Additionally, this solution features a novel multi-tube water sampling structure, allowing for the collection of water samples from multiple locations to enable advanced laboratory analysis to identify cyanobacteria and characterizing HABs. The multispectral imaging camera enhances the system\u2019s ability to visually monitor water conditions across a wide region, facilitating the tracking of HAB distribution and movement. Furthermore, the system incorporates a geographical information system to record spatial and temporal water condition data, generating maps for comprehensive water and HABs monitoring and management. This UAS-based water sensing system offers better monitoring of water conditions with increased versatility, efficiency, and precision in data collection and analysis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tian",
+   "pi_last_name": "Xia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tian Xia",
+   "pi_email_addr": "txia@uvm.edu",
+   "nsf_id": "000109140",
+   "pi_start_date": "2025-06-17",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Vermont & State Agricultural College",
+  "inst_street_address": "85 S PROSPECT STREET",
+  "inst_street_address_2": "",
+  "inst_city_name": "BURLINGTON",
+  "inst_state_code": "VT",
+  "inst_state_name": "Vermont",
+  "inst_phone_num": "8026563660",
+  "inst_zip_code": "054051704",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "VT00",
+  "org_lgl_bus_name": "UNIVERSITY OF VERMONT & STATE AGRICULTURAL COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "Z94KLERAG5V9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Vermont & State Agricultural College",
+  "perf_str_addr": "85 S PROSPECT STREET",
+  "perf_city_name": "BURLINGTON",
+  "perf_st_code": "VT",
+  "perf_st_name": "Vermont",
+  "perf_zip_code": "054051704",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "VT00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "059P",
+   "pgm_ref_txt": "SCIENCE IN MOTION"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Clean and reliable water resources are essential for public health, environmental sustainability, economic development, and ecosystem protection. Across the United States and globally, water bodies are increasingly affected by harmful algal blooms (HABs), excess nutrient loading, emerging contaminants such as per- and polyfluoroalkyl substances (PFAS), and other environmental stressors. These challenges can impact drinking-water supplies, aquatic ecosystems, recreational activities, fisheries, and local economies. Effective management of these resources depends on timely, accurate, and spatially representative information on water-quality conditions.</p>\r\n<p>This NSF I-Corps project evaluated the commercial and societal potential of a multifunctional uncrewed aircraft system (UAS)-based platform designed to support water-quality monitoring and HAB surveillance. The technology integrates aerial imaging, water-quality sensing, water sampling, and geospatial mapping within a single field-deployable system. By combining these capabilities, the platform is intended to provide a flexible and efficient approach for monitoring lakes, reservoirs, rivers, wetlands, and other aquatic environments.</p>\r\n<p>Current water-monitoring approaches often rely on manual sampling, boat-based operations, fixed monitoring stations, or satellite observations. While these methods provide valuable information, they may be limited by labor requirements, operational costs, accessibility challenges, weather conditions, or insufficient spatial and temporal coverage. Remote locations and hazardous environments can present additional challenges for data collection. Delays between field sampling and laboratory analysis may also reduce the ability to respond quickly to rapidly evolving environmental events.</p>\r\n<p>The proposed UAS-based platform addresses several of these limitations by enabling rapid deployment without the need for boats or permanent infrastructure. The system supports the simultaneous collection of real-time measurements, physical water samples, aerial imagery, and spatially referenced environmental data. Potential applications include HAB monitoring, nutrient assessment, watershed management, drinking-water source protection, environmental compliance, contaminant investigations, and aquatic ecosystem studies.</p>\r\n<p>A major focus of the project involved evaluating stakeholder needs within the water-management sector. As part of the NSF National I-Corps Program, more than 100 customer discovery interviews were completed with water-quality specialists, environmental researchers, public health officials, water utility personnel, environmental consultants, technology developers, and representatives from government agencies. Additional stakeholder engagement was conducted through professional conferences, industry trade shows, field demonstrations, and meetings with water-sector organizations.</p>\r\n<p>These activities provided insight into existing monitoring practices, operational challenges, technology adoption considerations, and emerging needs within the water sector. Several common themes were identified. Existing monitoring approaches were frequently characterized as labor-intensive, costly, and difficult to deploy in remote or hazardous environments. Limitations in monitoring frequency, spatial coverage, and response time were also identified as significant challenges. Strong interest was expressed in approaches capable of reducing operational burdens while maintaining or improving data quality.</p>\r\n<p>The need for improved monitoring capabilities associated with HABs, nutrient pollution, PFAS contamination, watershed health, and drinking-water protection was consistently identified across stakeholder groups. Timely access to reliable environmental information was considered critical for supporting management decisions, regulatory compliance, public-health protection, and environmental stewardship. Monitoring technologies capable of providing both immediate measurements and physical samples for laboratory confirmation were viewed as particularly valuable.</p>\r\n<p>Customer discovery activities also highlighted the potential value of integrating multiple monitoring functions within a single platform. The ability to collect environmental measurements, obtain water samples, capture aerial imagery, and generate geospatial datasets during a single deployment was identified as a capability that could improve operational efficiency and support more informed decision-making. Integrated monitoring approaches have the potential to reduce field effort, improve coverage, and enhance the usefulness of collected data.</p>\r\n<p>Participation in the NSF I-Corps program also provided an opportunity to evaluate market needs, technology adoption pathways, and potential commercialization strategies. Findings supported continued development of technologies that increase monitoring flexibility, improve worker safety, reduce deployment costs, and enhance data collection capabilities. Environmental consulting firms, water utilities, watershed organizations, and public-sector agencies were identified as promising early-adopter markets for advanced drone-enabled water-monitoring solutions.</p>\r\n<p>The project demonstrated significant interest in innovative approaches for improving water-quality monitoring and environmental data collection. Continued technology development, field validation, and collaboration with stakeholder organizations are expected to further expand system capabilities and application areas. Potential long-term benefits include improved water-resource management, enhanced environmental protection, strengthened public-health safeguards, and increased capacity to detect and respond to emerging water-quality challenges.</p>\r\n<p>Overall, the project advanced understanding of both the technical and market requirements for next-generation water-monitoring technologies. The findings indicate that integrated UAS-based sensing, sampling, imaging, and mapping systems have the potential to address important gaps in current monitoring practices while supporting more effective protection and management of freshwater resources and aquatic ecosystems.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 07/23/2026<br>\nModified by: Tian&nbsp;Xia</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nClean and reliable water resources are essential for public health, environmental sustainability, economic development, and ecosystem protection. Across the United States and globally, water bodies are increasingly affected by harmful algal blooms (HABs), excess nutrient loading, emerging contaminants such as per- and polyfluoroalkyl substances (PFAS), and other environmental stressors. These challenges can impact drinking-water supplies, aquatic ecosystems, recreational activities, fisheries, and local economies. Effective management of these resources depends on timely, accurate, and spatially representative information on water-quality conditions.\r\n\n\nThis NSF I-Corps project evaluated the commercial and societal potential of a multifunctional uncrewed aircraft system (UAS)-based platform designed to support water-quality monitoring and HAB surveillance. The technology integrates aerial imaging, water-quality sensing, water sampling, and geospatial mapping within a single field-deployable system. By combining these capabilities, the platform is intended to provide a flexible and efficient approach for monitoring lakes, reservoirs, rivers, wetlands, and other aquatic environments.\r\n\n\nCurrent water-monitoring approaches often rely on manual sampling, boat-based operations, fixed monitoring stations, or satellite observations. While these methods provide valuable information, they may be limited by labor requirements, operational costs, accessibility challenges, weather conditions, or insufficient spatial and temporal coverage. Remote locations and hazardous environments can present additional challenges for data collection. Delays between field sampling and laboratory analysis may also reduce the ability to respond quickly to rapidly evolving environmental events.\r\n\n\nThe proposed UAS-based platform addresses several of these limitations by enabling rapid deployment without the need for boats or permanent infrastructure. The system supports the simultaneous collection of real-time measurements, physical water samples, aerial imagery, and spatially referenced environmental data. Potential applications include HAB monitoring, nutrient assessment, watershed management, drinking-water source protection, environmental compliance, contaminant investigations, and aquatic ecosystem studies.\r\n\n\nA major focus of the project involved evaluating stakeholder needs within the water-management sector. As part of the NSF National I-Corps Program, more than 100 customer discovery interviews were completed with water-quality specialists, environmental researchers, public health officials, water utility personnel, environmental consultants, technology developers, and representatives from government agencies. Additional stakeholder engagement was conducted through professional conferences, industry trade shows, field demonstrations, and meetings with water-sector organizations.\r\n\n\nThese activities provided insight into existing monitoring practices, operational challenges, technology adoption considerations, and emerging needs within the water sector. Several common themes were identified. Existing monitoring approaches were frequently characterized as labor-intensive, costly, and difficult to deploy in remote or hazardous environments. Limitations in monitoring frequency, spatial coverage, and response time were also identified as significant challenges. Strong interest was expressed in approaches capable of reducing operational burdens while maintaining or improving data quality.\r\n\n\nThe need for improved monitoring capabilities associated with HABs, nutrient pollution, PFAS contamination, watershed health, and drinking-water protection was consistently identified across stakeholder groups. Timely access to reliable environmental information was considered critical for supporting management decisions, regulatory compliance, public-health protection, and environmental stewardship. Monitoring technologies capable of providing both immediate measurements and physical samples for laboratory confirmation were viewed as particularly valuable.\r\n\n\nCustomer discovery activities also highlighted the potential value of integrating multiple monitoring functions within a single platform. The ability to collect environmental measurements, obtain water samples, capture aerial imagery, and generate geospatial datasets during a single deployment was identified as a capability that could improve operational efficiency and support more informed decision-making. Integrated monitoring approaches have the potential to reduce field effort, improve coverage, and enhance the usefulness of collected data.\r\n\n\nParticipation in the NSF I-Corps program also provided an opportunity to evaluate market needs, technology adoption pathways, and potential commercialization strategies. Findings supported continued development of technologies that increase monitoring flexibility, improve worker safety, reduce deployment costs, and enhance data collection capabilities. Environmental consulting firms, water utilities, watershed organizations, and public-sector agencies were identified as promising early-adopter markets for advanced drone-enabled water-monitoring solutions.\r\n\n\nThe project demonstrated significant interest in innovative approaches for improving water-quality monitoring and environmental data collection. Continued technology development, field validation, and collaboration with stakeholder organizations are expected to further expand system capabilities and application areas. Potential long-term benefits include improved water-resource management, enhanced environmental protection, strengthened public-health safeguards, and increased capacity to detect and respond to emerging water-quality challenges.\r\n\n\nOverall, the project advanced understanding of both the technical and market requirements for next-generation water-monitoring technologies. The findings indicate that integrated UAS-based sensing, sampling, imaging, and mapping systems have the potential to address important gaps in current monitoring practices while supporting more effective protection and management of freshwater resources and aquatic ecosystems.\r\n\n\n\t\t\t\t\tLast Modified: 07/23/2026\n\n\t\t\t\t\tSubmitted by: TianXia\n"
+ }
+}

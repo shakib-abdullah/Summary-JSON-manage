@@ -1,0 +1,101 @@
+{
+ "awd_id": "2521320",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Modular Multiphase Interleaved High Current Conversion for Distributed Energy Resources",
+ "cfda_num": "47.041",
+ "org_code": "07210000",
+ "po_phone": "7032922303",
+ "po_email": "eabed@nsf.gov",
+ "po_sign_block_name": "Eyad Abed",
+ "awd_eff_date": "2024-11-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 182265.0,
+ "awd_min_amd_letter_date": "2025-03-10",
+ "awd_max_amd_letter_date": "2025-03-10",
+ "awd_abstract_narration": "This project will investigate a novel high-current conversion technology to promote various distributed energy resources (DERs)-related applications, including battery energy storage, electric vehicle fast charging, hydrogen production from solar and wind power, and data centers. With the rapid growth of energy demand from DERs, there is a significant challenge to directly supply a huge DC current, up to a few kiloamperes or even higher. From the power systems perspective, this project aims to provide capability to support high-power demand response with high efficiency and fast speed. From the power electronics perspective, it suggests a solution to satisfy the high-current requirements with high power density and low cost. This project aims to alleviate the existing technical gaps and contribute to the development of the next-generation high efficiency, compact, and low-cost high current conversion technology. The project is expected to benefit the renewable energy and transportation electrification industry and contribute to the advancements of the US both technically and economically.\r\n\r\nThis project will leverage the state-of-the-art wide bandgap (WBG) semiconductor devices to develop a modular multiphase interleaved high current conversion technology for various DERs and loads. To satisfy the high current needs and overcome existing challenges, the project proposes to study high-efficiency resonant circuits, integrated magnetic coupling, and modeling and control of power converters. A key technology is the compensation circuit topology design, including inductors, capacitors, and their interconnections to create resonance. A unique innovation of this project will be the development of novel compensation topologies to achieve a high-current source output property, which is different from a conventional voltage-source output. In this way, the expected high-current capability could be realized to satisfy many DER applications. The developed high frequency soft-switching strategy would significantly reduce the size of passive components and contribute to high power density in practical use. Meanwhile, education efforts will also be integrated into the research to ensure that the research achievements in this project will benefit students.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Electrical, Communications, & Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hua",
+   "pi_last_name": "Zhang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hua Zhang",
+   "pi_email_addr": "huz524@lehigh.edu",
+   "nsf_id": "000846139",
+   "pi_start_date": "2025-03-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Lehigh University",
+  "inst_street_address": "526 BRODHEAD AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "BETHLEHEM",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "6107583021",
+  "inst_zip_code": "180153008",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "PA07",
+  "org_lgl_bus_name": "LEHIGH UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "E13MDBKHLDB5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lehigh University",
+  "perf_str_addr": "526 BRODHEAD AVE",
+  "perf_city_name": "BETHLEHEM",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "180153008",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "PA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "180Y00",
+   "pgm_ele_name": "ERI-Eng. Research Initiation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "155E",
+   "pgm_ref_txt": "Electric power networks"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 182265.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p class=\"PDq2pG_selectionAnchorContainer\">This project addressed the need for efficient conversion of electric power into the low-voltage, high-current form required by distributed energy resources and other electrified systems. Examples include battery and fuel-cell systems, hydrogen-production equipment, electric-vehicle charging, data-center power delivery, and local dc power networks. The project&rsquo;s long-term concept was a modular multiphase converter in which several smaller conversion modules operate with staggered switching, known as interleaving. Their output currents can be combined to increase total current capability, distribute electrical and thermal stress, and reduce output-current ripple.</p>\r\n<p>The project advanced this objective through a portfolio of converter, component, and control technologies. One major outcome was the development of high-frequency resonant power-conversion hardware using wide-bandgap semiconductor devices. A silicon-carbide resonant converter prototype demonstrated 18-kW dc-to-dc power conversion. Soft switching was used to reduce switching loss and support efficient operation at high power. Compact magnetic coupling structures were also designed and experimentally validated, including a 10-kW platform that achieved approximately 97% efficiency. These results established high-power converter and magnetic-component building blocks that can support future modular systems.</p>\r\n<p>Another outcome was improved modeling and control of high-frequency power converters. A gallium-nitride-based three-level inverter was studied to determine how phase-shift settings affect the useful fundamental voltage, higher-order harmonics, total harmonic distortion, and conversion efficiency. A phase-angle selection method was developed to balance power-transfer capability and waveform quality. These methods provide useful control knowledge for multiphase and interleaved systems, where coordinated switching is essential for controlling ripple, device stress, and power quality.</p>\r\n<p>Together, these outcomes established important building blocks for modular multiphase high-current conversion: efficient resonant converter modules, compact transformation components, and waveform-control methods. Rather than being limited to one hardware configuration, the project produced technologies applicable across distributed energy resources, electric transportation, data-center power systems, and other high-current applications.</p>\r\n<p>The project also provided training for graduate students, a postdoctoral researcher, and other early-career researchers. Participants gained experience in circuit modeling, finite-element simulation, wide-bandgap devices, prototype construction, high-frequency and high-voltage testing, data analysis, and technical publication. The findings were disseminated through peer-reviewed IEEE journal and conference papers, contributing both new technical knowledge and a workforce prepared to advance future power-electronics and distributed-energy systems.</p><br>\n<p>\n Last Modified: 08/03/2026<br>\nModified by: Hua&nbsp;Zhang</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2521320/2521320_10866141_1785775593184_System--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2521320/2521320_10866141_1785775593184_System--rgov-800width.jpg\" title=\"System Structure of Power Conversion Module\"><img src=\"/por/images/Reports/POR/2026/2521320/2521320_10866141_1785775593184_System--rgov-66x44.jpg\" alt=\"System Structure of Power Conversion Module\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">System structure of a power electronics converter module</div>\n<div class=\"imageCredit\">Hua Zhang, Lehigh University</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Hua&nbsp;Zhang\n<div class=\"imageTitle\">System Structure of Power Conversion Module</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project addressed the need for efficient conversion of electric power into the low-voltage, high-current form required by distributed energy resources and other electrified systems. Examples include battery and fuel-cell systems, hydrogen-production equipment, electric-vehicle charging, data-center power delivery, and local dc power networks. The projects long-term concept was a modular multiphase converter in which several smaller conversion modules operate with staggered switching, known as interleaving. Their output currents can be combined to increase total current capability, distribute electrical and thermal stress, and reduce output-current ripple.\r\n\n\nThe project advanced this objective through a portfolio of converter, component, and control technologies. One major outcome was the development of high-frequency resonant power-conversion hardware using wide-bandgap semiconductor devices. A silicon-carbide resonant converter prototype demonstrated 18-kW dc-to-dc power conversion. Soft switching was used to reduce switching loss and support efficient operation at high power. Compact magnetic coupling structures were also designed and experimentally validated, including a 10-kW platform that achieved approximately 97% efficiency. These results established high-power converter and magnetic-component building blocks that can support future modular systems.\r\n\n\nAnother outcome was improved modeling and control of high-frequency power converters. A gallium-nitride-based three-level inverter was studied to determine how phase-shift settings affect the useful fundamental voltage, higher-order harmonics, total harmonic distortion, and conversion efficiency. A phase-angle selection method was developed to balance power-transfer capability and waveform quality. These methods provide useful control knowledge for multiphase and interleaved systems, where coordinated switching is essential for controlling ripple, device stress, and power quality.\r\n\n\nTogether, these outcomes established important building blocks for modular multiphase high-current conversion: efficient resonant converter modules, compact transformation components, and waveform-control methods. Rather than being limited to one hardware configuration, the project produced technologies applicable across distributed energy resources, electric transportation, data-center power systems, and other high-current applications.\r\n\n\nThe project also provided training for graduate students, a postdoctoral researcher, and other early-career researchers. Participants gained experience in circuit modeling, finite-element simulation, wide-bandgap devices, prototype construction, high-frequency and high-voltage testing, data analysis, and technical publication. The findings were disseminated through peer-reviewed IEEE journal and conference papers, contributing both new technical knowledge and a workforce prepared to advance future power-electronics and distributed-energy systems.\t\t\t\t\tLast Modified: 08/03/2026\n\n\t\t\t\t\tSubmitted by: HuaZhang\n"
+ }
+}

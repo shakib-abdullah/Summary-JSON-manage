@@ -1,0 +1,132 @@
+{
+ "awd_id": "2411533",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EA: Replacement of a Powder X-ray Diffractometer for Teaching and Geoscience Research at Appalachian State University",
+ "cfda_num": "47.050",
+ "org_code": "06030000",
+ "po_phone": "7032920000",
+ "po_email": "afrasset@nsf.gov",
+ "po_sign_block_name": "Andy Frassetto",
+ "awd_eff_date": "2025-02-15",
+ "awd_exp_date": "2026-01-31",
+ "tot_intn_awd_amt": 98458.0,
+ "awd_amount": 98458.0,
+ "awd_min_amd_letter_date": "2025-02-13",
+ "awd_max_amd_letter_date": "2025-02-13",
+ "awd_abstract_narration": "X-ray diffraction (XRD) is a common technique in geoscience to identify and characterize earth materials. This project will acquire a modern X-ray diffractometer that is accessible for undergraduate students. This replacement instrument will support four faculty researchers, their student research teams, and seven classes across two departments. Employment trends of alumni show that XRD is essential to a variety of industries, including materials science, industrial health, and environmental site assessments. The new diffractometer will contribute to Next Generation Science Standards modules and other outreach materials, where middle and high school students use real-world data to generate materials appropriate for different teaching objectives spanning Earth sciences to chemistry to math, from grades 6-12.\r\n\r\nThe renewed XRD capability at Appalachian State University will support faculty and student research projects that span a variety of geoscience disciplines: analysis of mass extinction and ocean anoxia horizons, the geomicrobiology of cave sediments, the mineralogy of manganese ore deposits, tracing coal ash solids in river systems affected by coal ash spills, paleoenvironmental reconstruction of Miocene-age river systems and early human footprint sites in east Africa, and analysis of coprolites and volcanic ash deposits from Mesozoic sites in the southwestern United States. The new instrument will enhance observations and overall productivity these research projects as follows: it is a benchtop powder XRD system with a rotating sample changer, an internal chiller that does not require a special electrical outlet (allowing for flexibility if the instrument needs to be moved to another lab), a high-speed, high-resolution silicon strip detector for faster analysis speed (with a higher signal to noise ratio), and a removable graphite monochromater to help filter fluorescing phases (Fe, Ni, Co) and reduce noise to the data.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "EAR",
+ "org_div_long_name": "Division Of Earth Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Sarah",
+   "pi_last_name": "Carmichael",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sarah K Carmichael",
+   "pi_email_addr": "carmichaelsk@appstate.edu",
+   "nsf_id": "000524015",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ellen",
+   "pi_last_name": "Cowan",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ellen A Cowan",
+   "pi_email_addr": "cowanea@appstate.edu",
+   "nsf_id": "000318271",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Heckert",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew B Heckert",
+   "pi_email_addr": "heckertab@appstate.edu",
+   "nsf_id": "000282015",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Cynthia",
+   "pi_last_name": "Liutkus",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Cynthia M Liutkus",
+   "pi_email_addr": "liutkuscm@appstate.edu",
+   "nsf_id": "000191899",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Appalachian State University",
+  "inst_street_address": "438 ACADEMY ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOONE",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "8282627459",
+  "inst_zip_code": "286080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "NC05",
+  "org_lgl_bus_name": "APPALACHIAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "F1NAKY5L1425"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Appalachian State University",
+  "perf_str_addr": "438 ACADEMY ST",
+  "perf_city_name": "BOONE",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "286080001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "NC05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "158000",
+   "pgm_ele_name": "Instrumentation & Facilities"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 98458.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>NSF EAR <em>#</em>2411533 was a one-year grant to upgrade Appalachian State University&rsquo;s existing powder X-ray diffraction (XRD) system, which was purchased in 1999 and was becoming increasingly difficult to service. We purchased a Rigaku MiniFlex powder X-ray diffractometer, with an automated sample change system for eight samples. The instrument was installed in August 2025, the PI and laboratory manager were trained in September 2025, and we began training undergraduate students for independent operation of the instrument in early October 2025. Our new instrument has analysis scan times that are 17 times faster than our old XRD system, and the automated sample changer allows for additional productivity and less downtime between sample runs. The smaller footprint of the Rigaku Miniflex has also resulted in more lab space in our overcrowded mineral analysis lab.</p>\r\n<p>The new XRD system supports student and faculty research in numerous disciplines, from environmental assessments to paleontology studies. Current projects and their associated funding include the following: sedimentology changes across mass extinction and ocean anoxia horizons during the Late Devonian mass extinction pulses (NSF EAR # 2044222, National Geographic), the geomicrobiology of cave sediments (Cave Conservancy Foundation), the mineralogy of catastrophic flood deposits in northwestern NC after Hurricane Helene, the mineralogy of manganese ore deposits (from hydrothermal systems to surface deposits to deep sea nodules), tracing coal ash solids in river systems affected by coal ash spills and documenting releases of coal ash from storage ponds near coal-fired power plants in North Carolina (NSF EAR #1932087), paleoenvironmental reconstruction of Miocene river systems (NSF #2021579, #2021591, #2021666, &amp; #2021682) and early human footprint sites in east Africa (National Geographic), and analysis of coprolites and volcanic ash deposits from Mesozoic sites in the southwestern United States. The first results from our new instrumentation will be presented by undergraduate students at the Geological Society of America&rsquo;s Joint NC/SC/SE section meeting in Memphis, TN in March 2026.</p>\r\n<p>XRD is an integral part of the labs in four courses within the Department of Geological and Environmental Sciences as well as the Department of Physics and Astronomy. There are also three advanced undergraduate courses in Geological and Environmental Sciences where students may choose to use it for required class projects. There is no other powder XRD system available in western North Carolina, southwestern Virginia, or eastern Tennessee; the nearest powder XRD systems are more than 90 miles away from Appalachian State University.</p>\r\n<p>In addition to student training and workforce development (particularly for jobs in materials science, industrial health, and environmental site assessments, which are fields that employ many Appalachian State Geological and Environmental Science alumni), the XRD is required for the data used in the Next Generation Science Standards modules funded through NSF EAR # 2044222, where middle and high school students use real-world data to generate materials appropriate for different teaching objectives (spanning Earth sciences to chemistry to math, from grades 6-12).</p><br>\n<p>\n Last Modified: 02/03/2026<br>\nModified by: Sarah&nbsp;K&nbsp;Carmichael</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2411533/2411533_10970370_1770159723132_Rigaku_XRD_Instruction_Manual_cover--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2411533/2411533_10970370_1770159723132_Rigaku_XRD_Instruction_Manual_cover--rgov-800width.png\" title=\"Rigaku Miniflex at Appalachian State University\"><img src=\"/por/images/Reports/POR/2026/2411533/2411533_10970370_1770159723132_Rigaku_XRD_Instruction_Manual_cover--rgov-66x44.png\" alt=\"Rigaku Miniflex at Appalachian State University\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Rigaku Miniflex at Appalachian State University</div>\n<div class=\"imageCredit\">Sarah Carmichael</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Sarah&nbsp;K&nbsp;Carmichael\n<div class=\"imageTitle\">Rigaku Miniflex at Appalachian State University</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nNSF EAR #2411533 was a one-year grant to upgrade Appalachian State Universitys existing powder X-ray diffraction (XRD) system, which was purchased in 1999 and was becoming increasingly difficult to service. We purchased a Rigaku MiniFlex powder X-ray diffractometer, with an automated sample change system for eight samples. The instrument was installed in August 2025, the PI and laboratory manager were trained in September 2025, and we began training undergraduate students for independent operation of the instrument in early October 2025. Our new instrument has analysis scan times that are 17 times faster than our old XRD system, and the automated sample changer allows for additional productivity and less downtime between sample runs. The smaller footprint of the Rigaku Miniflex has also resulted in more lab space in our overcrowded mineral analysis lab.\r\n\n\nThe new XRD system supports student and faculty research in numerous disciplines, from environmental assessments to paleontology studies. Current projects and their associated funding include the following: sedimentology changes across mass extinction and ocean anoxia horizons during the Late Devonian mass extinction pulses (NSF EAR # 2044222, National Geographic), the geomicrobiology of cave sediments (Cave Conservancy Foundation), the mineralogy of catastrophic flood deposits in northwestern NC after Hurricane Helene, the mineralogy of manganese ore deposits (from hydrothermal systems to surface deposits to deep sea nodules), tracing coal ash solids in river systems affected by coal ash spills and documenting releases of coal ash from storage ponds near coal-fired power plants in North Carolina (NSF EAR #1932087), paleoenvironmental reconstruction of Miocene river systems (NSF #2021579, #2021591, #2021666, & #2021682) and early human footprint sites in east Africa (National Geographic), and analysis of coprolites and volcanic ash deposits from Mesozoic sites in the southwestern United States. The first results from our new instrumentation will be presented by undergraduate students at the Geological Society of Americas Joint NC/SC/SE section meeting in Memphis, TN in March 2026.\r\n\n\nXRD is an integral part of the labs in four courses within the Department of Geological and Environmental Sciences as well as the Department of Physics and Astronomy. There are also three advanced undergraduate courses in Geological and Environmental Sciences where students may choose to use it for required class projects. There is no other powder XRD system available in western North Carolina, southwestern Virginia, or eastern Tennessee; the nearest powder XRD systems are more than 90 miles away from Appalachian State University.\r\n\n\nIn addition to student training and workforce development (particularly for jobs in materials science, industrial health, and environmental site assessments, which are fields that employ many Appalachian State Geological and Environmental Science alumni), the XRD is required for the data used in the Next Generation Science Standards modules funded through NSF EAR # 2044222, where middle and high school students use real-world data to generate materials appropriate for different teaching objectives (spanning Earth sciences to chemistry to math, from grades 6-12).\t\t\t\t\tLast Modified: 02/03/2026\n\n\t\t\t\t\tSubmitted by: SarahKCarmichael\n"
+ }
+}

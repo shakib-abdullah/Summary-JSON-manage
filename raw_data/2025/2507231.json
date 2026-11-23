@@ -1,0 +1,105 @@
+{
+ "awd_id": "2507231",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Enhanced Rock Weathering through Gene Editing of Soil Microorganisms",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922174",
+ "po_email": "rmehta@nsf.gov",
+ "po_sign_block_name": "Rajesh Mehta",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 304748.0,
+ "awd_amount": 304748.0,
+ "awd_min_amd_letter_date": "2025-05-09",
+ "awd_max_amd_letter_date": "2025-05-09",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is to develop a new biological input for agriculture that offers farmers improved economics through improved soil fertility, reduced reliance on chemical inputs, and enhanced crop resilience. By generating additional revenue through carbon credits, this technology also enables a viable financial pathway for large-scale adoption and increased competitiveness of U.S. agriculture. The problem to be studied is how soil microbes can be optimized to accelerate the process of mineral rock weathering to naturally build healthier and more nutrient rich soils, while reducing unwanted acidity and capturing atmospheric CO2. The net commercial impact of this project will be the development of ameliorated mineral rock dust as an efficient agricultural input, additional revenue and cost savings for American farmers, mining and distribution jobs across America\u2019s farmlands, and the expansion of US biotechnology in the agricultural industry. This scientific innovation will deliver nutrients to crops, put money in farmers\u2019 pockets, and increase national food security. The net effect will be to help American farmers thrive economically and to produce our food more efficiently.\r\n\r\n\r\nThis SBIR Phase I project will deploy cutting-edge microbial strain engineering methods to strengthen the native capacity of selected beneficial soil microbes for breaking down silicate mineral rock in the process of soil formation. The aim is to support the creation of a product that doubles the native rate of mineral rock breakdown in target soils for one season. Strain engineering represents a broad set of techniques that have been highly successful when applied to domesticated industrial strains but has never been used to improve the mineral rock weathering behavior of wild bacterial isolates. This project will characterize a unique library of candidate microbial soil isolates according to their capacity for mineral rock weathering and their engineerability. A selected bacterial isolate will serve as a host for a series of novel gene edits, each of which has the potential to enhance one or more biological mechanisms that lead to rock weathering. These gene edits will be built into the host using the techniques of DNA synthesis, bacterial transformation, and single crossover genomic integration. Additionally, this project will use traditional random mutagenesis methods to create variants of the isolated host. Engineered strains will then be assayed for improved ability to weather silicate rock rapidly and efficiently, establishing their eventual utility.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Graham",
+   "pi_last_name": "Anderson",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Graham Anderson",
+   "pi_email_addr": "graham.anderson@syntopa.com",
+   "nsf_id": "0000A1Z1X",
+   "pi_start_date": "2025-05-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SYNTOPA INC.",
+  "inst_street_address": "5421 SOBRANTE AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "EL SOBRANTE",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106971063",
+  "inst_zip_code": "948031435",
+  "inst_country_name": "United States",
+  "cong_dist_code": "08",
+  "st_cong_dist_code": "CA08",
+  "org_lgl_bus_name": "SYNTOPA INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "PSTDCSU1MUN6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Syntopa Inc.",
+  "perf_str_addr": "1650 Harbor Bay Pwky.",
+  "perf_city_name": "Alameda",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "945023012",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "090Z",
+   "pgm_ref_txt": "CAS-Critical Aspects of Sustainability"
+  },
+  {
+   "pgm_ref_code": "1238",
+   "pgm_ref_txt": "TECH FOR SUSTAINABLE ENVIRONMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304748.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-fa910db2-7fff-e852-3f9c-5493c1a908a9\"> </span></p>\r\n<p dir=\"ltr\"><span>This project supported the development of biological technologies designed to accelerate enhanced rock weathering (ERW), an emerging approach that can both improve soil fertility and remove carbon dioxide from the atmosphere. Enhanced rock weathering involves applying crushed silicate rocks to agricultural soils, where natural weathering processes release nutrients for crops, correct acidic soil pH, and convert atmospheric carbon dioxide into stable dissolved forms that can remain stored for long periods.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\"><span>The goal of this project was to identify and characterize naturally occurring soil microorganisms that accelerate silicate mineral weathering and to evaluate their potential for use in a commercial biological product. Such a product will help farmers access nutrients already contained within silicate rock amendments while simultaneously increasing the rate of carbon dioxide removal associated with enhanced rock weathering.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\"><span>During the project, researchers developed new laboratory methods for measuring microbial mineral-weathering activity and created a high-throughput screening system capable of evaluating large collections of environmental microorganisms. These tools made it possible to identify naturally occurring bacteria with desirable mineral-weathering characteristics and to compare their performance under controlled conditions. The project also established genomic and bioinformatic methods that enable researchers to characterize promising microorganisms and investigate the biological mechanisms responsible for their activity.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\"><span>An important outcome of the project was the identification of microorganisms with characteristics useful for future agricultural and carbon-removal applications, along with an understanding of how their weathering performance depends on the surrounding soil and mineral environment. This work established a foundation for understanding how these organisms interact with minerals in soil systems. Building on those characterized strains, the project also selected robust founder strains, sequenced their genomes, and developed and validated the assays needed to evaluate future improvements in weathering activity, assembling an engineering-ready platform for the strain-improvement goals set out in the original proposal.</span><span><br /><br /></span></p>\r\n<p dir=\"ltr\"><span>The project generated important commercial insights through participation in the NSF I-Corps program. Interviews with stakeholders across the enhanced rock weathering industry helped clarify customer needs and informed future research directions. These discussions influenced the company's subsequent product development strategy.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\"><span>The intellectual merit of the project lay in the development of new methods for discovering, characterizing, and studying microorganisms that influence mineral weathering processes. The project created new tools and datasets that support future research at the intersection of microbiology, soil science, geochemistry, and carbon removal.</span></p>\r\n<p>&nbsp;</p>\r\n<p dir=\"ltr\"><span>The broader impacts of the project stem from its potential to support two important societal goals. First, biological acceleration of enhanced rock weathering could help American farmers obtain crop nutrients from abundant mineral resources, potentially improving soil productivity and reducing dependence on costly agricultural inputs. Second, accelerating the natural mineral weathering process could increase the rate at which carbon dioxide is removed from the atmosphere. By advancing technologies that contribute to both agricultural stewardship and carbon dioxide removal, the project helps establish a foundation for future climate and agricultural innovations.</span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 07/27/2026<br>\nModified by: Graham&nbsp;Anderson</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n \r\n\n\nThis project supported the development of biological technologies designed to accelerate enhanced rock weathering (ERW), an emerging approach that can both improve soil fertility and remove carbon dioxide from the atmosphere. Enhanced rock weathering involves applying crushed silicate rocks to agricultural soils, where natural weathering processes release nutrients for crops, correct acidic soil pH, and convert atmospheric carbon dioxide into stable dissolved forms that can remain stored for long periods.\r\n\n\n\r\n\n\nThe goal of this project was to identify and characterize naturally occurring soil microorganisms that accelerate silicate mineral weathering and to evaluate their potential for use in a commercial biological product. Such a product will help farmers access nutrients already contained within silicate rock amendments while simultaneously increasing the rate of carbon dioxide removal associated with enhanced rock weathering.\r\n\n\n\r\n\n\nDuring the project, researchers developed new laboratory methods for measuring microbial mineral-weathering activity and created a high-throughput screening system capable of evaluating large collections of environmental microorganisms. These tools made it possible to identify naturally occurring bacteria with desirable mineral-weathering characteristics and to compare their performance under controlled conditions. The project also established genomic and bioinformatic methods that enable researchers to characterize promising microorganisms and investigate the biological mechanisms responsible for their activity.\r\n\n\n\r\n\n\nAn important outcome of the project was the identification of microorganisms with characteristics useful for future agricultural and carbon-removal applications, along with an understanding of how their weathering performance depends on the surrounding soil and mineral environment. This work established a foundation for understanding how these organisms interact with minerals in soil systems. Building on those characterized strains, the project also selected robust founder strains, sequenced their genomes, and developed and validated the assays needed to evaluate future improvements in weathering activity, assembling an engineering-ready platform for the strain-improvement goals set out in the original proposal.\n\n\r\n\n\nThe project generated important commercial insights through participation in the NSF I-Corps program. Interviews with stakeholders across the enhanced rock weathering industry helped clarify customer needs and informed future research directions. These discussions influenced the company's subsequent product development strategy.\r\n\n\n\r\n\n\nThe intellectual merit of the project lay in the development of new methods for discovering, characterizing, and studying microorganisms that influence mineral weathering processes. The project created new tools and datasets that support future research at the intersection of microbiology, soil science, geochemistry, and carbon removal.\r\n\n\n\r\n\n\nThe broader impacts of the project stem from its potential to support two important societal goals. First, biological acceleration of enhanced rock weathering could help American farmers obtain crop nutrients from abundant mineral resources, potentially improving soil productivity and reducing dependence on costly agricultural inputs. Second, accelerating the natural mineral weathering process could increase the rate at which carbon dioxide is removed from the atmosphere. By advancing technologies that contribute to both agricultural stewardship and carbon dioxide removal, the project helps establish a foundation for future climate and agricultural innovations.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 07/27/2026\n\n\t\t\t\t\tSubmitted by: GrahamAnderson\n"
+ }
+}

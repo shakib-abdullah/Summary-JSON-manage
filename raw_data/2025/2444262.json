@@ -1,0 +1,113 @@
+{
+ "awd_id": "2444262",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Puerto Rican Higher Education Assembly of Researchers, Thriving not Just Surviving: a Conference to Promote Student Success",
+ "cfda_num": "47.076",
+ "org_code": "11040100",
+ "po_phone": "7032922635",
+ "po_email": "mferrara@nsf.gov",
+ "po_sign_block_name": "Mike Ferrara",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 100000.0,
+ "awd_amount": 100000.0,
+ "awd_min_amd_letter_date": "2025-01-12",
+ "awd_max_amd_letter_date": "2025-01-12",
+ "awd_abstract_narration": "With support from the Improving Undergraduate STEM Education: Hispanic-Serving Institutions Program (HSI Program), the second Puerto Rican Higher Education Researchers Association, Thriving not Just Surviving conference aims to engage higher education faculty in Puerto Rico to benefit undergraduate education. Convened by the Puerto Rico Science, Technology and Research Trust (STRT), the conference will bring together at least 40 faculty from public and private institutions in the island's Southeast region to create supportive faculty communities and drive student success. Faculty will engage with experts to learn about current STEM workforce skills and build confidence in their potential to serve as advocates for educational change. Current undergraduate students will also participate in the conference to discuss their perspectives and educational experiences and facilitate more student-centered discussions. Participants will increase their awareness of external funding opportunities and strengthen grant writing skills as they explore collaborations with their peers. Specifically, faculty teams will work with mentors to develop promising ideas for future grant-funded projects and begin to develop proposals to NSF and other funding agencies.  \r\n\r\nThe main goals of this conference are to: (1) train faculty from the public and private universities of the Southeast region of Puerto Rico in grant writing skills focused on workforce development; and (2) leverage the centralized STRT system to help create collaborations among HSI faculty in Puerto Rico and other US institutions. Conference activities will expand participants' knowledge of STEM workforce skills and opportunities and generate evidence of improved faculty well-being and self-efficacy in grant development. An expert evaluator will administer pre- and post-conference surveys to assess the impacts of the conference. This project is funded by the HSI Program, which aims to enhance undergraduate STEM education, broaden participation in STEM, and increase capacity to engage in the development and implementation of innovations to improve STEM teaching and learning at HSIs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "DUE",
+ "org_div_long_name": "Division Of Undergraduate Education",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Lilliam",
+   "pi_last_name": "Casillas-Martinez",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Lilliam Casillas-Martinez",
+   "pi_email_addr": "lcasillasm@gmail.com",
+   "nsf_id": "000484778",
+   "pi_start_date": "2025-01-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "PUERTO RICO SCIENCE, TECHNOLOGY AND RESEARCH TRUST",
+  "inst_street_address": "CARR 21 INT PR 18 BO MONACILLO URBANO",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN JUAN",
+  "inst_state_code": "PR",
+  "inst_state_name": "Puerto Rico",
+  "inst_phone_num": "7875231592",
+  "inst_zip_code": "00936",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "PR00",
+  "org_lgl_bus_name": "PUERTO RICO SCIENCE, TECHNOLOGY, AND RESEARCH TRUST",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L8TAZ4K6S4L7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "PUERTO RICO SCIENCE, TECHNOLOGY AND RESEARCH TRUST",
+  "perf_str_addr": "CARR 21 INT PR 18 BO MONACILLO URBANO",
+  "perf_city_name": "SAN JUAN",
+  "perf_st_code": "PR",
+  "perf_st_name": "Puerto Rico",
+  "perf_zip_code": "00936",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "PR00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "077Y00",
+   "pgm_ele_name": "HSI-Hispanic Serving Instituti"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "8209",
+   "pgm_ref_txt": "Improv Undergrad STEM Ed(IUSE)"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span>The&nbsp;Higher&nbsp;Education&nbsp;Assembly of&nbsp;Researchers to&nbsp;Thrive and not&nbsp;Survive (HEARTS) 2.0 Conference directly supported capacity building of STEM faculty by providing space and resources at the&nbsp;Science and&nbsp;Technology&nbsp;Research&nbsp;Trust (STRT) in Puerto Rico to learn about grantsmanship and funding opportunities for workforce development as a driver for undergraduate student retention. At the conference, seventy-five faculty from Puerto Rico and US </span><strong><span>discovered and explored new approaches for effective grant writing using artificial intelligence tools</span></strong><span>&nbsp;at the conference with eight different new grants designed as teams. One of these proposals had already been funded by National Science Foundation. Faculty also learned </span>strategies<span> to build from the &ldquo;bottom up&rdquo; specific curricular changes to meet the needs of all students.</span><span> <strong><span>These trainings focused on workforce development and were conducted by experts from the mainland US</span></strong></span><span><strong> and the STRT</strong> on how to establish a community within PR to share best practices to support all students in STEM. </span><span>Faculty did <strong><span>return to their classrooms re-energized with new tools and experiences</span></strong></span><span>&nbsp;that will inform their teaching practices and interactions with STEM students to ultimately foster student retention. The main impact of the conference was the decision to create a <strong>Puerto Rican STEM Hub for Workforce Development to reach out to their local communities</strong>. All findings from the conference will be reported in an educational journal and the websites at UPR and the PR-STRT with a new proposal being developed to formally establish the PR STEM Hub.</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 12/23/2025<br>\nModified by: Lilliam&nbsp;Casillas-Martinez</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2025/2444262/2444262_10967358_1766492795862_Hearts_conf--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2025/2444262/2444262_10967358_1766492795862_Hearts_conf--rgov-800width.jpg\" title=\"Participants at Hearts Conference\"><img src=\"/por/images/Reports/POR/2025/2444262/2444262_10967358_1766492795862_Hearts_conf--rgov-66x44.jpg\" alt=\"Participants at Hearts Conference\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Faculty trained as agents of change for workfroce development at the Hearts Conference 2.0.</div>\n<div class=\"imageCredit\">Lilliam Casillas</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Lilliam&nbsp;Casillas-Martinez\n<div class=\"imageTitle\">Participants at Hearts Conference</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nTheHigherEducationAssembly ofResearchers toThrive and notSurvive (HEARTS) 2.0 Conference directly supported capacity building of STEM faculty by providing space and resources at theScience andTechnologyResearchTrust (STRT) in Puerto Rico to learn about grantsmanship and funding opportunities for workforce development as a driver for undergraduate student retention. At the conference, seventy-five faculty from Puerto Rico and US discovered and explored new approaches for effective grant writing using artificial intelligence toolsat the conference with eight different new grants designed as teams. One of these proposals had already been funded by National Science Foundation. Faculty also learned strategies to build from the bottom up specific curricular changes to meet the needs of all students. These trainings focused on workforce development and were conducted by experts from the mainland US and the STRT on how to establish a community within PR to share best practices to support all students in STEM. Faculty did return to their classrooms re-energized with new tools and experiencesthat will inform their teaching practices and interactions with STEM students to ultimately foster student retention. The main impact of the conference was the decision to create a Puerto Rican STEM Hub for Workforce Development to reach out to their local communities. All findings from the conference will be reported in an educational journal and the websites at UPR and the PR-STRT with a new proposal being developed to formally establish the PR STEM Hub.\r\n\n\n\t\t\t\t\tLast Modified: 12/23/2025\n\n\t\t\t\t\tSubmitted by: LilliamCasillas-Martinez\n"
+ }
+}

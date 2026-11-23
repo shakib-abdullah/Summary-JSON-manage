@@ -1,0 +1,137 @@
+{
+ "awd_id": "2430454",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: CBMS Conference Representations of p-adic Groups and Noncommutative Geometry",
+ "cfda_num": "47.049",
+ "org_code": "03040000",
+ "po_phone": "7032922467",
+ "po_email": "mdouglas@nsf.gov",
+ "po_sign_block_name": "James Matthew Douglass",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 39510.0,
+ "awd_amount": 39510.0,
+ "awd_min_amd_letter_date": "2024-12-19",
+ "awd_max_amd_letter_date": "2024-12-19",
+ "awd_abstract_narration": "This award provides support for the NSF-CBMS (Conference Board of the Mathematical Sciences) regional research conference \"Representations of p-adic groups and noncommutative geometry\" to be held June 9-13, 2025 at the Queens campus of St. John\u2019s University in New York City. The research topic of the conference is at the interface between the representation theory of the p-adic groups, the Langlands program, and noncommutative geometry. The principal lecturer is Anne-Marie Aubert, who will give ten lectures on the interplay between the representation theory of p-adic groups, noncommutative geometry, and operator algebras. The talks will be self-contained and accessible to students and non-experts. The conference will expose early career researchers to cutting-edge research and provide a platform for researchers in the tri-state area around New York City, and more broadly, to build collaborations.\r\n\r\nIn more detail, the Langlands program is a series of conjectures that connects representations of algebraic groups over the adeles with number theory. The conference will focus on the local Langlands program, where one works with a p-adic field instead of a number field. The lectures will explore the representation theory of p-adic groups from a new perspective, namely that of noncommutative geometry and operator algebras. The lectures will introduce the notion of stratified equivalence, formulate the strong form of the ABPS Conjecture (Aubert, Baum, Plymen, Solleveld), and explain the role that asymptotic Hecke algebras are expected to play in the proof of the conjecture. Finally a strategy to construct the explicit local Langlands correspondence applicable for the p-adic group G2 and for all pure inner twists of classical p-adic groups will be described. The conference website is https://sites.google.com/view/nsf-cbms-ncg-repag/home.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMS",
+ "org_div_long_name": "Division Of Mathematical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Genady",
+   "pi_last_name": "Grabarnik",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Genady Grabarnik",
+   "pi_email_addr": "grabarng@stjohns.edu",
+   "nsf_id": "0000A068V",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Alexander",
+   "pi_last_name": "Katz",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexander A Katz",
+   "pi_email_addr": "katza@stjohns.edu",
+   "nsf_id": "000154616",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Igor",
+   "pi_last_name": "Nikolaev",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Igor Nikolaev",
+   "pi_email_addr": "nikolaei@stjohns.edu",
+   "nsf_id": "000732078",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Orli",
+   "pi_last_name": "Herscovici",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Orli Herscovici",
+   "pi_email_addr": "herscovo@stjohns.edu",
+   "nsf_id": "000864966",
+   "pi_start_date": "2024-12-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Saint John's University",
+  "inst_street_address": "8000 UTOPIA PKWY",
+  "inst_street_address_2": "",
+  "inst_city_name": "JAMAICA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "7189906276",
+  "inst_zip_code": "114399000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "NY05",
+  "org_lgl_bus_name": "ST JOHN'S UNIVERSITY, NEW YORK",
+  "org_prnt_uei_num": "ZNEAYFAHH3H3",
+  "org_uei_num": "QMCKV4B31PG2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Saint John's University",
+  "perf_str_addr": "8000 UTOPIA PKWY",
+  "perf_city_name": "JAMAICA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "114399000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "NY05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126000",
+   "pgm_ele_name": "INFRASTRUCTURE PROGRAM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 39510.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><h1>NSF Project Outcomes Report</h1>\r\n<h2>Project Title</h2>\r\n<p><strong>NSF-CBMS Conference: Representations of p-adic groups and noncommutative geometry</strong></p>\r\n<ul>\r\n<li>\r\n<p><strong>Host Institution:</strong> St. John's University, Queens, NY</p>\r\n</li>\r\n<li>\r\n<p><strong>Dates:</strong> June 9-13, 2025</p>\r\n</li>\r\n<li>\r\n<p><strong>Principal Lecturer:</strong> Prof. Anne-Marie Aubert (Institut de Math&eacute;matiques de Jussieu - Paris Rive Gauche)</p>\r\n</li>\r\n</ul>\r\n<h2>Intellectual Merit: What Was Accomplished?</h2>\r\n<p>The primary goal of this NSF-CBMS regional conference was to bridge two profound areas of modern mathematics: the representation theory of <span class=\"math-inline\">$p$</span>-adic groups (a core component of the Langlands program in number theory) and noncommutative geometry (a framework using operator algebras to study geometric structures).</p>\r\n<p>The scientific centerpiece of the conference was a cohesive series of 10 lectures delivered by the Principal Lecturer, Prof. Anne-Marie Aubert. Her lectures systematically guided participants through modern developments in the field, focusing specifically on:</p>\r\n<ul>\r\n<li>\r\n<p>The Aubert-Baum-Plymen-Solleveld (ABPS) Conjecture in its strong, topological K-theory, and Galois versions.</p>\r\n</li>\r\n<li>\r\n<p>The structure of the Bernstein Center and asymptotic Hecke algebras.</p>\r\n</li>\r\n<li>\r\n<p>Tempered and unipotent representations alongside their corresponding <span class=\"math-inline\">$C^*$</span>-blocks.</p>\r\n</li>\r\n</ul>\r\n<p>Complementing the main lecture series, five invited research talks were given by leading international experts (representing institutions such as Harvard, the University of Sheffield, and the Federal University of Santa Catarina). These talks highlighted cutting-edge foundations in operator algebras over <span class=\"math-inline\">$p$</span>-adic integers, unitary representations, arithmetic invariants of the Jacquet-Langlands correspondence, and the structure of tempered duals of reductive groups.</p>\r\n<h2>Broader Impacts: How Did It Benefit Society?</h2>\r\n<p>The conference successfully fostered an inclusive, collaborative environment that brought together an international group of established researchers, early-career mathematicians, and students. By anchoring the event at St. John's University in Queens, New York, the conference leveraged a highly accessible, diverse urban setting to maximize participation.</p>\r\n<p>Key broader impacts included:</p>\r\n<ul>\r\n<li>\r\n<p><strong>Capacity Building &amp; Education:</strong> The 10-lecture sequence served as an intensive instructional incubator, providing graduate students and postdocs with immediate access to advanced techniques that are rarely covered in standard university curricula.</p>\r\n</li>\r\n<li>\r\n<p><strong>Fostering Interdisciplinary Collaboration:</strong> By explicitly connecting representation theorists with operator algebraists, the event broke down traditional disciplinary silos, sparking new research partnerships aimed at solving long-standing conjectures.</p>\r\n</li>\r\n<li>\r\n<p><strong>Knowledge Dissemination:</strong> Through the curation of lecture materials, abstracts, and ongoing research networks initiated during the week, the conference established a lasting repository of knowledge that will continue to benefit the wider mathematical community.</p>\r\n</li>\r\n</ul>\r\n<p>Conference had 26 participants including organizers, local to New York City as well as from USA and some other countries. They all got either full or partial support from NSF funding and St John's University co-sponsoring.</p>\r\n<p>Lectures by Principle Lecturer are available in slides and video form either from NG in NYC web site or from CBMS web site.</p>\r\n<p>Principle Lecturer,&nbsp;&nbsp;Prof. Anne-Marie Aubert, is preparing book based on the lectures to be published by CBMS and ACM whithin 2026-2027 years time frame.</p>\r\n<p>Invited and contributed talks weere organized into volume to be published by Springer Nature in the same time frame.</p>\r\n<p>Information and outcome of the conference were presented in two national conferences.&nbsp;</p><br>\n<p>\n Last Modified: 06/29/2026<br>\nModified by: Genady&nbsp; &nbsp;Grabarnik</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "NSF Project Outcomes Report\r\nProject Title\r\n\n\nNSF-CBMS Conference: Representations of p-adic groups and noncommutative geometry\r\n\r\n\r\n\n\nHost Institution: St. John's University, Queens, NY\r\n\r\n\r\n\n\nDates: June 9-13, 2025\r\n\r\n\r\n\n\nPrincipal Lecturer: Prof. Anne-Marie Aubert (Institut de Mathmatiques de Jussieu - Paris Rive Gauche)\r\n\r\n\r\nIntellectual Merit: What Was Accomplished?\r\n\n\nThe primary goal of this NSF-CBMS regional conference was to bridge two profound areas of modern mathematics: the representation theory of $p$-adic groups (a core component of the Langlands program in number theory) and noncommutative geometry (a framework using operator algebras to study geometric structures).\r\n\n\nThe scientific centerpiece of the conference was a cohesive series of 10 lectures delivered by the Principal Lecturer, Prof. Anne-Marie Aubert. Her lectures systematically guided participants through modern developments in the field, focusing specifically on:\r\n\r\n\r\n\n\nThe Aubert-Baum-Plymen-Solleveld (ABPS) Conjecture in its strong, topological K-theory, and Galois versions.\r\n\r\n\r\n\n\nThe structure of the Bernstein Center and asymptotic Hecke algebras.\r\n\r\n\r\n\n\nTempered and unipotent representations alongside their corresponding $C^*$-blocks.\r\n\r\n\r\n\n\nComplementing the main lecture series, five invited research talks were given by leading international experts (representing institutions such as Harvard, the University of Sheffield, and the Federal University of Santa Catarina). These talks highlighted cutting-edge foundations in operator algebras over $p$-adic integers, unitary representations, arithmetic invariants of the Jacquet-Langlands correspondence, and the structure of tempered duals of reductive groups.\r\nBroader Impacts: How Did It Benefit Society?\r\n\n\nThe conference successfully fostered an inclusive, collaborative environment that brought together an international group of established researchers, early-career mathematicians, and students. By anchoring the event at St. John's University in Queens, New York, the conference leveraged a highly accessible, diverse urban setting to maximize participation.\r\n\n\nKey broader impacts included:\r\n\r\n\r\n\n\nCapacity Building & Education: The 10-lecture sequence served as an intensive instructional incubator, providing graduate students and postdocs with immediate access to advanced techniques that are rarely covered in standard university curricula.\r\n\r\n\r\n\n\nFostering Interdisciplinary Collaboration: By explicitly connecting representation theorists with operator algebraists, the event broke down traditional disciplinary silos, sparking new research partnerships aimed at solving long-standing conjectures.\r\n\r\n\r\n\n\nKnowledge Dissemination: Through the curation of lecture materials, abstracts, and ongoing research networks initiated during the week, the conference established a lasting repository of knowledge that will continue to benefit the wider mathematical community.\r\n\r\n\r\n\n\nConference had 26 participants including organizers, local to New York City as well as from USA and some other countries. They all got either full or partial support from NSF funding and St John's University co-sponsoring.\r\n\n\nLectures by Principle Lecturer are available in slides and video form either from NG in NYC web site or from CBMS web site.\r\n\n\nPrinciple Lecturer,Prof. Anne-Marie Aubert, is preparing book based on the lectures to be published by CBMS and ACM whithin 2026-2027 years time frame.\r\n\n\nInvited and contributed talks weere organized into volume to be published by Springer Nature in the same time frame.\r\n\n\nInformation and outcome of the conference were presented in two national conferences.\t\t\t\t\tLast Modified: 06/29/2026\n\n\t\t\t\t\tSubmitted by: Genady Grabarnik\n"
+ }
+}

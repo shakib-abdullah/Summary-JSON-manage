@@ -1,0 +1,113 @@
+{
+ "awd_id": "2512527",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Planning: Facilitating Grant Resubmissions to Strengthen the Research Enterprise",
+ "cfda_num": "47.083",
+ "org_code": "01060400",
+ "po_phone": "7032924368",
+ "po_email": "sobrien@nsf.gov",
+ "po_sign_block_name": "Sarah O'Brien",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 100000.0,
+ "awd_amount": 100000.0,
+ "awd_min_amd_letter_date": "2025-07-10",
+ "awd_max_amd_letter_date": "2025-07-10",
+ "awd_abstract_narration": "The grant resubmission process represents a valuable, often underutilized opportunity for institutions to strengthen proposals and improve funding success rates. Despite its importance, many institutions \u2014 particularly Emerging Research Institutions (ERIs) and Predominantly Undergraduate Institutions (PUIs) \u2014 face persistent challenges in navigating reviewer feedback, identifying areas for improvement, and managing resubmissions strategically. Enhancing institutional capacity for effective resubmissions is critical not only for individual success but also for promoting the progress of science, and advancing national priorities in research and innovation. In parallel, strengthening the capacity for effective technology transfer at these institutions is essential for ensuring that research discoveries can move beyond the lab to benefit society. Identifying a solution for managing the resubmission process \u2014 and supporting innovation pathways through technology transfer \u2014 has the potential to reduce barriers, increase success rates, and build institutional competitiveness nationwide.\r\n\r\n\r\nThis planning grant will support activities to better understand the resubmission process and identify effective strategies for strengthening proposal resubmissions for all institutions, with particular attention to the unique circumstances of ERIs and PUIs. Specifically, the project aims to lay the groundwork for developing a solution to resubmission challenges by: (1) Gathering nuanced insights on resubmission challenges and support needs of the broader research community; (2) Conceptualizing solutions, architectures, and approaches for analyzing reviewer feedback and facilitating resubmission project management; (3) Defining system requirements and developing a comprehensive plan for future development; and (4) Investigating sustainable models for technology transfer at ERIs and PUIs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "O/D",
+ "org_dir_long_name": "Office of the Director",
+ "div_abbr": "OIA",
+ "org_div_long_name": "Office of Integrative Activities",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Katie",
+   "pi_last_name": "Gomez",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Katie Gomez",
+   "pi_email_addr": "katie.gomez@byu.edu",
+   "nsf_id": "000862087",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sylvia",
+   "pi_last_name": "Bradshaw",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sylvia Bradshaw",
+   "pi_email_addr": "sylviabradshaw@suu.edu",
+   "nsf_id": "000677264",
+   "pi_start_date": "2025-07-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Southern Utah University",
+  "inst_street_address": "351 W UNIVERSITY BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "CEDAR CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "4358658175",
+  "inst_zip_code": "847202415",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "UT02",
+  "org_lgl_bus_name": "SOUTHERN UTAH UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "C8WLYVK4EYL1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Southern Utah University",
+  "perf_str_addr": "351 W UNIVERSITY BLVD",
+  "perf_city_name": "CEDAR CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "847202415",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "UT02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "221Y00",
+   "pgm_ele_name": "GRANTED"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Award Title:</strong> Planning: Facilitating Grant Resubmissions to Strengthen the Research Enterprise</p>\r\n<p><strong>Federal Award ID:</strong> 2512527</p>\r\n<p><strong>Project Period:</strong> 07/15/2025 &ndash; 06/30/2026</p>\r\n<p><strong>Lead Institution:</strong> Southern Utah University (SUU)</p>\r\n<p><strong>Project Overview</strong></p>\r\n<p>Securing federal grant funding is essential for faculty to advance scientific discovery, build research infrastructure, and train undergraduate students. However, across higher education and particularly at Primarily Undergraduate Institutions (PUIs), Minority-Serving Institutions (MSIs), and Tribal Colleges and Universities (TCUs), few researchers who receive an unfunded grant proposal go on to revise and resubmit. This NSF GRANTED planning project, led by Southern Utah University in partnership with qualitative research firm DFC Collaborations and technology subrecipient The Attic AI, Inc., investigated the root causes of this \"resubmission gap\" and designed an innovative, secure software solution to help researchers successfully revise proposals.</p>\r\n<p><strong>Intellectual Merit</strong></p>\r\n<p>The project advanced knowledge in research administration and human-centered technology design by systematically identifying why faculty struggle to resubmit grant proposals. Through 12 in-depth interviews and 2 focus groups with 22 faculty members and research administrators across diverse campuses, the study identified four core obstacles:</p>\r\n<ol>\r\n<li><strong>Emotional Fatigue:</strong> Faculty experience burnout after a grant rejection, making it difficult to restart.</li>\r\n<li><strong>Complex Reviewer Feedback:</strong> Reviewer critiques are often dense, contradictory, or difficult to translate into an actionable revision plan.</li>\r\n<li><strong>Communication Silos:</strong> Faculty and university research administrators often lack coordinated tools to collaborate efficiently following an unsuccessful grant review.</li>\r\n<li><strong>AI Privacy Concerns:</strong> Researchers desire automated assistance but worry about data privacy and maintaining control over their writing.</li>\r\n</ol>\r\n<p>To address these challenges, the team built and validated a proof-of-concept software prototype named <strong>ReVista</strong>. ReVista demonstrates how artificial intelligence can automatically ease harsh language from reviewer feedback, organize critique points into prioritized tasks, and generate compliance checklists while operating in a closed, private environment that ensures zero training on user data and maintains human oversight of intellectual property.</p>\r\n<p><strong>Broader Impacts</strong></p>\r\n<p>By removing the emotional and administrative hurdles to grant resubmission, this project lays the foundation to increase federal funding success at institutions with a teaching mission. Increased grant funding enhances the teaching mission by directly expanding capacity for faculty to mentor undergraduate students in authentic research, purchase modern laboratory equipment, and integrate cutting-edge discoveries into classroom curricula.</p>\r\n<p>Furthermore, the project strengthened university-industry partnerships and technology transfer capabilities at PUIs. Project findings and technology transfer models were shared at the November 2025 National Council of University Research Administrators (NCURA) Region VI/VII annual conference, providing peer institutions with practical ways to foster campus innovation and connect academic research with regional economic development.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/29/2026<br>\nModified by: Sylvia&nbsp;Bradshaw</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nAward Title: Planning: Facilitating Grant Resubmissions to Strengthen the Research Enterprise\r\n\n\nFederal Award ID: 2512527\r\n\n\nProject Period: 07/15/2025  06/30/2026\r\n\n\nLead Institution: Southern Utah University (SUU)\r\n\n\nProject Overview\r\n\n\nSecuring federal grant funding is essential for faculty to advance scientific discovery, build research infrastructure, and train undergraduate students. However, across higher education and particularly at Primarily Undergraduate Institutions (PUIs), Minority-Serving Institutions (MSIs), and Tribal Colleges and Universities (TCUs), few researchers who receive an unfunded grant proposal go on to revise and resubmit. This NSF GRANTED planning project, led by Southern Utah University in partnership with qualitative research firm DFC Collaborations and technology subrecipient The Attic AI, Inc., investigated the root causes of this \"resubmission gap\" and designed an innovative, secure software solution to help researchers successfully revise proposals.\r\n\n\nIntellectual Merit\r\n\n\nThe project advanced knowledge in research administration and human-centered technology design by systematically identifying why faculty struggle to resubmit grant proposals. Through 12 in-depth interviews and 2 focus groups with 22 faculty members and research administrators across diverse campuses, the study identified four core obstacles:\r\n\r\nEmotional Fatigue: Faculty experience burnout after a grant rejection, making it difficult to restart.\r\nComplex Reviewer Feedback: Reviewer critiques are often dense, contradictory, or difficult to translate into an actionable revision plan.\r\nCommunication Silos: Faculty and university research administrators often lack coordinated tools to collaborate efficiently following an unsuccessful grant review.\r\nAI Privacy Concerns: Researchers desire automated assistance but worry about data privacy and maintaining control over their writing.\r\n\r\n\n\nTo address these challenges, the team built and validated a proof-of-concept software prototype named ReVista. ReVista demonstrates how artificial intelligence can automatically ease harsh language from reviewer feedback, organize critique points into prioritized tasks, and generate compliance checklists while operating in a closed, private environment that ensures zero training on user data and maintains human oversight of intellectual property.\r\n\n\nBroader Impacts\r\n\n\nBy removing the emotional and administrative hurdles to grant resubmission, this project lays the foundation to increase federal funding success at institutions with a teaching mission. Increased grant funding enhances the teaching mission by directly expanding capacity for faculty to mentor undergraduate students in authentic research, purchase modern laboratory equipment, and integrate cutting-edge discoveries into classroom curricula.\r\n\n\nFurthermore, the project strengthened university-industry partnerships and technology transfer capabilities at PUIs. Project findings and technology transfer models were shared at the November 2025 National Council of University Research Administrators (NCURA) Region VI/VII annual conference, providing peer institutions with practical ways to foster campus innovation and connect academic research with regional economic development.\r\n\n\n\t\t\t\t\tLast Modified: 10/29/2026\n\n\t\t\t\t\tSubmitted by: SylviaBradshaw\n"
+ }
+}

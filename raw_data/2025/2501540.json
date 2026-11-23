@@ -1,0 +1,121 @@
+{
+ "awd_id": "2501540",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: The 12th International Fission Yeast Meeting, Pombe2025",
+ "cfda_num": "47.074",
+ "org_code": "08220000",
+ "po_phone": "7032924668",
+ "po_email": "cweil@nsf.gov",
+ "po_sign_block_name": "Clifford Weil",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 15000.0,
+ "awd_amount": 15000.0,
+ "awd_min_amd_letter_date": "2025-04-24",
+ "awd_max_amd_letter_date": "2025-04-24",
+ "awd_abstract_narration": "The Pombe2025 meeting, scheduled to be held at Boston College in Boston, MA, from August 3-8, 2025, will bring together researchers who focus on Schizosaccharomyces pombe and other fission yeasts. This international conference will cover a wide range of topics, including cell cycle regulation, genome stability, gene expression, metabolism, and cell polarity\u2014key areas for understanding cellular processes and their connection to human diseases. The meeting will feature keynote talks by prominent scientists, interactive panel discussions, and poster presentations. Graduate students and early-career researchers will have the chance to showcase their work and engage with both peers and senior scientists. This meeting will contribute to our understanding of essential cellular and molecular processes that are conserved across different species. Research on fission yeast frequently has far-reaching implications for the field of biology. The meeting's interdisciplinary nature will encourage connections across various fields of study.  \r\n \r\nThe International Fission Yeast Meeting influences more than just Schizosaccharomyces pombe research. Major discoveries in areas such as cell division, DNA repair, and chromosome segregation have significant implications for our understanding of fundamental biology and human diseases, including cancer and genetic disorders. By bringing together experts from a range of fields\u2014such as genetics, molecular biology, cancer research, and systems biology\u2014the meeting promotes interdisciplinary collaboration. This exchange of knowledge often leads to innovative approaches that benefit not only fission yeast research but also broader biological and medical advancements. Furthermore, the meeting plays a critical role in the development and mentorship of young scientists. It offers students and postdoctoral researchers a platform to present their work, interact with established experts in the field, and gain insights that will shape their future contributions to molecular and cellular biology. The event will foster collaborations that lead to scientific breakthroughs and long-term progress within the broader scientific community by strengthening global research networks. Funding will be allocated to provide travel awards for domestic trainees, promoting broad participation in the event.\r\n\r\nThis award is cofunded by the Cellular Dynamics and Function program and the Genetic Mechanisms program in the Molecular and Cellular Biosciences Division\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "CDP",
+ "org_div_long_name": "Cell Development & Physiology",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Maitreyi",
+   "pi_last_name": "Das",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Maitreyi E Das",
+   "pi_email_addr": "maitreyi.das@bc.edu",
+   "nsf_id": "000656007",
+   "pi_start_date": "2025-04-24",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Charles",
+   "pi_last_name": "Hoffman",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Charles S Hoffman",
+   "pi_email_addr": "hoffmacs@bc.edu",
+   "nsf_id": "000167354",
+   "pi_start_date": "2025-04-24",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Boston College",
+  "inst_street_address": "140 COMMONWEALTH AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHESTNUT HILL",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6175528000",
+  "inst_zip_code": "024673800",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "MA04",
+  "org_lgl_bus_name": "TRUSTEES OF BOSTON COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MJ3JH8CRJBZ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Trustees of Boston College",
+  "perf_str_addr": "140 COMMONWEALTH AVE",
+  "perf_city_name": "CHESTNUT HILL",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "024673800",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "MA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "111200",
+   "pgm_ele_name": "Genetic Mechanisms"
+  },
+  {
+   "pgm_ele_code": "111400",
+   "pgm_ele_name": "Cellular Dynamics and Function"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 15000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Project Outcome Report</p>\r\n<h1>Pombe2025: International Fission Yeast Meeting</h1>\r\n<p><em>Boston College, Boston, MA&nbsp; |&nbsp; August 3&ndash;8, 2025</em></p>\r\n<h2>Overview</h2>\r\n<p>The Pombe2025 meeting was held at Boston College in Boston, MA, from August 3&ndash;8, 2025, bringing together researchers focused on <em>Schizosaccharomyces pombe</em> and other fission yeasts. This international conference covered a wide range of topics, including cell cycle regulation, genome stability, gene expression, metabolism, and cell polarity. The program featured keynote talks by prominent scientists, interactive panel discussions, and poster presentations, giving graduate students and early-career researchers the opportunity to showcase their work and engage with both peers and senior scientists.</p>\r\n<h2>Intellectual Merit</h2>\r\n<p>As the premier gathering for the international fission yeast community, the meeting's impact extends well beyond <em>S. pombe</em> research. Discoveries emerging from this model system in areas such as cell division, DNA repair, and chromosome segregation carry significant implications for fundamental biology and human disease, including cancer and genetic disorders. By convening experts across genetics, molecular biology, cancer research, and systems biology, the meeting fostered interdisciplinary exchange and cross-field collaboration, while also playing a critical role in the training and mentorship of the next generation of scientists.</p>\r\n<h2>Attendance</h2>\r\n<p>The meeting drew a total of <strong>161 attendees</strong>, with scientists participating primarily from North America, Asia, and Europe. This strong international turnout reflects the global reach of the fission yeast research community and the meeting's role in strengthening research networks across continents.</p>\r\n<h2>NSF Conference Grant: Trainee Support</h2>\r\n<p>Consistent with the meeting's goal of broadening participation among early-career scientists, the NSF conference grant was used to subsidize registration and housing costs for a total of <strong>41 domestic trainees</strong>:</p>\r\n<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" width=\"600\">\r\n<thead> \r\n<tr>\r\n<td width=\"333\" valign=\"top\">\r\n<p><strong>Trainee Category</strong></p>\r\n</td>\r\n<td width=\"267\" valign=\"top\">\r\n<p><strong>Number    Supported</strong></p>\r\n</td>\r\n</tr>\r\n</thead> \r\n<tbody>\r\n<tr>\r\n<td width=\"333\" valign=\"top\">\r\n<p>Graduate   students</p>\r\n</td>\r\n<td width=\"267\" valign=\"top\">\r\n<p>23</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"333\" valign=\"top\">\r\n<p>Postdoctoral   researchers</p>\r\n</td>\r\n<td width=\"267\" valign=\"top\">\r\n<p>14</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"333\" valign=\"top\">\r\n<p>Undergraduate   students</p>\r\n</td>\r\n<td width=\"267\" valign=\"top\">\r\n<p>4</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"333\" valign=\"top\">\r\n<p><strong>Total domestic trainees supported</strong></p>\r\n</td>\r\n<td width=\"267\" valign=\"top\">\r\n<p><strong>41</strong></p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>This travel-award support directly promoted broad participation by domestic trainees who might not otherwise have been able to attend, providing them a platform to present their work, interact with established experts, and build connections that will shape their future contributions to molecular and cellular biology.</p>\r\n<h2>Broader Impacts</h2>\r\n<p>By supporting the participation of 41 domestic graduate students, postdocs, and undergraduates alongside 161 total attendees from North America, Asia, and Europe, the NSF conference grant helped ensure that Pombe2025 achieved its core goals in advancing understanding of cellular and molecular processes conserved across species, fostering interdisciplinary collaboration between fission yeast researchers and scientists in key areas for understanding cellular processes and their connection to human diseases, and investing in the mentorship and career development of the next generation of scientists. The meeting's outcomes are expected to catalyze new collaborations and strengthen the global research network in fission yeast biology for years to come.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/25/2026<br>\nModified by: Maitreyi&nbsp;E&nbsp;Das</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nProject Outcome Report\r\nPombe2025: International Fission Yeast Meeting\r\n\n\nBoston College, Boston, MA | August 38, 2025\r\nOverview\r\n\n\nThe Pombe2025 meeting was held at Boston College in Boston, MA, from August 38, 2025, bringing together researchers focused on Schizosaccharomyces pombe and other fission yeasts. This international conference covered a wide range of topics, including cell cycle regulation, genome stability, gene expression, metabolism, and cell polarity. The program featured keynote talks by prominent scientists, interactive panel discussions, and poster presentations, giving graduate students and early-career researchers the opportunity to showcase their work and engage with both peers and senior scientists.\r\nIntellectual Merit\r\n\n\nAs the premier gathering for the international fission yeast community, the meeting's impact extends well beyond S. pombe research. Discoveries emerging from this model system in areas such as cell division, DNA repair, and chromosome segregation carry significant implications for fundamental biology and human disease, including cancer and genetic disorders. By convening experts across genetics, molecular biology, cancer research, and systems biology, the meeting fostered interdisciplinary exchange and cross-field collaboration, while also playing a critical role in the training and mentorship of the next generation of scientists.\r\nAttendance\r\n\n\nThe meeting drew a total of 161 attendees, with scientists participating primarily from North America, Asia, and Europe. This strong international turnout reflects the global reach of the fission yeast research community and the meeting's role in strengthening research networks across continents.\r\nNSF Conference Grant: Trainee Support\r\n\n\nConsistent with the meeting's goal of broadening participation among early-career scientists, the NSF conference grant was used to subsidize registration and housing costs for a total of 41 domestic trainees:\r\n\r\n \r\n\r\n\r\n\n\nTrainee Category\r\n\r\n\r\n\n\nNumber    Supported\r\n\r\n\r\n \r\n\r\n\r\n\r\n\n\nGraduate   students\r\n\r\n\r\n\n\n23\r\n\r\n\r\n\r\n\r\n\n\nPostdoctoral   researchers\r\n\r\n\r\n\n\n14\r\n\r\n\r\n\r\n\r\n\n\nUndergraduate   students\r\n\r\n\r\n\n\n4\r\n\r\n\r\n\r\n\r\n\n\nTotal domestic trainees supported\r\n\r\n\r\n\n\n41\r\n\r\n\r\n\r\n\r\n\n\nThis travel-award support directly promoted broad participation by domestic trainees who might not otherwise have been able to attend, providing them a platform to present their work, interact with established experts, and build connections that will shape their future contributions to molecular and cellular biology.\r\nBroader Impacts\r\n\n\nBy supporting the participation of 41 domestic graduate students, postdocs, and undergraduates alongside 161 total attendees from North America, Asia, and Europe, the NSF conference grant helped ensure that Pombe2025 achieved its core goals in advancing understanding of cellular and molecular processes conserved across species, fostering interdisciplinary collaboration between fission yeast researchers and scientists in key areas for understanding cellular processes and their connection to human diseases, and investing in the mentorship and career development of the next generation of scientists. The meeting's outcomes are expected to catalyze new collaborations and strengthen the global research network in fission yeast biology for years to come.\r\n\n\n\t\t\t\t\tLast Modified: 09/25/2026\n\n\t\t\t\t\tSubmitted by: MaitreyiEDas\n"
+ }
+}

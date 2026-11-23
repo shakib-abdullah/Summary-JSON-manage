@@ -1,0 +1,113 @@
+{
+ "awd_id": "2452296",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Planning: Building Community Resilience in the Food-Energy-Water and Society Nexus",
+ "cfda_num": "47.078",
+ "org_code": "06090100",
+ "po_phone": "7032922397",
+ "po_email": "robdelga@nsf.gov",
+ "po_sign_block_name": "Roberto Delgado",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2026-01-31",
+ "tot_intn_awd_amt": 200000.0,
+ "awd_amount": 176259.0,
+ "awd_min_amd_letter_date": "2024-11-12",
+ "awd_max_amd_letter_date": "2024-11-12",
+ "awd_abstract_narration": "This planning award supports development of a community partnership addressing food, energy, and water (FEW) security concerns in rural Alaska. The PI team will meet with community members both virtually and in person to build trust and discuss the local challenges to FEW security in a remote rural context. Through a series of workshops, meetings, and consultations, the PI team and community members will explore issues such as infrastructure, the built environment of the village, and social factors that affect security and resilience. \r\n\r\nThis participatory project lays the foundation for a community-based study of food, energy and water security. With planning support, the PI team will form an advisory board and conduct a series of engagement activities to build a relationship with the community and help the researchers better understand residents\u2019 needs and concerns. A series of formal and informal meetings and workshops will be held, providing residents with multiple opportunities to participate. Two workshops will focus on perceptions of food, energy and water among children ages six through nine. Informed by these activities and the advisory board, the PI team will develop a place-based challenge-solution matrix, which will be refined through community input. The final matrix will be distributed to community members as a poster. This matrix will be the basis for a community-centered research proposal addressing the most salient FEW questions identified during the planning process.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "OPP",
+ "org_div_long_name": "Office of Polar Programs (OPP)",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Somayeh",
+   "pi_last_name": "Asadi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Somayeh Asadi",
+   "pi_email_addr": "rkn3gr@virginia.edu",
+   "nsf_id": "000627468",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Virginia Main Campus",
+  "inst_street_address": "1001 EMMET ST N",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHARLOTTESVILLE",
+  "inst_state_code": "VA",
+  "inst_state_name": "Virginia",
+  "inst_phone_num": "4349244270",
+  "inst_zip_code": "229034833",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "VA05",
+  "org_lgl_bus_name": "RECTOR & VISITORS OF THE UNIVERSITY OF VIRGINIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JJG6HU8PA4S5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Virginia Main Campus",
+  "perf_str_addr": "1001 EMMET ST N",
+  "perf_city_name": "CHARLOTTESVILLE",
+  "perf_st_code": "VA",
+  "perf_st_name": "Virginia",
+  "perf_zip_code": "229034833",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "VA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "522100",
+   "pgm_ele_name": "ASSP-Arctic Social Science"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1079",
+   "pgm_ref_txt": "ARCTIC RESEARCH"
+  },
+  {
+   "pgm_ref_code": "5221",
+   "pgm_ref_txt": "ARCTIC SOCIAL SCIENCES"
+  },
+  {
+   "pgm_ref_code": "5291",
+   "pgm_ref_txt": "POLAR PLANNING & COORDIN ACTIV"
+  },
+  {
+   "pgm_ref_code": "5294",
+   "pgm_ref_txt": "USGCRP"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "0100CYXXDB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 176259.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Intellectual Merit</strong></p>\r\n<p>This study aims to develop a place-based Food-Energy-Water (FEW) challenge-solution matrix for remote Alaska communities and establish community-based testbeds to reframe FEW challenges from the perspective of Indigenous populations. While previous research has explored various aspects of FEW security in the context of disasters, challenges persist in creating consistent, place-specific criteria for assessing disaster resilience in these communities. Our research takes a critical first step in deepening the understanding of the unique conditions and characteristics, sociodemographic, economic, cultural, institutional, and infrastructural, that contribute to FEW insecurity. It also identifies the factors that make FEW systems particularly vulnerable before and during a pandemic. Together with the community, we co-designed solutions addressing key FEW security, equity, and sustainability needs. The results offer valuable insights for future community-based participatory research on FEW security and resilience in other rural Arctic regions. Understanding the factors driving FEW insecurity in rural settings holds significant potential for creating integrated, community-driven solutions that enhance local resilience and promote sustainable economic and community development.</p>\r\n<p><strong>Broader Impacts </strong></p>\r\n<p>This research promotes FEW security in remote Alaska communities by directly engaging their residents in identifying the FEW security challenges and co-developing potential solutions. With several hundred such communities in Alaska alone, this project offers lessons for Alaska and beyond. This project enabled us to build relationships with the community that would allow for a deeper investigation of FEW security and&nbsp;support community needs through the development of resilient FEW systems. The proposed research has direct societal benefits by engaging rural Alaska community stakeholders and decision-makers by 1) implementing intersectional approaches to address FEW insecurities&nbsp;and 2) representing a successful example of how&nbsp;community participatory-based research models and knowledge co-production can transform understanding of&nbsp;FEW security. We also organized a workshop for young kids to understand their perceptions of FEW challenges.</p>\r\n<p><strong>Outcomes</strong></p>\r\n<p>This study shows that Food&ndash;Energy&ndash;Water (FEW) insecurity in remote Alaska communities arises from interconnected, cross-sector challenges shaped by infrastructure limitations, geographic isolation, and environmental change. High food costs and reliance on imported goods, combined with constrained subsistence practices, intersect with costly and sometimes unreliable water systems and aging energy infrastructure, creating cascading vulnerabilities across sectors. Limited transportation and harsh weather further restrict access to essential services, including healthcare, education, and food supply chains, reinforcing systemic inequities. These challenges are compounded by inadequate housing conditions that contribute to environmental health risks, particularly for low-income and elderly populations. Climate variability further amplifies these stresses by disrupting subsistence activities, water availability and quality, and the reliability of both conventional and renewable energy systems. Despite these constraints, strong social networks, cultural traditions, and informal resource-sharing practices remain central to community resilience and adaptive capacity. Importantly, the findings demonstrate that FEW insecurity is embedded within broader community systems, including housing, health, governance, and local economic conditions, underscoring the need for integrated, place-based solutions rather than sector-specific interventions. The study also highlights how community-engaged and participatory approaches can surface locally grounded priorities and enable co-developed strategies that are both feasible and culturally appropriate. Finally, the resulting FEW challenge&ndash;solution matrix and community-based testbeds provide a transferable framework for identifying, prioritizing, and implementing resilience strategies in other remote and Indigenous communities facing similar constraints.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 04/28/2026<br>\nModified by: Somayeh&nbsp;Asadi</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409771460_Ouzinkie_Lunch--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409771460_Ouzinkie_Lunch--rgov-800width.png\" title=\"Community Workshop in Ouzinkie\"><img src=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409771460_Ouzinkie_Lunch--rgov-66x44.png\" alt=\"Community Workshop in Ouzinkie\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Community workshop in Ouzinkie, Alaska, where residents participated in discussions and interactive activities to identify Food?Energy?Water (FEW) challenges and co-develop locally grounded solutions, highlighting the role of community engagement in shaping resilience strategies.</div>\n<div class=\"imageCredit\">Donovon Johnson</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Somayeh&nbsp;Asadi\n<div class=\"imageTitle\">Community Workshop in Ouzinkie</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409816738_Ouzinkie_Lunch_2--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409816738_Ouzinkie_Lunch_2--rgov-800width.png\" title=\"Community Workshop in Ouzinkie\"><img src=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409816738_Ouzinkie_Lunch_2--rgov-66x44.png\" alt=\"Community Workshop in Ouzinkie\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Community workshop in Ouzinkie, Alaska, where residents participated in discussions and interactive activities to identify Food\ufffdEnergy\ufffdWater (FEW) challenges</div>\n<div class=\"imageCredit\">Donovon Johnson</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Somayeh&nbsp;Asadi\n<div class=\"imageTitle\">Community Workshop in Ouzinkie</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409959834_Tun_Dinner--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409959834_Tun_Dinner--rgov-800width.jpg\" title=\"Community Workshop in Tuntutuliak\"><img src=\"/por/images/Reports/POR/2026/2452296/2452296_10816044_1777409959834_Tun_Dinner--rgov-66x44.jpg\" alt=\"Community Workshop in Tuntutuliak\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Dinner workshop and community survey in Tuntutuliak, Alaska, where residents shared experiences and perspectives on Food\ufffdEnergy\ufffdWater (FEW) challenges while contributing to data collection and identifying locally relevant priorities and solutions.</div>\n<div class=\"imageCredit\">I don't remember</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Somayeh&nbsp;Asadi\n<div class=\"imageTitle\">Community Workshop in Tuntutuliak</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nIntellectual Merit\r\n\n\nThis study aims to develop a place-based Food-Energy-Water (FEW) challenge-solution matrix for remote Alaska communities and establish community-based testbeds to reframe FEW challenges from the perspective of Indigenous populations. While previous research has explored various aspects of FEW security in the context of disasters, challenges persist in creating consistent, place-specific criteria for assessing disaster resilience in these communities. Our research takes a critical first step in deepening the understanding of the unique conditions and characteristics, sociodemographic, economic, cultural, institutional, and infrastructural, that contribute to FEW insecurity. It also identifies the factors that make FEW systems particularly vulnerable before and during a pandemic. Together with the community, we co-designed solutions addressing key FEW security, equity, and sustainability needs. The results offer valuable insights for future community-based participatory research on FEW security and resilience in other rural Arctic regions. Understanding the factors driving FEW insecurity in rural settings holds significant potential for creating integrated, community-driven solutions that enhance local resilience and promote sustainable economic and community development.\r\n\n\nBroader Impacts \r\n\n\nThis research promotes FEW security in remote Alaska communities by directly engaging their residents in identifying the FEW security challenges and co-developing potential solutions. With several hundred such communities in Alaska alone, this project offers lessons for Alaska and beyond. This project enabled us to build relationships with the community that would allow for a deeper investigation of FEW security andsupport community needs through the development of resilient FEW systems. The proposed research has direct societal benefits by engaging rural Alaska community stakeholders and decision-makers by 1) implementing intersectional approaches to address FEW insecuritiesand 2) representing a successful example of howcommunity participatory-based research models and knowledge co-production can transform understanding ofFEW security. We also organized a workshop for young kids to understand their perceptions of FEW challenges.\r\n\n\nOutcomes\r\n\n\nThis study shows that FoodEnergyWater (FEW) insecurity in remote Alaska communities arises from interconnected, cross-sector challenges shaped by infrastructure limitations, geographic isolation, and environmental change. High food costs and reliance on imported goods, combined with constrained subsistence practices, intersect with costly and sometimes unreliable water systems and aging energy infrastructure, creating cascading vulnerabilities across sectors. Limited transportation and harsh weather further restrict access to essential services, including healthcare, education, and food supply chains, reinforcing systemic inequities. These challenges are compounded by inadequate housing conditions that contribute to environmental health risks, particularly for low-income and elderly populations. Climate variability further amplifies these stresses by disrupting subsistence activities, water availability and quality, and the reliability of both conventional and renewable energy systems. Despite these constraints, strong social networks, cultural traditions, and informal resource-sharing practices remain central to community resilience and adaptive capacity. Importantly, the findings demonstrate that FEW insecurity is embedded within broader community systems, including housing, health, governance, and local economic conditions, underscoring the need for integrated, place-based solutions rather than sector-specific interventions. The study also highlights how community-engaged and participatory approaches can surface locally grounded priorities and enable co-developed strategies that are both feasible and culturally appropriate. Finally, the resulting FEW challengesolution matrix and community-based testbeds provide a transferable framework for identifying, prioritizing, and implementing resilience strategies in other remote and Indigenous communities facing similar constraints.\r\n\n\n\t\t\t\t\tLast Modified: 04/28/2026\n\n\t\t\t\t\tSubmitted by: SomayehAsadi\n"
+ }
+}

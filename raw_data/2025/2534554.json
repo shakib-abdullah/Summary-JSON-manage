@@ -1,0 +1,113 @@
+{
+ "awd_id": "2534554",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Twisted Light in Nanophotonic and Quantum Systems",
+ "cfda_num": "47.041",
+ "org_code": "07010000",
+ "po_phone": "7032922967",
+ "po_email": "sekim@nsf.gov",
+ "po_sign_block_name": "Margaret Kim",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2026-01-31",
+ "tot_intn_awd_amt": 14963.0,
+ "awd_amount": 14963.0,
+ "awd_min_amd_letter_date": "2025-07-30",
+ "awd_max_amd_letter_date": "2025-07-30",
+ "awd_abstract_narration": "Nontechnical summary:\r\nRecent advances in optics have enabled scientists to create and control \"twisted light,\" a type of light that propagates in a spiral, carrying orbital angular momentum. Unlike ordinary light, twisted light can interact with matter in entirely new ways, allowing researchers to probe and manipulate systems at the nanoscale and quantum level. This unique form of light is showing great promise in emerging technologies, including quantum computing, secure communications, advanced imaging, and sensing. The workshop \"Twisted Light in Nanophotonic and Quantum Systems\" will bring together researchers from diverse fields, including physics, engineering, materials science, and computational modeling, to explore how twisted light can be generated, controlled, and applied in modern scientific and technological contexts. While twisted light has traditionally been studied in large-scale systems, its integration with nanoscale structures, such as metamaterials and optical cavities, is enabling new types of lasers and optical devices. At the same time, experiments with atoms, molecules, and condensed matter systems are uncovering new physical effects, such as chiral sensitivity and access to otherwise forbidden quantum transitions. The goal of the workshop is to identify the most critical challenges and opportunities in this fast-growing area and to foster collaborations that will help shape the future of twisted light research.\r\n\r\nTechnical Summary:\r\nThis interdisciplinary workshop will address emerging challenges and opportunities in the science and technology of twisted light (TL), electromagnetic fields carrying structured orbital angular momentum (OAM), as applied to nanophotonic and quantum systems. The program will bring together researchers focused on TL generation and detection using advanced nanostructures such as metasurfaces, nonlinear metamaterials, and photonic cavities. Recent developments have demonstrated TL-based micro- and nanoscale light sources, as well as their use in imaging through nonlinear colloidal media and in probing chiral molecular responses. The workshop will also highlight experimental advances in TL-induced atomic and molecular transitions, including quantum selection rules in ion traps and TL-induced photocurrents in solids. Theoretical sessions will explore light-matter interactions beyond the dipole approximation, addressing complex electronic structures and non-dipole contributions relevant to atomic clocks, laser cooling, and quantum sensing. Additional topics include orbital angular momentum multiplexing for optical and quantum communication, spatio-temporal vortex beams, and accelerator-based TL sources. By integrating expertise from quantum optics, condensed matter physics, high-energy physics, optical engineering, and computational modeling (including machine learning), the workshop will outline a strategic roadmap for advancing the fundamental understanding and practical applications of TL. Particular emphasis will be placed on interdisciplinary collaboration, bridging traditionally separate research communities to accelerate progress in structured light science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Division of Electrical, Communications and Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Natalia",
+   "pi_last_name": "Litchinitser",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Natalia M Litchinitser",
+   "pi_email_addr": "natalia.litchinitser@duke.edu",
+   "nsf_id": "000504095",
+   "pi_start_date": "2025-07-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMQD: Electronic, Photonic, M"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "091E",
+   "pgm_ref_txt": "Light generation & detection"
+  },
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "8615",
+   "pgm_ref_txt": "Nanoscale Devices and Systems"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 14963.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The award supported the organization of the conference <strong>&ldquo;</strong>Twisted Light in Nanophotonic and Quantum Systems.<strong>&rdquo;</strong> The goal of the project was to bring together researchers from different scientific and engineering communities to discuss recent progress, open challenges, and future opportunities in the study and application of twisted light. Twisted light refers to specially structured light beams that carry angular momentum. Unlike ordinary light beams, twisted light can have a spiral-shaped wavefront and can interact with matter in ways that provide new tools for controlling atoms, molecules, nanostructures, and quantum systems. These properties make twisted light important for future technologies in quantum information, precision sensing, imaging, optical communication, and nanophotonics. The conference created an interdisciplinary forum for scientists working in optics, nanophotonics, quantum science, atomic and molecular physics, condensed matter physics, accelerator-based sources, neutron and electron beams, sensing, imaging, and optical communications. Invited speakers and participants discussed how twisted light can be generated, controlled, detected, and used to probe or manipulate matter at very small length scales, where quantum effects become important. The scientific program covered a broad range of topics, including theoretical and computational descriptions of twisted light, orbital and spin angular momentum, vortex dichroism, non-dipole light-matter interactions, optical skyrmions, spatio-temporal optical vortices, metasurfaces and metamaterials, trapped ions, quantum networking, chiral materials, structured neutron and electron waves, and advanced communication systems. These discussions helped identify important open questions and promising future research directions for the field. The project also supported broader impacts by providing professional development opportunities for students and postdoctoral researchers. Early-career participants presented posters, took part in scientific discussions, interacted with senior researchers, and participated in networking and social events. These activities helped broaden their scientific perspective, improve communication skills, and build professional connections across disciplines. A key outcome of the project is the development of a broader research network for twisted-light science and technology. By bringing together communities that do not often meet in the same venue, the conference helped stimulate new collaborations and encouraged the exchange of ideas, methods, and experimental approaches. The project also supported dissemination of results through a planned feature issue of the <em>Journal of the Optical Society of America B</em> titled <strong>&ldquo;</strong>Twisted Light in Quantum and Nanophotonic Systems.<strong>&rdquo;</strong> This peer-reviewed issue will be open to workshop participants and the broader scientific community and will help communicate recent advances and future directions. Overall, the conference advanced the intellectual merit of the field by clarifying the scientific foundations, challenges, and opportunities of twisted-light interactions with quantum and nanophotonic systems. It also contributed to broader impacts by supporting workforce development, interdisciplinary collaboration, and the dissemination of knowledge relevant to future technologies in quantum information, sensing, imaging, and optical communications.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/28/2026<br>\nModified by: Natalia&nbsp;M&nbsp;Litchinitser</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2534554/2534554_10996987_1782703195932_Workshop_image_0--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2534554/2534554_10996987_1782703195932_Workshop_image_0--rgov-800width.jpeg\" title=\"Workshop participants\"><img src=\"/por/images/Reports/POR/2026/2534554/2534554_10996987_1782703195932_Workshop_image_0--rgov-66x44.jpeg\" alt=\"Workshop participants\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Workshop participants at the Twisted Light in Nanophotonic and Quantum Systems meeting, held at The George Washington University in Washington, DC, bringing together researchers across structured light, nanophotonics, quantum optics, atomic and molecular physics, condensed matter, sensing, and optic</div>\n<div class=\"imageCredit\">Andrei Afanasev</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Natalia&nbsp;M&nbsp;Litchinitser\n<div class=\"imageTitle\">Workshop participants</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2534554/2534554_10996987_1782703079108_Workshop_image_4--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2534554/2534554_10996987_1782703079108_Workshop_image_4--rgov-800width.jpeg\" title=\"Poster session\"><img src=\"/por/images/Reports/POR/2026/2534554/2534554_10996987_1782703079108_Workshop_image_4--rgov-66x44.jpeg\" alt=\"Poster session\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Poster session and networking at the Twisted Light in Nanophotonic and Quantum Systems workshop, where students, postdoctoral researchers, and invited participants presented research, exchanged ideas, and discussed emerging directions in structured light, quantum optics, and nanophotonics.</div>\n<div class=\"imageCredit\">Andrei Afanasev</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Natalia&nbsp;M&nbsp;Litchinitser\n<div class=\"imageTitle\">Poster session</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe award supported the organization of the conference Twisted Light in Nanophotonic and Quantum Systems. The goal of the project was to bring together researchers from different scientific and engineering communities to discuss recent progress, open challenges, and future opportunities in the study and application of twisted light. Twisted light refers to specially structured light beams that carry angular momentum. Unlike ordinary light beams, twisted light can have a spiral-shaped wavefront and can interact with matter in ways that provide new tools for controlling atoms, molecules, nanostructures, and quantum systems. These properties make twisted light important for future technologies in quantum information, precision sensing, imaging, optical communication, and nanophotonics. The conference created an interdisciplinary forum for scientists working in optics, nanophotonics, quantum science, atomic and molecular physics, condensed matter physics, accelerator-based sources, neutron and electron beams, sensing, imaging, and optical communications. Invited speakers and participants discussed how twisted light can be generated, controlled, detected, and used to probe or manipulate matter at very small length scales, where quantum effects become important. The scientific program covered a broad range of topics, including theoretical and computational descriptions of twisted light, orbital and spin angular momentum, vortex dichroism, non-dipole light-matter interactions, optical skyrmions, spatio-temporal optical vortices, metasurfaces and metamaterials, trapped ions, quantum networking, chiral materials, structured neutron and electron waves, and advanced communication systems. These discussions helped identify important open questions and promising future research directions for the field. The project also supported broader impacts by providing professional development opportunities for students and postdoctoral researchers. Early-career participants presented posters, took part in scientific discussions, interacted with senior researchers, and participated in networking and social events. These activities helped broaden their scientific perspective, improve communication skills, and build professional connections across disciplines. A key outcome of the project is the development of a broader research network for twisted-light science and technology. By bringing together communities that do not often meet in the same venue, the conference helped stimulate new collaborations and encouraged the exchange of ideas, methods, and experimental approaches. The project also supported dissemination of results through a planned feature issue of the Journal of the Optical Society of America B titled Twisted Light in Quantum and Nanophotonic Systems. This peer-reviewed issue will be open to workshop participants and the broader scientific community and will help communicate recent advances and future directions. Overall, the conference advanced the intellectual merit of the field by clarifying the scientific foundations, challenges, and opportunities of twisted-light interactions with quantum and nanophotonic systems. It also contributed to broader impacts by supporting workforce development, interdisciplinary collaboration, and the dissemination of knowledge relevant to future technologies in quantum information, sensing, imaging, and optical communications.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 06/28/2026\n\n\t\t\t\t\tSubmitted by: NataliaMLitchinitser\n"
+ }
+}

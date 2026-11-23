@@ -1,0 +1,117 @@
+{
+ "awd_id": "2533743",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Student Support for International Solid Freeform Fabrication (SFF 2024) Symposium; Austin, Texas; 10-13 August 2025",
+ "cfda_num": "47.041",
+ "org_code": "07230000",
+ "po_phone": "7022924526",
+ "po_email": "ksolanki@nsf.gov",
+ "po_sign_block_name": "Kiran Solanki",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 33618.0,
+ "awd_amount": 33618.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "This award supports student participation at the Thirty-Sixth Annual International Solid Freeform Fabrication (SFF) Symposium, scheduled for 10-13 August 2025, in Austin, Texas. The SFF Symposium is the longest-running academic conference dedicated to additive manufacturing (AM), hybrid manufacturing, and freeform fabrication technologies. The 2024 event hosted 517 attendees, including 243 students, demonstrating strong engagement across both US and international institutions. Student-focused programming is a defining strength of the symposium, with technical sessions, poster presentations, and career development activities tailored to support emerging researchers. The 2025 symposium will expand on successful initiatives introduced in recent years. A structured mentoring program will return, matching 2\u20133 students with mentors from academia, national laboratories, or industry to support personalized guidance and career exploration. The interdisciplinary session on Additive Manufacturing in Regenerative Medicine, first introduced in 2024, will continue to spotlight innovations in bioprinting and translational biotechnology. These components enhance the educational value of the symposium while facilitating broader engagement across fields and institutions.\r\n\r\nThis award provides funding to provide full registration fee support for up to 60 domestic students from US-based institutions. Selected students must present their research in either oral or poster formats and participate fully in the conference. The selection process, overseen by the conference committee, will emphasize technical merit, institutional representation, and inclusion of first-time attendees to broaden access and professional development opportunities. Outreach efforts will include announcements on the official SFF website, direct emails to authors of accepted abstracts, targeted communication to past attendees, and promotion via professional networks. Supported students will also be invited to dedicated networking events and a career-focused luncheon panel exploring current research trends and future directions in additive manufacturing. By facilitating access, mentoring, and interdisciplinary collaboration, this initiative aims to prepare emerging leaders with the skills, perspectives, and connections needed to advance innovation in manufacturing.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Maryam",
+   "pi_last_name": "Tilton",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Maryam Tilton",
+   "pi_email_addr": "maryam.tilton@austin.utexas.edu",
+   "nsf_id": "0000A06HL",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Texas at Austin",
+  "inst_street_address": "110 INNER CAMPUS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "AUSTIN",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "5124716424",
+  "inst_zip_code": "787121139",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "TX25",
+  "org_lgl_bus_name": "UNIVERSITY OF TEXAS AT AUSTIN",
+  "org_prnt_uei_num": "X5NKD2NFF2V3",
+  "org_uei_num": "V6AFQPN18437"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Texas at Austin",
+  "perf_str_addr": "110 INNER CAMPUS DR",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787121139",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "TX25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  },
+  {
+   "pgm_ref_code": "MANU",
+   "pgm_ref_txt": "MANUFACTURING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 33618.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Additive manufacturing, commonly known as 3D printing, builds objects layer by layer and supports advances in engineering, manufacturing, and medicine. The 36th Annual International Solid Freeform Fabrication (SFF) Symposium, held August 10-13, 2025, in Austin, Texas, brought together researchers, students, and engineers to share recent advances in this rapidly developing field. This NSF award supported participation by students from U.S. higher education institutions by covering their conference registration fees.</p>\r\n<p>The symposium's final conference guide identifies 60 undergraduate and graduate student recipients of NSF-supported registration fee waivers, representing 38 institutions across the United States. Students applied for support through a process that required current enrollment at a U.S. institution and authorship or co-authorship of a conference oral or poster presentation. The waivers provided access to the symposium's technical presentations, poster session, plenary talks, and professional networking events. Travel and lodging were not covered by this award.</p>\r\n<p>The project's intellectual merit lies in enabling emerging researchers to participate directly in rigorous scientific exchange. The 2025 program featured research on new printing processes and materials, computational modeling, artificial intelligence, quality monitoring, advanced design, and biomedical applications. Through presentations and discussions, supported students had opportunities to communicate their work, receive feedback, explore connections across disciplines, and learn from researchers at universities, government laboratories, and industry organizations. Conference proceedings were made available online, extending access to the technical work presented at the meeting.</p>\r\n<p>The broader impact of this award was reducing a financial barrier to participation in a major research conference. Students from a geographically and institutionally broad group of universities gained opportunities for scientific communication and professional development, as well as exposure to emerging research directions and potential collaborators. The conference guide publicly acknowledged NSF support and recognized the student waiver recipients. By supporting their participation in the additive manufacturing research community, this award helped prepare the next generation of scientists and engineers who will advance manufacturing technology and its applications.</p><br>\n<p>\n Last Modified: 10/23/2026<br>\nModified by: Maryam&nbsp; &nbsp;Tilton</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nAdditive manufacturing, commonly known as 3D printing, builds objects layer by layer and supports advances in engineering, manufacturing, and medicine. The 36th Annual International Solid Freeform Fabrication (SFF) Symposium, held August 10-13, 2025, in Austin, Texas, brought together researchers, students, and engineers to share recent advances in this rapidly developing field. This NSF award supported participation by students from U.S. higher education institutions by covering their conference registration fees.\r\n\n\nThe symposium's final conference guide identifies 60 undergraduate and graduate student recipients of NSF-supported registration fee waivers, representing 38 institutions across the United States. Students applied for support through a process that required current enrollment at a U.S. institution and authorship or co-authorship of a conference oral or poster presentation. The waivers provided access to the symposium's technical presentations, poster session, plenary talks, and professional networking events. Travel and lodging were not covered by this award.\r\n\n\nThe project's intellectual merit lies in enabling emerging researchers to participate directly in rigorous scientific exchange. The 2025 program featured research on new printing processes and materials, computational modeling, artificial intelligence, quality monitoring, advanced design, and biomedical applications. Through presentations and discussions, supported students had opportunities to communicate their work, receive feedback, explore connections across disciplines, and learn from researchers at universities, government laboratories, and industry organizations. Conference proceedings were made available online, extending access to the technical work presented at the meeting.\r\n\n\nThe broader impact of this award was reducing a financial barrier to participation in a major research conference. Students from a geographically and institutionally broad group of universities gained opportunities for scientific communication and professional development, as well as exposure to emerging research directions and potential collaborators. The conference guide publicly acknowledged NSF support and recognized the student waiver recipients. By supporting their participation in the additive manufacturing research community, this award helped prepare the next generation of scientists and engineers who will advance manufacturing technology and its applications.\t\t\t\t\tLast Modified: 10/23/2026\n\n\t\t\t\t\tSubmitted by: Maryam Tilton\n"
+ }
+}

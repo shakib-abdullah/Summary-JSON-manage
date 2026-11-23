@@ -1,0 +1,129 @@
+{
+ "awd_id": "2508025",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "STTR Phase I: Supersonic Inertial Separation for Carbon Capture Technologies",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032922174",
+ "po_email": "rmehta@nsf.gov",
+ "po_sign_block_name": "Rajesh Mehta",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-05-22",
+ "awd_max_amd_letter_date": "2025-08-21",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Technology Transfer (STTR) Phase I project is in cryogenically capturing CO2 and H2O waste from industrial exhaust streams and converting them into sellable products. It aims to simultaneously freeze water and CO2 out of industrial exhaust streams with its unique swirling axisymmetric nozzles at locations such as power plants, manufacturing plants, and cement production. The CO2 captured using this technique can then be sold to a downstream customer looking to turn CO2 into a value-added product (e.g. CO2-to-fuel, CO2-to-building materials, etc.) and the captured water can be sold back to local municipal water systems to ease water stress in arid climates. Such an approach can reduce the deleterious impacts of industrial exhaust on local populations and enhance its commercial appeal even amid potential changes in the regulatory environment around emissions.\r\n\r\n\r\nThe intellectual merit of the project lies in the design, validation, and optimization of an axisymmetric swirling flow nozzle that enables simultaneous freezing of H2O and CO2 followed by their inertial separation. At its core, the technology involves pressurization of the flue gas exhausted from an industrial source and then accelerating it out at high supersonic speeds. During this flue gas expansion, static temperature and pressure of the exhaust stream are lowered so much that the H2O and CO2 freeze into solid particles. These solid particles are heavier than the surrounding gas and can be separated from the rest of the flow by adding a strong swirling component that migrates the solid particles to the outer regions of the flow. The H2O and CO2 are then removed, and the remaining core flow passes through a power recovery turbine to reduce operational costs.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alec",
+   "pi_last_name": "Houpt",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alec W Houpt",
+   "pi_email_addr": "Alec.Houpt@inertial.xyz",
+   "nsf_id": "0000A0T26",
+   "pi_start_date": "2025-05-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Sergey",
+   "pi_last_name": "Leonov",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Sergey B Leonov",
+   "pi_email_addr": "Sergey.Leonov.1@nd.edu",
+   "nsf_id": "000765834",
+   "pi_start_date": "2025-08-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Former Co-Principal Investigator",
+   "pi_first_name": "Joshua",
+   "pi_last_name": "Szczudlak",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joshua D Szczudlak",
+   "pi_email_addr": "jszczud1@nd.edu",
+   "nsf_id": "0000A0SWW",
+   "pi_start_date": "2025-05-22",
+   "pi_end_date": "2025-08-21"
+  }
+ ],
+ "inst": {
+  "inst_name": "INERTIAL CORPORATION",
+  "inst_street_address": "1623 W FULTON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "2198400377",
+  "inst_zip_code": "606122507",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "IL07",
+  "org_lgl_bus_name": "INERTIAL TECHNOLOGIES, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "R6LRD81YUNB1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "mHUB",
+  "perf_str_addr": "1623 W Fulton St",
+  "perf_city_name": "Chicago",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606122507",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "IL07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "150500",
+   "pgm_ele_name": "STTR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "090Z",
+   "pgm_ref_txt": "CAS-Critical Aspects of Sustainability"
+  },
+  {
+   "pgm_ref_code": "1238",
+   "pgm_ref_txt": "TECH FOR SUSTAINABLE ENVIRONMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p dir=\"ltr\">Carbon dioxide from power plants and industrial facilities is one of the largest sources of greenhouse gas emissions. Most of today's carbon capture systems use chemical solvents that absorb CO<sub>2</sub> and then have to be heated to release it. That process is effective, but it is energy intensive, uses large and complicated equipment, and involves chemicals that degrade over time. This Small Business Technology Transfer (STTR) Phase I project, led by Inertial Technologies Inc. in partnership with the University of Notre Dame, advanced a different approach: supersonic inertial separation which separates CO<sub>2</sub> and H<sub>2</sub>O from flue gas using only supersonic nozzles.</p>\r\n<p dir=\"ltr\">The technology uses a specially shaped nozzle that converges and then diverges to accelerate the gas to supersonic speeds. The acceleration to supersonic speed rapidly expands the gas and causes it to cool sharply. When the gas gets cold enough, the water vapor and CO<sub>2</sub> condense into tiny droplets and particles. These particles are heavier than the surrounding gas and can be driven to the outer edges of the flow for removal. This project focused on using swirling flow, so that the heavier particles are flung outward toward the walls by centrifugal force, similar to how a salad spinner flings water off lettuce. The cleaned gas continues through the device. Since this process has no moving parts (other than a gas compressor to drive the supersonic nozzle expansion), it could eventually be smaller, simpler, and cheaper to operate than conventional capture equipment.</p>\r\n<p dir=\"ltr\">The central scientific question for this Phase I was whether CO<sub>2</sub> particles form reliably and predictably under these extreme conditions, and what parameters control their size, since particle size determines how easily they can be separated (larger particles = easier removal). First, the team built computer models (0-D and 1-D) of the nucleation, condensation, and particle growth process. These models track how quickly new particles form and how large they grow as the gas cools. A key finding was that in laboratory testing, the gas becomes highly supersaturated due to too rapid of an expansion, meaning it holds far more vapor than it normally could before condensation occurs. The modeling showed that this behavior can be controlled, since the temperature and pressure of the gas (which determine the supersaturation) are directly related to the nozzle geometry and inlet conditions. This has direct implications for how nozzles should be designed and operated at full scale and how to translate information from laboratory scale into larger-scale pilot testing. An experimental campaign was then carried out at the University of Notre Dame using the ARCJet hypersonic wind tunnel. A laser sheet was directed through the supersonic flow containing frozen CO<sub>2</sub> particles, and a high-speed camera was used to image the light scattered off the particles (similar to how car headlights illuminate fog). Using information from the laser scattering and the wall pressure distribution, two nozzle geometries with different rates of gas expansion were compared. The scattering measurements showed that the more gradual expansion produced much larger CO<sub>2</sub> particles, as predicted by the models. The nozzle pressure distribution was compared to an expansion in which no condensation occurs, which allowed the team to calculate how much CO<sub>2</sub> condenses in the nozzle. These diagnostics were consistent with the model predictions, strengthening confidence in the models as a design tool for scaled-up testing.</p>\r\n<p dir=\"ltr\">Ultimately, lower-cost carbon capture could help power plants and industrial facilities cut emissions without the extreme cost, chemical handling, and higher energy penalties associated with current solvent-based technologies. A chemical-free, compact CO<sub>2</sub> and H<sub>2</sub>O separator could also be retrofitted to existing facilities where space is limited. This project strengthened collaboration between a small business and a university research team, allowing students and researchers to apply their hands-on experience in supersonic flow experiments, optical diagnostics, and computational modeling to a new field. These skills are directly relevant to the rapidly expanding energy and aerospace workforces. The project also opened conversations with industry partners about demonstrating supersonic inertial separation under more realistic conditions.</p>\r\n<p dir=\"ltr\">Phase I established the scientific foundation for supersonic inertial separation of CO<sub>2</sub> and H<sub>2</sub>O from industrial exhaust gases. It produced experimentally supported modeling tools, a working experimental and diagnostic capability, and design insight into how a wide range of parameters (e.g., nozzle shape, pressure, and temperature) affect particle formation and growth. These results position Inertial Technologies Inc. and the University of Notre Dame to pursue a Phase II STTR effort focused on scaled-up testing with larger nozzles, higher flow rates, and higher pressures; direct measurement of CO<sub>2</sub> and H<sub>2</sub>O capture efficiency; and progress toward a pilot-scale demonstration. Inertial Technologies Inc. holds a letter of intent (LOI) from a large power plant operator willing to host a pilot operation at its natural gas power plant following a successful Phase II effort.</p><br>\n<p>\n Last Modified: 10/15/2026<br>\nModified by: Alec&nbsp;W&nbsp;Houpt</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nCarbon dioxide from power plants and industrial facilities is one of the largest sources of greenhouse gas emissions. Most of today's carbon capture systems use chemical solvents that absorb CO2 and then have to be heated to release it. That process is effective, but it is energy intensive, uses large and complicated equipment, and involves chemicals that degrade over time. This Small Business Technology Transfer (STTR) Phase I project, led by Inertial Technologies Inc. in partnership with the University of Notre Dame, advanced a different approach: supersonic inertial separation which separates CO2 and H2O from flue gas using only supersonic nozzles.\r\n\n\nThe technology uses a specially shaped nozzle that converges and then diverges to accelerate the gas to supersonic speeds. The acceleration to supersonic speed rapidly expands the gas and causes it to cool sharply. When the gas gets cold enough, the water vapor and CO2 condense into tiny droplets and particles. These particles are heavier than the surrounding gas and can be driven to the outer edges of the flow for removal. This project focused on using swirling flow, so that the heavier particles are flung outward toward the walls by centrifugal force, similar to how a salad spinner flings water off lettuce. The cleaned gas continues through the device. Since this process has no moving parts (other than a gas compressor to drive the supersonic nozzle expansion), it could eventually be smaller, simpler, and cheaper to operate than conventional capture equipment.\r\n\n\nThe central scientific question for this Phase I was whether CO2 particles form reliably and predictably under these extreme conditions, and what parameters control their size, since particle size determines how easily they can be separated (larger particles = easier removal). First, the team built computer models (0-D and 1-D) of the nucleation, condensation, and particle growth process. These models track how quickly new particles form and how large they grow as the gas cools. A key finding was that in laboratory testing, the gas becomes highly supersaturated due to too rapid of an expansion, meaning it holds far more vapor than it normally could before condensation occurs. The modeling showed that this behavior can be controlled, since the temperature and pressure of the gas (which determine the supersaturation) are directly related to the nozzle geometry and inlet conditions. This has direct implications for how nozzles should be designed and operated at full scale and how to translate information from laboratory scale into larger-scale pilot testing. An experimental campaign was then carried out at the University of Notre Dame using the ARCJet hypersonic wind tunnel. A laser sheet was directed through the supersonic flow containing frozen CO2 particles, and a high-speed camera was used to image the light scattered off the particles (similar to how car headlights illuminate fog). Using information from the laser scattering and the wall pressure distribution, two nozzle geometries with different rates of gas expansion were compared. The scattering measurements showed that the more gradual expansion produced much larger CO2 particles, as predicted by the models. The nozzle pressure distribution was compared to an expansion in which no condensation occurs, which allowed the team to calculate how much CO2 condenses in the nozzle. These diagnostics were consistent with the model predictions, strengthening confidence in the models as a design tool for scaled-up testing.\r\n\n\nUltimately, lower-cost carbon capture could help power plants and industrial facilities cut emissions without the extreme cost, chemical handling, and higher energy penalties associated with current solvent-based technologies. A chemical-free, compact CO2 and H2O separator could also be retrofitted to existing facilities where space is limited. This project strengthened collaboration between a small business and a university research team, allowing students and researchers to apply their hands-on experience in supersonic flow experiments, optical diagnostics, and computational modeling to a new field. These skills are directly relevant to the rapidly expanding energy and aerospace workforces. The project also opened conversations with industry partners about demonstrating supersonic inertial separation under more realistic conditions.\r\n\n\nPhase I established the scientific foundation for supersonic inertial separation of CO2 and H2O from industrial exhaust gases. It produced experimentally supported modeling tools, a working experimental and diagnostic capability, and design insight into how a wide range of parameters (e.g., nozzle shape, pressure, and temperature) affect particle formation and growth. These results position Inertial Technologies Inc. and the University of Notre Dame to pursue a Phase II STTR effort focused on scaled-up testing with larger nozzles, higher flow rates, and higher pressures; direct measurement of CO2 and H2O capture efficiency; and progress toward a pilot-scale demonstration. Inertial Technologies Inc. holds a letter of intent (LOI) from a large power plant operator willing to host a pilot operation at its natural gas power plant following a successful Phase II effort.\t\t\t\t\tLast Modified: 10/15/2026\n\n\t\t\t\t\tSubmitted by: AlecWHoupt\n"
+ }
+}

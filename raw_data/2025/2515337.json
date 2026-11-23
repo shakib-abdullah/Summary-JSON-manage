@@ -1,0 +1,121 @@
+{
+ "awd_id": "2515337",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Rice Spring School on Electron Correlation and Topology",
+ "cfda_num": "47.049",
+ "org_code": "03070000",
+ "po_phone": "7032924940",
+ "po_email": "mkukla@nsf.gov",
+ "po_sign_block_name": "Maija Kukla",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 10000.0,
+ "awd_amount": 10000.0,
+ "awd_min_amd_letter_date": "2025-01-10",
+ "awd_max_amd_letter_date": "2025-01-10",
+ "awd_abstract_narration": "This award is co-funded by the Condensed Matter and Materials Theory, and the Condensed Matter Physics programs of the Division of Materials Research. It will support the attendance of early-career researchers and students to the 2025 instance of the Rice Spring School on Electron Correlation and Topology. The school will bring together leading theorist and experimentalist experts in cutting-edge areas of condensed matter physics to present pedagogical lectures, which will provide graduate students and postdoctoral researchers with a comprehensive understanding of exciting developments and foster new insights into the frontiers of research in quantum materials. The school will also provide a platform for students and early-career researchers to take on active roles as organizers, lecturers, presenters, and panel discussion leaders.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "DMR",
+ "org_div_long_name": "Division Of Materials Research",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Qimiao",
+   "pi_last_name": "Si",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Qimiao Si",
+   "pi_email_addr": "qmsi@rice.edu",
+   "nsf_id": "000311066",
+   "pi_start_date": "2025-01-10",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Yonglong",
+   "pi_last_name": "Xie",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yonglong Xie",
+   "pi_email_addr": "yx71@rice.edu",
+   "nsf_id": "000921080",
+   "pi_start_date": "2025-01-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "William Marsh Rice University",
+  "inst_street_address": "6100 MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUSTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "7133484820",
+  "inst_zip_code": "77005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "TX07",
+  "org_lgl_bus_name": "WILLIAM MARSH RICE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "K51LECU1G8N3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "William Marsh Rice University",
+  "perf_str_addr": "6100 MAIN ST",
+  "perf_city_name": "Houston",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "770051827",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "TX07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "171000",
+   "pgm_ele_name": "CONDENSED MATTER PHYSICS"
+  },
+  {
+   "pgm_ele_code": "176500",
+   "pgm_ele_name": "CONDENSED MATTER & MAT THEORY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 10000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p id=\"docs-internal-guid-e603ad4e-7fff-ee2d-0d9d-c018998d5310\" style=\"line-height: 1.5054545454545452; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\" dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Recent years have highlighted the exciting potential that emerges when strong electron correlations intertwine with the topology of electronic wavefunctions. The central goal of the 2025 Rice Spring School on Electron Correlations and Topology&mdash;the second iteration of this school series&mdash;was to address critical and emerging problems at this intersection, which is driving some of the most intellectually active directions in quantum condensed matter physics. The school brought together leading theorists and experimentalists to deliver pedagogical lectures and discussions, equipping graduate students and postdoctoral researchers with a coherent understanding of recent advances and open questions in quantum materials research.</span></p>\r\n<p style=\"line-height: 1.5054545454545452; text-align: justify; margin-top: 0pt; margin-bottom: 8pt;\" dir=\"ltr\"><span style=\"font-size: 12pt; font-family: Arial,sans-serif; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">The 2025 school attracted more than 80 participants and covered a broad range of topics, including correlated systems; novel topological material platforms for realizing topological flat-band systems; theoretical modeling of correlated topology; emerging experimental probes; quantum entanglement in strongly correlated matter; and out-of-equilibrium many-body dynamics. Designed primarily for junior researchers, the program included structured professional-development opportunities such as a poster competition, contributed talks and student-led discussions, allowing participants to practice scientific communication and leadership while receiving direct feedback from experts. To extend the impact beyond the in-person meeting, we publicized the event through university communications and recorded lecture content for online sharing as reusable educational resources. Together, these outcomes strengthen the pipeline of young scientists working at the interface of correlations and topology and broaden access to high-level training in quantum materials research.</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 03/02/2026<br>\nModified by: Qimiao&nbsp;Si</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317089666_Poster_Session--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317089666_Poster_Session--rgov-800width.jpg\" title=\"Poster Session\"><img src=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317089666_Poster_Session--rgov-66x44.jpg\" alt=\"Poster Session\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">School scientific advisors, Qimiao Si and Maia Vergniory, discussing with student poster presenter.</div>\n<div class=\"imageCredit\">Jorge Vidal</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Qimiao&nbsp;Si\n<div class=\"imageTitle\">Poster Session</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316796940_Lecture3--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316796940_Lecture3--rgov-800width.jpg\" title=\"Lecture 3\"><img src=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316796940_Lecture3--rgov-66x44.jpg\" alt=\"Lecture 3\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Veronika Sunko, postdoctoral fellow from UC Berkley, delivering a lecture on optical probes of quantum materials.</div>\n<div class=\"imageCredit\">Jorge Vidal</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Qimiao&nbsp;Si\n<div class=\"imageTitle\">Lecture 3</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317038792_Group_photo--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317038792_Group_photo--rgov-800width.jpg\" title=\"Group Photo\"><img src=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317038792_Group_photo--rgov-66x44.jpg\" alt=\"Group Photo\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Group photo of school participants</div>\n<div class=\"imageCredit\">Jorge Vidal</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Qimiao&nbsp;Si\n<div class=\"imageTitle\">Group Photo</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316739304_Lecture2--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316739304_Lecture2--rgov-800width.jpg\" title=\"Lecture 2\"><img src=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316739304_Lecture2--rgov-66x44.jpg\" alt=\"Lecture 2\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Jeong Min Park, postdoctoral fellow from Princeton, delivering a lecture on experimental progress on moir\ufffd materials.</div>\n<div class=\"imageCredit\">Jorge Vidal</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Qimiao&nbsp;Si\n<div class=\"imageTitle\">Lecture 2</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316675861_Lecture1--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316675861_Lecture1--rgov-800width.jpg\" title=\"Lecture 1\"><img src=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770316675861_Lecture1--rgov-66x44.jpg\" alt=\"Lecture 1\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Frank Schinder, lecturer from Imperial College (UK) delivering a lecture on topological band theory.</div>\n<div class=\"imageCredit\">Jorge Vidal</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Qimiao&nbsp;Si\n<div class=\"imageTitle\">Lecture 1</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317135060_Poster_Prize_Ceremony--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317135060_Poster_Prize_Ceremony--rgov-800width.jpg\" title=\"Poster Prize Ceremony\"><img src=\"/por/images/Reports/POR/2026/2515337/2515337_10967289_1770317135060_Poster_Prize_Ceremony--rgov-66x44.jpg\" alt=\"Poster Prize Ceremony\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">One of the school organizer, Yonglong Xie (left most), presents poster prize certificates to top three winners.</div>\n<div class=\"imageCredit\">Jorge Vidal</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Qimiao&nbsp;Si\n<div class=\"imageTitle\">Poster Prize Ceremony</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nRecent years have highlighted the exciting potential that emerges when strong electron correlations intertwine with the topology of electronic wavefunctions. The central goal of the 2025 Rice Spring School on Electron Correlations and Topologythe second iteration of this school serieswas to address critical and emerging problems at this intersection, which is driving some of the most intellectually active directions in quantum condensed matter physics. The school brought together leading theorists and experimentalists to deliver pedagogical lectures and discussions, equipping graduate students and postdoctoral researchers with a coherent understanding of recent advances and open questions in quantum materials research.\r\n\n\nThe 2025 school attracted more than 80 participants and covered a broad range of topics, including correlated systems; novel topological material platforms for realizing topological flat-band systems; theoretical modeling of correlated topology; emerging experimental probes; quantum entanglement in strongly correlated matter; and out-of-equilibrium many-body dynamics. Designed primarily for junior researchers, the program included structured professional-development opportunities such as a poster competition, contributed talks and student-led discussions, allowing participants to practice scientific communication and leadership while receiving direct feedback from experts. To extend the impact beyond the in-person meeting, we publicized the event through university communications and recorded lecture content for online sharing as reusable educational resources. Together, these outcomes strengthen the pipeline of young scientists working at the interface of correlations and topology and broaden access to high-level training in quantum materials research.\r\n\n\n\t\t\t\t\tLast Modified: 03/02/2026\n\n\t\t\t\t\tSubmitted by: QimiaoSi\n"
+ }
+}

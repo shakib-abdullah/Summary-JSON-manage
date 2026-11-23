@@ -1,0 +1,101 @@
+{
+ "awd_id": "2515868",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Biological Processes for Wastewater Treatment",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-06-30",
+ "awd_max_amd_letter_date": "2025-06-30",
+ "awd_abstract_narration": "This I-Corps project focuses on investigating the commercial potential of an advanced wastewater treatment system that integrates ion exchange materials with biological processes to effectively remove pollutants from wastewater. Traditional wastewater treatment methods often face challenges, such as high energy consumption and insufficient removal of contaminants, which can adversely affect environmental quality and public health. The hybrid approach developed in this project addresses these issues by enhancing treatment efficiency and significantly reducing energy requirements. Water pollution remains a pressing national issue, with billions of gallons of wastewater generated daily, affecting ecosystems, drinking water sources, and public health across communities nationwide. By providing a more efficient and cost-effective method to manage wastewater, this project helps protect the environment and conserve resources. Economic benefits include reduced operational costs for municipal treatment plants, promoting economic growth, and enhancing community welfare through improved water quality.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of an innovative wastewater treatment process combining ion exchange technology with biological nitrification and anaerobic ammonium oxidation. Unlike conventional methods, this hybrid system operates efficiently at lower temperatures and low nitrogen loadings and under varying pollutant loads, significantly reducing energy usage and operating costs. Critical scientific advancements include ion exchange resins capable of nitrogen removal and enhanced microbial processes enabling nitrogen removal at low nitrogen loadings in mainstream wastewater. Potential adopters benefit from improved treatment performance, reduced chemical and energy costs, decreased environmental impacts, and enhanced system stability.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Meng",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Meng Wang",
+   "pi_email_addr": "mxw1118@psu.edu",
+   "nsf_id": "000787835",
+   "pi_start_date": "2025-06-30",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Pennsylvania State Univ University Park",
+  "inst_street_address": "201 OLD MAIN",
+  "inst_street_address_2": "",
+  "inst_city_name": "UNIVERSITY PARK",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "8148651372",
+  "inst_zip_code": "16802",
+  "inst_country_name": "United States",
+  "cong_dist_code": "15",
+  "st_cong_dist_code": "PA15",
+  "org_lgl_bus_name": "THE PENNSYLVANIA STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NPM2J7MSCF61"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The Pennsylvania State University",
+  "perf_str_addr": "120 Hosler Building",
+  "perf_city_name": "UNIVERSITY PARK",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "168021503",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "15",
+  "perf_st_cong_dist": "PA15",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9223",
+   "pgm_ref_txt": "ENVIRON BENIGN CHEMICAL SYNTH & PROCESS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Wastewater treatment is essential for protecting public health and the environment, but it also requires substantial energy and financial resources. As environmental regulations become more stringent, wastewater treatment facilities face increasing pressure to remove nutrients, particularly nitrogen, while controlling costs and maintaining reliable operations. Researchers at Penn State University developed an innovative wastewater treatment technology that combines ion-exchange materials with biological nitrogen removal. This technology has the potential to reduce energy consumption, improve treatment performance, and be integrated into existing treatment facilities.</p>\r\n<p>The goal of this NSF Innovation Corps (I-Corps) project was to evaluate the commercial potential of this technology and identify a practical pathway for bringing it from laboratory research to real-world applications. Through the NSF I-Corps program, the team, AquaMIX (Team 3998), received entrepreneurial training and conducted 104 customer discovery interviews with wastewater utility operators, consulting engineers, regulatory agencies, equipment manufacturers, and technology providers across the United States.</p>\r\n<p><strong>Intellectual Merit</strong></p>\r\n<p>The project generated important insights into the technical, economic, and institutional factors influencing the adoption of innovative wastewater treatment technologies. Initially, the team hypothesized that improved nitrogen removal performance and potential energy savings of 20-40% would be the primary drivers of customer interest. However, customer discovery revealed that these technical advantages alone were insufficient to motivate adoption.</p>\r\n<p>Instead, wastewater utilities placed greater emphasis on capital investment, operational simplicity, long-term reliability, and compatibility with existing infrastructure. Aging facilities, limited budgets, and shortages of skilled operators were identified as major challenges. The interviews also demonstrated that consulting engineers play a critical role in technology selection, often serving as trusted advisors to utilities.</p>\r\n<p>These findings led to a substantial refinement of the technology's value proposition and business model. Rather than focusing primarily on energy savings and nitrogen removal efficiency, the team identified lifecycle cost reduction, regulatory compliance, operational resilience, reduced chemical consumption, and increased treatment capacity within existing facilities as important potential benefits. The team also identified decentralized wastewater treatment systems as a promising alternative market with potentially shorter technology adoption timelines.</p>\r\n<p>The project demonstrated the value of integrating customer discovery with engineering research to identify meaningful technical development priorities and commercialization barriers. It established a clearer research direction emphasizing practical implementation, system reliability, and economic feasibility.</p>\r\n<p><strong>Broader Impacts</strong></p>\r\n<p>The project advanced efforts to translate federally funded research into technologies that could improve the sustainability and affordability of wastewater treatment. If successfully developed and deployed, the technology could help wastewater utilities reduce operating costs, improve nutrient removal, and limit environmental impacts while extending the useful life of existing infrastructure. These benefits may be particularly valuable for communities facing increasing regulatory requirements and limited infrastructure funding.</p>\r\n<p>The I-Corps experience also provided valuable professional development for the entrepreneurial lead, a graduate student, through training in customer discovery, market assessment, business model development, and technology commercialization. The project strengthened connections among university researchers, wastewater utilities, consulting engineers, and industry professionals.</p>\r\n<p>Importantly, the project established an evidence-based commercialization roadmap. The team concluded that additional technical validation and market development are necessary before launching a commercial venture. Subsequent activities included pilot-scale testing, collaboration with consulting engineering firms, submission of an NSF Small Business Innovation Research (SBIR) Phase I proposal, and continued development of innovative carrier materials through interdisciplinary research.</p>\r\n<p>Overall, this NSF I-Corps project successfully identified the opportunities and challenges associated with commercializing an emerging wastewater treatment technology. Its most significant outcome was the transformation of a laboratory-driven technology concept into a more clearly defined, customer-informed development strategy, laying the groundwork for future research, technology validation, and potential commercialization.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/22/2026<br>\nModified by: Meng&nbsp;Wang</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nWastewater treatment is essential for protecting public health and the environment, but it also requires substantial energy and financial resources. As environmental regulations become more stringent, wastewater treatment facilities face increasing pressure to remove nutrients, particularly nitrogen, while controlling costs and maintaining reliable operations. Researchers at Penn State University developed an innovative wastewater treatment technology that combines ion-exchange materials with biological nitrogen removal. This technology has the potential to reduce energy consumption, improve treatment performance, and be integrated into existing treatment facilities.\r\n\n\nThe goal of this NSF Innovation Corps (I-Corps) project was to evaluate the commercial potential of this technology and identify a practical pathway for bringing it from laboratory research to real-world applications. Through the NSF I-Corps program, the team, AquaMIX (Team 3998), received entrepreneurial training and conducted 104 customer discovery interviews with wastewater utility operators, consulting engineers, regulatory agencies, equipment manufacturers, and technology providers across the United States.\r\n\n\nIntellectual Merit\r\n\n\nThe project generated important insights into the technical, economic, and institutional factors influencing the adoption of innovative wastewater treatment technologies. Initially, the team hypothesized that improved nitrogen removal performance and potential energy savings of 20-40% would be the primary drivers of customer interest. However, customer discovery revealed that these technical advantages alone were insufficient to motivate adoption.\r\n\n\nInstead, wastewater utilities placed greater emphasis on capital investment, operational simplicity, long-term reliability, and compatibility with existing infrastructure. Aging facilities, limited budgets, and shortages of skilled operators were identified as major challenges. The interviews also demonstrated that consulting engineers play a critical role in technology selection, often serving as trusted advisors to utilities.\r\n\n\nThese findings led to a substantial refinement of the technology's value proposition and business model. Rather than focusing primarily on energy savings and nitrogen removal efficiency, the team identified lifecycle cost reduction, regulatory compliance, operational resilience, reduced chemical consumption, and increased treatment capacity within existing facilities as important potential benefits. The team also identified decentralized wastewater treatment systems as a promising alternative market with potentially shorter technology adoption timelines.\r\n\n\nThe project demonstrated the value of integrating customer discovery with engineering research to identify meaningful technical development priorities and commercialization barriers. It established a clearer research direction emphasizing practical implementation, system reliability, and economic feasibility.\r\n\n\nBroader Impacts\r\n\n\nThe project advanced efforts to translate federally funded research into technologies that could improve the sustainability and affordability of wastewater treatment. If successfully developed and deployed, the technology could help wastewater utilities reduce operating costs, improve nutrient removal, and limit environmental impacts while extending the useful life of existing infrastructure. These benefits may be particularly valuable for communities facing increasing regulatory requirements and limited infrastructure funding.\r\n\n\nThe I-Corps experience also provided valuable professional development for the entrepreneurial lead, a graduate student, through training in customer discovery, market assessment, business model development, and technology commercialization. The project strengthened connections among university researchers, wastewater utilities, consulting engineers, and industry professionals.\r\n\n\nImportantly, the project established an evidence-based commercialization roadmap. The team concluded that additional technical validation and market development are necessary before launching a commercial venture. Subsequent activities included pilot-scale testing, collaboration with consulting engineering firms, submission of an NSF Small Business Innovation Research (SBIR) Phase I proposal, and continued development of innovative carrier materials through interdisciplinary research.\r\n\n\nOverall, this NSF I-Corps project successfully identified the opportunities and challenges associated with commercializing an emerging wastewater treatment technology. Its most significant outcome was the transformation of a laboratory-driven technology concept into a more clearly defined, customer-informed development strategy, laying the groundwork for future research, technology validation, and potential commercialization.\r\n\n\n\t\t\t\t\tLast Modified: 10/22/2026\n\n\t\t\t\t\tSubmitted by: MengWang\n"
+ }
+}

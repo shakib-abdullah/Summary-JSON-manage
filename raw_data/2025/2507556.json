@@ -1,0 +1,105 @@
+{
+ "awd_id": "2507556",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Development of a Portable Contaminant Field Screening Device for Rapid Measurement of PFAS in Water.",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032928323",
+ "po_email": "bschrag@nsf.gov",
+ "po_sign_block_name": "Benaiah Schrag",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "This Small Business Innovation Research Phase I project addresses the urgent need for affordable, real-time detection of per- and polyfluoroalkyl substances (PFAS) in environmental, industrial, and municipal water. PFAS are a class of persistent synthetic chemicals linked to adverse health effects and widespread environmental contamination, particularly near military bases, airports, and industrial facilities. Current laboratory-based detection methods are expensive, slow, and require specialized infrastructure, making them impractical for on-site monitoring. This project will develop a portable PFAS sensing device capable of detecting concentrations at or below regulatory thresholds directly in the field, enabling faster decision-making and more efficient remediation. The innovation will help environmental consultants, regulatory agencies, and municipalities accelerate site assessment, remediation, and compliance monitoring by improving access to rapid and reliable data. The estimated addressable market for PFAS field detection tools is expected to exceed $500 million over the next decade, driven by tightening regulations and increased public awareness. Broader impacts of the effort will include an enhancement of public health, a reduction in cleanup costs, and contributions to workforce development in environmental monitoring technologies.\r\n\r\nThe intellectual merit of this project lies in the development of a novel sample preparation method and field-deployable sensor system that integrates surface-enhanced Raman spectroscopy (SERS) with artificial intelligence (AI)-enhanced signal processing. The core innovation is the complete field-ready analytical platform that enables rapid detection of PFAS at parts-per-trillion levels in complex water matrices without the need for laboratory analysis. Research objectives include optimizing nanostructured sensing substrates, developing a robust sample preparation technique for rapid PFAS enrichment in the field, and training AI models to correct for matrix interference and automate signal interpretation. The project will evaluate detection performance using PFAS reference standards and spiked field-relevant water samples, benchmarking the system against regulatory thresholds set by the U.S. Environmental Protection Agency. Anticipated results include the demonstration of a portable sensing device with a limit of detection below 4 parts per trillion, high reproducibility, and usability by non-specialist field personnel. The research will also advance the fields of portable spectroscopy and machine learning in environmental applications.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Vernon",
+   "pi_last_name": "LaLone",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vernon LaLone",
+   "pi_email_addr": "vernon.lalone@wavelumina.com",
+   "nsf_id": "0000A21BV",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "WAVE LUMINA INC",
+  "inst_street_address": "4820 SPRINGBROOK DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "WILLIAMSBURG",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "2316496026",
+  "inst_zip_code": "496909236",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MI01",
+  "org_lgl_bus_name": "WAVE LUMINA INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JRCXWJK2N8T5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "WAVE LUMINA LLC",
+  "perf_str_addr": "2600 Aero Park Dr",
+  "perf_city_name": "Traverse City",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "496869103",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "5187",
+   "pgm_ref_txt": "ENVIRONMENT"
+  },
+  {
+   "pgm_ref_code": "8616",
+   "pgm_ref_txt": "Instr Rsrch,Metro&Std NanTech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>PFAS, often called \"forever chemicals,\" are found in groundwater and drinking water across the United States. Measuring them today means shipping samples to specialized laboratories. Results take days to weeks and cost several hundred dollars per sample. That delay slows cleanup decisions at contaminated sites and limits how many samples a project can afford to take.<br />This Phase I project set out to show that PFAS in water could be measured on site in about 20 minutes, using surface-enhanced Raman spectroscopy (SERS). In SERS, a nanostructured metal surface strongly amplifies the light signal given off by molecules.</p>\r\n<p>Early in the project, the team replaced the originally proposed electrochemical approach with a simpler chemical one. PFAS in a small water sample are paired with a charged reporter molecule and extracted into a small volume of solvent. That solvent also carries a reference compound, which serves as a built-in quality check on every sample. The extract is then read on a metallic nanosensor with a portable spectrometer. This method was granted U.S. Patent 12,644,842 in June 2026. Over eight documented procedure revisions, each targeting a measured source of variability, typical measurement repeatability improved from more than 50% variation to generally below 30%.</p>\r\n<p>In real groundwater, the method gives quantitative results from about 2 to 500 parts per billion (ppb). Its nominal detection limit is about 0.2 ppb (200 ppt), defined as three times the variability among ten independently prepared clean-water blanks. When compared against certified laboratory results, the method's response closely tracked the combined amount of three common long-chain PFAS (PFOS, PFOA, and PFNA). In four samples analyzed by two independent laboratories, it agreed within about 13%. It responded weakly to shorter-chain PFAS, so it is best described as a screen for long-chain PFAS.</p>\r\n<p>The project also tested a widely held assumption. The original plan relied on deep-learning AI to interpret the spectra. When models were tested on independently prepared samples, rather than on repeat scans of the same sample, simpler statistical models consistently outperformed complex ones. Testing on repeat scans of the same sample overstates performance, a lesson that applies broadly in analytical spectroscopy.</p>\r\n<p>In a two-day field deployment at a former industrial site in Michigan, the team worked alongside an environmental consulting firm, with state regulators observing. It screened 27 monitoring wells plus on-site calibration and blank checks, about 22 samples per day. The screening results reproduced the site's known pattern of contamination. Above about 1 ppb, they agreed with laboratory results within roughly a factor of two. Below a few ppb, on-site readings ran high. The team traced this to sample handling (temperature, holding time, and mixing) rather than to the chemistry or the instrument. In response, the company developed a standardized field sampling kit and procedure and trained a partner's field technician to use it.</p>\r\n<p>The original target of 4 parts per trillion (0.004 ppb), set to match drinking-water limits, was not reached during Phase I. Customer research showed that the first market need is at contaminated sites and treatment systems, where decisions are made at sub-ppb to low-ppb levels. The remaining gap is now clearly defined: reliable quantitation between about 0.5 and 5 ppb, under field conditions, by operators outside the company. The project traced this limit to variable background signal and sample-to-sample preparation differences, not to instrument sensitivity, thereby turning an open-ended problem into a focused work plan for the next phase.</p>\r\n<p>Beyond the laboratory, the project built a real-world evidence base. Nine organizations, including environmental consultants, remediation contractors, treatment technology developers, and laboratories, contributed 240 samples from eight water types. Many also provided their own certified laboratory results at no cost. Through the NSF I-Corps program, the team conducted 103 customer interviews, which reshaped the company's market focus. The company launched a laboratory screening service in December 2025 and received follow-on Department of Defense research funding for further validation.</p>\r\n<p>The project also grew a technical team in rural northern Michigan from one to four people. It trained a research technician to run all laboratory methods independently and hosted a university engineering intern. The full technical team completed hazardous-site safety certification. Results were shared with environmental professionals, a Great Lakes research conference, and a community PFAS forum.</p>\r\n<p>At this time, the method is a rapid screening tool, not a replacement for certified laboratory analysis, which remains required for regulatory reporting. A reliable same-day screen can help consultants and treatment operators sample more densely, make decisions faster, and direct laboratory budgets where they matter most. That can shorten cleanup timelines and reduce people's exposure to PFAS sooner.</p><br>\n<p>\n Last Modified: 10/04/2026<br>\nModified by: Vernon&nbsp;LaLone</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124587334_POR_Image2_fielddeployment--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124587334_POR_Image2_fielddeployment--rgov-800width.jpg\" title=\"On-Site PFAS Field Screening\"><img src=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124587334_POR_Image2_fielddeployment--rgov-66x44.jpg\" alt=\"On-Site PFAS Field Screening\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">On-site PFAS screening during a two-day field deployment at a contaminated site in Michigan, May 2026. The team screened 27 monitoring wells from a vehicle-based setup.</div>\n<div class=\"imageCredit\">Wave Lumina Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Vernon&nbsp;LaLone\n<div class=\"imageTitle\">On-Site PFAS Field Screening</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124660716_POR_Image1_Workflow--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124660716_POR_Image1_Workflow--rgov-800width.png\" title=\"PFAS Screening Workflow\"><img src=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124660716_POR_Image1_Workflow--rgov-66x44.png\" alt=\"PFAS Screening Workflow\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Rapid PFAS screening workflow developed under this award. A mL-scale water sample is prepared with an extraction chemistry, a drop of the extract is placed on a nanosensor substrate, and a portable Raman spectrometer and software return a result in about 20 minutes.</div>\n<div class=\"imageCredit\">Wave Lumina Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Vernon&nbsp;LaLone\n<div class=\"imageTitle\">PFAS Screening Workflow</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124751609_POR_Image3_Calibration--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124751609_POR_Image3_Calibration--rgov-800width.png\" title=\"PFOS Calibration in Groundwater\"><img src=\"/por/images/Reports/POR/2026/2507556/2507556_10980461_1791124751609_POR_Image3_Calibration--rgov-66x44.png\" alt=\"PFOS Calibration in Groundwater\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Laboratory calibration in groundwater. Concentrations measured by the screening method closely tracked known PFOS concentrations from 0 to 500 parts per billion. The dashed line shows perfect agreement.</div>\n<div class=\"imageCredit\">Wave Lumina Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Vernon&nbsp;LaLone\n<div class=\"imageTitle\">PFOS Calibration in Groundwater</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nPFAS, often called \"forever chemicals,\" are found in groundwater and drinking water across the United States. Measuring them today means shipping samples to specialized laboratories. Results take days to weeks and cost several hundred dollars per sample. That delay slows cleanup decisions at contaminated sites and limits how many samples a project can afford to take.\nThis Phase I project set out to show that PFAS in water could be measured on site in about 20 minutes, using surface-enhanced Raman spectroscopy (SERS). In SERS, a nanostructured metal surface strongly amplifies the light signal given off by molecules.\r\n\n\nEarly in the project, the team replaced the originally proposed electrochemical approach with a simpler chemical one. PFAS in a small water sample are paired with a charged reporter molecule and extracted into a small volume of solvent. That solvent also carries a reference compound, which serves as a built-in quality check on every sample. The extract is then read on a metallic nanosensor with a portable spectrometer. This method was granted U.S. Patent 12,644,842 in June 2026. Over eight documented procedure revisions, each targeting a measured source of variability, typical measurement repeatability improved from more than 50% variation to generally below 30%.\r\n\n\nIn real groundwater, the method gives quantitative results from about 2 to 500 parts per billion (ppb). Its nominal detection limit is about 0.2 ppb (200 ppt), defined as three times the variability among ten independently prepared clean-water blanks. When compared against certified laboratory results, the method's response closely tracked the combined amount of three common long-chain PFAS (PFOS, PFOA, and PFNA). In four samples analyzed by two independent laboratories, it agreed within about 13%. It responded weakly to shorter-chain PFAS, so it is best described as a screen for long-chain PFAS.\r\n\n\nThe project also tested a widely held assumption. The original plan relied on deep-learning AI to interpret the spectra. When models were tested on independently prepared samples, rather than on repeat scans of the same sample, simpler statistical models consistently outperformed complex ones. Testing on repeat scans of the same sample overstates performance, a lesson that applies broadly in analytical spectroscopy.\r\n\n\nIn a two-day field deployment at a former industrial site in Michigan, the team worked alongside an environmental consulting firm, with state regulators observing. It screened 27 monitoring wells plus on-site calibration and blank checks, about 22 samples per day. The screening results reproduced the site's known pattern of contamination. Above about 1 ppb, they agreed with laboratory results within roughly a factor of two. Below a few ppb, on-site readings ran high. The team traced this to sample handling (temperature, holding time, and mixing) rather than to the chemistry or the instrument. In response, the company developed a standardized field sampling kit and procedure and trained a partner's field technician to use it.\r\n\n\nThe original target of 4 parts per trillion (0.004 ppb), set to match drinking-water limits, was not reached during Phase I. Customer research showed that the first market need is at contaminated sites and treatment systems, where decisions are made at sub-ppb to low-ppb levels. The remaining gap is now clearly defined: reliable quantitation between about 0.5 and 5 ppb, under field conditions, by operators outside the company. The project traced this limit to variable background signal and sample-to-sample preparation differences, not to instrument sensitivity, thereby turning an open-ended problem into a focused work plan for the next phase.\r\n\n\nBeyond the laboratory, the project built a real-world evidence base. Nine organizations, including environmental consultants, remediation contractors, treatment technology developers, and laboratories, contributed 240 samples from eight water types. Many also provided their own certified laboratory results at no cost. Through the NSF I-Corps program, the team conducted 103 customer interviews, which reshaped the company's market focus. The company launched a laboratory screening service in December 2025 and received follow-on Department of Defense research funding for further validation.\r\n\n\nThe project also grew a technical team in rural northern Michigan from one to four people. It trained a research technician to run all laboratory methods independently and hosted a university engineering intern. The full technical team completed hazardous-site safety certification. Results were shared with environmental professionals, a Great Lakes research conference, and a community PFAS forum.\r\n\n\nAt this time, the method is a rapid screening tool, not a replacement for certified laboratory analysis, which remains required for regulatory reporting. A reliable same-day screen can help consultants and treatment operators sample more densely, make decisions faster, and direct laboratory budgets where they matter most. That can shorten cleanup timelines and reduce people's exposure to PFAS sooner.\t\t\t\t\tLast Modified: 10/04/2026\n\n\t\t\t\t\tSubmitted by: VernonLaLone\n"
+ }
+}

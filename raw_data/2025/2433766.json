@@ -1,0 +1,101 @@
+{
+ "awd_id": "2433766",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of an Advanced Microfluidic Platform for High Throughput Cancer Modeling and Drug Screening",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2025-10-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2024-11-14",
+ "awd_max_amd_letter_date": "2024-11-14",
+ "awd_abstract_narration": "The broader impact/commercial potential of this I-Corps project is the development of an injection-molded, organ on-a-chip microfluidic platform engineered for high-throughput usage in oncology drug screening and cancer disease modeling applications. Microfluidic and organ-on-a-chip technologies are poised to replace ineffective preclinical platforms (e.g., animal models and two-dimensional cell culture systems) traditionally used within pharmaceutical drug research and development. However, current soft-lithography microfabrication techniques are time-consuming and labor-intensive. Moreover, the primary polymeric material, polydimethylsiloxane, is prone to drug adsorption and leaching. These factors ultimately hinder the mass production of microfluidic technology for disease modeling and drug screening development applications. By leveraging precision micro injection molding, the proposed technology aims to address the critical need within the cancer disease modeling and oncology drug development sectors for more cost-effective, time-efficient, and physiologically relevant tools for oncology disease modeling and drug screening. The need for an innovative human tissue platform applies to a variety of other biotech industries and academic biomedical research laboratories outside the area of cancer research. More broadly, the proposed technology has significant potential to assist researchers in obtaining physiologically relevant and clinical data for human tissue and disease modeling, drug screening efforts, and the development of personalized medicine.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the technology. This solution is based on the development of human disease on-a-chip technologies that have been designed and extensively validated to accurately recapitulate the human tissue and tumor microenvironments. More specifically, the proposed technology builds upon foundational research in human organoid technologies that have resulted in a better understanding of the biological mechanisms of complex diseases and cancers such as glioblastoma and metastatic breast cancer and have led to the discovery of novel pathways and genes which could benefit patients' treatment outcomes and survival. The technology comprises modular microfluidic devices, injection-molded in a biocompatible, optically clear thermoplastic material, that houses a biomimetic, three-dimensional, tumor microenvironment for accurate recapitulation of physiologically relevant human tissue and organs of interest. The modular devices are accompanied by a custom microplate, designed per ANSI microplate dimension standards, for ease of handling, storage, and high-throughput experimentation. Initial prototyping phases of the proposed platform demonstrated that the platform is suitable for cell culture and its design is compatible with precision micro injection molding design-for-manufacturing requirements.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mehdi",
+   "pi_last_name": "Nikkhah",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mehdi Nikkhah",
+   "pi_email_addr": "mnikkhah@asu.edu",
+   "nsf_id": "000681890",
+   "pi_start_date": "2024-11-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "1475 N SCOTTSDALE RD STE 200",
+  "inst_street_address_2": "",
+  "inst_city_name": "SCOTTSDALE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852573538",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "AZ01",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "NKJGJQYQJKR3",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "066E",
+   "pgm_ref_txt": "INSTRUMENTATION & DIAGNOSTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The NSF I-Corps project titled &ldquo;<em>Translation Potential of an Advanced Microfluidic Platform for High Throughput Cancer Modeling and Drug Screening</em>&rdquo; was aimed at assessing the commercialization potential of the PI&rsquo;s (Nikkhah) advanced Biochip platform technology, designed to overcome the key limitations of polydimethylsiloxane (PDMS)-based microfluidic systems to deliver a more cost-effective, scalable, physiologically relevant system for oncology disease modeling, personalized medicine, and drug development, while also generating deeper insights into the broader organ-on-a-chip (OoC) market ecosystem.&nbsp;</p>\r\n<p>In this NSF I-Corps project, the proposed innovation consisted of modular injection-molded microfluidic devices with a biomimetic 3D tumor microenvironment (TME) for faithful reconstruction of <em>in vivo</em> tissues and tumors of interest, along with a custom ANSI/SLAS compliant microplate for ease of handling and interoperability with existing laboratory equipment. Through this project, the team was provided a unique experiential learning opportunity to test several hypotheses related to our innovation&rsquo;s potential market segments, customer pain points, value propositions, and adoption barriers. With an initial focus on pharmaceutical research scientists within anti-cancer drug development, our team hypothesized that our technology would enable preclinical researchers to more accurately assess therapeutic safety and efficacy, thereby reducing reliance on animal models and increasing the number of effective candidates moving into human clinical trials.</p>\r\n<p>Over the course of this NSF I-Corps project, the team conducted 124 interviews with stakeholders across pharmaceutical research and development (R&amp;D), contract research organizations (CROs), biotech, healthcare, microfluidics, and academia. Interviewees included engineers, principal investigators, clinical researchers, physicians, business directors, start-up founders, venture capitalists, and regulatory specialists, providing a comprehensive overview of preclinical drug development and OoC commercialization.&nbsp;</p>\r\n<p>Early interviews confirmed our initial assumption that limited species-to-species translatability and poor predictive accuracy are primary pain points associated with current preclinical model systems in pharmaceutical drug development. As our customer discovery progressed, however, the team learned that although preclinical researchers in pharmaceutical R&amp;D expressed interest in the potential of OoC technologies, the pharmaceutical industry is generally slow to adopt novel and emerging <em>in vitro</em> systems without strong regulatory recommendation. CROs, by contrast, were more inclined to adopt novel <em>in vitro </em>systems provided they are supported by robust data packages documenting high reproducibility, reliability, and validated performance metrics that enhance speed and confidence in safety and efficacy assessments. CROs also expressed enthusiasm for OoC platforms based on their negative predictive value, enabling the elimination of ineffective drug candidates prior to moving into animal testing. Meanwhile, oncologists and clinical researchers reported strong interest in using OoC technologies to identify therapeutics that would be most effective in both individual patients and larger patient populations.&nbsp;</p>\r\n<p>Throughout our customer discovery, interviewees consistently identified four key adoption drivers for OoC technologies, including reproducibility and reliability, platform usability, standardization, and validation and qualification within a defined context of use. However, most existing OoC systems lack regulatory validation and standardization, which presents a significant barrier to their integration into pharmaceutical drug development. As such, these NSF I-Corps learnings have prompted our team to pivot with respect to our identified customer segment, moving away from preclinical scientists in pharmaceutical R&amp;D and toward clinicians specializing in cancer research and personalized medicine. Moreover, we have reframed our value proposition to focus on effective therapeutic identification for clinically relevant decision-making while maintaining a strong emphasis on reproducibility and reliability. Additionally, based on customer insights, we have refined our business model, exploring potential licensing agreements contract research organization (CRO) rather than pursuing a direct-sales revenue model.&nbsp;</p>\r\n<p>In addition to these outcomes, our team has authored an in-depth perspective article in <em><span style=\"text-decoration: underline;\">Lab-on-a-Chip</span></em> delineating our learnings from the NSF I-Corps program regarding the key hurdles impeding OoC adoption in drug discovery and personalized medicine, as well as potential avenues OoC developers can take to address these adoption barriers. Moreover, this NSF I-Corps award allowed the team to attend notable conferences, including Precision Medicine World Conference and the Microphysiological Systems (MPS) World Summit, allowing us to establish vital connections with thought leaders and professionals within OOC and precision medicine. At the conclusion of the NSF I-Corps program, the team has initiated several industry collaborations and is currently pursuing additional funding, such as through the NSF Translation to Practice (NSF TTP) program. Overall, the NSF I-Corps program has allowed our team to establish a clear customer focus, value proposition, and business model, positioning us to advance our proposed innovation toward technology readiness.</p><br>\n<p>\n Last Modified: 02/12/2026<br>\nModified by: Mehdi&nbsp;Nikkhah</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe NSF I-Corps project titled Translation Potential of an Advanced Microfluidic Platform for High Throughput Cancer Modeling and Drug Screening was aimed at assessing the commercialization potential of the PIs (Nikkhah) advanced Biochip platform technology, designed to overcome the key limitations of polydimethylsiloxane (PDMS)-based microfluidic systems to deliver a more cost-effective, scalable, physiologically relevant system for oncology disease modeling, personalized medicine, and drug development, while also generating deeper insights into the broader organ-on-a-chip (OoC) market ecosystem.\r\n\n\nIn this NSF I-Corps project, the proposed innovation consisted of modular injection-molded microfluidic devices with a biomimetic 3D tumor microenvironment (TME) for faithful reconstruction of in vivo tissues and tumors of interest, along with a custom ANSI/SLAS compliant microplate for ease of handling and interoperability with existing laboratory equipment. Through this project, the team was provided a unique experiential learning opportunity to test several hypotheses related to our innovations potential market segments, customer pain points, value propositions, and adoption barriers. With an initial focus on pharmaceutical research scientists within anti-cancer drug development, our team hypothesized that our technology would enable preclinical researchers to more accurately assess therapeutic safety and efficacy, thereby reducing reliance on animal models and increasing the number of effective candidates moving into human clinical trials.\r\n\n\nOver the course of this NSF I-Corps project, the team conducted 124 interviews with stakeholders across pharmaceutical research and development (R&D), contract research organizations (CROs), biotech, healthcare, microfluidics, and academia. Interviewees included engineers, principal investigators, clinical researchers, physicians, business directors, start-up founders, venture capitalists, and regulatory specialists, providing a comprehensive overview of preclinical drug development and OoC commercialization.\r\n\n\nEarly interviews confirmed our initial assumption that limited species-to-species translatability and poor predictive accuracy are primary pain points associated with current preclinical model systems in pharmaceutical drug development. As our customer discovery progressed, however, the team learned that although preclinical researchers in pharmaceutical R&D expressed interest in the potential of OoC technologies, the pharmaceutical industry is generally slow to adopt novel and emerging in vitro systems without strong regulatory recommendation. CROs, by contrast, were more inclined to adopt novel in vitro systems provided they are supported by robust data packages documenting high reproducibility, reliability, and validated performance metrics that enhance speed and confidence in safety and efficacy assessments. CROs also expressed enthusiasm for OoC platforms based on their negative predictive value, enabling the elimination of ineffective drug candidates prior to moving into animal testing. Meanwhile, oncologists and clinical researchers reported strong interest in using OoC technologies to identify therapeutics that would be most effective in both individual patients and larger patient populations.\r\n\n\nThroughout our customer discovery, interviewees consistently identified four key adoption drivers for OoC technologies, including reproducibility and reliability, platform usability, standardization, and validation and qualification within a defined context of use. However, most existing OoC systems lack regulatory validation and standardization, which presents a significant barrier to their integration into pharmaceutical drug development. As such, these NSF I-Corps learnings have prompted our team to pivot with respect to our identified customer segment, moving away from preclinical scientists in pharmaceutical R&D and toward clinicians specializing in cancer research and personalized medicine. Moreover, we have reframed our value proposition to focus on effective therapeutic identification for clinically relevant decision-making while maintaining a strong emphasis on reproducibility and reliability. Additionally, based on customer insights, we have refined our business model, exploring potential licensing agreements contract research organization (CRO) rather than pursuing a direct-sales revenue model.\r\n\n\nIn addition to these outcomes, our team has authored an in-depth perspective article in Lab-on-a-Chip delineating our learnings from the NSF I-Corps program regarding the key hurdles impeding OoC adoption in drug discovery and personalized medicine, as well as potential avenues OoC developers can take to address these adoption barriers. Moreover, this NSF I-Corps award allowed the team to attend notable conferences, including Precision Medicine World Conference and the Microphysiological Systems (MPS) World Summit, allowing us to establish vital connections with thought leaders and professionals within OOC and precision medicine. At the conclusion of the NSF I-Corps program, the team has initiated several industry collaborations and is currently pursuing additional funding, such as through the NSF Translation to Practice (NSF TTP) program. Overall, the NSF I-Corps program has allowed our team to establish a clear customer focus, value proposition, and business model, positioning us to advance our proposed innovation toward technology readiness.\t\t\t\t\tLast Modified: 02/12/2026\n\n\t\t\t\t\tSubmitted by: MehdiNikkhah\n"
+ }
+}

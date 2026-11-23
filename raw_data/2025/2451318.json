@@ -1,0 +1,101 @@
+{
+ "awd_id": "2451318",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Advanced PEALD Processing Technology using Nanosecond Pulse Power",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-02-13",
+ "awd_max_amd_letter_date": "2026-04-21",
+ "awd_abstract_narration": "The broader impact/commercial impacts of this Small Business Innovation Research (SBIR) phase I project is in advancing semiconductor processing by providing cutting-edge technology to produce super thin coatings for advanced chips manufacturing. This technology uses tiniest controlled bursts of electricity to significantly enhance coating quality, eliminate processing steps, lowering costs, and reducing energy usage. The product will consist of a unique type of power generator, new to semiconductor processing, integrated to an applicator for energizing the gases used in the coating process. The product protected by strong patents and trade secrets will be sold to leading semiconductor process equipment companies for use on their existing systems, with company\u2019s product market opportunity projected to be $200 million in year three of production. Beyond this first thin coating application, the technology can be extended to other advanced semiconductor applications, further growing company\u2019s market opportunity to over $500M.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project addresses the limitations of current plasma enhanced atomic layer deposition to cost-effectively deposit hydrogen free, conformal oxide and nitride films. A new solution to semiconductor plasma processing is proposed using an array of micro-plasma dielectric barrier discharge applicators, powered by nanosecond scale high voltage pulses, capable of breaking down non-hydrogen containing reactants such as nitrogen thus avoiding hydrogen containing reactants such as ammonia, and achieve improved film conformality by eliminating ion bias induced anisotropic deposition.  Research objectives are, firstly, characterize set of 5 applicators over a range of physical electrode configurations, gas types, flow rates and pressure, and electrical pulse parameters, to determine optimum conditions for producing desired radicals and active species, whilst avoiding undesirable plasma breakdown regimes. Fourier transform infrared spectroscopy (FTIR) and spectrometry will be used to measure gas breakdown effectiveness, with photoresist removal by oxygen used to determine surface reaction rates. Secondly, data gathered from an existing nanosecond high voltage pulsed generator will define Phase 2 generator specifications. Thirdly, 75 mm diameter ceramic-metal arrays containing multiple applicators, capable of scale up to 300 mm wafer processing size, will be tested. Data will be basis of seeking PEALD demonstration on customer\u2019s test chambers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Babak",
+   "pi_last_name": "Adibi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Babak Adibi",
+   "pi_email_addr": "babak@stellarengiine.com",
+   "nsf_id": "0000A0XK6",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "STELLAR ENGIINE",
+  "inst_street_address": "439 KNOLL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ALTOS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "4082189492",
+  "inst_zip_code": "940244732",
+  "inst_country_name": "United States",
+  "cong_dist_code": "16",
+  "st_cong_dist_code": "CA16",
+  "org_lgl_bus_name": "STELLAR ENGIINE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MD7ETBCYW8W7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "STELLAR ENGIINE",
+  "perf_str_addr": "439 KNOLL DR",
+  "perf_city_name": "LOS ALTOS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "940244732",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "16",
+  "perf_st_cong_dist": "CA16",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1984",
+   "pgm_ref_txt": "MATERIALS SYNTHESIS & PROCESSN"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Stellar Engiine goal with the Small Business Innovation Research (SBIR) is to apply the capabilities of a novel power generator which uses very short bursts of electricity to generate plasmas for use in the semiconductor industry. Plasma generated by controlled electrical bursts in the semiconductor industry offers better performance over existing technologies, some of which that have been developed over 20 years ago with no modernization. The use of pulsed plasmas can be applied for thin film coating, advanced packaging, surface condtioning, chamber cleaning, and abatement. More specifically, the technology addresses the issues of contamination in thin film coating, uniform cleaning and surface conditioning for advanced packaging, and high costs of ownership for abatement. The product market opportunity for the application of thin film coating alone is projected to be $200 million by year three of production and over $500 million when considering applications in advanced packaging and abatement. To better understand the characteristics of the power generation method and its applications, this project has employed resources and contributions from students at the University of California, Davis, facilities at the University of Arkansas, University of Southern California and several expert consultants throughout the semiconductor industry.</p>\r\n<p>For Deposition and surface conditioning, several designs were tested to achieve a uniform plasma plume over a sample area. The plasma was characterized by exposing it to various substrates to test for uniformity. An optical emission spectroscopy was employed to quantify electron energies and confirm radical formation. These findings provided insight into more effective physical applicator configurations, characteristics of different gas&rsquo;s plasmas, the effect of flow rates and pressure on uniformity, and electrical pulse parameters for producing desired radicals and active species while avoiding undesirable arcing and &nbsp;breakdown. Design iteration also helped determine scalable methods for manufacturing the applicator.</p>\r\n<p>Funding is also used to address the abatement market. Development and testing uncovered that the pulsed plasma with appropriate reactor could break up and convert extremely stable perfluorocarbons into less harmful by-products at a fraction of the power required by incumbent solutions, thereby significantly reducing greenhouse warming potential and toxicity of semiconductor exhaust at a fraction of the cost. These results were determined by the industry-standard method of Fourier transform infrared spectroscopy. The development of the pulsed plasma capability has encouraged positive collaboration with several leaders in the semiconductor industry which is projected to continue for further evolution and optimization of the system.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 05/20/2026<br>\nModified by: Babak&nbsp; &nbsp;Adibi</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nStellar Engiine goal with the Small Business Innovation Research (SBIR) is to apply the capabilities of a novel power generator which uses very short bursts of electricity to generate plasmas for use in the semiconductor industry. Plasma generated by controlled electrical bursts in the semiconductor industry offers better performance over existing technologies, some of which that have been developed over 20 years ago with no modernization. The use of pulsed plasmas can be applied for thin film coating, advanced packaging, surface condtioning, chamber cleaning, and abatement. More specifically, the technology addresses the issues of contamination in thin film coating, uniform cleaning and surface conditioning for advanced packaging, and high costs of ownership for abatement. The product market opportunity for the application of thin film coating alone is projected to be $200 million by year three of production and over $500 million when considering applications in advanced packaging and abatement. To better understand the characteristics of the power generation method and its applications, this project has employed resources and contributions from students at the University of California, Davis, facilities at the University of Arkansas, University of Southern California and several expert consultants throughout the semiconductor industry.\r\n\n\nFor Deposition and surface conditioning, several designs were tested to achieve a uniform plasma plume over a sample area. The plasma was characterized by exposing it to various substrates to test for uniformity. An optical emission spectroscopy was employed to quantify electron energies and confirm radical formation. These findings provided insight into more effective physical applicator configurations, characteristics of different gass plasmas, the effect of flow rates and pressure on uniformity, and electrical pulse parameters for producing desired radicals and active species while avoiding undesirable arcing and breakdown. Design iteration also helped determine scalable methods for manufacturing the applicator.\r\n\n\nFunding is also used to address the abatement market. Development and testing uncovered that the pulsed plasma with appropriate reactor could break up and convert extremely stable perfluorocarbons into less harmful by-products at a fraction of the power required by incumbent solutions, thereby significantly reducing greenhouse warming potential and toxicity of semiconductor exhaust at a fraction of the cost. These results were determined by the industry-standard method of Fourier transform infrared spectroscopy. The development of the pulsed plasma capability has encouraged positive collaboration with several leaders in the semiconductor industry which is projected to continue for further evolution and optimization of the system.\r\n\n\n\t\t\t\t\tLast Modified: 05/20/2026\n\n\t\t\t\t\tSubmitted by: Babak Adibi\n"
+ }
+}

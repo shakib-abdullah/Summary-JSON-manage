@@ -1,0 +1,105 @@
+{
+ "awd_id": "2516789",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RAPID: Trust Recovery and Leadership Preferences During Democratic Crises",
+ "cfda_num": "47.075",
+ "org_code": "04050000",
+ "po_phone": "7032922496",
+ "po_email": "jleighle@nsf.gov",
+ "po_sign_block_name": "Jan Leighley",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 92523.0,
+ "awd_amount": 92523.0,
+ "awd_min_amd_letter_date": "2025-02-26",
+ "awd_max_amd_letter_date": "2025-02-26",
+ "awd_abstract_narration": "This project examines how political uncertainty during democratic crises influences citizens' trust in political institutions and their preferences for leadership. By surveying the same group of respondents at four key moments, the research identifies who regains trust in institutions after an institutional crisis, how quickly this occurs, and how uncertainty shapes leadership preferences. It also investigates how demographic factors, such as gender and prior experience with autocratic regimes, affect these dynamics. The findings will provide insights for restoring public confidence in governance after crises and promoting inclusive leadership. To maximize societal impact, the project emphasizes broad dissemination through peer-reviewed publications, academic presentations, popular media, and publicly accessible anonymized survey data.  This approach ensures the findings are accessible to researchers, policymakers, and stakeholders, guiding future research on democratic resilience and fostering practical solutions for inclusive governance.\r\n\r\nThis project examines how democratic crises influence citizens\u2019 trust in institutions and preferences for political leadership. The study proposes a longitudinal survey, recontacting 1,000 respondents at four critical junctures: the current peak of uncertainty, post-impeachment ruling, during the presidential campaign, and post-election. The survey measures institutional trust, leadership preferences, and respondents\u2019 perceptions of political (un)certainty across these time points. It also embeds a conjoint experiment where respondents choose between leadership types. Together, the surveys and experiments offer insights into trust recovery and demonstrate how uncertainty in the political environment leads citizens to prefer different leadership traits.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "SES",
+ "org_div_long_name": "Division of Social and Economic Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Diana",
+   "pi_last_name": "O'Brien",
+   "pi_mid_init": "Z",
+   "pi_sufx_name": "",
+   "pi_full_name": "Diana Z O'Brien",
+   "pi_email_addr": "dzobrien@wustl.edu",
+   "nsf_id": "000785502",
+   "pi_start_date": "2025-02-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington University",
+  "inst_street_address": "1 BROOKINGS DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAINT LOUIS",
+  "inst_state_code": "MO",
+  "inst_state_name": "Missouri",
+  "inst_phone_num": "3147474134",
+  "inst_zip_code": "631304862",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "MO01",
+  "org_lgl_bus_name": "WASHINGTON UNIVERSITY, THE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "L6NFUM28LQM5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington University",
+  "perf_str_addr": "1 BROOKINGS DR",
+  "perf_city_name": "SAINT LOUIS",
+  "perf_st_code": "MO",
+  "perf_st_name": "Missouri",
+  "perf_zip_code": "631304862",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "MO01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "120Y00",
+   "pgm_ele_name": "AIB-Acctble Institutions&Behav"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 92523.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Democratic backsliding, or the deterioration of democratic institutions, is a growing concern in contemporary politics. South Korea&rsquo;s 2024&ndash;2025 crisis offered a rare opportunity to study how citizens respond when democracy comes under strain and how their views change when institutions recover. After President Yoon Suk Yeol declared martial law, the country moved through impeachment, a presidential election, and a peaceful transfer of power. This sequence allowed us to examine how democratic backsliding and resilience shaped public trust in institutions and beliefs about political leadership. It also provides valuable insight into the politics of South Korea, a key U.S. ally in a strategically important region.</p>\r\n<p><br />With support from the NSF, we conducted the first public opinion survey designed to follow the same citizens through the full arc of a democratic crisis: from acute uncertainty, through institutional intervention and election, to the early period of recovery. The project used an original four-wave panel survey that repeatedly interviewed 1,000 South Korean respondents. The four waves were fielded before the Constitutional Court&rsquo;s impeachment ruling, one week after the ruling, just before the presidential election, and about six weeks after the new government took office. This timing allowed us to examine how major political events---including the impeachment ruling, the presidential campaign, and the transition to a new government---shaped citizens&rsquo; trust in democratic institutions and preferences for political leadership.</p>\r\n<p><br />The findings show that citizens perceived the crisis as beginning to recede fairly quickly. Figure 1 shows that between Wave 1 and Wave 4, respondents became steadily less focused on democratic turmoil and increasingly focused on routine governance concerns such as the economy. Figure 2 shows that trust in major democratic institutions also generally recovered across the survey waves, particularly for the presidency and National Assembly.</p>\r\n<p><br />Within this changing political environment, citizens&rsquo; views about political leadership also shifted. Figure 3 shows one of the four leadership-related measures examined in the project, support for strongman leadership. In the immediate aftermath of martial law, respondents were less supportive of leaders who bend the rules to get things done. As the crisis receded and electoral competition intensified, however, support for this leadership style increased. The project&rsquo;s other measures of political leadership attitudes showed similar trends over time. These findings suggest that democratic recovery can restore institutional stability while also changing what kinds of political leadership citizens find appealing.</p>\r\n<p><br />The project also found that trust recovery was uneven across citizens. Younger respondents and citizens who began the crisis with lower levels of institutional trust showed faster recovery, while citizens who initially placed the greatest trust in institutions often experienced deeper disappointment and slower recovery as resilience took hold.&nbsp;</p>\r\n<p><br />Together, the findings provide insight into questions of growing importance in democracies around the world, including how citizens respond to democratic crisis, how trust in institutions recovers, and how political attitudes change during periods of democratic uncertainty. The award also produced new evidence on a major democratic crisis, trained an early-career researcher, generated a dataset that will be made publicly available, and supported scholarship accessible beyond academia. Findings have been presented at conferences and workshops, and the first manuscript from the project has been submitted for publication.&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 05/19/2026<br>\nModified by: Diana&nbsp;Z&nbsp;O'Brien</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779222772658_anova_priority--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779222772658_anova_priority--rgov-800width.png\" title=\"Fig 1. As Democracy Recovers, Citizens Shift Attention from Crisis to the Economy\"><img src=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779222772658_anova_priority--rgov-66x44.png\" alt=\"Fig 1. As Democracy Recovers, Citizens Shift Attention from Crisis to the Economy\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Average priority respondents assigned to handling democratic turmoil and improving the economy across four survey waves. Higher values indicate greater priority. Error bars show 95% confidence intervals.</div>\n<div class=\"imageCredit\">Alexis Y. Jang and Diana Z. O'Brien</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Diana&nbsp;Z&nbsp;O'Brien\n<div class=\"imageTitle\">Fig 1. As Democracy Recovers, Citizens Shift Attention from Crisis to the Economy</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779222881129_general_trust--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779222881129_general_trust--rgov-800width.png\" title=\"Fig 2. As Democracy Recovers, Trust in Key Institutions Increases\"><img src=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779222881129_general_trust--rgov-66x44.png\" alt=\"Fig 2. As Democracy Recovers, Trust in Key Institutions Increases\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Average trust in the courts, military, National Assembly, presidency, and public services across four survey waves. Trust is measured from 0 to 1, with higher values indicating greater trust. Error bars show 95% confidence intervals.</div>\n<div class=\"imageCredit\">Alexis Y. Jang and Diana Z. O'Brien</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Diana&nbsp;Z&nbsp;O'Brien\n<div class=\"imageTitle\">Fig 2. As Democracy Recovers, Trust in Key Institutions Increases</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779223157014_anova_strong--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779223157014_anova_strong--rgov-800width.png\" title=\"Fig 3. As Democracy Recovers, Support for Strongman Leadership Increases\"><img src=\"/por/images/Reports/POR/2026/2516789/2516789_10971609_1779223157014_anova_strong--rgov-66x44.png\" alt=\"Fig 3. As Democracy Recovers, Support for Strongman Leadership Increases\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Average support for strongman leadership across four survey waves. The measure ranges from 1 to 5, with higher values indicating greater support. Error bars show 95% confidence intervals.</div>\n<div class=\"imageCredit\">Alexis Y. Jang and Diana Z. O'Brien</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Diana&nbsp;Z&nbsp;O'Brien\n<div class=\"imageTitle\">Fig 3. As Democracy Recovers, Support for Strongman Leadership Increases</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nDemocratic backsliding, or the deterioration of democratic institutions, is a growing concern in contemporary politics. South Koreas 20242025 crisis offered a rare opportunity to study how citizens respond when democracy comes under strain and how their views change when institutions recover. After President Yoon Suk Yeol declared martial law, the country moved through impeachment, a presidential election, and a peaceful transfer of power. This sequence allowed us to examine how democratic backsliding and resilience shaped public trust in institutions and beliefs about political leadership. It also provides valuable insight into the politics of South Korea, a key U.S. ally in a strategically important region.\r\n\n\n\nWith support from the NSF, we conducted the first public opinion survey designed to follow the same citizens through the full arc of a democratic crisis: from acute uncertainty, through institutional intervention and election, to the early period of recovery. The project used an original four-wave panel survey that repeatedly interviewed 1,000 South Korean respondents. The four waves were fielded before the Constitutional Courts impeachment ruling, one week after the ruling, just before the presidential election, and about six weeks after the new government took office. This timing allowed us to examine how major political events---including the impeachment ruling, the presidential campaign, and the transition to a new government---shaped citizens trust in democratic institutions and preferences for political leadership.\r\n\n\n\nThe findings show that citizens perceived the crisis as beginning to recede fairly quickly. Figure 1 shows that between Wave 1 and Wave 4, respondents became steadily less focused on democratic turmoil and increasingly focused on routine governance concerns such as the economy. Figure 2 shows that trust in major democratic institutions also generally recovered across the survey waves, particularly for the presidency and National Assembly.\r\n\n\n\nWithin this changing political environment, citizens views about political leadership also shifted. Figure 3 shows one of the four leadership-related measures examined in the project, support for strongman leadership. In the immediate aftermath of martial law, respondents were less supportive of leaders who bend the rules to get things done. As the crisis receded and electoral competition intensified, however, support for this leadership style increased. The projects other measures of political leadership attitudes showed similar trends over time. These findings suggest that democratic recovery can restore institutional stability while also changing what kinds of political leadership citizens find appealing.\r\n\n\n\nThe project also found that trust recovery was uneven across citizens. Younger respondents and citizens who began the crisis with lower levels of institutional trust showed faster recovery, while citizens who initially placed the greatest trust in institutions often experienced deeper disappointment and slower recovery as resilience took hold.\r\n\n\n\nTogether, the findings provide insight into questions of growing importance in democracies around the world, including how citizens respond to democratic crisis, how trust in institutions recovers, and how political attitudes change during periods of democratic uncertainty. The award also produced new evidence on a major democratic crisis, trained an early-career researcher, generated a dataset that will be made publicly available, and supported scholarship accessible beyond academia. Findings have been presented at conferences and workshops, and the first manuscript from the project has been submitted for publication.\r\n\n\n\t\t\t\t\tLast Modified: 05/19/2026\n\n\t\t\t\t\tSubmitted by: DianaZO'Brien\n"
+ }
+}

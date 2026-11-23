@@ -1,0 +1,113 @@
+{
+ "awd_id": "2500225",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Higher Rank Geometric Structures",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032927972",
+ "po_email": "plimafil@nsf.gov",
+ "po_sign_block_name": "Paulo Lima Filho",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 20000.0,
+ "awd_amount": 20000.0,
+ "awd_min_amd_letter_date": "2025-02-12",
+ "awd_max_amd_letter_date": "2025-02-12",
+ "awd_abstract_narration": "This award provides support for US-based mathematicians and graduate students to participate in a school and two workshops associated to a trimester program on \u201cHigher Rank Geometric Structures\u201d organized by the Institute Henri Poincar\u00e9 (IHP), Paris, from April to July 2025. The school will be held the at the CIRM-Centre International de Rencontres Math\u00e9matiques near Marseille, France, while the two workshops will take place at the IHP. This school will offer an opportunity for US based graduate students and post-doctoral fellows to learn a variety of topics on higher rank geometric structures from international experts. The two workshops will bring together researchers throughout the world and give the US based attendees a venue to exchange ideas and make connections with their European and international colleagues. The primary focus of the award is to support travel for early career US-based mathematicians.\r\n\r\nThe study of discrete subgroups of Lie groups has a long history with connections to many different areas of mathematics including geometry, dynamics and number theory. Some of the earliest advances in the field (of Mostow, Margulis, Ratner) were about characterizing rigidity. For example, showing that a group is isomorphic to a unique lattice in a Lie group. On the other hand, Teichm\u00fcller theory and Thurston\u2019s theory of hyperbolic 3-manifolds involved studying the deformation theory of hyperbolic 2 and 3-manifolds. While Thurston developed this theory in the 70\u2019s (depending heavily on the earlier work of the Ahlfors-Bers school) this deformation theory of flexible groups was largely undeveloped outside of these two examples. This changed two decades ago when Labourie introduced the notion of an Anosov subgroup and Fock- Goncharov gave coordinates for studying certain discrete representations of surface groups in semi-simple Lie groups. Since then, the subject has grown immensely and attracted a multitude of researchers. This award will give the opportunity to early career mathematicians from the US to learn from and interact with experts from all over the world who are leading the field. \r\n\r\nFurther information about the school and workshops can be found at the website: https://indico.math.cnrs.fr/event/11551/\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Kenneth",
+   "pi_last_name": "Bromberg",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kenneth W Bromberg",
+   "pi_email_addr": "bromberg@math.utah.edu",
+   "nsf_id": "000190557",
+   "pi_start_date": "2025-02-12",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Richard",
+   "pi_last_name": "Canary",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Richard D Canary",
+   "pi_email_addr": "canary@umich.edu",
+   "nsf_id": "000336841",
+   "pi_start_date": "2025-02-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Utah",
+  "inst_street_address": "201 PRESIDENTS CIR",
+  "inst_street_address_2": "",
+  "inst_city_name": "SALT LAKE CITY",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8015816903",
+  "inst_zip_code": "841129049",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UNIVERSITY OF UTAH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LL8GLEVH6MG3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Utah",
+  "perf_str_addr": "201 PRESIDENTS CIR",
+  "perf_city_name": "SALT LAKE CITY",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "841129049",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126500",
+   "pgm_ele_name": "GEOMETRIC ANALYSIS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 20000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This grant supported the participation of US based mathematicians in the Institut Henri Poincare (IHP) trimester on <em>Higher Rank Geometric Structures. </em>As part of the trimester there was an introductory school (April 14-18, 2025) held at the Centre International de Recontres Mathematiques in Luminy, France and scientific workshops on <em>Higher rank geometric structures, Higgs bundles and physics</em> (May 19-27, 2025) and one on <em>Low dimensional phenomena: geometry and dynamics</em> (June 23-27, 2025). This award support the travel and local costs of US based early-career mathematicians in the program.</p>\r\n<p>The study of discrete subgroups of Lie groups has a long history with connections to many different areas of mathematics including geometry, dynamics and number theory. The most basic example of Lie groups are families of matrices. If we restrict the entries of the matrices to integers than we get an example of a discrete subgroup. However, these are only simple examples of much more general phenomena. More generally Lie groups arise in geometric settings such as the group of isometries of spaces such as hyperbolic space and discrete subgroups correspond to hyperbolic manifolds. Some of the earliest advances (of Mostow, Margulis, Ratner) where characterizing rigidity: for example, showing that a group is isomorphic to a unique lattice in a Lie group. On the other hand, Teichm&uuml;ller theory and Thurston&rsquo;s theory of hyperbolic 3-manifolds involved studying the deformation theory of hyperbolic 2 and 3-manifolds. While Thurston developed this theory in the 70&rsquo;s (depending heavily on the earlier work of the Ahlfors-Bers school) this deformation theory of flexible groups was largely undeveloped outside of these two examples. This changed two decades ago when Labourie introduced the notion of an Anosov subgroup and Fock-Goncharov gave coordinates for studying certain discrete representations of surface groups in semi-simple Lie groups. Since that time the subject has grown immensely and attracted researchers throughout the world and the trimester was focused on recent developments.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/30/2026<br>\nModified by: Kenneth&nbsp;W&nbsp;Bromberg</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis grant supported the participation of US based mathematicians in the Institut Henri Poincare (IHP) trimester on Higher Rank Geometric Structures. As part of the trimester there was an introductory school (April 14-18, 2025) held at the Centre International de Recontres Mathematiques in Luminy, France and scientific workshops on Higher rank geometric structures, Higgs bundles and physics (May 19-27, 2025) and one on Low dimensional phenomena: geometry and dynamics (June 23-27, 2025). This award support the travel and local costs of US based early-career mathematicians in the program.\r\n\n\nThe study of discrete subgroups of Lie groups has a long history with connections to many different areas of mathematics including geometry, dynamics and number theory. The most basic example of Lie groups are families of matrices. If we restrict the entries of the matrices to integers than we get an example of a discrete subgroup. However, these are only simple examples of much more general phenomena. More generally Lie groups arise in geometric settings such as the group of isometries of spaces such as hyperbolic space and discrete subgroups correspond to hyperbolic manifolds. Some of the earliest advances (of Mostow, Margulis, Ratner) where characterizing rigidity: for example, showing that a group is isomorphic to a unique lattice in a Lie group. On the other hand, Teichmller theory and Thurstons theory of hyperbolic 3-manifolds involved studying the deformation theory of hyperbolic 2 and 3-manifolds. While Thurston developed this theory in the 70s (depending heavily on the earlier work of the Ahlfors-Bers school) this deformation theory of flexible groups was largely undeveloped outside of these two examples. This changed two decades ago when Labourie introduced the notion of an Anosov subgroup and Fock-Goncharov gave coordinates for studying certain discrete representations of surface groups in semi-simple Lie groups. Since that time the subject has grown immensely and attracted researchers throughout the world and the trimester was focused on recent developments.\r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 06/30/2026\n\n\t\t\t\t\tSubmitted by: KennethWBromberg\n"
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "awd_id": "2430460",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: CBMS Conference: Research at the Interface of Applied Mathematics and Machine Learning",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032922467",
+ "po_email": "mdouglas@nsf.gov",
+ "po_sign_block_name": "James Matthew Douglass",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 42244.0,
+ "awd_amount": 42244.0,
+ "awd_min_amd_letter_date": "2024-12-09",
+ "awd_max_amd_letter_date": "2024-12-09",
+ "awd_abstract_narration": "This award supports the NSF-CBMS (Conference Board of Mathematical Sciences) Regional Research Conference in the Mathematical Sciences \"Research at the Interface of Applied Mathematics and Machine Learning\" to be held December 8-12, 2025, at the University of Houston in Houston, TX. The conference will expose early career researchers to cutting-edge research at the interface of applied mathematics and machine learning. It will also help identify new research directions and will foster the building of new collaborations between research groups in the Texas-Louisiana area and other regions. The conference will include graduate students, postdoctoral fellows, and established researchers from academia and industry, and provide a platform for early career researchers to learn and discuss recent advances in mathematical methods for machine learning and data science.\r\n\r\nIn more detail, the conference will feature ten lectures delivered by Dr. Lars Ruthotto from Emory University. The lectures will be divided into three modules. Module 1 consists of three introduction lectures on machine learning (e.g. deep neural networks, learning problems). The second module, also of three lectures, will introduce important components of applied mathematics in machine learning (e.g. optimization, regularization). The last module will focus on the use of machine learning in critical problems in computational and applied mathematics (e.g. inverse problems, high dimensional partial differential equations). These lectures will be supplemented by a dozen contributed talks from participants, a poster session, a mentoring academic panel and a second panel that will feature researchers from industry (e.g. oil and gas, medical center). For more information, please visit the conference webpage: http://www.math.uh.edu/cbms-amml.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yunhui",
+   "pi_last_name": "He",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yunhui He",
+   "pi_email_addr": "yhe43@uh.edu",
+   "nsf_id": "000950886",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Andreas",
+   "pi_last_name": "Mang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andreas Mang",
+   "pi_email_addr": "andreas.mang@tufts.edu",
+   "nsf_id": "000757385",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "LOIC",
+   "pi_last_name": "CAPPANERA",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "LOIC CAPPANERA",
+   "pi_email_addr": "lmcappanera@uh.edu",
+   "nsf_id": "000812677",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Min",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Min Wang",
+   "pi_email_addr": "mwang55@cougarnet.uh.edu",
+   "nsf_id": "000839915",
+   "pi_start_date": "2024-12-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Houston",
+  "inst_street_address": "4300 MARTIN LUTHER KING BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "HOUSTON",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "7137435773",
+  "inst_zip_code": "77204",
+  "inst_country_name": "United States",
+  "cong_dist_code": "18",
+  "st_cong_dist_code": "TX18",
+  "org_lgl_bus_name": "UNIVERSITY OF HOUSTON SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "QKWEF8XLMTT3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Houston",
+  "perf_str_addr": "4300 MARTIN LUTHER KING BLVD",
+  "perf_city_name": "HOUSTON",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "772043067",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "18",
+  "perf_st_cong_dist": "TX18",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126000",
+   "pgm_ele_name": "INFRASTRUCTURE PROGRAM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 42244.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This award supported the NSF-CBMS Regional Research Conference in the Mathematical Sciences ``Research at the Interface of Applied Mathematics and Machine Learning'' which was held December 8-12, 2025, at the University of Houston in Houston, Texas, USA. The conference exposed early career researchers to cutting-edge research at the interface of applied mathematics and machine learning. Beyond this exposition, the conference also sought to help participants identify promising research directions, establish new collaborative connections, and link junior researchers with more experienced members of the community.<br /><br />The conference featured a ten-lecture course taught by Dr. Lars Ruthotto from Emory University, a leading expert in computational mathematics and machine learning. The lectures were given each morning during the week of December 8&ndash;12, 2025. The lectures were organized into three thematic modules: (1) Fundamentals of Machine Learning: This module introduced foundational concepts, including machine learning frameworks, neural network architectures, and core optimization approaches. (2) Computational Mathematics for AI: The second module focused on mathematical tools important in machine learning, covering topics such as stochastic gradient descent theory, adaptive optimization methods, and how partial differential equation (PDE) perspectives inform generative modeling. (3) AI in Computational Mathematics: The final module explored how machine learning techniques address challenging problems in applied mathematics. Subjects included scientific machine learning for PDEs, high-dimensional problems, inverse problems, and the use of AI in mathematical discovery and theorem proving.</p>\r\n<p><br />Overall, the course highlighted the bidirectional interplay between computational mathematics and artificial intelligence, showing how mathematical foundations support AI development and how AI methods can advance computational mathematics research.</p>\r\n<p><br />The conference also hosted twelve leading authorities in research areas related to the conference, presenting their most recent results in 45 minute talks. In addition, the conference featured a poster session, with more than forty-five posters---mostly from junior researchers---and included two panels. One panel consisted of six panelists from healthcare, energy, and research organizations who discussed how AI, data science, and mathematical modeling are applied in industry, career pathways for PhD graduates, and collaboration opportunities between academia and industry. The other panel hosted six panelists from academia where faculty shared perspectives and advice on academia vs. industry (including funding, service/teaching, job market, and AI), and answered audience questions.&nbsp; &nbsp;</p>\r\n<p>&nbsp;<br />For more information on this conference (e.g. description lectures, list of participants, abstracts of contributed talks and posters), please visit the conference webpage: http://www.math.uh.edu/cbms-amml. The GitHub repository for the course is https://github.com/lruthotto/CompMathAndAICourse. It includes slides and links to lecture recordings.<br /><br />This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</p><br>\n<p>\n Last Modified: 02/09/2026<br>\nModified by: Yunhui&nbsp;He</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis award supported the NSF-CBMS Regional Research Conference in the Mathematical Sciences ``Research at the Interface of Applied Mathematics and Machine Learning'' which was held December 8-12, 2025, at the University of Houston in Houston, Texas, USA. The conference exposed early career researchers to cutting-edge research at the interface of applied mathematics and machine learning. Beyond this exposition, the conference also sought to help participants identify promising research directions, establish new collaborative connections, and link junior researchers with more experienced members of the community.\n\nThe conference featured a ten-lecture course taught by Dr. Lars Ruthotto from Emory University, a leading expert in computational mathematics and machine learning. The lectures were given each morning during the week of December 812, 2025. The lectures were organized into three thematic modules: (1) Fundamentals of Machine Learning: This module introduced foundational concepts, including machine learning frameworks, neural network architectures, and core optimization approaches. (2) Computational Mathematics for AI: The second module focused on mathematical tools important in machine learning, covering topics such as stochastic gradient descent theory, adaptive optimization methods, and how partial differential equation (PDE) perspectives inform generative modeling. (3) AI in Computational Mathematics: The final module explored how machine learning techniques address challenging problems in applied mathematics. Subjects included scientific machine learning for PDEs, high-dimensional problems, inverse problems, and the use of AI in mathematical discovery and theorem proving.\r\n\n\n\nOverall, the course highlighted the bidirectional interplay between computational mathematics and artificial intelligence, showing how mathematical foundations support AI development and how AI methods can advance computational mathematics research.\r\n\n\n\nThe conference also hosted twelve leading authorities in research areas related to the conference, presenting their most recent results in 45 minute talks. In addition, the conference featured a poster session, with more than forty-five posters---mostly from junior researchers---and included two panels. One panel consisted of six panelists from healthcare, energy, and research organizations who discussed how AI, data science, and mathematical modeling are applied in industry, career pathways for PhD graduates, and collaboration opportunities between academia and industry. The other panel hosted six panelists from academia where faculty shared perspectives and advice on academia vs. industry (including funding, service/teaching, job market, and AI), and answered audience questions. \r\n\n\n\nFor more information on this conference (e.g. description lectures, list of participants, abstracts of contributed talks and posters), please visit the conference webpage: http://www.math.uh.edu/cbms-amml. The GitHub repository for the course is https://github.com/lruthotto/CompMathAndAICourse. It includes slides and links to lecture recordings.\n\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.\t\t\t\t\tLast Modified: 02/09/2026\n\n\t\t\t\t\tSubmitted by: YunhuiHe\n"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "awd_id": "2515390",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Tropical Cyclone Operation and Research Forum (TCORF); Lakeland, Florida; March 3-7, 2025",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032924715",
+ "po_email": "nanderso@nsf.gov",
+ "po_sign_block_name": "Nicholas Anderson",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 10000.0,
+ "awd_amount": 10000.0,
+ "awd_min_amd_letter_date": "2025-05-14",
+ "awd_max_amd_letter_date": "2025-05-14",
+ "awd_abstract_narration": "The 2025 Tropical Cyclone Operations and Research Forum (TCORF), the 78th Interdepartmental Hurricane Conference (IHC) will be held on March 3-7, 2025, at the NOAA Aircraft Operations Center, Lakeland, Florida. Topics will include research addressing operational imperatives, challenges in observing and forecasting during the 2024 hurricane season, Hurricane and Ocean Testbed and Joint Technology Transfer Initiative activities, along with other research projects. A meeting of the Working Group for Tropical Cyclone Operations and Research, which supports the annual update of the National Hurricane Operations Plan, will be a part of the forum.\r\n\r\nAt the TCORF/78th IHC, representatives from Federal agencies and the academic research community will have the opportunity to discuss the latest research into tropical cyclone observing, forecasting, and warning such as:\r\n1. 2024 hurricane/typhoon season challenges and the opportunities for research that they offer.\r\n2. Research priorities of the operational centers.\r\n3. Observations and observing strategies.\r\n4. Tropical cyclone model development.\r\n5. Transitioning research to operations.\r\n6. Advances in tropical cyclone forecast and warning products and services.\r\n\r\nThe workshop is important to the United States because it brings the academic research community and hurricane forecast operation community together with federal agencies, to prepare for the upcoming hurricane season and make improvements to the US hurricane forecasting and warning program.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hanne",
+   "pi_last_name": "Mauriello",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hanne Mauriello",
+   "pi_email_addr": "hanne@ucar.edu",
+   "nsf_id": "000192562",
+   "pi_start_date": "2025-05-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University Corporation For Atmospheric Res",
+  "inst_street_address": "3090 CENTER GREEN DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOULDER",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "3034971000",
+  "inst_zip_code": "803012252",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "UNIVERSITY CORPORATION FOR ATMOSPHERIC RESEARCH",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "YEZEE8W5JKA3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University Corporation For Atmospheric Res",
+  "perf_str_addr": "3090 CENTER GREEN DR",
+  "perf_city_name": "BOULDER",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803012252",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "152500",
+   "pgm_ele_name": "Physical & Dynamic Meteorology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 10000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-20e05188-7fff-6be0-e6db-91cb02e0e0b0\"> </span></p>\r\n<h1 dir=\"ltr\"><span>Accomplishments</span></h1>\r\n<h2 dir=\"ltr\"><span>What are the major goals of the project?</span></h2>\r\n<p dir=\"ltr\"><span>The goal of this effort was to provide comprehensive planning and logistical support for the annual Working Group for Tropical Cyclone Operations and Research (TCORF) meeting. This meeting convenes the federal hurricane community including operational forecast centers, modeling groups, and observing system experts to evaluate prior season performance, coordinate operational planning for the upcoming season, and align research priorities with operational needs. There were 153 attendees at this meeting.&nbsp;</span></p>\r\n<h2 dir=\"ltr\"><span>What was accomplished under these goals?</span></h2>\r\n<p dir=\"ltr\"><span>CPAESS successfully supported all planning and execution aspects of the TCORF meeting. A major accomplishment was the rapid transition of the meeting from a planned in-person/hybrid format to a fully virtual format within 48 hours of the event start.&nbsp;</span></p>\r\n<h3 dir=\"ltr\"><span>Key accomplishments include:</span></h3>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Coordinated venue logistics and subsequently managed cancellation of on-site arrangements.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Designed and managed a Cvent registration system; transitioned all registrants from in-person to virtual participation and processed refunds as needed.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Coordinated catering planning and executed full cancellation following the shift to virtual delivery.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Managed AV vendor coordination and facilitated a seamless transition to virtual meeting delivery.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Supported real-time virtual meeting operations, including troubleshooting audio/visual issues and coordinating with presenters and organizers.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Maintained consistent communication across stakeholders, including federal partners, the steering committee, and vendors.</span></p>\r\n</li>\r\n</ul>\r\n<h2 dir=\"ltr\"><span>What opportunities for training and professional development has the project provided?</span></h2>\r\n<p dir=\"ltr\"><span>The rapid transition to a virtual format provided staff with hands-on experience in virtual meeting platforms, real-time troubleshooting, and adaptive event management under tight timelines. Team members strengthened skills in cross-team coordination, crisis response, and virtual facilitation.</span></p>\r\n<h2 dir=\"ltr\"><span>How have the results been disseminated to communities of interest?</span></h2>\r\n<p dir=\"ltr\"><span>The TCORF meeting itself serves as the primary dissemination mechanism, bringing together interagency partners to exchange information, share research findings, and coordinate operational strategies for the hurricane season.</span></p>\r\n<h2 dir=\"ltr\"><span>What do you plan to do during the next reporting period to accomplish the goals?</span></h2>\r\n<p dir=\"ltr\"><span>Future efforts will focus on refining hybrid and virtual meeting capabilities, improving contingency planning for format transitions, and enhancing coordination processes to further streamline meeting execution.</span></p>\r\n<h1 dir=\"ltr\"><span>Products</span></h1>\r\n<h2 dir=\"ltr\"><span>What products were developed under the award?</span></h2>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>TCORF meeting registration system and attendee database (Cvent platform)</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Internal planning documents, coordination materials, and logistical frameworks</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Virtual meeting delivery infrastructure and support processes</span></p>\r\n</li>\r\n</ul>\r\n<h1 dir=\"ltr\"><span>Participants &amp; Other Collaborating Organizations</span></h1>\r\n<h2 dir=\"ltr\"><span>Who has been involved?</span></h2>\r\n<h3 dir=\"ltr\"><span>CPAESS Personnel:</span></h3>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Maggie Payeur, Event Team Lead (Meeting Planner)</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>&nbsp;57 Hours Charged to Project, Nearest Person Month Worked: .36</span></p>\r\n</li>\r\n</ul>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Tania Sizer, Website Support</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Nearest Person Month Worked: 0</span></p>\r\n</li>\r\n</ul>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Tracey Baldwin, Assistant Director</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>30 Hours Charged to Project, Nearest Person Month Worked: .19</span></p>\r\n</li>\r\n</ul>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Hanne Mauriello, Director</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Nearest Person Month Worked: 0</span></p>\r\n</li>\r\n</ul>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Donna Cummings, Budget and Planning</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Nearest Person Month Worked: 0</span></p>\r\n</li>\r\n</ul>\r\n</li>\r\n</ul>\r\n<h3 dir=\"ltr\"><span>Collaborating Organizations:</span></h3>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Federal agencies participating in TCORF (operational forecast centers, research programs, and observing system groups)</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>AV vendors and meeting platform providers</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Venue and catering vendors (planning phase)</span></p>\r\n</li>\r\n</ul>\r\n<h1 dir=\"ltr\"><span>Impacts</span></h1>\r\n<h2 dir=\"ltr\"><span>What is the impact on the development of the principal discipline(s) of the project?</span></h2>\r\n<p dir=\"ltr\"><span>By enabling the successful execution of the TCORF meeting, this effort directly supported coordination across the federal hurricane research and operations enterprise. The meeting facilitates alignment between research and operational forecasting, improving preparedness and response capabilities for tropical cyclone events.</span></p>\r\n<p>&nbsp;</p>\r\n<h2 dir=\"ltr\"><span>What is the impact on other disciplines?</span></h2>\r\n<p dir=\"ltr\"><span>The meeting fosters interdisciplinary collaboration across atmospheric science, oceanography, remote sensing, and emergency management.</span></p>\r\n<h2 dir=\"ltr\"><span>What is the impact on infrastructure for research and education?</span></h2>\r\n<p dir=\"ltr\"><span>The rapid transition to a fully virtual format demonstrated and strengthened infrastructure for remote collaboration, ensuring continuity of critical interagency coordination.</span></p>\r\n<h1 dir=\"ltr\"><span>Changes/Problems</span></h1>\r\n<p dir=\"ltr\"><span>A significant change occurred when the meeting format shifted from in-person/hybrid to fully virtual less than 48 hours before the event. This required rapid coordination across all logistical areas, including registration, vendor management, and technical delivery. Despite this challenge, the transition was successfully implemented with minimal disruption.</span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 08/28/2026<br>\nModified by: Hanne&nbsp;Mauriello</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n \r\nAccomplishments\r\nWhat are the major goals of the project?\r\n\n\nThe goal of this effort was to provide comprehensive planning and logistical support for the annual Working Group for Tropical Cyclone Operations and Research (TCORF) meeting. This meeting convenes the federal hurricane community including operational forecast centers, modeling groups, and observing system experts to evaluate prior season performance, coordinate operational planning for the upcoming season, and align research priorities with operational needs. There were 153 attendees at this meeting.\r\nWhat was accomplished under these goals?\r\n\n\nCPAESS successfully supported all planning and execution aspects of the TCORF meeting. A major accomplishment was the rapid transition of the meeting from a planned in-person/hybrid format to a fully virtual format within 48 hours of the event start.\r\nKey accomplishments include:\r\n\r\n\r\n\n\nCoordinated venue logistics and subsequently managed cancellation of on-site arrangements.\r\n\r\n\r\n\n\nDesigned and managed a Cvent registration system; transitioned all registrants from in-person to virtual participation and processed refunds as needed.\r\n\r\n\r\n\n\nCoordinated catering planning and executed full cancellation following the shift to virtual delivery.\r\n\r\n\r\n\n\nManaged AV vendor coordination and facilitated a seamless transition to virtual meeting delivery.\r\n\r\n\r\n\n\nSupported real-time virtual meeting operations, including troubleshooting audio/visual issues and coordinating with presenters and organizers.\r\n\r\n\r\n\n\nMaintained consistent communication across stakeholders, including federal partners, the steering committee, and vendors.\r\n\r\n\r\nWhat opportunities for training and professional development has the project provided?\r\n\n\nThe rapid transition to a virtual format provided staff with hands-on experience in virtual meeting platforms, real-time troubleshooting, and adaptive event management under tight timelines. Team members strengthened skills in cross-team coordination, crisis response, and virtual facilitation.\r\nHow have the results been disseminated to communities of interest?\r\n\n\nThe TCORF meeting itself serves as the primary dissemination mechanism, bringing together interagency partners to exchange information, share research findings, and coordinate operational strategies for the hurricane season.\r\nWhat do you plan to do during the next reporting period to accomplish the goals?\r\n\n\nFuture efforts will focus on refining hybrid and virtual meeting capabilities, improving contingency planning for format transitions, and enhancing coordination processes to further streamline meeting execution.\r\nProducts\r\nWhat products were developed under the award?\r\n\r\n\r\n\n\nTCORF meeting registration system and attendee database (Cvent platform)\r\n\r\n\r\n\n\nInternal planning documents, coordination materials, and logistical frameworks\r\n\r\n\r\n\n\nVirtual meeting delivery infrastructure and support processes\r\n\r\n\r\nParticipants & Other Collaborating Organizations\r\nWho has been involved?\r\nCPAESS Personnel:\r\n\r\n\r\n\n\nMaggie Payeur, Event Team Lead (Meeting Planner)\r\n\r\n\r\n\n\n57 Hours Charged to Project, Nearest Person Month Worked: .36\r\n\r\n\r\n\r\n\r\n\n\nTania Sizer, Website Support\r\n\r\n\r\n\n\nNearest Person Month Worked: 0\r\n\r\n\r\n\r\n\r\n\n\nTracey Baldwin, Assistant Director\r\n\r\n\r\n\n\n30 Hours Charged to Project, Nearest Person Month Worked: .19\r\n\r\n\r\n\r\n\r\n\n\nHanne Mauriello, Director\r\n\r\n\r\n\n\nNearest Person Month Worked: 0\r\n\r\n\r\n\r\n\r\n\n\nDonna Cummings, Budget and Planning\r\n\r\n\r\n\n\nNearest Person Month Worked: 0\r\n\r\n\r\n\r\n\r\nCollaborating Organizations:\r\n\r\n\r\n\n\nFederal agencies participating in TCORF (operational forecast centers, research programs, and observing system groups)\r\n\r\n\r\n\n\nAV vendors and meeting platform providers\r\n\r\n\r\n\n\nVenue and catering vendors (planning phase)\r\n\r\n\r\nImpacts\r\nWhat is the impact on the development of the principal discipline(s) of the project?\r\n\n\nBy enabling the successful execution of the TCORF meeting, this effort directly supported coordination across the federal hurricane research and operations enterprise. The meeting facilitates alignment between research and operational forecasting, improving preparedness and response capabilities for tropical cyclone events.\r\n\n\n\r\nWhat is the impact on other disciplines?\r\n\n\nThe meeting fosters interdisciplinary collaboration across atmospheric science, oceanography, remote sensing, and emergency management.\r\nWhat is the impact on infrastructure for research and education?\r\n\n\nThe rapid transition to a fully virtual format demonstrated and strengthened infrastructure for remote collaboration, ensuring continuity of critical interagency coordination.\r\nChanges/Problems\r\n\n\nA significant change occurred when the meeting format shifted from in-person/hybrid to fully virtual less than 48 hours before the event. This required rapid coordination across all logistical areas, including registration, vendor management, and technical delivery. Despite this challenge, the transition was successfully implemented with minimal disruption.\r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 08/28/2026\n\n\t\t\t\t\tSubmitted by: HanneMauriello\n"
+ }
+}

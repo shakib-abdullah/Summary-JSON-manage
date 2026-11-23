@@ -1,0 +1,105 @@
+{
+ "awd_id": "2450954",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Microbially-Driven Underground Barrier to Reduce Flooding in Coastal Communities",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922174",
+ "po_email": "rmehta@nsf.gov",
+ "po_sign_block_name": "Rajesh Mehta",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 304988.0,
+ "awd_amount": 304988.0,
+ "awd_min_amd_letter_date": "2025-02-13",
+ "awd_max_amd_letter_date": "2025-02-13",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project is to develop a microbially-driven method to reduce flooding in coastal communities built on highly permeable coral limestone soil formations, such as those found in South Florida. With sea levels projected to rise 10-12 inches by 2050 along the U.S. coasts, barriers to prevent flooding are needed. Currently proposed methods rely on building extensive infrastructure both above and below land or moving residents to higher elevations, all of which are intrusive to the day-to-day lives of Americans. This project aims to prevent flooding in communities built on limestone soil by modifying the permeability of limestone using naturally occurring bacteria. Reducing the permeability of limestone will prevent underground water from rising into communities. The approach is less invasive than existing technologies, does not require excessive excavation, and may allow citizens to remain in their homes despite the sea level rise. It addresses NSF\u2019s mission to ensure the prosperity of the average American citizen. It also involves stakeholders across multiple industries, including industrial microbiology, geochemistry, and construction, and can be applied to large areas of the US, thus potentially creating jobs and tax revenues from many sources. \r\n\r\n\r\nMicrobially-induced carbonate precipitation (MICP), a process that uses naturally occurring bacteria to create calcium carbonate crystals on surfaces, will be employed to reduce the permeability of limestone to water. Upon optimizing and scaling this process, MICP will be used to modify in-ground limestone structures to reduce flooding in coastal communities. With this long-term goal in mind, and within the scope of an SBIR Phase I project, the goals of this proposal are to optimize the growth and MICP capabilities of naturally occurring bacterial strains in conditions that mimic the underground limestone environment and to test the structure, strength, and permeability of the MICP-modified limestone. The above will be accomplished using a suite of microbial growth and urease assays, biochemical and microscopy assessments of calcium carbonate deposits, and physio-chemical assessment of limestone porosity and bond strength. Together, the work proposed will establish the preferred conditions for MICP on limestone in environmentally relevant experimental conditions. This represents the first critical step towards using MICP in coastal communities to reduce or eliminate groundwater flooding as sea level waters rise.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alexander",
+   "pi_last_name": "Suma",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexander B Suma",
+   "pi_email_addr": "alexander@nexuma.co",
+   "nsf_id": "0000A0BFY",
+   "pi_start_date": "2025-02-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "NEXUMA L.L.C.",
+  "inst_street_address": "17275 COLLINS AVE APT 603",
+  "inst_street_address_2": "",
+  "inst_city_name": "SUNNY ISLES BEACH",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "6317406878",
+  "inst_zip_code": "331603444",
+  "inst_country_name": "United States",
+  "cong_dist_code": "24",
+  "st_cong_dist_code": "FL24",
+  "org_lgl_bus_name": "NEXUMA L.L.C.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "FWS3DN749AD8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "NEXUMA L.L.C.",
+  "perf_str_addr": "17105 N BAY RD Suite B610",
+  "perf_city_name": "SUNNY ISLES BEACH",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "331604089",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "24",
+  "perf_st_cong_dist": "FL24",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "090Z",
+   "pgm_ref_txt": "CAS-Critical Aspects of Sustainability"
+  },
+  {
+   "pgm_ref_code": "1238",
+   "pgm_ref_txt": "TECH FOR SUSTAINABLE ENVIRONMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304988.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Coastal communities in South Florida face increasing flooding caused not only by heavy rainfall and rising sea levels, but also by water pushing upward through the ground. This phenomenon, known as &ldquo;bottom-up flooding,&rdquo; occurs because the region is built on highly porous limestone that allows seawater and groundwater to move freely underground. Traditional flood mitigation solutions such as seawalls, pumps, and drainage systems do not address this root cause and are often expensive, disruptive, and carbon-intensive.</p>\r\n<p>This NSF SBIR Phase I project developed and validated a new, nature-inspired technology called <strong>Sealor</strong>, which strengthens and seals underground limestone using naturally occurring bacteria. The technology is based on a well-studied biological process known as <strong>microbially induced calcium carbonate precipitation (MICP)</strong>. In nature, certain microbes help form limestone over long periods of time. Sealor accelerates and controls this process so that new limestone forms inside underground pores and cracks, reducing water flow and strengthening the rock.</p>\r\n<p><strong>Intellectual Merit</strong></p>\r\n<p>During Phase I, the research team demonstrated laboratory-scale proof that Sealor works effectively in limestone representative of South Florida conditions. The project showed that naturally occurring bacteria can reliably produce new limestone underground, even in the presence of saltwater, rainwater dilution, temperature variation, and native soil microbes. Experiments confirmed that Sealor significantly reduces limestone porosity and permeability by orders of magnitude while increasing its strength to levels comparable to or exceeding structural concrete.</p>\r\n<p>The research also introduced an innovative hybrid approach that combines biological limestone formation with a complementary chemical process. This allows Sealor to rapidly fill larger underground voids while maintaining long-term stability through microbial bonding. Additional studies confirmed that potential by-products, such as nitrogen compounds, can be effectively managed using standard filtration materials without disrupting the biological process.</p>\r\n<p>Together, these results advanced the technology beyond the original Phase I goal, achieving <strong>Technology Readiness Level 4</strong>, meaning the system has been validated under controlled laboratory conditions that closely simulate the real environment.</p>\r\n<p><strong>Broader Impacts</strong></p>\r\n<p>Sealor offers a new pathway for protecting coastal communities from flooding while minimizing environmental harm. Unlike conventional concrete-based methods, Sealor works in place, without excavation, heavy machinery, or large carbon emissions. The process permanently stores carbon in solid limestone and uses materials that are already common in agriculture and water treatment. Because the microbes used are native to Florida limestone, the technology does not introduce foreign organisms into the environment.</p>\r\n<p>During Phase I, the team conducted extensive engagement with contractors, engineers, developers, and public agencies, resulting in multiple pilot commitments and strong local support. This work also helped identify a niche market where the technology can be deployed safely and efficiently.</p>\r\n<p><strong>Outcomes and Next Steps</strong></p>\r\n<p>By the end of Phase I, Sealor successfully demonstrated a scientifically sound, environmentally responsible, and commercially promising solution to a growing coastal challenge. The project established a strong foundation for Phase II, which will focus on field testing in South Florida, third-party validation, and early commercial deployment.</p>\r\n<p>In summary, this project shows how leveraging natural biological processes can lead to innovative, scalable infrastructure solutions that strengthen communities, protect the environment, and reduce the long-term costs of climate-driven flooding.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 03/01/2026<br>\nModified by: Alexander&nbsp;B&nbsp;Suma</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768922896220_Image_1_30--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768922896220_Image_1_30--rgov-800width.png\" title=\"South Florida flooding\"><img src=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768922896220_Image_1_30--rgov-66x44.png\" alt=\"South Florida flooding\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Flooding image in Sunny Isles Beach</div>\n<div class=\"imageCredit\">Alexander Suma</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Alexander&nbsp;B&nbsp;Suma\n<div class=\"imageTitle\">South Florida flooding</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768922980747_Image_2--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768922980747_Image_2--rgov-800width.jpg\" title=\"Miami Oolite\"><img src=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768922980747_Image_2--rgov-66x44.jpg\" alt=\"Miami Oolite\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Typical Miami Oolite limestone with up to 60% porosity</div>\n<div class=\"imageCredit\">Alexander Suma</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Alexander&nbsp;B&nbsp;Suma\n<div class=\"imageTitle\">Miami Oolite</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768923051559_Image_3--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768923051559_Image_3--rgov-800width.png\" title=\"Sealor creation process\"><img src=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768923051559_Image_3--rgov-66x44.png\" alt=\"Sealor creation process\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Sealor creation process solidifying and strengthing porous limestone</div>\n<div class=\"imageCredit\">Alexander Suma</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Alexander&nbsp;B&nbsp;Suma\n<div class=\"imageTitle\">Sealor creation process</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768923091690_Image_4--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768923091690_Image_4--rgov-800width.png\" title=\"MICP process\"><img src=\"/por/images/Reports/POR/2026/2450954/2450954_10970338_1768923091690_Image_4--rgov-66x44.png\" alt=\"MICP process\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">MICP process</div>\n<div class=\"imageCredit\">Rob Smith</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Alexander&nbsp;B&nbsp;Suma\n<div class=\"imageTitle\">MICP process</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nCoastal communities in South Florida face increasing flooding caused not only by heavy rainfall and rising sea levels, but also by water pushing upward through the ground. This phenomenon, known as bottom-up flooding, occurs because the region is built on highly porous limestone that allows seawater and groundwater to move freely underground. Traditional flood mitigation solutions such as seawalls, pumps, and drainage systems do not address this root cause and are often expensive, disruptive, and carbon-intensive.\r\n\n\nThis NSF SBIR Phase I project developed and validated a new, nature-inspired technology called Sealor, which strengthens and seals underground limestone using naturally occurring bacteria. The technology is based on a well-studied biological process known as microbially induced calcium carbonate precipitation (MICP). In nature, certain microbes help form limestone over long periods of time. Sealor accelerates and controls this process so that new limestone forms inside underground pores and cracks, reducing water flow and strengthening the rock.\r\n\n\nIntellectual Merit\r\n\n\nDuring Phase I, the research team demonstrated laboratory-scale proof that Sealor works effectively in limestone representative of South Florida conditions. The project showed that naturally occurring bacteria can reliably produce new limestone underground, even in the presence of saltwater, rainwater dilution, temperature variation, and native soil microbes. Experiments confirmed that Sealor significantly reduces limestone porosity and permeability by orders of magnitude while increasing its strength to levels comparable to or exceeding structural concrete.\r\n\n\nThe research also introduced an innovative hybrid approach that combines biological limestone formation with a complementary chemical process. This allows Sealor to rapidly fill larger underground voids while maintaining long-term stability through microbial bonding. Additional studies confirmed that potential by-products, such as nitrogen compounds, can be effectively managed using standard filtration materials without disrupting the biological process.\r\n\n\nTogether, these results advanced the technology beyond the original Phase I goal, achieving Technology Readiness Level 4, meaning the system has been validated under controlled laboratory conditions that closely simulate the real environment.\r\n\n\nBroader Impacts\r\n\n\nSealor offers a new pathway for protecting coastal communities from flooding while minimizing environmental harm. Unlike conventional concrete-based methods, Sealor works in place, without excavation, heavy machinery, or large carbon emissions. The process permanently stores carbon in solid limestone and uses materials that are already common in agriculture and water treatment. Because the microbes used are native to Florida limestone, the technology does not introduce foreign organisms into the environment.\r\n\n\nDuring Phase I, the team conducted extensive engagement with contractors, engineers, developers, and public agencies, resulting in multiple pilot commitments and strong local support. This work also helped identify a niche market where the technology can be deployed safely and efficiently.\r\n\n\nOutcomes and Next Steps\r\n\n\nBy the end of Phase I, Sealor successfully demonstrated a scientifically sound, environmentally responsible, and commercially promising solution to a growing coastal challenge. The project established a strong foundation for Phase II, which will focus on field testing in South Florida, third-party validation, and early commercial deployment.\r\n\n\nIn summary, this project shows how leveraging natural biological processes can lead to innovative, scalable infrastructure solutions that strengthen communities, protect the environment, and reduce the long-term costs of climate-driven flooding.\r\n\n\n\t\t\t\t\tLast Modified: 03/01/2026\n\n\t\t\t\t\tSubmitted by: AlexanderBSuma\n"
+ }
+}

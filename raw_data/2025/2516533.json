@@ -1,0 +1,101 @@
+{
+ "awd_id": "2516533",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Improved Stratospheric Simulations for Better Prediction of Weather and Climate Extremes; Cambridge, United Kingdom; March 24-28, 2025",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032928527",
+ "po_email": "edeweave@nsf.gov",
+ "po_sign_block_name": "Eric DeWeaver",
+ "awd_eff_date": "2025-02-15",
+ "awd_exp_date": "2025-07-31",
+ "tot_intn_awd_amt": 33592.0,
+ "awd_amount": 33592.0,
+ "awd_min_amd_letter_date": "2025-02-05",
+ "awd_max_amd_letter_date": "2025-02-05",
+ "awd_abstract_narration": "The work aims to support U.S.-based early career researchers to attend a 5-day conference set to occur between 24-28 March 2025 in Cambridge, U.K. This conference is part of a special joint international workshop efforts to sharing the latest results from three ongoing model inter-comparison projects organized through a core project of the World Climate Research Program called the Atmospheric Processes And their Role in Climate. \r\n\r\nThe workshop aims to help participants better understand the role of the stratospheric processes in enhancing weather, climate, and extreme events. Emerging outcomes may lead to the improvement of sub-seasonal-to-seasonal predictions and climate projections which would have strong societal benefits. The involvement of the supported early career researchers can contribute to the development of future leaders in the fields of Science, Technology, Engineering, and Mathematics and an effective national workforce.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peter",
+   "pi_last_name": "Hitchcock",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peter Hitchcock",
+   "pi_email_addr": "aph28@cornell.edu",
+   "nsf_id": "000827476",
+   "pi_start_date": "2025-02-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Cornell University",
+  "inst_street_address": "341 PINE TREE RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ITHACA",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "6072555014",
+  "inst_zip_code": "148502820",
+  "inst_country_name": "United States",
+  "cong_dist_code": "19",
+  "st_cong_dist_code": "NY19",
+  "org_lgl_bus_name": "CORNELL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G56PUALJ3KT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Cornell University",
+  "perf_str_addr": "341 PINE TREE RD",
+  "perf_city_name": "ITHACA",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "148502820",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "19",
+  "perf_st_cong_dist": "NY19",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "574000",
+   "pgm_ele_name": "Coupled & Large-Scale Dynamics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 33592.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Overview</strong></p>\r\n<p>This award supported the participation of ten US-based scientists in a workshop held from 24-28 March 2025 at the Isaac Newton Institute for Mathematical Sciences in Cambridge, UK. The workshop supported by this award was the first joint meeting between three community activities: Quasi-Biennial Oscillation initiative (QBOi), Stratospheric Network for the Assessment of Predictability (SNAP) and QUasi-biennial oscillation and Ozone Chemistry interactions in the Atmosphere (QUOCA). All three are organized through Atmospheric Processes And their Role in Climate (APARC), a core activity of the World Climate Research Program (WCRP), and focus on stratospheric dynamics:<br /><br /></p>\r\n<ul>\r\n<li>QBOi on improving the representation of the QBO and its teleconnections in global models</li>\r\n<li>SNAP on subseasonal-to-seasonal (S2S) forecast systems&rsquo; ability to simulate the stratosphere and its tropospheric coupling; and</li>\r\n<li>QUOCA on identifying and modeling ozone feedbacks on the QBO.</li>\r\n</ul>\r\n<p><br /><strong>Intellectual Merit</strong><br /><br />The workshop aimed to improve understanding of stratospheric processes, variability, uncertainties, and influence on surface climate and predictability. There were 54 posters and 55 talks, including 5 invited speakers. Overaching themes included stratosphere-troposphere coupling both in the tropics and extratropics, the role of the stratosphere in surface prediction, coupling between composition and dynamics, the dynamics of gravity waves and the QBO (a summary word-cloud is shown in Figure 1). A major focus was on the ability of models to represent these processes, and the meeting featured updates, talks, and networking opportunities with numerous modeling centers. The use of maching learning approaches was a common point of discussion in this context. Another major focus was on how to translate predictive information from the stratosphere into actionable forecasts. The community expressed significant concern about the upcoming loss of high-resolution observational monitoring of the stratosphere due to current satellite missions coming to an end.<br /><br />The programme also included QBOi and SNAP activity reporting, the in-person kick-off for the QUOCA project, breakouts and plenary sessions to facilitate community input into activity planning and potential opportunities for cross-activity collaborations, and various networking activities. Breakout sessions for each of the three projects led to important progress in planning new community experiments (QBOi, SNAP) and the diagnostic analysis of recently completed intercomparisons (SNAP, QUOCA). Each of these groups are actively developing research papers to synthesise progress and identify future directions, including contributions to an upcoming WCD special issue (more info at https://wcd.copernicus.org/articles/special_issue1297.html). A more targetted perspective piece on the use of nudging in atmospheric and climate science is also in preparation.<br /><br /><strong>Broader Impact</strong><br /><br />There were 105 people from 74 institutes across 18 countries, with the single largest fraction (26%) from the US, representing 16 institutions. Over half of the scientists participating in the workshop were early-career; around one third were women (see the conference photo, Figure 2). Almost 80% attended in person, with a number of colleagues participating online due to travel limitations. The meeting featured a range of networking and training opportunities aimed in particular at ECRs: for instance, two published workshop reports were written and published by a team of ECRs.&nbsp;<br /><br />In a post-workshop survey, respondents typically found the workshop highly valuable (~70%); over half found the breakouts and plenary discussions very valuable, with many respondants highlighting the explicit time for discussion.&nbsp; The overall success of the workshop and the participation by many US-based early-career researchers was made possible through the support of this award.</p><br>\n<p>\n Last Modified: 12/05/2025<br>\nModified by: Peter&nbsp;Hitchcock</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762774989170_conference_photo--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762774989170_conference_photo--rgov-800width.jpg\" title=\"Conference Photo\"><img src=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762774989170_conference_photo--rgov-66x44.jpg\" alt=\"Conference Photo\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">The in-person attendees of the QSQ workshop at the University of Cambridge</div>\n<div class=\"imageCredit\">Alison Ming</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Peter&nbsp;Hitchcock\n<div class=\"imageTitle\">Conference Photo</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762774853135_word_cloud--rgov-214x142.png\" original=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762774853135_word_cloud--rgov-800width.png\" title=\"Word Cloud of Notes from Breakout Groups\"><img src=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762774853135_word_cloud--rgov-66x44.png\" alt=\"Word Cloud of Notes from Breakout Groups\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Word cloud of the most common themes arising across breakout groups at the workshop. The words are representative of core science objectives, current and future modeling efforts, as well as broader community goals.</div>\n<div class=\"imageCredit\">Regan Mudhar</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Peter&nbsp;Hitchcock\n<div class=\"imageTitle\">Word Cloud of Notes from Breakout Groups</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762775076533_conference_logo--rgov-214x142.png\" original=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762775076533_conference_logo--rgov-800width.png\" title=\"Conference Logo\"><img src=\"/por/images/Reports/POR/2025/2516533/2516533_10969265_1762775076533_conference_logo--rgov-66x44.png\" alt=\"Conference Logo\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">The QBOi-SNAP-QUOCA (QSQ) Workshop: Improved simulations of the stratosphere for better predictions of weather, climate and extreme events</div>\n<div class=\"imageCredit\">Amy Butler</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Peter&nbsp;Hitchcock\n<div class=\"imageTitle\">Conference Logo</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nOverview\r\n\n\nThis award supported the participation of ten US-based scientists in a workshop held from 24-28 March 2025 at the Isaac Newton Institute for Mathematical Sciences in Cambridge, UK. The workshop supported by this award was the first joint meeting between three community activities: Quasi-Biennial Oscillation initiative (QBOi), Stratospheric Network for the Assessment of Predictability (SNAP) and QUasi-biennial oscillation and Ozone Chemistry interactions in the Atmosphere (QUOCA). All three are organized through Atmospheric Processes And their Role in Climate (APARC), a core activity of the World Climate Research Program (WCRP), and focus on stratospheric dynamics:\n\n\r\n\r\nQBOi on improving the representation of the QBO and its teleconnections in global models\r\nSNAP on subseasonal-to-seasonal (S2S) forecast systems ability to simulate the stratosphere and its tropospheric coupling; and\r\nQUOCA on identifying and modeling ozone feedbacks on the QBO.\r\n\r\n\n\n\nIntellectual Merit\n\nThe workshop aimed to improve understanding of stratospheric processes, variability, uncertainties, and influence on surface climate and predictability. There were 54 posters and 55 talks, including 5 invited speakers. Overaching themes included stratosphere-troposphere coupling both in the tropics and extratropics, the role of the stratosphere in surface prediction, coupling between composition and dynamics, the dynamics of gravity waves and the QBO (a summary word-cloud is shown in Figure 1). A major focus was on the ability of models to represent these processes, and the meeting featured updates, talks, and networking opportunities with numerous modeling centers. The use of maching learning approaches was a common point of discussion in this context. Another major focus was on how to translate predictive information from the stratosphere into actionable forecasts. The community expressed significant concern about the upcoming loss of high-resolution observational monitoring of the stratosphere due to current satellite missions coming to an end.\n\nThe programme also included QBOi and SNAP activity reporting, the in-person kick-off for the QUOCA project, breakouts and plenary sessions to facilitate community input into activity planning and potential opportunities for cross-activity collaborations, and various networking activities. Breakout sessions for each of the three projects led to important progress in planning new community experiments (QBOi, SNAP) and the diagnostic analysis of recently completed intercomparisons (SNAP, QUOCA). Each of these groups are actively developing research papers to synthesise progress and identify future directions, including contributions to an upcoming WCD special issue (more info at https://wcd.copernicus.org/articles/special_issue1297.html). A more targetted perspective piece on the use of nudging in atmospheric and climate science is also in preparation.\n\nBroader Impact\n\nThere were 105 people from 74 institutes across 18 countries, with the single largest fraction (26%) from the US, representing 16 institutions. Over half of the scientists participating in the workshop were early-career; around one third were women (see the conference photo, Figure 2). Almost 80% attended in person, with a number of colleagues participating online due to travel limitations. The meeting featured a range of networking and training opportunities aimed in particular at ECRs: for instance, two published workshop reports were written and published by a team of ECRs.\n\nIn a post-workshop survey, respondents typically found the workshop highly valuable (~70%); over half found the breakouts and plenary discussions very valuable, with many respondants highlighting the explicit time for discussion. The overall success of the workshop and the participation by many US-based early-career researchers was made possible through the support of this award.\t\t\t\t\tLast Modified: 12/05/2025\n\n\t\t\t\t\tSubmitted by: PeterHitchcock\n"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "awd_id": "2521917",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RAPID: Characterization of the Influence of Daytime and Nighttime Oxidative Aging Processes on the Physicochemical Properties of Laboratory-Generated Biomass Burning Emissions",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032928522",
+ "po_email": "sedgerto@nsf.gov",
+ "po_sign_block_name": "Sylvia Edgerton",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 73994.0,
+ "awd_amount": 73994.0,
+ "awd_min_amd_letter_date": "2025-03-19",
+ "awd_max_amd_letter_date": "2025-03-19",
+ "awd_abstract_narration": "This RAPID project will enable research on both the daytime and nighttime oxidation of biomass burning emissions and their potential to affect the atmospheric radiative balance through light absorption and cloud formation. It will be conducted in conjunction with a project supported by the Pacific Northwest National Laboratory\u2019s Environmental Molecular Sciences Laboratory to conduct laboratory studies that mimic the daytime and nighttime oxidative aging of realistic biomass burning aerosols. The knowledge gained through this RAPID project will lead to a better understanding of how wildfire emissions influence atmospheric ice formation and light absorption efficiency and will aid in the identification of molecular tracers for daytime and nighttime oxidative aging processes.\r\n\r\nBiomass burning emissions will be generated in the controlled combustion chamber at EMSL and oxidized in Aerodyne\u2019s new Dual Oxidation Flow Reactor (OFR), that can simultaneously study the oxidative aging processes of emissions initiated by both the hydroxyl radical (OH) and the nitrate radical (NO3). Measurements of ice-nucleating particle formation and light extinction/scattering coefficients will inform future studies of cold cloud formation potential and radiative forcing associated with fresh, OH-oxidized, and NO3-oxidized wildfire emissions. The knowledge gained through this research will lead to a better understanding of how wildfire emissions influence air quality over the life cycle of the fire.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Lambe",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew Lambe",
+   "pi_email_addr": "lambe@aerodyne.com",
+   "nsf_id": "000692368",
+   "pi_start_date": "2025-03-19",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Aerodyne Research Inc",
+  "inst_street_address": "45 MANNING RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "BILLERICA",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "9789320231",
+  "inst_zip_code": "018213934",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MA03",
+  "org_lgl_bus_name": "AERODYNE RESEARCH INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HTMHV7AL9A86"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Aerodyne Research Inc",
+  "perf_str_addr": "45 MANNING RD",
+  "perf_city_name": "BILLERICA",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "018213976",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MA03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "152400",
+   "pgm_ele_name": "Atmospheric Chemistry"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 73994.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Wildfire releases massive amounts of smoke into the atmosphere, which directly affects ecosystems and human health. Once in the atmosphere, this smoke \"ages\" and changes chemically depending on whether it is day or night. Daytime aging is primarily driven by the hydroxyl (OH) radical, whereas nighttime aging is typically dominated by the nitrate (NO<sub>3</sub>) radical. However, because it is difficult to generate and study identical smoke samples under different conditions in the laboratory, current regional and global climate models do not fully capture the distinct differences between daytime and nighttime aging.</p>\r\n<p>To address this knowledge gap, our team conducted a two-week laboratory experiment in collaboration with the Pacific Northwest National Laboratory (PNNL). We burned longleaf pine and tall wheatgrass, which are representative of the fuels consumed in Pacific Northwest wildfires. We then utilized a new Potential Aerosol Mass Dual Oxidation Flow Reactor (PAM Dual OFR) to simultaneously mimic daytime and nighttime atmospheric aging of the smoke over timescales equivalent to several days in the atmosphere. Using a suite of advanced measurement instruments, we successfully captured the first simultaneous characterization of fresh, daytime-aged, and nighttime-aged wildfire smoke. We discovered significant differences in how smoke evolved depending on the type of atmospheric aging. Exposure to OH radicals (daytime) caused a large increase in the formation of new, secondary aerosols, making the smoke particles highly oxygenated. By comparison, exposure to NO<sub>3</sub> produced nitrogen-containing products but resulted in minimal new aerosol mass.</p>\r\n<p>This project delivered several important benefits to society and the scientific community. By understanding exactly how smoke changes chemically during daytime versus nighttime, we are improving the understanding of its atmospheric composition. This information can be integrated into air quality models to help policymakers make better decisions to protect public health and the environment from the impacts of wildfires. This project also successfully demonstrated the real-world capabilities of our new PAM Dual OFR system. This technology expands the scientific community's ability to study complex, parallel aging processes quickly and efficiently, which is beyond the capabilities of traditional environmental chambers. Finally, this project provided valuable hands-on training, field work experience, and professional development for several early-career scientists from both Aerodyne Research and PNNL.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 05/03/2026<br>\nModified by: Andrew&nbsp;Lambe</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nWildfire releases massive amounts of smoke into the atmosphere, which directly affects ecosystems and human health. Once in the atmosphere, this smoke \"ages\" and changes chemically depending on whether it is day or night. Daytime aging is primarily driven by the hydroxyl (OH) radical, whereas nighttime aging is typically dominated by the nitrate (NO3) radical. However, because it is difficult to generate and study identical smoke samples under different conditions in the laboratory, current regional and global climate models do not fully capture the distinct differences between daytime and nighttime aging.\r\n\n\nTo address this knowledge gap, our team conducted a two-week laboratory experiment in collaboration with the Pacific Northwest National Laboratory (PNNL). We burned longleaf pine and tall wheatgrass, which are representative of the fuels consumed in Pacific Northwest wildfires. We then utilized a new Potential Aerosol Mass Dual Oxidation Flow Reactor (PAM Dual OFR) to simultaneously mimic daytime and nighttime atmospheric aging of the smoke over timescales equivalent to several days in the atmosphere. Using a suite of advanced measurement instruments, we successfully captured the first simultaneous characterization of fresh, daytime-aged, and nighttime-aged wildfire smoke. We discovered significant differences in how smoke evolved depending on the type of atmospheric aging. Exposure to OH radicals (daytime) caused a large increase in the formation of new, secondary aerosols, making the smoke particles highly oxygenated. By comparison, exposure to NO3 produced nitrogen-containing products but resulted in minimal new aerosol mass.\r\n\n\nThis project delivered several important benefits to society and the scientific community. By understanding exactly how smoke changes chemically during daytime versus nighttime, we are improving the understanding of its atmospheric composition. This information can be integrated into air quality models to help policymakers make better decisions to protect public health and the environment from the impacts of wildfires. This project also successfully demonstrated the real-world capabilities of our new PAM Dual OFR system. This technology expands the scientific community's ability to study complex, parallel aging processes quickly and efficiently, which is beyond the capabilities of traditional environmental chambers. Finally, this project provided valuable hands-on training, field work experience, and professional development for several early-career scientists from both Aerodyne Research and PNNL.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 05/03/2026\n\n\t\t\t\t\tSubmitted by: AndrewLambe\n"
+ }
+}

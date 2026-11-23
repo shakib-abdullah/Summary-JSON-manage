@@ -1,0 +1,161 @@
+{
+ "awd_id": "2430335",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CC* Strategy-Campus: Accelerating Research Computing at Texas A&M San Antonio (ARCATS)",
+ "cfda_num": "47.070",
+ "org_code": "05260000",
+ "po_phone": "7032924220",
+ "po_email": "kthompso@nsf.gov",
+ "po_sign_block_name": "Kevin Thompson",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2026-11-30",
+ "tot_intn_awd_amt": 100000.0,
+ "awd_amount": 120000.0,
+ "awd_min_amd_letter_date": "2024-12-06",
+ "awd_max_amd_letter_date": "2026-05-07",
+ "awd_abstract_narration": "Accelerating Research Computing at Texas A&M University-San Antonio (ARCATS) elevates research computing capacity by enhancing the capacity for campus cyberinfrastructure-enabled research. The university has recognized the growing importance of data-intensive computational science across a wide range of academic fields, including water resources management, genomics, biology, chemistry, health, humanities, and cybersecurity.   Supporting the university\u2019s growing research programs, ARCATS develops a comprehensive plan to advance the university\u2019s cyberinfrastructure and facilitate collaborations with regional cyberinfrastructure partners. Through this process, ARCATS is identifying specific research needs in high performance computing, plans for research computing resources, and mechanisms that support burgeoning research communities of practice. \r\n\r\nThe project supports undergraduate and graduate education through experiential learning opportunities, fostering computation-related science programs, and developing student-focused industry partnerships.  ARCATS positions the university in the national cyberinfrastructure ecosystem by promoting research and instruction-focused collaborations with institutions in Texas and national research communities. As such, it serves as a model for smaller institutions, fostering regional and national scientific collaborations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Izzat",
+   "pi_last_name": "Alsmadi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Izzat Alsmadi",
+   "pi_email_addr": "ialsmadi@tamusa.edu",
+   "nsf_id": "000729539",
+   "pi_start_date": "2024-12-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Former Co-Principal Investigator",
+   "pi_first_name": "Dhruva",
+   "pi_last_name": "Chakravorty",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dhruva K Chakravorty",
+   "pi_email_addr": "chakravorty@princeton.edu",
+   "nsf_id": "000718169",
+   "pi_start_date": "2024-12-06",
+   "pi_end_date": "2026-05-07"
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Wesley",
+   "pi_last_name": "Brashear",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wesley A Brashear",
+   "pi_email_addr": "wbrashear@tamu.edu",
+   "nsf_id": "000815638",
+   "pi_start_date": "2026-05-07",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Elizabeth",
+   "pi_last_name": "Leyva",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Elizabeth Leyva",
+   "pi_email_addr": "eleyva@tamusa.edu",
+   "nsf_id": "000875279",
+   "pi_start_date": "2024-12-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Donna",
+   "pi_last_name": "Lehman",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Donna M Lehman",
+   "pi_email_addr": "dlehman@tamusa.edu",
+   "nsf_id": "0000A03D9",
+   "pi_start_date": "2024-12-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Vijay",
+   "pi_last_name": "Golla",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vijay Golla",
+   "pi_email_addr": "vijay.golla@tamu.edu",
+   "nsf_id": "0000A06ND",
+   "pi_start_date": "2024-12-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Texas A&M University-San Antonio",
+  "inst_street_address": "1 UNIVERSITY WAY",
+  "inst_street_address_2": "",
+  "inst_city_name": "SAN ANTONIO",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "2107841170",
+  "inst_zip_code": "782243134",
+  "inst_country_name": "United States",
+  "cong_dist_code": "23",
+  "st_cong_dist_code": "TX23",
+  "org_lgl_bus_name": "TEXAS A&M UNIVERSITY-SAN ANTONIO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JS4YHZJ695Z3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Texas A&M University-San Antonio",
+  "perf_str_addr": "1 UNIVERSITY WAY",
+  "perf_city_name": "SAN ANTONIO",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "782243134",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "23",
+  "perf_st_cong_dist": "TX23",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808000",
+   "pgm_ele_name": "Campus Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 120000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><h1>Project Outcomes Report</h1>\r\n<p><strong>CC* Strategy-Campus: Accelerating Research Computing at Texas A&amp;M University&ndash;San Antonio (ARCATS)</strong></p>\r\n<p><strong>NSF Award No.:</strong> 2430335<br /><strong>Institution:</strong> Texas A&amp;M University&ndash;San Antonio<br /><strong>Principal Investigator:</strong> Dr. Izzat Alsmadi</p>\r\n<p>The Accelerating Research Computing at Texas A&amp;M University&ndash;San Antonio (ARCATS) project strengthened the university&rsquo;s ability to support research that depends on advanced computing, large datasets, and artificial intelligence. The project focused on identifying campus research-computing needs, developing a strategic plan for cyberinfrastructure, expanding access to high-performance computing resources, and connecting faculty and students with regional and national research-computing partners. It established a foundation for broader participation in computational research at a Hispanic-Serving Institution in South Texas.</p>\r\n<p>ARCATS supported two major campus workshops in 2025. The April workshop provided hands-on exposure to high-performance computing, access to the Texas A&amp;M University computing environment, JupyterLab, Python, artificial intelligence, machine learning, and deep learning. The September workshop brought together university researchers, computing professionals, and external experts to discuss research needs, infrastructure priorities, sustainability, and a campus research-computing roadmap. Project records report more than 45 workshop participants. They also indicate that more than 20 students continued using high-performance computing resources independently and that three faculty members initiated computing-based proposals or pilot studies. These numerical outcomes should be confirmed against institutional records before submission.</p>\r\n<p>A major outcome was a campus cyberinfrastructure assessment and strategic roadmap addressing computing resources, data storage, networking, security, governance, staffing, training, and long-term sustainability. The work strengthened research-computing support and user onboarding and helped position the university&rsquo;s CAMSA computing resources and partnerships to support interdisciplinary work. The resulting capacity benefits research and education in areas such as biology, genomics, chemistry, health sciences, humanities, cybersecurity, and data-intensive computing. ARCATS provides a foundation for continued investment, external funding, student experiential learning, and collaboration with the broader research-computing community.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 11/01/2026<br>\nModified by: Izzat&nbsp;Alsmadi</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574124403_Brainstroming3--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574124403_Brainstroming3--rgov-800width.jpeg\" title=\"ARCATS Workshop Venue and Institutional Engagement\"><img src=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574124403_Brainstroming3--rgov-66x44.jpeg\" alt=\"ARCATS Workshop Venue and Institutional Engagement\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">The workshop space prepared for the ARCATS brainstorming event, displaying university and project materials. The event provided a setting for campus stakeholders to identify cyberinfrastructure needs and discuss a coordinated strategy for research computing.</div>\n<div class=\"imageCredit\">Srinivas Murali</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Izzat&nbsp;Alsmadi\n<div class=\"imageTitle\">ARCATS Workshop Venue and Institutional Engagement</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574056079_Brainstroming2--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574056079_Brainstroming2--rgov-800width.jpeg\" title=\"Technical Presentations and Research Infrastructure Planning\"><img src=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574056079_Brainstroming2--rgov-66x44.jpeg\" alt=\"Technical Presentations and Research Infrastructure Planning\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">A workshop presenter shares technical material highlighting research and computing applications. The presentation supported discussion of collaborative opportunities, research infrastructure development, and the role of advanced computing in interdisciplinary research.</div>\n<div class=\"imageCredit\">Srinivas Murali</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Izzat&nbsp;Alsmadi\n<div class=\"imageTitle\">Technical Presentations and Research Infrastructure Planning</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574256143_brainstrom5--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574256143_brainstrom5--rgov-800width.jpg\" title=\"Interdisciplinary Research Presentations and Knowledge Exchange\"><img src=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574256143_brainstrom5--rgov-66x44.jpg\" alt=\"Interdisciplinary Research Presentations and Knowledge Exchange\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">A researcher presents scientific material during the ARCATS workshop, with other participants engaged in the discussion. The session illustrates the interdisciplinary research interests and knowledge exchange that inform the university\ufffds research-computing strategy.</div>\n<div class=\"imageCredit\">Srinivas Murali</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Izzat&nbsp;Alsmadi\n<div class=\"imageTitle\">Interdisciplinary Research Presentations and Knowledge Exchange</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793573982909_Brainstroming1--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793573982909_Brainstroming1--rgov-800width.jpeg\" title=\"ARCATS Research Computing Brainstorming Workshop\"><img src=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793573982909_Brainstroming1--rgov-66x44.jpeg\" alt=\"ARCATS Research Computing Brainstorming Workshop\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Faculty, researchers, and participants engage in a facilitated discussion during the April 30, 2025 ARCATS Brainstorming Workshop at Texas A&M University?San Antonio. The session gathered perspectives on campus research-computing needs and priorities for strengthening institutional cyberinfrastructu</div>\n<div class=\"imageCredit\">Srinivas Murali</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Izzat&nbsp;Alsmadi\n<div class=\"imageTitle\">ARCATS Research Computing Brainstorming Workshop</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574198654_Brainstroming4--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574198654_Brainstroming4--rgov-800width.jpeg\" title=\"Hands-On High-Performance Computing and AI Training\"><img src=\"/por/images/Reports/POR/2026/2430335/2430335_10964301_1793574198654_Brainstroming4--rgov-66x44.jpeg\" alt=\"Hands-On High-Performance Computing and AI Training\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Participants take part in the ARCATS Training Workshop, working with computing resources and technical instruction. The hands-on session introduced practical high-performance computing and artificial intelligence concepts, supporting the development of skills for computational research and education</div>\n<div class=\"imageCredit\">Srinivas Murali</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Izzat&nbsp;Alsmadi\n<div class=\"imageTitle\">Hands-On High-Performance Computing and AI Training</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "Project Outcomes Report\r\n\n\nCC* Strategy-Campus: Accelerating Research Computing at Texas A&M UniversitySan Antonio (ARCATS)\r\n\n\nNSF Award No.: 2430335\nInstitution: Texas A&M UniversitySan Antonio\nPrincipal Investigator: Dr. Izzat Alsmadi\r\n\n\nThe Accelerating Research Computing at Texas A&M UniversitySan Antonio (ARCATS) project strengthened the universitys ability to support research that depends on advanced computing, large datasets, and artificial intelligence. The project focused on identifying campus research-computing needs, developing a strategic plan for cyberinfrastructure, expanding access to high-performance computing resources, and connecting faculty and students with regional and national research-computing partners. It established a foundation for broader participation in computational research at a Hispanic-Serving Institution in South Texas.\r\n\n\nARCATS supported two major campus workshops in 2025. The April workshop provided hands-on exposure to high-performance computing, access to the Texas A&M University computing environment, JupyterLab, Python, artificial intelligence, machine learning, and deep learning. The September workshop brought together university researchers, computing professionals, and external experts to discuss research needs, infrastructure priorities, sustainability, and a campus research-computing roadmap. Project records report more than 45 workshop participants. They also indicate that more than 20 students continued using high-performance computing resources independently and that three faculty members initiated computing-based proposals or pilot studies. These numerical outcomes should be confirmed against institutional records before submission.\r\n\n\nA major outcome was a campus cyberinfrastructure assessment and strategic roadmap addressing computing resources, data storage, networking, security, governance, staffing, training, and long-term sustainability. The work strengthened research-computing support and user onboarding and helped position the universitys CAMSA computing resources and partnerships to support interdisciplinary work. The resulting capacity benefits research and education in areas such as biology, genomics, chemistry, health sciences, humanities, cybersecurity, and data-intensive computing. ARCATS provides a foundation for continued investment, external funding, student experiential learning, and collaboration with the broader research-computing community.\r\n\n\n\t\t\t\t\tLast Modified: 11/01/2026\n\n\t\t\t\t\tSubmitted by: IzzatAlsmadi\n"
+ }
+}

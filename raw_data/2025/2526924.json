@@ -1,0 +1,125 @@
+{
+ "awd_id": "2526924",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "PFI-TT: Behavior-Based Account Recovery, Trust Assessment, and Continuous Authentication for Strengthening Online Identity",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032924506",
+ "po_email": "marschin@nsf.gov",
+ "po_sign_block_name": "Mara E. Schindelholz",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 23257.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Partnerships for Innovation - Technology Translation (PFI-TT) project is in the online fraud detection and prevention for large populations of users in different industries such as healthcare, credit card processing or retail banking business.  The proposed project involves the prototyping of a novel software for online fraud detection and prevention based on behavioral biometrics.  US consumers lose $5.1 billion annually due to account takeover fraud and online shopping presents the greatest fraud risk. There is strong demand for online fraud detection in sectors such as e-commerce and financial services. This project includes an entrepreneurial education and leadership development plan for the graduate students in the team, that will include customer discovery activities, mentorship from experienced entrepreneurs in the biometrics business area, and innovation and entrepreneurship activities at the Center for Identification Technology Research (CITeR), a NSF Industry University Collaborative Research Center (IUCRC).  Broadening participation activities include supporting underrepresented graduate students and providing research opportunities for undergraduate students from diverse groups.\r\n \r\nThe proposed project involves the prototyping of a novel software solution framework for online fraud detection and prevention that is based on behavioral biometrics. The software framework systematically integrates options for prevention via account recovery, trust assessment of universal identities, and detection via post-login authentication.  The team will also explore the design and implementation of innovative features/solutions for intellectual property and user privacy protection, two deployment options, and additional post-login authentication features paving the way for integrating behavioral biometrics and post-login authentication into enterprise systems.  Finally, usability considerations including end-user evaluation of behavioral biometrics in security critical scenarios that matter the most to consumers will be explored.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Daqing",
+   "pi_last_name": "Hou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Daqing Hou",
+   "pi_email_addr": "Daqing.Hou@rit.edu",
+   "nsf_id": "000152664",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Rochester Institute of Tech",
+  "inst_street_address": "1 LOMB MEMORIAL DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "ROCHESTER",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5854752499",
+  "inst_zip_code": "146235603",
+  "inst_country_name": "United States",
+  "cong_dist_code": "25",
+  "st_cong_dist_code": "NY25",
+  "org_lgl_bus_name": "ROCHESTER INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "J6TWTRKC1X14"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Rochester Institute of Tech",
+  "perf_str_addr": "1 LOMB MEMORIAL DR",
+  "perf_city_name": "ROCHESTER",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "146235603",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "25",
+  "perf_st_cong_dist": "NY25",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "166200",
+   "pgm_ele_name": "PFI-Partnrships for Innovation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "102Z",
+   "pgm_ref_txt": "COVID-Disproportionate Impcts Inst-Indiv"
+  },
+  {
+   "pgm_ref_code": "8032",
+   "pgm_ref_txt": "Software Services and Applications"
+  },
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 7257.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 16000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Federal Award ID: </strong>2526924 (originally 2122746)</p>\r\n<p><strong>Period: </strong>July 2021 - June 2026</p>\r\n<p>Every day, millions of people are locked out of their online accounts or fall victim to fraud because traditional passwords and security questions are easily forgotten, stolen, or guessed. This project developed and commercialized a fundamentally different approach: using the unique way each person types and moves a mouse, their behavioral biometrics, as a continuous, invisible layer of identity verification.</p>\r\n<p>Researchers at Clarkson University (and later Rochester Institute of Technology) built a fully functional software system that authenticates users based on their natural typing rhythms (keystroke dynamics) and mouse movement patterns. Unlike passwords, these behavioral signals are difficult to steal or replicate. The system can serve as a second authentication factor during login, silently verify identity during an ongoing session, and help users recover accounts even when traditional credentials are lost.</p>\r\n<h2>What Was Built</h2>\r\n<p>Over five years, the team developed and tested several key components:</p>\r\n<ul>\r\n<li>A deployable software library and standalone cloud service that organizations can integrate into their own authentication frameworks</li>\r\n<li>User-privacy protection using strong cryptography, so behavioral data cannot be read even if a server is compromised</li>\r\n<li>Web-based prototypes for real-world use cases including account recovery, purchase orders, and payment scenarios</li>\r\n<li>A Firefox browser extension (\"data logger\") that captures behavioral signals during natural use of real-world applications, including Gmail, Facebook, and PayPal, enabling trust assessment across a broad range of activities</li>\r\n</ul>\r\n<h2>Real-World Deployment</h2>\r\n<p>The technology reached the marketplace. In May 2022, Clarkson University signed an IP licensing agreement with an identity solutions company, and by March 2024 the partner had launched a publicly available product that incorporates the team's keystroke-based authentication into an open-source identity platform. This represents a direct translation of federally funded research into a commercially deployed security product.</p>\r\n<p>In October 2024, the USPTO granted US Patent No. US12105782B2 for the team's core method of authenticating users via free-text behavioral biometrics.</p>\r\n<h2>Scientific Contributions</h2>\r\n<p>The project produced over ten peer-reviewed publications in cybersecurity venues including ACM CODASPY, IEEE CCNC, and ACM Computing Surveys. Notable contributions include:</p>\r\n<ul>\r\n<li>The first user study demonstrating usability and acceptance of keystroke dynamics as a second authentication factor in web multi-factor authentication</li>\r\n<li>New public datasets for keystroke and mouse behavioral biometrics research, including a 56-user multimodal Gmail dataset collected at RIT</li>\r\n<li>A comprehensive survey of keystroke dynamics concepts, techniques, and applications published in ACM Computing Surveys (2025)</li>\r\n<li>Findings showing that simple statistical algorithms can outperform deep learning for keystroke-based authentication, with implications for deployment in resource-constrained settings</li>\r\n</ul>\r\n<h2>Training the Next Generation</h2>\r\n<p>The project trained one PhD student (Ahmed Wahab, who graduated December 2023 and joined an industry R&amp;D role focused on fraud detection), four additional graduate students, and more than eight undergraduate REU participants across both institutions. Students received hands-on experience in AI, cybersecurity, and entrepreneurship, including an Innovation Workshop at a national biometrics industry meeting and a first-place win ($5,000) in Clarkson University's Entrepreneurship and Innovation competition.</p>\r\n<h2>Broader Impact</h2>\r\n<p>Behavioral biometrics offers a path toward online authentication that is both more secure and more usable than passwords, particularly for populations who struggle with traditional credential management. By building open datasets, publishing methods, and delivering a commercially licensed product, this project advances both the science and the practical deployment of next-generation identity security. The Gmail Multimodal Dataset, currently under review for publication, is expected to become a public resource for the broader research community.</p><br>\n<p>\n Last Modified: 10/07/2026<br>\nModified by: Daqing&nbsp;Hou</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nFederal Award ID: 2526924 (originally 2122746)\r\n\n\nPeriod: July 2021 - June 2026\r\n\n\nEvery day, millions of people are locked out of their online accounts or fall victim to fraud because traditional passwords and security questions are easily forgotten, stolen, or guessed. This project developed and commercialized a fundamentally different approach: using the unique way each person types and moves a mouse, their behavioral biometrics, as a continuous, invisible layer of identity verification.\r\n\n\nResearchers at Clarkson University (and later Rochester Institute of Technology) built a fully functional software system that authenticates users based on their natural typing rhythms (keystroke dynamics) and mouse movement patterns. Unlike passwords, these behavioral signals are difficult to steal or replicate. The system can serve as a second authentication factor during login, silently verify identity during an ongoing session, and help users recover accounts even when traditional credentials are lost.\r\nWhat Was Built\r\n\n\nOver five years, the team developed and tested several key components:\r\n\r\nA deployable software library and standalone cloud service that organizations can integrate into their own authentication frameworks\r\nUser-privacy protection using strong cryptography, so behavioral data cannot be read even if a server is compromised\r\nWeb-based prototypes for real-world use cases including account recovery, purchase orders, and payment scenarios\r\nA Firefox browser extension (\"data logger\") that captures behavioral signals during natural use of real-world applications, including Gmail, Facebook, and PayPal, enabling trust assessment across a broad range of activities\r\n\r\nReal-World Deployment\r\n\n\nThe technology reached the marketplace. In May 2022, Clarkson University signed an IP licensing agreement with an identity solutions company, and by March 2024 the partner had launched a publicly available product that incorporates the team's keystroke-based authentication into an open-source identity platform. This represents a direct translation of federally funded research into a commercially deployed security product.\r\n\n\nIn October 2024, the USPTO granted US Patent No. US12105782B2 for the team's core method of authenticating users via free-text behavioral biometrics.\r\nScientific Contributions\r\n\n\nThe project produced over ten peer-reviewed publications in cybersecurity venues including ACM CODASPY, IEEE CCNC, and ACM Computing Surveys. Notable contributions include:\r\n\r\nThe first user study demonstrating usability and acceptance of keystroke dynamics as a second authentication factor in web multi-factor authentication\r\nNew public datasets for keystroke and mouse behavioral biometrics research, including a 56-user multimodal Gmail dataset collected at RIT\r\nA comprehensive survey of keystroke dynamics concepts, techniques, and applications published in ACM Computing Surveys (2025)\r\nFindings showing that simple statistical algorithms can outperform deep learning for keystroke-based authentication, with implications for deployment in resource-constrained settings\r\n\r\nTraining the Next Generation\r\n\n\nThe project trained one PhD student (Ahmed Wahab, who graduated December 2023 and joined an industry R&D role focused on fraud detection), four additional graduate students, and more than eight undergraduate REU participants across both institutions. Students received hands-on experience in AI, cybersecurity, and entrepreneurship, including an Innovation Workshop at a national biometrics industry meeting and a first-place win ($5,000) in Clarkson University's Entrepreneurship and Innovation competition.\r\nBroader Impact\r\n\n\nBehavioral biometrics offers a path toward online authentication that is both more secure and more usable than passwords, particularly for populations who struggle with traditional credential management. By building open datasets, publishing methods, and delivering a commercially licensed product, this project advances both the science and the practical deployment of next-generation identity security. The Gmail Multimodal Dataset, currently under review for publication, is expected to become a public resource for the broader research community.\t\t\t\t\tLast Modified: 10/07/2026\n\n\t\t\t\t\tSubmitted by: DaqingHou\n"
+ }
+}

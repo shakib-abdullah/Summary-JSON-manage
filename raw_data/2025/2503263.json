@@ -1,0 +1,109 @@
+{
+ "awd_id": "2503263",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Fellowship Award",
+ "awd_titl_txt": "Postdoctoral Fellowship: MPS-Ascend: Unveiling Recoiling Black Holes with Stellar Dynamics and Tidal Disruption Events",
+ "cfda_num": "47.049",
+ "org_code": "03230000",
+ "po_phone": "7032927597",
+ "po_email": "loedward@nsf.gov",
+ "po_sign_block_name": "Louise O. V. Edwards",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 300000.0,
+ "awd_amount": 100000.0,
+ "awd_min_amd_letter_date": "2025-07-09",
+ "awd_max_amd_letter_date": "2026-07-09",
+ "awd_abstract_narration": "Jane Bright is awarded an NSF Mathematical and Physical Sciences Ascending Postdoctoral Research Fellowship to carry out a program of research and education at the University of Colorado, Boulder. The merger of binary black holes produces gravitational waves that carry energy and momentum. In the final stages of this merger, the gravitational waves impart a kick onto the remnant black hole. Dr. Bright will investigate the effects of these gravitational wave recoil kicks on the orbital dynamics of the surrounding star cluster though simulations and models. She will develop an interactive Hertzsprung-Russel diagram simulation designed for student learning.\r\n\r\nBright will leverage the distinctive stellar distribution around recoiling black holes and the enhancement of both the early and sustained tidal disruption event rate to uncover these elusive objects. This work will have strong implications for understanding the sources of TDEs, with the Rubin Observatory poised to revolutionize our observational capabilities in this field. Additionally, early TDEs from recoiling black holes can inform multimessenger astronomy as possible delayed electromagnetic signatures to accompany gravitational wave events from merging supermassive black holes. These gravitational waves will be detected with upcoming detectors such as LISA in the next decade, making this work incredibly timely for informing upcoming observations.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Astronomical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jane",
+   "pi_last_name": "Bright",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jane C Bright",
+   "pi_email_addr": "",
+   "nsf_id": "000884408",
+   "pi_start_date": "2025-07-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Bright, Jane C",
+  "inst_street_address": "",
+  "inst_street_address_2": "",
+  "inst_city_name": "Grinnell",
+  "inst_state_code": "IA",
+  "inst_state_name": "Iowa",
+  "inst_phone_num": "",
+  "inst_zip_code": "50112",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "IA03",
+  "org_lgl_bus_name": "",
+  "org_prnt_uei_num": "",
+  "org_uei_num": ""
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Colorado, Boulder",
+  "perf_str_addr": null,
+  "perf_city_name": "Boulder",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803095004",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "125300",
+   "pgm_ele_name": "OFFICE OF MULTIDISCIPLINARY AC"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  },
+  {
+   "pgm_ref_code": "7137",
+   "pgm_ref_txt": "POSTDOCTORAL FELLOWSHIPS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This project investigated the orbital dynamics of stellar clusters surrounding a supermassive black hole following a merger and subsequent gravitational wave recoil kick. The primary objective was to characterize how these recoil events alter the morphological structure of the host stellar cluster and to quantify the resulting rate of Tidal Disruption Events (TDEs), which are instances where stars are destroyed by the black hole's tidal forces.</p>\r\n<p>I developed analytic and semi-analytic models to predict both the timing of the initial TDE following a recoil kick and the long-term evolution of the TDE rate. My models demonstrated that orbital rearranging and internal torques within the stellar disk produce a delayed, secondary enhancement in the TDE rate. These theoretical models were successfully validated using comprehensive computational N-body simulations. Furthermore, in collaboration with undergraduate researchers, we established models to determine the fraction of bound stars that remain attached to the black hole post-kick. This provides a critical diagnostic feature to distinguish black holes ejected by recoil kicks from those ejected via three-body encounters. Additional research on mass segregation in eccentric nuclear disks revealed that massive stars migrate to radially smaller orbits but do not settle into the midplane, due to the unique angular momentum profile of these systems.</p>\r\n<p>A secondary major goal of this project was to advance accessibility and inclusivity in STEM education. I developed an interactive Hertzsprung-Russell (HR) diagram simulation paired with an active-learning worksheet. This tool translates abstract astrophysical concepts into a dynamic, visual format designed to improve student comprehension and broaden participation in astronomy. I have secured IRB approval to formally study the educational efficacy of this curriculum in college classrooms in the coming year.</p>\r\n<p>This award provided significant opportunities for professional development and training. I completed year-long training in Inclusive Research Mentoring, alongside trainings in high-performance computing and research data management. The project directly supported the mentorship of two undergraduate research projects, including an Honors Thesis that resulted in the student earning elevated Latin honors.</p>\r\n<p>Research findings were widely disseminated to the astrophysics and physics education communities through presentations at the American Astronomical Society (AAS), the American Association of Physics Teachers (AAPT), and the Physics Education Research Conference (PERC). An educational PERC proceedings paper is forthcoming this fall, and two astrophysics papers are currently in preparation for submission to the&nbsp;<em>Astrophysical Journal</em>.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/01/2026<br>\nModified by: Jane&nbsp;C&nbsp;Bright</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2503263/2503263_10989817_1790879746410_HR_sim_display--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2503263/2503263_10989817_1790879746410_HR_sim_display--rgov-800width.png\" title=\"Hertzsprung-Russell diagram simulation display\"><img src=\"/por/images/Reports/POR/2026/2503263/2503263_10989817_1790879746410_HR_sim_display--rgov-66x44.png\" alt=\"Hertzsprung-Russell diagram simulation display\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Hertzsprung-Russell diagram simulation display</div>\n<div class=\"imageCredit\">Jane C. Bright</div>\n<div class=\"imagePermisssions\">Creative Commons</div>\n<div class=\"imageSubmitted\">Jane&nbsp;C&nbsp;Bright\n<div class=\"imageTitle\">Hertzsprung-Russell diagram simulation display</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project investigated the orbital dynamics of stellar clusters surrounding a supermassive black hole following a merger and subsequent gravitational wave recoil kick. The primary objective was to characterize how these recoil events alter the morphological structure of the host stellar cluster and to quantify the resulting rate of Tidal Disruption Events (TDEs), which are instances where stars are destroyed by the black hole's tidal forces.\r\n\n\nI developed analytic and semi-analytic models to predict both the timing of the initial TDE following a recoil kick and the long-term evolution of the TDE rate. My models demonstrated that orbital rearranging and internal torques within the stellar disk produce a delayed, secondary enhancement in the TDE rate. These theoretical models were successfully validated using comprehensive computational N-body simulations. Furthermore, in collaboration with undergraduate researchers, we established models to determine the fraction of bound stars that remain attached to the black hole post-kick. This provides a critical diagnostic feature to distinguish black holes ejected by recoil kicks from those ejected via three-body encounters. Additional research on mass segregation in eccentric nuclear disks revealed that massive stars migrate to radially smaller orbits but do not settle into the midplane, due to the unique angular momentum profile of these systems.\r\n\n\nA secondary major goal of this project was to advance accessibility and inclusivity in STEM education. I developed an interactive Hertzsprung-Russell (HR) diagram simulation paired with an active-learning worksheet. This tool translates abstract astrophysical concepts into a dynamic, visual format designed to improve student comprehension and broaden participation in astronomy. I have secured IRB approval to formally study the educational efficacy of this curriculum in college classrooms in the coming year.\r\n\n\nThis award provided significant opportunities for professional development and training. I completed year-long training in Inclusive Research Mentoring, alongside trainings in high-performance computing and research data management. The project directly supported the mentorship of two undergraduate research projects, including an Honors Thesis that resulted in the student earning elevated Latin honors.\r\n\n\nResearch findings were widely disseminated to the astrophysics and physics education communities through presentations at the American Astronomical Society (AAS), the American Association of Physics Teachers (AAPT), and the Physics Education Research Conference (PERC). An educational PERC proceedings paper is forthcoming this fall, and two astrophysics papers are currently in preparation for submission to theAstrophysical Journal.\r\n\n\n\t\t\t\t\tLast Modified: 10/01/2026\n\n\t\t\t\t\tSubmitted by: JaneCBright\n"
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "awd_id": "2508868",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Macaulay2 at UW-Madison",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032922976",
+ "po_email": "ewitt@nsf.gov",
+ "po_sign_block_name": "Emily E. Witt",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 39900.0,
+ "awd_amount": 39900.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "This award supports participation at the Macaulay2 software development workshop that will be held from June 30 to July 4, 2025, at the University of Wisconsin-Madison. Macaulay2 is a leading computer algebra system for supporting research in commutative algebra and algebraic geometry. At the workshop, researchers will extend its functionality by working in small groups to develop high-quality software packages that will be made publicly available. The workshop gives new users the opportunity to learn from experienced programmers; it will feature tutorial sessions on Macaulay2, as well as basic training in version control and software development. The workshop will include professional development activities intended for early-career mathematicians.  \r\n\r\nThe choice of coding projects is motivated by recent research advances in mathematics. Each project will be led by a leading researcher, and the projects involve a wide variety of active research areas within commutative algebra, algebraic geometry, algebraic topology, representation theory, and algebraic combinatorics. Specific goals include computations related to Galois and monodromy groups, matrix Shubert varieties, Mackey functors, symmetric linear forms, Koszul duality, and positroid varieties. More information can be found on the workshop\u2019s website:  https://macaulay2.github.io/Workshop-2025-Madison/\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Yahl",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas Yahl",
+   "pi_email_addr": "Tyahl@wisc.edu",
+   "nsf_id": "000911757",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mahrud",
+   "pi_last_name": "Sayrafi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mahrud Sayrafi",
+   "pi_email_addr": "msayrafi2@unl.edu",
+   "nsf_id": "000868523",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "Brazelton",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas Brazelton",
+   "pi_email_addr": "tbraz@alumni.upenn.edu",
+   "nsf_id": "000902551",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126400",
+   "pgm_ele_name": "ALGEBRA,NUMBER THEORY,AND COM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 39900.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-71bd1a02-7fff-0d9e-1b37-4befc6d49e3d\">\r\n<p dir=\"ltr\"><span>Macaulay2 is an open source mathematics software developed to support research in commutative algebra and algebraic geometry. This grant supported a 5-day Macaulay2 workshop that was hosted at University of Wisconsin - Madison during the week of June 30 - July 4, 2025. The workshop was intended for mathematicians of all levels of mathematics training and Macaulay2 experience. One goal was to encourage junior and early career mathematicians to learn Macaculay2 for use in research and to become part of the larger Macaulay2 community. Another goal was to provide early career mathematicians the opportunity to lead small teams of participants in various Macaulay2 projects aimed at developing new functionality or improving existing functionality for Macaulay2.</span></p>\r\n<br />\r\n<p dir=\"ltr\"><span>This Macaulay2 workshop emulated the many successful iterations of prior Macaulay2 workshops. Participants elected to work on one of several Macaulay2 based projects (led by early career and senior mathematicians) with the intent of improving their programming skills and contributing to the Macaulay2 software. These participants were provided training in the form of tutorials on Macaulay2 and Github essentials, and they attended 3 expository talks on relevant mathematical topics such as elimination theory, free resolutions, and homotopy continuation. At the end of the workshop, each team presented the progress made during the weed and the current state of the project to the workshop participants.</span></p>\r\n<br />\r\n<p dir=\"ltr\"><span>The workshop was attended by 56 in-person participants, including 4 undergraduate students, 31 graduate students, 9 postdocs, and 1 high school teacher (and the rest being faculty members).&nbsp;</span>These participants chose to work on one of 7 Macaulay2 projects, 4 of which were led by early career mathematicians. The work of these participants has led to the development and implementation of state of the art algorithms in areas such as invariant theory, Ehrhart theory, homological algebra, numerical certification, and algebraic topology. The code developed during this workshop is publicly available on Github. The accomplishments of this workshop and of these participants will support research for years to come and further grow the Macaulay2 community.</p>\r\n<div><span><br /></span></div>\r\n</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 12/12/2025<br>\nModified by: Thomas&nbsp;Yahl</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n\r\n\n\nMacaulay2 is an open source mathematics software developed to support research in commutative algebra and algebraic geometry. This grant supported a 5-day Macaulay2 workshop that was hosted at University of Wisconsin - Madison during the week of June 30 - July 4, 2025. The workshop was intended for mathematicians of all levels of mathematics training and Macaulay2 experience. One goal was to encourage junior and early career mathematicians to learn Macaculay2 for use in research and to become part of the larger Macaulay2 community. Another goal was to provide early career mathematicians the opportunity to lead small teams of participants in various Macaulay2 projects aimed at developing new functionality or improving existing functionality for Macaulay2.\r\n\n\r\n\n\nThis Macaulay2 workshop emulated the many successful iterations of prior Macaulay2 workshops. Participants elected to work on one of several Macaulay2 based projects (led by early career and senior mathematicians) with the intent of improving their programming skills and contributing to the Macaulay2 software. These participants were provided training in the form of tutorials on Macaulay2 and Github essentials, and they attended 3 expository talks on relevant mathematical topics such as elimination theory, free resolutions, and homotopy continuation. At the end of the workshop, each team presented the progress made during the weed and the current state of the project to the workshop participants.\r\n\n\r\n\n\nThe workshop was attended by 56 in-person participants, including 4 undergraduate students, 31 graduate students, 9 postdocs, and 1 high school teacher (and the rest being faculty members).These participants chose to work on one of 7 Macaulay2 projects, 4 of which were led by early career mathematicians. The work of these participants has led to the development and implementation of state of the art algorithms in areas such as invariant theory, Ehrhart theory, homological algebra, numerical certification, and algebraic topology. The code developed during this workshop is publicly available on Github. The accomplishments of this workshop and of these participants will support research for years to come and further grow the Macaulay2 community.\r\n\n\r\n\r\n\n\n\t\t\t\t\tLast Modified: 12/12/2025\n\n\t\t\t\t\tSubmitted by: ThomasYahl\n"
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2533850",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "EAGER: Exploratory Study of Hybrid Quantum Encoding in Ring Multicore Fibers at Visible Wavelengths",
+ "cfda_num": "47.041",
+ "org_code": "07210000",
+ "po_phone": "7032928103",
+ "po_email": "rlukasze@nsf.gov",
+ "po_sign_block_name": "Ale Lukaszew",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 100000.0,
+ "awd_amount": 100000.0,
+ "awd_min_amd_letter_date": "2025-06-12",
+ "awd_max_amd_letter_date": "2025-06-12",
+ "awd_abstract_narration": "This project investigates a new approach to quantum photonics by leveraging specialty optical fibers, originally designed for telecommunication, as compact platforms for advanced quantum information encoding. By exploring these fibers at visible wavelengths, where they behave differently than their design specifications, the project opens new possibilities for encoding quantum information using both spatial and particle properties of light. This work addresses the national interest by advancing foundational science in quantum technologies which are key areas for future secure communication, precision measurement, and quantum computing. In addition to scientific advancement, the project fosters interdisciplinary education, providing hands-on training for students in quantum optics, integrated photonics, and machine learning-based data analysis. Public outreach activities, in collaboration with the Buffalo Amateur Astronomy Association, will further broaden public understanding of quantum technologies.\r\n\r\nTechnical Project Description\r\nThe proposed research aims to explore the use of interacting ring-shaped multicore optical fibers (MCFs) at visible wavelengths to develop new hybrid quantum encoding schemes. Operating these telecom-grade fibers outside their design parameters at visible wavelengths enables the investigation of spatial mode structures for quantum light which is an area largely unexplored. By integrating MCFs with quantum light sources and photon-counting detectors, the project will demonstrate encoding of quantum information in high-dimensional Hilbert spaces, essential for scalable quantum communication and computing. The research involves simulations of quantum dynamics in MCFs, experimental validation of hybrid qudit-based encoding, and real-time machine learning-based photon classification. Additionally, the project will study inter-core coupling dynamics to realize quantum random walks and Boson Sampling in a fiber-based platform. These experiments aim to demonstrate new architectures for near-term quantum advantage. This exploratory effort will lay the groundwork for scalable, low-loss, fiber-integrated quantum devices, representing a paradigm shift in quantum photonic integration.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "ECCS",
+ "org_div_long_name": "Electrical, Communications, & Cyber Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tim",
+   "pi_last_name": "Thomay",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tim Thomay",
+   "pi_email_addr": "thomay@buffalo.edu",
+   "nsf_id": "000708476",
+   "pi_start_date": "2025-06-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "SUNY at Buffalo",
+  "inst_street_address": "520 LEE ENTRANCE STE 211",
+  "inst_street_address_2": "",
+  "inst_city_name": "AMHERST",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "7166452634",
+  "inst_zip_code": "142282577",
+  "inst_country_name": "United States",
+  "cong_dist_code": "26",
+  "st_cong_dist_code": "NY26",
+  "org_lgl_bus_name": "THE RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK",
+  "org_prnt_uei_num": "GMZUKXFDJMA9",
+  "org_uei_num": "LMCJKRFW5R81"
+ },
+ "perf_inst": {
+  "perf_inst_name": "SUNY at Buffalo",
+  "perf_str_addr": "255 Fronczak Hall",
+  "perf_city_name": "Buffalo",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "142601500",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "26",
+  "perf_st_cong_dist": "NY26",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "151700",
+   "pgm_ele_name": "EPMQD: Electronic, Photonic, M"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7203",
+   "pgm_ref_txt": "QUANTUM INFORMATION SCIENCE"
+  },
+  {
+   "pgm_ref_code": "7916",
+   "pgm_ref_txt": "EAGER"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 100000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>&nbsp;</p>\r\n<div>\r\n<div><span>What if the ordinary fiber-optic cables that already carry the world's internet could also carry quantum information? This exploratory project, a collaboration between the University at Buffalo and Corning Incorporated, showed that they can, and in a way that had not been demonstrated before.</span></div>\r\n<br />\r\n<div><span>Quantum technologies promise fundamentally new capabilities in computing and secure communication, but they need hardware that can transport fragile quantum signals. Multicore fibers, strands of glass with many parallel light-guiding channels, were developed by industry to push more internet traffic through a single cable. We asked whether this mass-produced telecom technology could serve quantum science directly.</span></div>\r\n<br />\r\n<div><span>Using a 39-core fiber manufactured by Corning, our team demonstrated, to our knowledge for the first time, that three independent quantum properties of light can be measured simultaneously in such a fiber: how many photons arrive, what spatial shape the light takes inside a core, and which core it travels through. Each of these properties can carry information, so reading all three at once multiplies the capacity for quantum encoding in a cable technology that is already manufactured at industrial scale.</span></div>\r\n<br />\r\n<div><span>Two further findings stand out. Individual photons keep their delicate quantum character while traveling through the fiber, so each core can host a true quantum bit encoded in the internal shape of the light. And the fiber turned out to have a built-in control: simply shifting the point where light enters changes how strongly neighboring cores exchange light, by roughly a factor of three, with no electronics or moving parts. Reconfigurable quantum circuits normally require costly active components; here the standard fiber provides the adjustment for free. The project also established a precisely calibrated baseline that other laboratories can use to certify genuine quantum effects in similar systems, along with a warning about a subtle data-analysis pitfall that can imitate them.</span></div>\r\n<br />\r\n<div><span>This project shows what an industry-university partnership can do that neither side could do alone. Corning contributed the specialty fiber and scientific expertise; the University at Buffalo contributed the quantum measurement capability; and the results were published jointly, with a Corning scientist as co-author. The work is openly available as a preprint (arXiv:2610.03493) and is under review at a peer-reviewed journal, and the measurement methods developed here form the basis for future joint work on much larger systems. The partnership also connects quantum research and student training in Upstate New York with regional industry.</span></div>\r\n<br />\r\n<div><span>The award trained two graduate students and two undergraduate students in experimental quantum optics; both undergraduates contributed strongly enough to become co-authors of the publication. Beyond the university, the team brought quantum science to the public through a continuing partnership with the Buffalo Amateur Astronomy Association, including a public lecture on the physics of light and a hands-on quantum cryptography activity at Chestnut Ridge Park that reached several hundred visitors, who encrypted and cracked secret messages using the same rules of quantum physics that protect future communication networks. The interactive materials built for that event remain freely available online for anyone to use.</span></div>\r\n</div>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/07/2026<br>\nModified by: Tim&nbsp;Thomay</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791384372907_04_outreach_child--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791384372907_04_outreach_child--rgov-800width.jpg\" title=\"Young visitor at the quantum cryptography demonstration\"><img src=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791384372907_04_outreach_child--rgov-66x44.jpg\" alt=\"Young visitor at the quantum cryptography demonstration\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">A young visitor works through the quantum key distribution exercise at a public astronomy night at Chestnut Ridge Park, May 2026.</div>\n<div class=\"imageCredit\">Tim Thomay, University at Buffalo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Tim&nbsp;Thomay\n<div class=\"imageTitle\">Young visitor at the quantum cryptography demonstration</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791383781739_03_experiment_render--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791383781739_03_experiment_render--rgov-800width.jpg\" title=\"Rendering of the photon-pair experiment\"><img src=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791383781739_03_experiment_render--rgov-66x44.jpg\" alt=\"Rendering of the photon-pair experiment\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">The experiment: a source creates photon pairs and launches them into the multicore fiber; single-photon detectors record how many photons arrive, in which shape, and from which core.</div>\n<div class=\"imageCredit\">Tim Thomay, University at Buffalo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Tim&nbsp;Thomay\n<div class=\"imageTitle\">Rendering of the photon-pair experiment</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791384445686_05_outreach_demo--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791384445686_05_outreach_demo--rgov-800width.jpg\" title=\"PI explains the quantum cryptography demonstration\"><img src=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791384445686_05_outreach_demo--rgov-66x44.jpg\" alt=\"PI explains the quantum cryptography demonstration\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">PI Tim Thomay explains quantum key distribution at the Buffalo Amateur Astronomy Association public event at Chestnut Ridge Park, May 2026.</div>\n<div class=\"imageCredit\">Tim Thomay, University at Buffalo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Tim&nbsp;Thomay\n<div class=\"imageTitle\">PI explains the quantum cryptography demonstration</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791383713184_02_mode_control--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791383713184_02_mode_control--rgov-800width.jpg\" title=\"Measured light patterns in the fiber core for two launch positions\"><img src=\"/por/images/Reports/POR/2026/2533850/2533850_10985101_1791383713184_02_mode_control--rgov-66x44.jpg\" alt=\"Measured light patterns in the fiber core for two launch positions\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Moving the light's entry point switches the shape of the light inside a fiber core and changes how strongly neighboring cores talk to each other: the measured crosstalk doubles between a centered launch (top) and an off-center launch (bottom). Figure from the publication arXiv:2610.03493.</div>\n<div class=\"imageCredit\">C. Wijesundara et al., University at Buffalo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Tim&nbsp;Thomay\n<div class=\"imageTitle\">Measured light patterns in the fiber core for two launch positions</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\n\r\n\r\nWhat if the ordinary fiber-optic cables that already carry the world's internet could also carry quantum information? This exploratory project, a collaboration between the University at Buffalo and Corning Incorporated, showed that they can, and in a way that had not been demonstrated before.\r\n\n\r\nQuantum technologies promise fundamentally new capabilities in computing and secure communication, but they need hardware that can transport fragile quantum signals. Multicore fibers, strands of glass with many parallel light-guiding channels, were developed by industry to push more internet traffic through a single cable. We asked whether this mass-produced telecom technology could serve quantum science directly.\r\n\n\r\nUsing a 39-core fiber manufactured by Corning, our team demonstrated, to our knowledge for the first time, that three independent quantum properties of light can be measured simultaneously in such a fiber: how many photons arrive, what spatial shape the light takes inside a core, and which core it travels through. Each of these properties can carry information, so reading all three at once multiplies the capacity for quantum encoding in a cable technology that is already manufactured at industrial scale.\r\n\n\r\nTwo further findings stand out. Individual photons keep their delicate quantum character while traveling through the fiber, so each core can host a true quantum bit encoded in the internal shape of the light. And the fiber turned out to have a built-in control: simply shifting the point where light enters changes how strongly neighboring cores exchange light, by roughly a factor of three, with no electronics or moving parts. Reconfigurable quantum circuits normally require costly active components; here the standard fiber provides the adjustment for free. The project also established a precisely calibrated baseline that other laboratories can use to certify genuine quantum effects in similar systems, along with a warning about a subtle data-analysis pitfall that can imitate them.\r\n\n\r\nThis project shows what an industry-university partnership can do that neither side could do alone. Corning contributed the specialty fiber and scientific expertise; the University at Buffalo contributed the quantum measurement capability; and the results were published jointly, with a Corning scientist as co-author. The work is openly available as a preprint (arXiv:2610.03493) and is under review at a peer-reviewed journal, and the measurement methods developed here form the basis for future joint work on much larger systems. The partnership also connects quantum research and student training in Upstate New York with regional industry.\r\n\n\r\nThe award trained two graduate students and two undergraduate students in experimental quantum optics; both undergraduates contributed strongly enough to become co-authors of the publication. Beyond the university, the team brought quantum science to the public through a continuing partnership with the Buffalo Amateur Astronomy Association, including a public lecture on the physics of light and a hands-on quantum cryptography activity at Chestnut Ridge Park that reached several hundred visitors, who encrypted and cracked secret messages using the same rules of quantum physics that protect future communication networks. The interactive materials built for that event remain freely available online for anyone to use.\r\n\r\n\n\n\t\t\t\t\tLast Modified: 10/07/2026\n\n\t\t\t\t\tSubmitted by: TimThomay\n"
+ }
+}

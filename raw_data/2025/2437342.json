@@ -1,0 +1,96 @@
+{
+ "awd_id": "2437342",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "CHAI:  Cyberinfrastructure Upgrades Supporting STEM Education and Research at Lac Courte Oreilles Ojibwe University",
+ "cfda_num": "47.076",
+ "org_code": "11240000",
+ "po_phone": "7032925173",
+ "po_email": "lchase@nsf.gov",
+ "po_sign_block_name": "Jody Chase",
+ "awd_eff_date": "2025-01-15",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 250000.0,
+ "awd_amount": 250000.0,
+ "awd_min_amd_letter_date": "2025-01-08",
+ "awd_max_amd_letter_date": "2025-01-08",
+ "awd_abstract_narration": "A goal of the Tribal Colleges and Universities Program (TCUP) is to increase the science, technology, engineering and mathematics (STEM) instructional and research capacities of specific institutions of higher education that serve the Nation's indigenous students. Expanding the instructional, research, and development capacity at these institutions expands the opportunities for students to pursue challenging yet rewarding careers in STEM fields, provides for research studies in areas that may be locally relevant, and encourages a faculty community to look beyond the traditional classroom for intellectual and professional growth. This project aligns directly with that goal by strengthening the STEM cyberinfrastructure for instructional and research activities. The project aims to enhance cyberinfrastructure and cybersecurity necessary to facilitate development of the institution in STEM fields and for the protection of sensitive data. \r\n\r\nThe project upgrades specific STEM IT resources at Lac Courte Oreilles Ojibway University to improve the resiliency and security of STEM operations, data management as well as the teaching and research enterprises. Improvements to the university\u2019s network and cybersecurity, fosters its ability to implement advances in STEM instruction and research. The activities for developing STEM cyberinfrastructure directly support current and future projects, including the ability to expand STEM instruction through distance education.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "ECBT",
+ "org_div_long_name": "Education Capacity Building & Transformation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tristan",
+   "pi_last_name": "Stevens",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tristan D Stevens",
+   "pi_email_addr": "tstevens2@lco.edu",
+   "nsf_id": "000924356",
+   "pi_start_date": "2025-01-08",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Lac Courte Oreilles Ojibwa Community College",
+  "inst_street_address": "13466 W TREPANIA RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "HAYWARD",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "7156344790",
+  "inst_zip_code": "548432181",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "WI07",
+  "org_lgl_bus_name": "LAC COURTE OREILLES OJIBWE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "H3PCNTGZMBJ3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Lac Courte Oreilles Ojibwa Community College",
+  "perf_str_addr": "13466 W TREPANIA RD",
+  "perf_city_name": "HAYWARD",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "548432181",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "WI07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "174400",
+   "pgm_ele_name": "Tribal College & Univers Prog"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002526DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 250000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The primary outcome of this project was the modernization and strengthening of Lac Courte Oreilles Ojibwe University's (LCOOU) core cyberinfrastructure. Working with an external consultant, LCOOU's IT department designed, implemented, tested, and deployed substantial upgrades to the University's campus technology environment. Improvements included upgraded wireless infrastructure, storage area network (SAN) capacity, server hosts, firewalls, and a new backup server.<br />These investments significantly improved the reliability, resilience, security, and availability of LCOOU's technology resources. The upgraded infrastructure provides stronger data protection and data-loss prevention capabilities while reducing the risk of service disruptions and improving the University's ability to recover from equipment failures, cyber incidents, and other technology disruptions. Backup and recovery capabilities were rigorously tested as part of project implementation to ensure that the new systems would perform as intended.<br />The project also strengthened the cyberinfrastructure supporting STEM education, research, and workforce development at LCOOU. Students, faculty, and staff now have access to a more reliable and secure technology environment capable of supporting data-intensive instruction, research activities, academic programs, and institutional operations. The increased availability and resiliency of campus IT resources also benefit broader academic and community programs, activities, and events that are important to LCOOU's mission and culture.<br />A particularly important outcome was the expansion of institutional knowledge and technical capacity within LCOOU's IT department. IT staff participated directly in planning, designing, configuring, testing, and implementing the new infrastructure, gaining practical experience with modern networking, server, storage, security, backup, and recovery technologies. This professional development strengthened the University's internal capacity to manage, maintain, troubleshoot, and continuously improve its cyberinfrastructure with less reliance on external expertise.<br />Collectively, these outcomes have positioned LCOOU with a more modern, secure, redundant, and sustainable technology environment. The project not only addressed immediate infrastructure needs but also established a stronger technical foundation for future STEM education and research, institutional growth, cybersecurity improvements, and evolving campus technology requirements.</p><br>\n<p>\n Last Modified: 10/07/2026<br>\nModified by: Tristan&nbsp;D&nbsp;Stevens</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe primary outcome of this project was the modernization and strengthening of Lac Courte Oreilles Ojibwe University's (LCOOU) core cyberinfrastructure. Working with an external consultant, LCOOU's IT department designed, implemented, tested, and deployed substantial upgrades to the University's campus technology environment. Improvements included upgraded wireless infrastructure, storage area network (SAN) capacity, server hosts, firewalls, and a new backup server.\nThese investments significantly improved the reliability, resilience, security, and availability of LCOOU's technology resources. The upgraded infrastructure provides stronger data protection and data-loss prevention capabilities while reducing the risk of service disruptions and improving the University's ability to recover from equipment failures, cyber incidents, and other technology disruptions. Backup and recovery capabilities were rigorously tested as part of project implementation to ensure that the new systems would perform as intended.\nThe project also strengthened the cyberinfrastructure supporting STEM education, research, and workforce development at LCOOU. Students, faculty, and staff now have access to a more reliable and secure technology environment capable of supporting data-intensive instruction, research activities, academic programs, and institutional operations. The increased availability and resiliency of campus IT resources also benefit broader academic and community programs, activities, and events that are important to LCOOU's mission and culture.\nA particularly important outcome was the expansion of institutional knowledge and technical capacity within LCOOU's IT department. IT staff participated directly in planning, designing, configuring, testing, and implementing the new infrastructure, gaining practical experience with modern networking, server, storage, security, backup, and recovery technologies. This professional development strengthened the University's internal capacity to manage, maintain, troubleshoot, and continuously improve its cyberinfrastructure with less reliance on external expertise.\nCollectively, these outcomes have positioned LCOOU with a more modern, secure, redundant, and sustainable technology environment. The project not only addressed immediate infrastructure needs but also established a stronger technical foundation for future STEM education and research, institutional growth, cybersecurity improvements, and evolving campus technology requirements.\t\t\t\t\tLast Modified: 10/07/2026\n\n\t\t\t\t\tSubmitted by: TristanDStevens\n"
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "awd_id": "2515440",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Workshop on LEO satellite impacts on ground-based optical astronomy: LSST",
+ "cfda_num": "47.049",
+ "org_code": "03020000",
+ "po_phone": "7032924910",
+ "po_email": "chrdavis@nsf.gov",
+ "po_sign_block_name": "Chris J. Davis",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2025-09-30",
+ "tot_intn_awd_amt": 49841.0,
+ "awd_amount": 49841.0,
+ "awd_min_amd_letter_date": "2025-03-11",
+ "awd_max_amd_letter_date": "2025-03-11",
+ "awd_abstract_narration": "This workshop will focus on the impacts of Low-Earth Orbit (LEO) satellites on Rubin Observatory images. Rubin is NSF's newest large telescope. It will image the whole sky above Chile every few nights. The telescope makes use of the largest camera ever built. The data will have a profound impact on all areas of astronomy. However, the data will also be negatively affected by LEOs passing through the foreground of the images. This workshop at University of California-Davis will bring together experts to discuss ways in which these impacts can be limited. Modifications to satellite design and operations will be discussed, as will methods for observing and reducing data.\r\n\r\nRubin's Legacy Survey of Space and Time (LSST) will image the entire southern sky hundreds of times over a 10-year period, starting in 2025. Rubin is NSF\u2019s flagship optical-infrared (OIR) observatory. The data from this survey are expected to have a profound impact on almost all areas of astronomy. However, the impact on the survey of the growing number of LEOs orbiting the Earth is yet to be fully appreciated. The goal of the meeting is to focus on specific deliverables - implementable engineering parameters and revised strategies for observing and analyzing Rubin data - that will allow satellite operators and observatories to mitigate these impacts. The workshop will concentrate on impacts to Rubin LSST data, using Rubin as the \u201cbounding case\u201d for astronomy in general. The rapid proliferation of LEO satellites could profoundly affect the future of astronomy by restricting research innovation, limiting funding opportunities, and discouraging future generations of scientists. The proposers will mitigate these effects by collaborating with the satellite industry to seek novel means of coexistence and building lasting relationships that can rapidly react to new challenges.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "AST",
+ "org_div_long_name": "Division Of Astronomical Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "John",
+   "pi_last_name": "Tyson",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "John A Tyson",
+   "pi_email_addr": "tyson@physics.ucdavis.edu",
+   "nsf_id": "000439210",
+   "pi_start_date": "2025-03-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of California-Davis",
+  "inst_street_address": "1850 RESEARCH PARK DR STE 300",
+  "inst_street_address_2": "",
+  "inst_city_name": "DAVIS",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5307547700",
+  "inst_zip_code": "956186153",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "CA04",
+  "org_lgl_bus_name": "UNIVERSITY OF CALIFORNIA, DAVIS",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TX2DAGQPENZ5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of California-Davis",
+  "perf_str_addr": "ONE SHIELDS AVENUE",
+  "perf_city_name": "DAVIS",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "956165270",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "CA04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "121800",
+   "pgm_ele_name": "ADVANCED TECHNOLOGIES & INSTRM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1207",
+   "pgm_ref_txt": "OBSERVATIONAL ASTRONOMY"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 49841.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>In August 2025 a workshop was convened to bring together experts to better understand steps that can be taken to mitigate the impact of satellite constellations on astronomical observations. At the time, just over 12,000 operational satellites were in low-Earth orbit (LEO). Although reflected sunlight and emissions all across the electromagnetic spectrum from artificial satellites impact scientific observations and the sky, the workshop focused on reflected sunlight in the wavelength range from ultraviolet of far infrared. This aligns with the Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) planned imaging observations over the coming decade. Among other conclusions, we affirm previous recommendations that tracked satellite apparent magnitudes should be no brighter than 7th mag.</p>\r\n<p>The workshop participants discussed over 30 publications, reports, and presentations, and arrived at ten Findings and ten Recommendations. During the workshop, in addition to affirming many existing recommendations and best practices, the group discovered new issues and devised possible mitigations. These were nearly equally divided between advice to satellite builders and operators and to the observational astronomy community. While the workshop prioritized considerations for LSST, and only one satellite company was directly represented, our hope is that many of the Findings and Recommendations will also apply to other observatories and constellations, and that all satellite companies will continue to engage in dialog with sky observers across the globe.</p>\r\n<p>The ultra-faint universe remains essentially unexplored, both in the static deep sky and for transient events. This is where LSST is unique, and this is where discovery of the unexpected will occur. Most of the interfering satellites or debris are faint and near the limit of detection. The number of satellites in LSST data increases exponentially at the faint end. While only a fraction of LSST&rsquo;s focal plane will be covered by satellite streaks, most science is instead affected by systematic errors introduced by the low surface brightness light. Thus, small satellites or debris from collisions presents a challenge.</p>\r\n<p>Several key findings and recommendations relate to the orbit height of satellites. Satellites orbiting above 700 km pose a larger threat to the safety of all satellites in that region because of the high likelihood of runaway collisions. The recommendation is to fly at much lower orbits where the atmosphere assures deorbit times of years instead of centuries. Satellites in high orbits also can reflect sunlight &mdash; a conclusion of earlier workshops. A population of otherwise identical satellites may have a smaller impact at lower orbital altitudes than at higher orbital altitudes for most large survey science investigations. Therefore, there is a need to develop constellation-wide metrics alongside per-satellite limits. It is also necessary to develop new standards to enable sharing of satellite brightness observations, simulations, and experimental test results.&nbsp;</p>\r\n<p>Projections indicate that as many as 100,000 LEO satellites might be in orbit by the 2030 timeframe. To date, most recommendations and mitigations have focused on when satellites are in their main operational lifetimes, i.e., &ldquo;on station.&rdquo; However, in practice, many satellites spend weeks to months in a transitional lower-altitude holding orbit before raising their orbits. In addition, with the introduction of the FCC five-year rule, most satellites are deorbited within five years, and many much sooner than this. To maintain a population of 100,000 satellites with five year lifetimes, around 50 will be launched and deorbited per day. We therefore recommend coordinated daytime de-orbits in a short time over the Pacific Ocean, as well as waiting the full five years whenever practicable, to minimize interference with ground-based astronomy.</p>\r\n<p>Recommendations are given on measures that satellite builders can take to ensure that the satellite meets brightness requirements for avoidance of interference with LSST and ground-based observatories generally. Satellite operators should endeavor to meet these requirements, through a combination of satellite design, construction, and operations. These are expressed in engineering units for the satellite components such as watts per steradian per square meter, integrated over a wavelength band. Reflectivity of components may be adjusted in order to meet these goals. These recommendations are a function of satellite size, orientation, telescope size, reflectivity, and wavelength.</p>\r\n<p>Reflected light from communications satellites are not the only threat. Recently there have been proposals for thousands of large satellites in LEO which will illuminate the ground at night. This is potentially ruinous for ground-based optical astronomy in general. &nbsp;It also would change the character of the night sky for everone.</p>\r\n<p>The report has been resleased publicly. &nbsp;<a href=\"https://arxiv.org/abs/2509.19758\">https://arxiv.org/abs/2509.19758</a></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 11/01/2025<br>\nModified by: John&nbsp;Anthony&nbsp;Tyson</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nIn August 2025 a workshop was convened to bring together experts to better understand steps that can be taken to mitigate the impact of satellite constellations on astronomical observations. At the time, just over 12,000 operational satellites were in low-Earth orbit (LEO). Although reflected sunlight and emissions all across the electromagnetic spectrum from artificial satellites impact scientific observations and the sky, the workshop focused on reflected sunlight in the wavelength range from ultraviolet of far infrared. This aligns with the Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) planned imaging observations over the coming decade. Among other conclusions, we affirm previous recommendations that tracked satellite apparent magnitudes should be no brighter than 7th mag.\r\n\n\nThe workshop participants discussed over 30 publications, reports, and presentations, and arrived at ten Findings and ten Recommendations. During the workshop, in addition to affirming many existing recommendations and best practices, the group discovered new issues and devised possible mitigations. These were nearly equally divided between advice to satellite builders and operators and to the observational astronomy community. While the workshop prioritized considerations for LSST, and only one satellite company was directly represented, our hope is that many of the Findings and Recommendations will also apply to other observatories and constellations, and that all satellite companies will continue to engage in dialog with sky observers across the globe.\r\n\n\nThe ultra-faint universe remains essentially unexplored, both in the static deep sky and for transient events. This is where LSST is unique, and this is where discovery of the unexpected will occur. Most of the interfering satellites or debris are faint and near the limit of detection. The number of satellites in LSST data increases exponentially at the faint end. While only a fraction of LSSTs focal plane will be covered by satellite streaks, most science is instead affected by systematic errors introduced by the low surface brightness light. Thus, small satellites or debris from collisions presents a challenge.\r\n\n\nSeveral key findings and recommendations relate to the orbit height of satellites. Satellites orbiting above 700 km pose a larger threat to the safety of all satellites in that region because of the high likelihood of runaway collisions. The recommendation is to fly at much lower orbits where the atmosphere assures deorbit times of years instead of centuries. Satellites in high orbits also can reflect sunlight  a conclusion of earlier workshops. A population of otherwise identical satellites may have a smaller impact at lower orbital altitudes than at higher orbital altitudes for most large survey science investigations. Therefore, there is a need to develop constellation-wide metrics alongside per-satellite limits. It is also necessary to develop new standards to enable sharing of satellite brightness observations, simulations, and experimental test results.\r\n\n\nProjections indicate that as many as 100,000 LEO satellites might be in orbit by the 2030 timeframe. To date, most recommendations and mitigations have focused on when satellites are in their main operational lifetimes, i.e., on station. However, in practice, many satellites spend weeks to months in a transitional lower-altitude holding orbit before raising their orbits. In addition, with the introduction of the FCC five-year rule, most satellites are deorbited within five years, and many much sooner than this. To maintain a population of 100,000 satellites with five year lifetimes, around 50 will be launched and deorbited per day. We therefore recommend coordinated daytime de-orbits in a short time over the Pacific Ocean, as well as waiting the full five years whenever practicable, to minimize interference with ground-based astronomy.\r\n\n\nRecommendations are given on measures that satellite builders can take to ensure that the satellite meets brightness requirements for avoidance of interference with LSST and ground-based observatories generally. Satellite operators should endeavor to meet these requirements, through a combination of satellite design, construction, and operations. These are expressed in engineering units for the satellite components such as watts per steradian per square meter, integrated over a wavelength band. Reflectivity of components may be adjusted in order to meet these goals. These recommendations are a function of satellite size, orientation, telescope size, reflectivity, and wavelength.\r\n\n\nReflected light from communications satellites are not the only threat. Recently there have been proposals for thousands of large satellites in LEO which will illuminate the ground at night. This is potentially ruinous for ground-based optical astronomy in general. It also would change the character of the night sky for everone.\r\n\n\nThe report has been resleased publicly. https://arxiv.org/abs/2509.19758\r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 11/01/2025\n\n\t\t\t\t\tSubmitted by: JohnAnthonyTyson\n"
+ }
+}

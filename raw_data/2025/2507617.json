@@ -1,0 +1,101 @@
+{
+ "awd_id": "2507617",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Nonlinear Eigenmode Expansion Method for Integrated Quantum Photonics",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-03-21",
+ "awd_max_amd_letter_date": "2025-03-21",
+ "awd_abstract_narration": "The broader impact/commercial impacts of this Small Business Innovation Research (SBIR) Phase I project are in developing a new computer program that will enhance the design and optimization of photonic devices used in quantum technology. Photonic devices in quantum technology use light to process and transfer information in advanced ways. This innovation addresses a major gap in the ability to model and design optical processes which are essential for secure quantum communications, sensing, and computing. Existing computer programs cannot capture the complexity of quantum photonic interactions, leading to slow and expensive designs. By introducing a faster and more accurate modeling approach, this project will help accelerate the development of next-generation quantum technologies, reducing both the cost and time required for device design. The commercialization strategy is focused on offering a free version with basic functionality and premium versions with the newly developed capabilities. The proposed technology will provide a durable competitive advantage and large commercial potential through patent protection. Beyond commercial applications, this project will support workforce development and contribute to research and development, aligning with US leadership goals in AI computing.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project focuses on the development of a nonlinear eigenmode expansion simulation tool for modeling nonlinear optical interactions in complex waveguide structures. Current modeling approaches, such as finite-difference time-domain, are computationally expensive and struggle to accurately model key nonlinear optical processes like second harmonic generation and spontaneous parametric down-conversion. The proposed nonlinear eigenmode expansion method aims to overcome these limitations by integrating nonlinear and quantum-specific calculations into an eigenmode expansion framework, using a semi-classical framework. The project will develop and validate a robust simulation tool that significantly reduces computational time while maintaining high accuracy. Research efforts will include implementing core algorithms for modeling nonlinear interactions, extending these methods to quantum-specific processes, and benchmarking the tool against both experimental data and traditional simulation methods. This project will result in a commercially available simulation tool that accelerates research and development in the quantum photonics industry, enabling the design of more efficient and scalable quantum devices.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Eric",
+   "pi_last_name": "Stanton",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Eric J Stanton",
+   "pi_email_addr": "eric@emodephotonix.com",
+   "nsf_id": "000848695",
+   "pi_start_date": "2025-03-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "EMode Photonix LLC",
+  "inst_street_address": "2000 CENTRAL AVE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "BOULDER",
+  "inst_state_code": "CO",
+  "inst_state_name": "Colorado",
+  "inst_phone_num": "4083915935",
+  "inst_zip_code": "803013075",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "CO02",
+  "org_lgl_bus_name": "EMODE PHOTONIX LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WDAKL8EH1CW6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "EMODE PHOTONIX LLC",
+  "perf_str_addr": "315 S 38TH ST",
+  "perf_city_name": "BOULDER",
+  "perf_st_code": "CO",
+  "perf_st_name": "Colorado",
+  "perf_zip_code": "803055469",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "CO02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8990",
+   "pgm_ref_txt": "Optics and Photonics"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-54ec6878-7fff-6b7b-130a-7a37e2834a22\"> </span></p>\r\n<p dir=\"ltr\"><span>Modern technologies in quantum computing, quantum communication, and precision sensing rely on devices that generate, manipulate, and convert individual particles of light called photons. These devices are built from miniaturized optical waveguides, microscopic channels that guide light through a chip, and their performance depends critically on nonlinear optical processes, where light at one color or wavelength is converted to another. For example, a device used in quantum communication might need to convert a photon generated by an atomic system at one wavelength to a different wavelength that travels efficiently through fiber optic cables, or a quantum computer might need a reliable source of pairs of entangled photons that are quantum mechanically linked regardless of their physical separation. Designing these devices requires accurate computer simulation, but existing tools are either too slow to model realistic device geometries or lack the ability to simulate the quantum optical processes that are central to next-generation photonic technologies. A commonly used simulation approach called the finite-difference time-domain method, which works by breaking up space and time into a fine grid and tracking how light evolves through the device, becomes impractically slow and memory-intensive for the millimeter-to-centimeter scale devices relevant to integrated photonics. For a single simulation of a ten-millimeter waveguide, this approach would require approximately two terabytes of computer memory, far beyond the capacity of any standard workstation.</span></p>\r\n<p dir=\"ltr\"><span>The goal of this project was to develop a new simulation method, called the nonlinear eigenmode expansion method, that overcomes these limitations and makes rigorous simulation of nonlinear and quantum photonic devices practical on standard computer hardware. Rather than tracking the full evolution of light across a fine grid, this method represents light as a combination of the natural propagating patterns of the waveguide, called eigenmodes, and computes how these patterns interact with each other as the device converts light from one wavelength to another. This approach is far more computationally efficient because it scales with the complexity of the waveguide geometry rather than its physical length, allowing devices that would be completely intractable with previous methods to be simulated in seconds. The same ten-millimeter waveguide simulation that would require two terabytes of memory with traditional methods runs in approximately 50 seconds on a consumer laptop with the new tool.</span></p>\r\n<p dir=\"ltr\"><span>During this project, EMode Photonix successfully developed and validated the nonlinear eigenmode expansion simulation tool across a broad range of optical processes relevant to photonic device design. These include second harmonic generation, in which a laser beam is converted to light at twice its original frequency; optical parametric amplification, in which a weak optical signal is amplified without the noise penalty associated with conventional semiconductor amplifiers; quantum frequency conversion, in which a single photon is shifted from one wavelength to another while preserving its quantum properties; and spontaneous parametric down-conversion, in which a single photon is spontaneously split into a pair of entangled photons that are quantum mechanically linked. This last process is the primary physical mechanism used to generate entangled photon pairs for quantum communication and quantum computing applications, and no existing commercial software tool was capable of rigorously simulating it in devices with complex or non-uniform geometries prior to this work. Simulation results were validated against mathematical reference solutions and against experimental measurements from collaborating research groups, confirming that the tool produces accurate predictions for real fabricated devices. A patent application has been submitted covering device designs developed using the tool, and the work was published and presented at the SPIE Photonics West conference in 2026.</span></p>\r\n<p dir=\"ltr\"><span>The nonlinear eigenmode expansion tool is now commercially available through EMode Photonix and has been adopted by research groups and companies working on photonic integrated circuits for quantum technologies. The project supported the growth of EMode Photonix as a company, including the hiring of the first full-time software developer and the establishment of new customer and research partnerships with organizations in the quantum computing and precision measurement sectors. Phase II development will extend the tool to additional nonlinear optical processes, including interactions involving pulsed light sources and third-order nonlinearities, and will incorporate experimental benchmarking across a wider range of material platforms and device geometries. By making rigorous simulation of quantum photonic devices accessible to a broader community of researchers and engineers, this work contributes to accelerating progress toward practical quantum technologies with anticipated applications in secure communication, precision navigation, medical imaging, and scientific measurement.</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/15/2026<br>\nModified by: Eric&nbsp;John&nbsp;Stanton</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n \r\n\n\nModern technologies in quantum computing, quantum communication, and precision sensing rely on devices that generate, manipulate, and convert individual particles of light called photons. These devices are built from miniaturized optical waveguides, microscopic channels that guide light through a chip, and their performance depends critically on nonlinear optical processes, where light at one color or wavelength is converted to another. For example, a device used in quantum communication might need to convert a photon generated by an atomic system at one wavelength to a different wavelength that travels efficiently through fiber optic cables, or a quantum computer might need a reliable source of pairs of entangled photons that are quantum mechanically linked regardless of their physical separation. Designing these devices requires accurate computer simulation, but existing tools are either too slow to model realistic device geometries or lack the ability to simulate the quantum optical processes that are central to next-generation photonic technologies. A commonly used simulation approach called the finite-difference time-domain method, which works by breaking up space and time into a fine grid and tracking how light evolves through the device, becomes impractically slow and memory-intensive for the millimeter-to-centimeter scale devices relevant to integrated photonics. For a single simulation of a ten-millimeter waveguide, this approach would require approximately two terabytes of computer memory, far beyond the capacity of any standard workstation.\r\n\n\nThe goal of this project was to develop a new simulation method, called the nonlinear eigenmode expansion method, that overcomes these limitations and makes rigorous simulation of nonlinear and quantum photonic devices practical on standard computer hardware. Rather than tracking the full evolution of light across a fine grid, this method represents light as a combination of the natural propagating patterns of the waveguide, called eigenmodes, and computes how these patterns interact with each other as the device converts light from one wavelength to another. This approach is far more computationally efficient because it scales with the complexity of the waveguide geometry rather than its physical length, allowing devices that would be completely intractable with previous methods to be simulated in seconds. The same ten-millimeter waveguide simulation that would require two terabytes of memory with traditional methods runs in approximately 50 seconds on a consumer laptop with the new tool.\r\n\n\nDuring this project, EMode Photonix successfully developed and validated the nonlinear eigenmode expansion simulation tool across a broad range of optical processes relevant to photonic device design. These include second harmonic generation, in which a laser beam is converted to light at twice its original frequency; optical parametric amplification, in which a weak optical signal is amplified without the noise penalty associated with conventional semiconductor amplifiers; quantum frequency conversion, in which a single photon is shifted from one wavelength to another while preserving its quantum properties; and spontaneous parametric down-conversion, in which a single photon is spontaneously split into a pair of entangled photons that are quantum mechanically linked. This last process is the primary physical mechanism used to generate entangled photon pairs for quantum communication and quantum computing applications, and no existing commercial software tool was capable of rigorously simulating it in devices with complex or non-uniform geometries prior to this work. Simulation results were validated against mathematical reference solutions and against experimental measurements from collaborating research groups, confirming that the tool produces accurate predictions for real fabricated devices. A patent application has been submitted covering device designs developed using the tool, and the work was published and presented at the SPIE Photonics West conference in 2026.\r\n\n\nThe nonlinear eigenmode expansion tool is now commercially available through EMode Photonix and has been adopted by research groups and companies working on photonic integrated circuits for quantum technologies. The project supported the growth of EMode Photonix as a company, including the hiring of the first full-time software developer and the establishment of new customer and research partnerships with organizations in the quantum computing and precision measurement sectors. Phase II development will extend the tool to additional nonlinear optical processes, including interactions involving pulsed light sources and third-order nonlinearities, and will incorporate experimental benchmarking across a wider range of material platforms and device geometries. By making rigorous simulation of quantum photonic devices accessible to a broader community of researchers and engineers, this work contributes to accelerating progress toward practical quantum technologies with anticipated applications in secure communication, precision navigation, medical imaging, and scientific measurement.\r\n\n\n\t\t\t\t\tLast Modified: 06/15/2026\n\n\t\t\t\t\tSubmitted by: EricJohnStanton\n"
+ }
+}

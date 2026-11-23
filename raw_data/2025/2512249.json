@@ -1,0 +1,125 @@
+{
+ "awd_id": "2512249",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Doctoral Dissertation Research: Tracing Transformations through Compositional Analysis",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032928759",
+ "po_email": "jyellen@nsf.gov",
+ "po_sign_block_name": "John Yellen",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 31500.0,
+ "awd_amount": 31500.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "This doctoral dissertation project investigates the conditions under which groups form and why they are perpetuated across generations. Frontier regions, where disparate groups come into contact, offer the best contexts to study these processes in pre-modern eras. When disparate groups interact, alternative organizational and economic traditions must be negotiated. Archaeologists infer that when these processes result in the creation and maintenance of material and immaterial boundaries at local scales they correspond to group formation. A key question is whether group formation results from categories being imposed by the more powerful group, or if intra-community dynamics of the subordinate group play a more significant role. How these scenarios develop across generations allows archaeologists to reconstruct strategies of assimilation, hybridization and/or resistance by the subordinate group. The project trains a graduate student in archaeological science.\r\n\r\nTo reconstruct these transformations, this research evaluates technological and stylistic variation in ceramics over time as a proxy for understanding change and group formation. Five sites are excavated to collect data from two recognized phases of occupation. Analyses assess high- and low-visibility attributes of ceramic manufacture. These attributes respectively capture patterns of intentional affiliation and markers of community membership encoded in unconscious habits of manufacture. The approach facilitates a comparison of aspirational affiliation compared to ancestral affiliation to reconstruct group dynamics. Provenance data is provided by instrumental neutron activation analysis.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matthew",
+   "pi_last_name": "Pailes",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthew C Pailes",
+   "pi_email_addr": "mpailes@ou.edu",
+   "nsf_id": "000599469",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Jose",
+   "pi_last_name": "Vivero-Miranda",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jose R Vivero-Miranda",
+   "pi_email_addr": "Jose.r.vivero.miranda-1@ou.edu",
+   "nsf_id": "0000A2BQH",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Oklahoma Norman Campus",
+  "inst_street_address": "660 PARRINGTON OVAL RM 301",
+  "inst_street_address_2": "",
+  "inst_city_name": "NORMAN",
+  "inst_state_code": "OK",
+  "inst_state_name": "Oklahoma",
+  "inst_phone_num": "4053254757",
+  "inst_zip_code": "730193003",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OK04",
+  "org_lgl_bus_name": "UNIVERSITY OF OKLAHOMA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EVTSTTLCEWS5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Oklahoma Norman Campus",
+  "perf_str_addr": "660 PARRINGTON OVAL RM 301",
+  "perf_city_name": "NORMAN",
+  "perf_st_code": "OK",
+  "perf_st_name": "Oklahoma",
+  "perf_zip_code": "730193003",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OK04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760600",
+   "pgm_ele_name": "Archaeology DDRI"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1391",
+   "pgm_ref_txt": "ARCHAEOLOGY"
+  },
+  {
+   "pgm_ref_code": "5922",
+   "pgm_ref_txt": "MEXICO"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 31500.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This project examines transformations among Huatabampo-affiliated groups in the Lower Guasave River (LGR) region of northern Sinaloa, Mexico, during the presence of Aztatl&aacute;n tradition-related material culture (Mesoamerican influence) between approximately A.D. 900 and 1450. The region has long been regarded as a borderland because it exhibits material expressions associated with both Mesoamerican and U.S. Greater Southwest cultural trajectories. Despite its significance, little is known about how local Huatabampo-affiliated groups responded and adapted to the arrival of the Aztatl&aacute;n tradition. Broadly, this research contributes to debates concerning continental-scale interactions between Mesoamerica and the U.S. Greater Southwest while investigating the social implications of the Aztatl&aacute;n tradition for local communities in northwestern Mexico.</p>\r\n<p>Through the excavation of five newly recorded archaeological sites, this project addresses processes of ethnogenesis by evaluating changes in ceramic manufacturing practices before and after the introduction of the Aztatl&aacute;n tradition. Particular attention is given to technological choices reflected in ceramic paste composition, while provenance data derived from Neutron Activation Analysis (NAA) of Aztatl&aacute;n polychrome ceramics provide additional context for understanding long-term patterns of production and exchange.</p>\r\n<p>Results from ceramic paste analysis indicate that the investigated communities shared a technological tradition for the manufacture of red plainware ceramics that remained remarkably stable for nearly six centuries. This continuity suggests that the sites were already integrated within enduring networks of interaction and communication prior to the arrival of the Aztatl&aacute;n tradition. Although subtle shifts in technological patterns are evident during the Guasave period, these changes are expressed primarily through a more even distribution of technological choices across sites and contexts. Such patterns are consistent with increased intercommunity connectivity and may reflect intensified circulation of both finished vessels and potters across the region.</p>\r\n<p>Although NAA analyses of Aztatl&aacute;n polychrome ceramics (n = 170) remain in progress, preliminary macroscopic paste observations indicate that their production was not associated with an entirely new technological system. Instead, Aztatl&aacute;n polychromes appear to have been produced through a more restricted subset of technological choices already present within local ceramic traditions, some of which can be traced to the preceding Huatabampo period. These findings suggest that social change occurred through increasing specialization or restricted participation in the production of this particular ceramic class rather than through the introduction of foreign manufacturing traditions.</p>\r\n<p>While funerary practices were not the primary focus of the project, excavations documented several mortuary contexts that provide important evidence for broader social transformations associated with the onset of the Aztatl&aacute;n tradition (ca. A.D. 1000/1100&ndash;1400). The coexistence of cremation practices, more commonly associated with northwestern Mexico and the U.S. Greater Southwest, alongside funerary urn traditions linked to the Aztatl&aacute;n sphere of western Mexico, indicates that the Lower Guasave River functioned as a zone where diverse cultural influences converged. This scenario hardly reflects a process of cultural replacement. This instead suggests the selective incorporation of external traditions into existing local social systems.</p>\r\n<p>The mortuary sphere appears to have functioned as a primary arena for the negotiation of social identities during the Guasave period. In this context domestic technological traditions remained remarkably stable while funerary practices became increasingly diverse and elaborate, suggesting that ritual performances surrounding death provided opportunities for communities and individuals to express affiliations, display access to emerging symbolic resources, and legitimize new social positions. The coexistence of multiple mortuary treatments, including cremations, funerary urns, bundle burials, and primary inhumations, points to an increasingly complex ceremonial landscape in which social differentiation was expressed through ritual practice. These developments may also indicate the emergence of specialized ritual knowledge associated with corpse preparation, cremation procedures, and funerary ceremonies. In this sense, social transformation associated with the Aztatl&aacute;n tradition may have been manifested most clearly in the ceremonial treatment of the dead whereas daily life practices rather than in the technological practices of everyday life.</p>\r\n<p>Taken together, the continuity observed in ceramic technological practices between approximately cal. A.D. 670 and 1460, combined with evidence from mortuary behavior, supports the interpretation that the Aztatl&aacute;n tradition in the Lower Guasave River region could represent a process of selective local adoption of external traits within an enduring Huatabampo social framework. The data in this project hardly support the imposition of foreign institutions or population replacement. The social transformation in the LGR appears to have emerged through the negotiation, adaptation, and reconfiguration of existing social practices in response to expanding interregional interactions. These findings contribute to broader archaeological discussions of ethnogenesis, borderland dynamics, and cultural interaction by demonstrating how local communities actively incorporated external influences while maintaining continuity in the technological traditions that structured everyday life.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p class=\"p1\">&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/22/2026<br>\nModified by: Jose&nbsp;R&nbsp;Vivero-Miranda</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project examines transformations among Huatabampo-affiliated groups in the Lower Guasave River (LGR) region of northern Sinaloa, Mexico, during the presence of Aztatln tradition-related material culture (Mesoamerican influence) between approximately A.D. 900 and 1450. The region has long been regarded as a borderland because it exhibits material expressions associated with both Mesoamerican and U.S. Greater Southwest cultural trajectories. Despite its significance, little is known about how local Huatabampo-affiliated groups responded and adapted to the arrival of the Aztatln tradition. Broadly, this research contributes to debates concerning continental-scale interactions between Mesoamerica and the U.S. Greater Southwest while investigating the social implications of the Aztatln tradition for local communities in northwestern Mexico.\r\n\n\nThrough the excavation of five newly recorded archaeological sites, this project addresses processes of ethnogenesis by evaluating changes in ceramic manufacturing practices before and after the introduction of the Aztatln tradition. Particular attention is given to technological choices reflected in ceramic paste composition, while provenance data derived from Neutron Activation Analysis (NAA) of Aztatln polychrome ceramics provide additional context for understanding long-term patterns of production and exchange.\r\n\n\nResults from ceramic paste analysis indicate that the investigated communities shared a technological tradition for the manufacture of red plainware ceramics that remained remarkably stable for nearly six centuries. This continuity suggests that the sites were already integrated within enduring networks of interaction and communication prior to the arrival of the Aztatln tradition. Although subtle shifts in technological patterns are evident during the Guasave period, these changes are expressed primarily through a more even distribution of technological choices across sites and contexts. Such patterns are consistent with increased intercommunity connectivity and may reflect intensified circulation of both finished vessels and potters across the region.\r\n\n\nAlthough NAA analyses of Aztatln polychrome ceramics (n = 170) remain in progress, preliminary macroscopic paste observations indicate that their production was not associated with an entirely new technological system. Instead, Aztatln polychromes appear to have been produced through a more restricted subset of technological choices already present within local ceramic traditions, some of which can be traced to the preceding Huatabampo period. These findings suggest that social change occurred through increasing specialization or restricted participation in the production of this particular ceramic class rather than through the introduction of foreign manufacturing traditions.\r\n\n\nWhile funerary practices were not the primary focus of the project, excavations documented several mortuary contexts that provide important evidence for broader social transformations associated with the onset of the Aztatln tradition (ca. A.D. 1000/11001400). The coexistence of cremation practices, more commonly associated with northwestern Mexico and the U.S. Greater Southwest, alongside funerary urn traditions linked to the Aztatln sphere of western Mexico, indicates that the Lower Guasave River functioned as a zone where diverse cultural influences converged. This scenario hardly reflects a process of cultural replacement. This instead suggests the selective incorporation of external traditions into existing local social systems.\r\n\n\nThe mortuary sphere appears to have functioned as a primary arena for the negotiation of social identities during the Guasave period. In this context domestic technological traditions remained remarkably stable while funerary practices became increasingly diverse and elaborate, suggesting that ritual performances surrounding death provided opportunities for communities and individuals to express affiliations, display access to emerging symbolic resources, and legitimize new social positions. The coexistence of multiple mortuary treatments, including cremations, funerary urns, bundle burials, and primary inhumations, points to an increasingly complex ceremonial landscape in which social differentiation was expressed through ritual practice. These developments may also indicate the emergence of specialized ritual knowledge associated with corpse preparation, cremation procedures, and funerary ceremonies. In this sense, social transformation associated with the Aztatln tradition may have been manifested most clearly in the ceremonial treatment of the dead whereas daily life practices rather than in the technological practices of everyday life.\r\n\n\nTaken together, the continuity observed in ceramic technological practices between approximately cal. A.D. 670 and 1460, combined with evidence from mortuary behavior, supports the interpretation that the Aztatln tradition in the Lower Guasave River region could represent a process of selective local adoption of external traits within an enduring Huatabampo social framework. The data in this project hardly support the imposition of foreign institutions or population replacement. The social transformation in the LGR appears to have emerged through the negotiation, adaptation, and reconfiguration of existing social practices in response to expanding interregional interactions. These findings contribute to broader archaeological discussions of ethnogenesis, borderland dynamics, and cultural interaction by demonstrating how local communities actively incorporated external influences while maintaining continuity in the technological traditions that structured everyday life.\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 06/22/2026\n\n\t\t\t\t\tSubmitted by: JoseRVivero-Miranda\n"
+ }
+}

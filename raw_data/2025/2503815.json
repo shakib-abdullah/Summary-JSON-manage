@@ -1,0 +1,96 @@
+{
+ "awd_id": "2503815",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Distribution of the Hodge and the Tate locus",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032922467",
+ "po_email": "mdouglas@nsf.gov",
+ "po_sign_block_name": "James Matthew Douglass",
+ "awd_eff_date": "2024-11-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 165000.0,
+ "awd_amount": 117660.0,
+ "awd_min_amd_letter_date": "2024-11-12",
+ "awd_max_amd_letter_date": "2024-11-12",
+ "awd_abstract_narration": "Geometry and arithmetic were first studied by the Greeks, while algebra first emerged centuries later in the hands of Persian scholars as the art of solving equations. The interplay between these three disciplines has been at the center of mathematical research over the past century. Mathematicians have uncovered deep connections between them, leading to many spectacular results in mathematics (e.g., Fermat\u2019s Last Theorem) and other fields, including applications in cryptography, quantum field theory, and string theory in physics. The main object of study at the intersection of these disciplines is a set of algebraic equations. While geometry helps understand the shape of the set of solutions with complex entries (also called algebraic varieties), the goal of arithmetic is to understand the set of solutions with integer entries. There are natural linear structures attached to algebraic varieties called Hodge structures, which in some cases capture faithfully the set of algebraic equations we started with. The study of Hodge structures, their symmetries, and their variations is the main object of investigation of this proposal. It is a topic at the crossroads of several areas of research such as complex algebraic geometry, number theory, and representation theory, with many long-standing conjectures. The PI will involve graduate students in this project and will organize a conference on recent advances in Hodge theory.\r\n\r\n\r\nThis project aims to answer several questions regarding the distribution of the exceptional Hodge locus in the theory of variations of Hodge structures and their arithmetic counterpart, the Tate locus. These questions will be addressed using tools from Arakelov intersection theory, ergodic theory, Hodge theory, Ax-Schanuel theorem for Shimura varieties, and Diophantine geometry. The first goal is to study the atypical Hodge locus in some families of algebraic varieties. The second goal is to study the Tate locus and give a concrete application to exceptional algebraicity under specializations of Brauer classes on K3 surfaces. The third goal is to study the modularity behavior of the closure of special cycles in moduli spaces of K3 surfaces, or more generally in orthogonal Shimura varieties. These generating series exhibit a quasi-modularity behavior as well as a mixed mock modularity behavior, depending on the type of degeneration of the family of K3 surfaces.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Salim",
+   "pi_last_name": "Tayou",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Salim Tayou",
+   "pi_email_addr": "Salim.Tayou@dartmouth.edu",
+   "nsf_id": "000863593",
+   "pi_start_date": "2024-11-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Dartmouth College",
+  "inst_street_address": "7 LEBANON ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "HANOVER",
+  "inst_state_code": "NH",
+  "inst_state_name": "New Hampshire",
+  "inst_phone_num": "6036463007",
+  "inst_zip_code": "037552170",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "NH02",
+  "org_lgl_bus_name": "TRUSTEES OF DARTMOUTH COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EB8ASJBCFER9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Dartmouth College",
+  "perf_str_addr": "7 LEBANON ST",
+  "perf_city_name": "HANOVER",
+  "perf_st_code": "NH",
+  "perf_st_name": "New Hampshire",
+  "perf_zip_code": "037552170",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "NH02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126400",
+   "pgm_ele_name": "ALGEBRA,NUMBER THEORY,AND COM"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002324DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2023,
+   "fund_oblg_amt": 117660.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><br /><br />The general areas of this project are algebraic geometry and number theory. In broad terms, an algebraic variety is a geometric object defined by polynomial equations. As such varieties vary in a family, certain members may acquire extra algebraic or arithmetic structures. The set of parameters where these special structures occur forms the Hodge, Tate, or non-abelian Hodge locus. Understanding how these loci are distributed is central to several major themes in modern mathematics, including the Hodge conjecture, the Tate conjecture, unlikely intersections, and the arithmetic of algebraic varieties. The project investigated the distribution of these loci. In particular, the PI proved new results about the distribution of the Hodge locus in Hodge theory, the Tate locus in number theory, and the non-abelian Hodge locus in non-abelian Hodge theory.<br /><br />More specifically, outcomes of the project included the following research articles:<br /><br />&nbsp; &nbsp; 1. With Matt Kerr, the PI established the algebraicity of the positive dimensional torsion locus of the Ceresa normal function. This is a special instance of the Zilber&ndash;Pink conjecture for polarized variations of mixed Hodge structures. The article has been published.<br />&nbsp; &nbsp; 2. With Bruno Klingler, the PI established that the Zilber&ndash;Pink conjecture holds for varieties not defined over the algebraic closure of the field of rational numbers. The article has been submitted.<br />&nbsp; &nbsp; 3. With Davesh Maulik, the PI proved that, given a Brauer class on a K3 surface over a number field, the class vanishes for infinitely many reductions of the K3 surface. This establishes a Zariski-density-type result for the Tate locus in arithmetic geometry. The article has been published.<br />&nbsp; &nbsp; 4. With Fran&ccedil;ois Greer and Philip Engel, the PI proved that the generating series of Zariski closures of special cycles in orthogonal and unitary Shimura varieties are mixed mock modular forms, and provided explicit completions by boundary cycles. This makes important progress on a conjecture of Kudla. Two articles have been submitted for publication.<br />&nbsp; &nbsp; 5. Motivated by the analogy between Hodge theory and non-abelian Hodge theory, the PI initiated the study of the non-abelian Hodge locus. Non-abelian Hodge theory aims to understand representations of fundamental groups of complex K&auml;hler manifolds. With Philip Engel, the PI partially resolved a conjecture of Deligne on the uniform finiteness of representations of fundamental groups underlying a polarizable variation of Hodge structure. The PI also partially answered a conjecture of Simpson on the algebraicity of the non-abelian Hodge locus, which is the analogue of the celebrated theorem of Cattani&ndash;Deligne&ndash;Kaplan. The article has been accepted for publication.<br />&nbsp; &nbsp; 6. With Philip Engel and Alice Lin, the PI answered an analogue over the complex numbers of a question posed by Shafarevich at the 1962 International Congress of Mathematicians concerning the finiteness of hypersurfaces over a fixed number field. The article has been published.<br /><br />In terms of broader impacts, the results were disseminated through research articles, seminar lectures, international conference talks, and public lectures. The PI organized several learning seminars to train graduate students, taught graduate courses, and co-organized AGNES at Dartmouth in Fall 2024. The PI supervised numerous independent reading projects for undergraduate students. An undergraduate student mentored by the PI recently won the Goldwater Scholarship. The PI also co-organized the number theory seminar and organized a mini-lecture series at Dartmouth given by Matt Kerr.<br /><br /><br /><br /></p><br>\n<p>\n Last Modified: 07/06/2026<br>\nModified by: Salim&nbsp;Tayou</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n\n\nThe general areas of this project are algebraic geometry and number theory. In broad terms, an algebraic variety is a geometric object defined by polynomial equations. As such varieties vary in a family, certain members may acquire extra algebraic or arithmetic structures. The set of parameters where these special structures occur forms the Hodge, Tate, or non-abelian Hodge locus. Understanding how these loci are distributed is central to several major themes in modern mathematics, including the Hodge conjecture, the Tate conjecture, unlikely intersections, and the arithmetic of algebraic varieties. The project investigated the distribution of these loci. In particular, the PI proved new results about the distribution of the Hodge locus in Hodge theory, the Tate locus in number theory, and the non-abelian Hodge locus in non-abelian Hodge theory.\n\nMore specifically, outcomes of the project included the following research articles:\n\n  1. With Matt Kerr, the PI established the algebraicity of the positive dimensional torsion locus of the Ceresa normal function. This is a special instance of the ZilberPink conjecture for polarized variations of mixed Hodge structures. The article has been published.\n  2. With Bruno Klingler, the PI established that the ZilberPink conjecture holds for varieties not defined over the algebraic closure of the field of rational numbers. The article has been submitted.\n  3. With Davesh Maulik, the PI proved that, given a Brauer class on a K3 surface over a number field, the class vanishes for infinitely many reductions of the K3 surface. This establishes a Zariski-density-type result for the Tate locus in arithmetic geometry. The article has been published.\n  4. With Franois Greer and Philip Engel, the PI proved that the generating series of Zariski closures of special cycles in orthogonal and unitary Shimura varieties are mixed mock modular forms, and provided explicit completions by boundary cycles. This makes important progress on a conjecture of Kudla. Two articles have been submitted for publication.\n  5. Motivated by the analogy between Hodge theory and non-abelian Hodge theory, the PI initiated the study of the non-abelian Hodge locus. Non-abelian Hodge theory aims to understand representations of fundamental groups of complex Khler manifolds. With Philip Engel, the PI partially resolved a conjecture of Deligne on the uniform finiteness of representations of fundamental groups underlying a polarizable variation of Hodge structure. The PI also partially answered a conjecture of Simpson on the algebraicity of the non-abelian Hodge locus, which is the analogue of the celebrated theorem of CattaniDeligneKaplan. The article has been accepted for publication.\n  6. With Philip Engel and Alice Lin, the PI answered an analogue over the complex numbers of a question posed by Shafarevich at the 1962 International Congress of Mathematicians concerning the finiteness of hypersurfaces over a fixed number field. The article has been published.\n\nIn terms of broader impacts, the results were disseminated through research articles, seminar lectures, international conference talks, and public lectures. The PI organized several learning seminars to train graduate students, taught graduate courses, and co-organized AGNES at Dartmouth in Fall 2024. The PI supervised numerous independent reading projects for undergraduate students. An undergraduate student mentored by the PI recently won the Goldwater Scholarship. The PI also co-organized the number theory seminar and organized a mini-lecture series at Dartmouth given by Matt Kerr.\n\n\n\n\t\t\t\t\tLast Modified: 07/06/2026\n\n\t\t\t\t\tSubmitted by: SalimTayou\n"
+ }
+}

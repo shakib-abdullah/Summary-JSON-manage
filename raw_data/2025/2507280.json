@@ -1,0 +1,101 @@
+{
+ "awd_id": "2507280",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Portable Blood Diagnostic Technology Enabling Care Delivery Beyond Hospital Walls",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032927069",
+ "po_email": "hahn@nsf.gov",
+ "po_sign_block_name": "Henry Ahn",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 304966.0,
+ "awd_amount": 304966.0,
+ "awd_min_amd_letter_date": "2025-04-29",
+ "awd_max_amd_letter_date": "2025-04-29",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the advancement of a portable, cost-effective rapid point of care diagnostic device that utilizes high sensitivity biosensors for detecting multiple blood-based biomarkers. Starting with reproductive hormones, this technology empowers clinicians to obtain rapid hormone level results to support time-sensitive clinical decisions in fertility treatments such as in-vitro fertilization and cryopreservation. This project aims to address capacity constraints in reproductive care, reduce cost of care, and enhance patient-centric treatment models. This project will lay the foundation to expand into other point of care applications, including the quantitative detection of high-sensitivity cardiac troponin and Alzheimer\u2019s disease-related small proteins, improving clinical outcomes of chronic diseases.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project develops a point-of-care immunoassay system designed for use by lay users with minimal laboratory training to obtain simultaneous, quantitative measurements of three reproductive hormones. The research objectives include: (1) developing an integrated cartridge/analyzer system that automates serum separation and buffer dilution, ensuring high-sensitivity biomarker detection upon sample insertion, (2) optimizing the system for high accuracy and reproducibility, and (3) validating the system in human samples. If successful, this project will result in the first rapid diagnostic platform capable of demonstrating lab-comparable hormone quantification at the point of care.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Hyun-June",
+   "pi_last_name": "Jang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hyun-June Jang",
+   "pi_email_addr": "june@kompassdx.com",
+   "nsf_id": "0000A0RP6",
+   "pi_start_date": "2025-04-29",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Kompass Diagnostics Inc",
+  "inst_street_address": "2017 N MENDELL ST STE 100B",
+  "inst_street_address_2": "",
+  "inst_city_name": "CHICAGO",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "4432243792",
+  "inst_zip_code": "606143033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "IL05",
+  "org_lgl_bus_name": "KOMPASS DIAGNOSTICS INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "EG4LG4MR8AF8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Kompass Diagnostics, Inc.",
+  "perf_str_addr": "1354 N KOSTNER AVE",
+  "perf_city_name": "Chicago",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "606511605",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "IL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "004E",
+   "pgm_ref_txt": "BIOMEDICAL ENG AND DIAGNOSTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304966.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This Phase I SBIR project supported the development of a multiplexed diagnostic platform for assisted reproductive technology (ART), enabling simultaneous quantitative detection of estradiol (E2), progesterone (P4), and luteinizing hormone (LH). The goal of the project was to establish the technical feasibility of an integrated cartridge&ndash;reader system for multiplexed hormone measurement using a small sample volume, with applicability to point-of-care and decentralized testing.</p>\r\n<p>&nbsp;The platform leverages field-effect transistor (FET)&ndash;based electrical biosensing, which converts biorecognition-induced interfacial electrostatic perturbations at the sensing surface into changes in semiconductor channel conductivity, enabling direct electrical readout of molecular recognition events. Although FET biosensing offers high sensitivity and scalable quantification with minimal instrumentation, its adoption has been limited by challenges such as matrix effects, charge screening, signal drift, and device-to-device variability, which hinder standardization and reliability.</p>\r\n<p>To address these limitations, the Phase I platform integrates a disposable, paper-based multiplexed cartridge with a portable FET reader implementing an electrical signaling method based on a radical-mediated enzyme assay (REEA). During Phase I, the project achieved its primary technical objective by developing a cartridge architecture that supports controlled sample handling, feasibility-level plasma separation from artificial whole blood, and three parallel immunoassay zones enabling simultaneous hormone detection within a single test run. In parallel, a multi-channel FET-based reader was developed to provide parallel electrical readout using a shared reference electrode while maintaining electrical isolation across channels.</p>\r\n<p>The project further demonstrated strategies to mitigate biological matrix effects through controlled dilution and buffer optimization, enabling stable and reproducible signal generation. Temperature-dependent variation of electrical readout system was characterized, and correction strategies were implemented to support reliable operation under variable environmental conditions. System-level evaluation showed strong quantitative agreement between the multiplexed cartridge&ndash;reader system and standard laboratory reference methods across clinically relevant hormone concentration ranges. Using 2 &micro;L of plasma separated from 10 &micro;L of artificial whole blood, the system achieved accuracy (r<sup>2</sup>) of approximately 0.98 for E2, 0.97 for P4, and 0.97 for LH across clinically relevant concentration ranges.</p>\r\n<p>While Phase I successfully established system feasibility, several technical challenges remain. These include the need for further validation of long-term reagent stability to support extended storage and deployment, reduction of operation time through optimization of cartridge architecture and fluidic transport dynamics, and improved analytical reproducibility at low analyte concentrations where signal variability is inherently higher. Addressing these challenges will be essential to advance the platform from feasibility-level demonstration toward a robust and manufacturable diagnostic system at needs of clinical.</p>\r\n<p>Overall, this Phase I project established the technical feasibility and practical relevance of a multiplexed hormone diagnostic platform and laid the scientific, organizational, and commercial foundation for continued development. These outcomes support advancement to Phase II, which will focus on system optimization, manufacturing readiness, and expanded validation to enable real-world clinical deployment.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 01/16/2026<br>\nModified by: Hyun-June&nbsp; &nbsp;Jang</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis Phase I SBIR project supported the development of a multiplexed diagnostic platform for assisted reproductive technology (ART), enabling simultaneous quantitative detection of estradiol (E2), progesterone (P4), and luteinizing hormone (LH). The goal of the project was to establish the technical feasibility of an integrated cartridgereader system for multiplexed hormone measurement using a small sample volume, with applicability to point-of-care and decentralized testing.\r\n\n\nThe platform leverages field-effect transistor (FET)based electrical biosensing, which converts biorecognition-induced interfacial electrostatic perturbations at the sensing surface into changes in semiconductor channel conductivity, enabling direct electrical readout of molecular recognition events. Although FET biosensing offers high sensitivity and scalable quantification with minimal instrumentation, its adoption has been limited by challenges such as matrix effects, charge screening, signal drift, and device-to-device variability, which hinder standardization and reliability.\r\n\n\nTo address these limitations, the Phase I platform integrates a disposable, paper-based multiplexed cartridge with a portable FET reader implementing an electrical signaling method based on a radical-mediated enzyme assay (REEA). During Phase I, the project achieved its primary technical objective by developing a cartridge architecture that supports controlled sample handling, feasibility-level plasma separation from artificial whole blood, and three parallel immunoassay zones enabling simultaneous hormone detection within a single test run. In parallel, a multi-channel FET-based reader was developed to provide parallel electrical readout using a shared reference electrode while maintaining electrical isolation across channels.\r\n\n\nThe project further demonstrated strategies to mitigate biological matrix effects through controlled dilution and buffer optimization, enabling stable and reproducible signal generation. Temperature-dependent variation of electrical readout system was characterized, and correction strategies were implemented to support reliable operation under variable environmental conditions. System-level evaluation showed strong quantitative agreement between the multiplexed cartridgereader system and standard laboratory reference methods across clinically relevant hormone concentration ranges. Using 2 L of plasma separated from 10 L of artificial whole blood, the system achieved accuracy (r2) of approximately 0.98 for E2, 0.97 for P4, and 0.97 for LH across clinically relevant concentration ranges.\r\n\n\nWhile Phase I successfully established system feasibility, several technical challenges remain. These include the need for further validation of long-term reagent stability to support extended storage and deployment, reduction of operation time through optimization of cartridge architecture and fluidic transport dynamics, and improved analytical reproducibility at low analyte concentrations where signal variability is inherently higher. Addressing these challenges will be essential to advance the platform from feasibility-level demonstration toward a robust and manufacturable diagnostic system at needs of clinical.\r\n\n\nOverall, this Phase I project established the technical feasibility and practical relevance of a multiplexed hormone diagnostic platform and laid the scientific, organizational, and commercial foundation for continued development. These outcomes support advancement to Phase II, which will focus on system optimization, manufacturing readiness, and expanded validation to enable real-world clinical deployment.\r\n\n\n\t\t\t\t\tLast Modified: 01/16/2026\n\n\t\t\t\t\tSubmitted by: Hyun-June Jang\n"
+ }
+}

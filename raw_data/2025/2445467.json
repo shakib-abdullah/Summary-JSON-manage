@@ -1,0 +1,101 @@
+{
+ "awd_id": "2445467",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "STEVE Community Workshop: Expanding our Understanding on the Physics of Extreme Forcing in the Subauroral Region; Fairbanks, Alaska; Spring 2025",
+ "cfda_num": "47.050",
+ "org_code": "06020000",
+ "po_phone": "7032928963",
+ "po_email": "sraizada@nsf.gov",
+ "po_sign_block_name": "Shikha Raizada",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 49456.0,
+ "awd_amount": 49456.0,
+ "awd_min_amd_letter_date": "2024-11-22",
+ "awd_max_amd_letter_date": "2024-11-22",
+ "awd_abstract_narration": "The project seeks funds to organize a workshop that would discuss a relatively new upper atmospheric phenomenon referred to as STEVE (Strong Thermal Emission Velocity Enhancements). This manifests in the form of a spectacular optical display in the night skies at lower latitudes than the usual auroral regions. It appears as a distinct mauve ribbon that extends to a broad longitudinal region and is confined in latitude. This intriguing feature has aroused the curiosity of several scientists resulting in preliminary studies providing new insights into its characteristics. However, detailed work on its formation, drivers with the magnetosphere-ionosphere-thermosphere (MIT) system is required to solve this mysterious phenomenon. To enable brainstorming discussions, this proposal will provide funds for the third STEVE workshop. Such efforts offer a forum for Geospace scientists to come together, present their recent STEVE-related observations and theoretical work. This provides an excellent opportunity to plan for future experiments, and research activities that will advance scientific knowledge about STEVE, its occurrence and formation mechanisms. It brings professional, citizens/amateurs together, thus enhancing collaborations and initiation of new partnerships.\r\n\r\nRecent observations have demonstrated that STEVE spans approximately 400 \u2013 800 nm wavelength regions. It is accompanied by extremely narrow and fast-moving plasma flows channels (~10 km/s) within a region of high electron temperatures in the range of 104 K. These features are indicative of intense subauroral drifts (SAIDs). Several investigations have indicated that particle precipitation does not appear to play a role in the STEVE occurrence, which is one of the major differences from auroral emissions. The mechanisms behind the highly structured optical emissions associated with STEVE events often referred to as \u201cPicket Fence,\u201d is a topic of significant debate. While early studies suggest a possible link to particle precipitation, the picket fence spectrum remains partially unexplained and stands out from the typical auroral emissions due to the absence of enhanced emission lines. This has prompted the scientific community to explore alternative generation mechanisms, including parallel electric fields. All these recent scientific advances, which shed light on STEVE, the picket fence, and their possible sources, would not have been possible without the contributions from citizen scientists, who accidentally discovered this phenomenon during their auroral chase. Some photographs taken by amateurs have played a crucial role in determining the altitude of the STEVE and Picket Fence emissions. The third STEVE workshop plans to discuss the role of chemistry in STEVE formation, association with substorms, relationship with SAR arcs and impact on technological structures.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "AGS",
+ "org_div_long_name": "Division of Atmospheric and Geospace Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Philip",
+   "pi_last_name": "Erickson",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Philip J Erickson",
+   "pi_email_addr": "pje@mit.edu",
+   "nsf_id": "000156365",
+   "pi_start_date": "2024-11-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "152100",
+   "pgm_ele_name": "AERONOMY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 49456.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Project Outcomes Report</strong></p>\r\n<p>The 3rd STEVE (Strong Thermal Emission Velocity Enhancement) Community Workshop provided a unique platform for researchers, citizen scientists, and students working on STEVE and related sub-auroral features to convene, discuss recent research updates, and plan observational strategies, experimental campaigns, and coordinated modeling efforts. The workshop was designed to enable and foster collaboration among observationalists, theorists, and citizen scientists. In particular, its primary objective was to advance STEVE research by providing an opportunity for observational and theoretical geospace scientists and other stakeholders to gather, share findings, identify outstanding questions, and continue formulating future research plans and collaborative studies.</p>\r\n<p>The third STEVE Workshop was held in Fairbanks, Alaska, from October 16&ndash;18, 2025, at the Geophysical Institute of the University of Alaska Fairbanks (UAF). The workshop was attended by more than 30 participants,&nbsp;including students, citizen scientists, and researchers at various stages of their careers. The organization of the workshop was led by the PI (Dr. Erickson) and the organizing committee (Dr. Gallardo&#8209;Lacourt, Dr. Martinis, Dr. Kunduri, and Dr. Perry), with additional support from three local organizers at UAF: Dr. Don Hampton, Mr. Vincent Ledvina (graduate student), and Dr. Mark Conde. The workshop included sessions focused on scientific observations, theory, and modeling, as well as dedicated sessions on citizen&#8209;science observations, several of which were led by citizen scientists. Students were also integrated into leadership roles as session moderators; they were introduced at the beginning of each session and were responsible for facilitating in&#8209;person discussions as well as engagement from remote participants. The workshop and the participation of a citizen scientist were featured in the Otago Daily News, in New Zealand demonstrating the broader impact and public visibility of the event.</p>\r\n<p>The workshop provided a unique opportunity to explore observations that would otherwise remain inaccessible, particularly those contributed by citizen scientists. Integrating these citizen&#8209;science observations into scientific analyses proved to be a valuable learning experience, with organizers and presenters developing and disseminating best practices to the broader magnetospheric and aeronomy communities. Importantly, the workshop enabled direct collaboration between scientists and citizen scientists, fostering partnerships that have already resulted in impactful publications. Overall, the STEVE Workshop has established an effective framework for engaging, integrating, and collaborating with citizen scientists to maximize scientific return. The workshop directly catalyzed multiple ongoing publications that are advancing the field. Notably, a comprehensive review paper on the state of the art in STEVE research, led by the five workshop organizers, is currently under review. In addition, a theory&#8209;focused manuscript is being led by Dr. Brian Harding (UC Berkeley), Dr. Andrew Yau (University of Calgary), and Dr. Evgeny Mishin (Boston College), while a comprehensive observational study of STEVE events is being led by Dr. Bea Gallardo&#8209;Lacourt (CUA/NASA) and Dr. Carlos Martinis (Boston University). Together, these efforts reflect the strong scientific momentum and collaborative impact generated by the workshop.</p>\r\n<p>In summary, the STEVE Workshop demonstrated the scientific strength and collaborative value of a community&#8209;driven approach to geospace research. By integrating researchers, students, and citizen scientists, the workshop catalyzed strong and impactful collaborations, advanced understanding of STEVE, and established a clear path for continued scientific progress on the topic through coordinated observational, theoretical, and modeling efforts.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 03/31/2026<br>\nModified by: Philip&nbsp;J&nbsp;Erickson</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nProject Outcomes Report\r\n\n\nThe 3rd STEVE (Strong Thermal Emission Velocity Enhancement) Community Workshop provided a unique platform for researchers, citizen scientists, and students working on STEVE and related sub-auroral features to convene, discuss recent research updates, and plan observational strategies, experimental campaigns, and coordinated modeling efforts. The workshop was designed to enable and foster collaboration among observationalists, theorists, and citizen scientists. In particular, its primary objective was to advance STEVE research by providing an opportunity for observational and theoretical geospace scientists and other stakeholders to gather, share findings, identify outstanding questions, and continue formulating future research plans and collaborative studies.\r\n\n\nThe third STEVE Workshop was held in Fairbanks, Alaska, from October 1618, 2025, at the Geophysical Institute of the University of Alaska Fairbanks (UAF). The workshop was attended by more than 30 participants,including students, citizen scientists, and researchers at various stages of their careers. The organization of the workshop was led by the PI (Dr. Erickson) and the organizing committee (Dr. Gallardo&#8209;Lacourt, Dr. Martinis, Dr. Kunduri, and Dr. Perry), with additional support from three local organizers at UAF: Dr. Don Hampton, Mr. Vincent Ledvina (graduate student), and Dr. Mark Conde. The workshop included sessions focused on scientific observations, theory, and modeling, as well as dedicated sessions on citizen&#8209;science observations, several of which were led by citizen scientists. Students were also integrated into leadership roles as session moderators; they were introduced at the beginning of each session and were responsible for facilitating in&#8209;person discussions as well as engagement from remote participants. The workshop and the participation of a citizen scientist were featured in the Otago Daily News, in New Zealand demonstrating the broader impact and public visibility of the event.\r\n\n\nThe workshop provided a unique opportunity to explore observations that would otherwise remain inaccessible, particularly those contributed by citizen scientists. Integrating these citizen&#8209;science observations into scientific analyses proved to be a valuable learning experience, with organizers and presenters developing and disseminating best practices to the broader magnetospheric and aeronomy communities. Importantly, the workshop enabled direct collaboration between scientists and citizen scientists, fostering partnerships that have already resulted in impactful publications. Overall, the STEVE Workshop has established an effective framework for engaging, integrating, and collaborating with citizen scientists to maximize scientific return. The workshop directly catalyzed multiple ongoing publications that are advancing the field. Notably, a comprehensive review paper on the state of the art in STEVE research, led by the five workshop organizers, is currently under review. In addition, a theory&#8209;focused manuscript is being led by Dr. Brian Harding (UC Berkeley), Dr. Andrew Yau (University of Calgary), and Dr. Evgeny Mishin (Boston College), while a comprehensive observational study of STEVE events is being led by Dr. Bea Gallardo&#8209;Lacourt (CUA/NASA) and Dr. Carlos Martinis (Boston University). Together, these efforts reflect the strong scientific momentum and collaborative impact generated by the workshop.\r\n\n\nIn summary, the STEVE Workshop demonstrated the scientific strength and collaborative value of a community&#8209;driven approach to geospace research. By integrating researchers, students, and citizen scientists, the workshop catalyzed strong and impactful collaborations, advanced understanding of STEVE, and established a clear path for continued scientific progress on the topic through coordinated observational, theoretical, and modeling efforts.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 03/31/2026\n\n\t\t\t\t\tSubmitted by: PhilipJErickson\n"
+ }
+}

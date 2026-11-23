@@ -1,0 +1,105 @@
+{
+ "awd_id": "2521614",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Summer Geometry Initiative 2025",
+ "cfda_num": "47.070",
+ "org_code": "05020000",
+ "po_phone": "7032928832",
+ "po_email": "dcosley@nsf.gov",
+ "po_sign_block_name": "Dan Cosley",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 16000.0,
+ "awd_amount": 16000.0,
+ "awd_min_amd_letter_date": "2025-06-09",
+ "awd_max_amd_letter_date": "2025-06-09",
+ "awd_abstract_narration": "The Summer Geometry Initiative (SGI) is an intensive summer program aimed at helping student researchers in the field of geometry processing. Geometry processing addresses algorithms, software, and theory relevant to computing over geometric data. These fields brings together mathematics, computer science, and engineering expertise needed to work with 3D models in a range of applications. The summer program provides opportunities for SGI Fellows to engage deeply with current research and work with experienced mentors, allowing them to engage with the research community and to build new collaborations across institutions and researcher levels (from undergrads to faculty and industry researchers).  The SGI is co-located with the Symposium on Geometry Processing conference, a leading venue for this kind of work, further providing opportunities for SGI attendees to learn about and connect to the research community. \r\n\r\nThis grant will support stipends, travel, and registration for about four (4) students who otherwise have limited funding and so might not be able to participate in the summer institute or the conference. Criteria for selection include financial need and growing the size and breadth of the geometry processing community, with a particular focus on providing opportunities for students who would not otherwise be likely to get involved in the field. Prior sessions of the summer program have had demonstrated impact on alumni's graduate work and careers, while elements of the summer program will also be made more widely available through a talk series and tutorials with accompanying materials.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "IIS",
+ "org_div_long_name": "Division of Information & Intelligent Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Justin",
+   "pi_last_name": "Solomon",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Justin M Solomon",
+   "pi_email_addr": "jsolomon@mit.edu",
+   "nsf_id": "000680985",
+   "pi_start_date": "2025-06-09",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Massachusetts Institute of Technology",
+  "inst_street_address": "77 MASSACHUSETTS AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "6172531000",
+  "inst_zip_code": "021394301",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+  "org_prnt_uei_num": "JDZ5RVF3Y9L9",
+  "org_uei_num": "E2NYLCDML6V1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Massachusetts Institute of Technology",
+  "perf_str_addr": "77 MASSACHUSETTS AVE",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021394301",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736700",
+   "pgm_ele_name": "HCC-Human-Centered Computing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7367",
+   "pgm_ref_txt": "Cyber-Human Systems"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 16000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Support was used to continue the Summer Geometry Initiative (SGI) in 2025, a summer program introducing undergraduates and early master's students to applied geometry research.</p>\r\n<p>SGI 2025 took place during six weeks in summer 2025.&nbsp; The program supported 30 Fellows, who participated full-time; ~20 more participated in the initial week.&nbsp; The first week featured a set of tutorials and interactive exercises to introduce participants to theoretical concepts and software tools in geometry processing, with no assumption on past experience (beyond linear algebra, calculus, and programming).&nbsp; The remaining five weeks were dedicated to research experiences, mostly 1-2 week collaborations led by top faculty and scientists.</p>\r\n<p>SGI 2025 was overwhelmingly successful, exceeding expectations for the technical and broader impact-oriented aims of the program.&nbsp; Highlights include:</p>\r\n<ul>\r\n<li>Most SGI Fellows came from undergraduate and master's programs that do not have faculty who teach courses or do research in geometry processing, giving these students unique exposure to this emerging research field.</li>\r\n<li>After the program, many SGI Fellows reported that they were likely to pursue graduate education (MS, PhD) in geometry processing and related fields.&nbsp; Many 2025 Fellows reported submitting applications to top programs.&nbsp; Several SGI faculty mentors reported they were likely to recruit SGI Fellows.</li>\r\n<li>Similarly to the previous offerings, SGI 2025 was held completely online.&nbsp; The program pioneers techniques in online research-based education.</li>\r\n<li>Research projects launched during SGI continued beyond the end of the program, and we are seeing papers submitted to conferences/journals.</li>\r\n</ul>\r\n<p>Readers are invited to visit the SGI 2025 blog for write-ups by SGI Fellows describing their projects: http://summergeometry.org/sgi2025</p>\r\n<p>Data collection among the participants (Fellows and mentors) reflected many of the positive points above.&nbsp; Example student feedback includes:</p>\r\n<ul>\r\n<li>\"I love this model! It let me explore many projects and get a better sense of the different branches of geometry processing. I also appreciated that if a project didn&rsquo;t turn out to be a good fit, it was easy to switch, since new projects start every week and it&rsquo;s possible to join one mid-progress.\"</li>\r\n<li>\"It helped me learn so much in such a short time that I did not know was even possible for me. It is impressive I managed to have frequent meetings with the advisors too, I have never had daily meetings with any professor for 5 days straight before SGI. We managed to update whatever progress we made in 1 day, and got new directions to explore immediately, this greatly helped push the research progress forward quickly.\"</li>\r\n<li>\"What a program &mdash; genuinely the best opportunity I&rsquo;ve had to learn about something I love! From the technical knowledge gained, to the autonomy and trust we were given, to the chance to network and explore potential career opportunities, and to speak, connect, and learn from many industry experts about mind-blowing research &mdash; it was incredible.\"</li>\r\n<li>\"SGI has truly sparked my interest in computer graphics, and it is a field I would love to continue to explore in the coming years!\"</li>\r\n<li>\"Being part of this program really means a lot to me. I was pretty confident I wanted to do graphics research before SGI but now I'm without a doubt applying to PhD programs this upcoming cycle. The geometry processing community is extremely welcoming and everyone in the field is so passionate about their research. It was truly special to be able to interact with people doing groundbreaking work; one of the coolest and most inspiring things I got to be a part of.\"</li>\r\n<li>\"I really enjoyed the SGI tutorial week. From day one, the environment encouraged us to ask questions without fear of &ldquo;not knowing,&rdquo; which helped me overcome feelings of impostor syndrome. The week opened my mind to fundamental concepts in geometry processing and gave me a clearer understanding of basic techniques and tools in the field. Before this, things like Polyscope, splines, manifolds and others were completely unknown to me.&nbsp;I especially valued how the sessions combined programming analogies with mathematical perspectives, making it easier to connect new concepts to knowledge I already had. There was a lot of material &mdash; more than could be fully explored in a single week &mdash; but I see that as a strength, since the resources are worth revisiting multiple times.\"</li>\r\n<li>\"The talks hosted by the staff were amazing! The assignments felt perfectly tailored to the program.\"</li>\r\n</ul>\r\n<p>Planning for SGI 2026 is underway. The latest version has received overwhelming interest among students who wish to participate as well as faculty who wish to be mentors.</p><br>\n<p>\n Last Modified: 02/18/2026<br>\nModified by: Justin&nbsp;M&nbsp;Solomon</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nSupport was used to continue the Summer Geometry Initiative (SGI) in 2025, a summer program introducing undergraduates and early master's students to applied geometry research.\r\n\n\nSGI 2025 took place during six weeks in summer 2025. The program supported 30 Fellows, who participated full-time; ~20 more participated in the initial week. The first week featured a set of tutorials and interactive exercises to introduce participants to theoretical concepts and software tools in geometry processing, with no assumption on past experience (beyond linear algebra, calculus, and programming). The remaining five weeks were dedicated to research experiences, mostly 1-2 week collaborations led by top faculty and scientists.\r\n\n\nSGI 2025 was overwhelmingly successful, exceeding expectations for the technical and broader impact-oriented aims of the program. Highlights include:\r\n\r\nMost SGI Fellows came from undergraduate and master's programs that do not have faculty who teach courses or do research in geometry processing, giving these students unique exposure to this emerging research field.\r\nAfter the program, many SGI Fellows reported that they were likely to pursue graduate education (MS, PhD) in geometry processing and related fields. Many 2025 Fellows reported submitting applications to top programs. Several SGI faculty mentors reported they were likely to recruit SGI Fellows.\r\nSimilarly to the previous offerings, SGI 2025 was held completely online. The program pioneers techniques in online research-based education.\r\nResearch projects launched during SGI continued beyond the end of the program, and we are seeing papers submitted to conferences/journals.\r\n\r\n\n\nReaders are invited to visit the SGI 2025 blog for write-ups by SGI Fellows describing their projects: http://summergeometry.org/sgi2025\r\n\n\nData collection among the participants (Fellows and mentors) reflected many of the positive points above. Example student feedback includes:\r\n\r\n\"I love this model! It let me explore many projects and get a better sense of the different branches of geometry processing. I also appreciated that if a project didnt turn out to be a good fit, it was easy to switch, since new projects start every week and its possible to join one mid-progress.\"\r\n\"It helped me learn so much in such a short time that I did not know was even possible for me. It is impressive I managed to have frequent meetings with the advisors too, I have never had daily meetings with any professor for 5 days straight before SGI. We managed to update whatever progress we made in 1 day, and got new directions to explore immediately, this greatly helped push the research progress forward quickly.\"\r\n\"What a program  genuinely the best opportunity Ive had to learn about something I love! From the technical knowledge gained, to the autonomy and trust we were given, to the chance to network and explore potential career opportunities, and to speak, connect, and learn from many industry experts about mind-blowing research  it was incredible.\"\r\n\"SGI has truly sparked my interest in computer graphics, and it is a field I would love to continue to explore in the coming years!\"\r\n\"Being part of this program really means a lot to me. I was pretty confident I wanted to do graphics research before SGI but now I'm without a doubt applying to PhD programs this upcoming cycle. The geometry processing community is extremely welcoming and everyone in the field is so passionate about their research. It was truly special to be able to interact with people doing groundbreaking work; one of the coolest and most inspiring things I got to be a part of.\"\r\n\"I really enjoyed the SGI tutorial week. From day one, the environment encouraged us to ask questions without fear of not knowing, which helped me overcome feelings of impostor syndrome. The week opened my mind to fundamental concepts in geometry processing and gave me a clearer understanding of basic techniques and tools in the field. Before this, things like Polyscope, splines, manifolds and others were completely unknown to me.I especially valued how the sessions combined programming analogies with mathematical perspectives, making it easier to connect new concepts to knowledge I already had. There was a lot of material  more than could be fully explored in a single week  but I see that as a strength, since the resources are worth revisiting multiple times.\"\r\n\"The talks hosted by the staff were amazing! The assignments felt perfectly tailored to the program.\"\r\n\r\n\n\nPlanning for SGI 2026 is underway. The latest version has received overwhelming interest among students who wish to participate as well as faculty who wish to be mentors.\t\t\t\t\tLast Modified: 02/18/2026\n\n\t\t\t\t\tSubmitted by: JustinMSolomon\n"
+ }
+}

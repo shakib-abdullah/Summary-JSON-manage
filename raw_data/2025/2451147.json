@@ -1,0 +1,101 @@
+{
+ "awd_id": "2451147",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Queen Honey Bee Location Identification",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032922936",
+ "po_email": "emirowsk@nsf.gov",
+ "po_sign_block_name": "Ela Mirowski",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-05-27",
+ "awd_max_amd_letter_date": "2025-05-27",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research Phase I project lies in improving beekeeping efficiency through bio-acoustic technology, addressing a critical challenge in modern apiculture. Beekeepers struggle to locate queen bees within their hives, a process that is labor-intensive, time-consuming, and disruptive to colony health. The inability to efficiently locate and assess the condition of a queen bee contributes to hive losses, negatively impacting honey production and pollination-dependent agriculture. Given the essential role of honey bees in pollination, improving hive management has significant economic and ecological implications. By developing a novel bio-acoustic approach to attract queen bees to a predictable location within the hive, the technology will reduce labor costs, enhance hive monitoring, and increase productivity for commercial, sideline, and hobbyist beekeepers. The integration of advanced sensing and artificial intelligence into beekeeping practices will contribute to sustainable precision agriculture, with applications extending beyond honey bee management into broader agricultural and ecological monitoring systems.\r\n\r\nThis project introduces an innovative bio-acoustic luring system that leverages queen bee communication signals to enable rapid and accurate queen localization within managed hives. The technical innovation lies in the application of bio-acoustic principles to mimic naturally occurring queen bee piping sounds, which trigger predictable responses from the resident queen. This approach has not been previously commercialized and represents a novel method of influencing honey bee behavior for practical hive management applications. The research will focus on refining the acoustic signal parameters, optimizing speaker placement, and evaluating queen bee movement in response to controlled stimuli. A series of field experiments will be conducted in controlled and real-world hive environments to quantify the effectiveness of the bio-acoustic luring system in reducing queen search time and minimizing colony disturbance. The study will also assess the impact of various environmental factors on signal propagation and queen bee responsiveness. This research will establish a foundation for precision beekeeping tools that enhance hive management efficiency while maintaining honey bee health and productivity.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Joseph",
+   "pi_last_name": "Zgurzynski",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "Jr",
+   "pi_full_name": "Joseph A Zgurzynski",
+   "pi_email_addr": "Joe@countrybarnfarm.com",
+   "nsf_id": "000937073",
+   "pi_start_date": "2025-05-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "OBEEWAN TECHNOLOGIES INC",
+  "inst_street_address": "1246 SAXONBURG BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "GLENSHAW",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4122250930",
+  "inst_zip_code": "151163216",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "PA17",
+  "org_lgl_bus_name": "OBEEWAN TECHNOLOGIES INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TYAPUUJGGMF8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Obeewan Technologies, Inc.",
+  "perf_str_addr": "1246 SAXONBURG BLVD",
+  "perf_city_name": "GLENSHAW",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "151163216",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "PA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "151Z",
+   "pgm_ref_txt": "AgTech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>ObeeWAN Technologies received NSF SBIR Phase I support to test a bioacoustic approach for precision agriculture, beginning with a critical problem in managed honey bee colonies: helping beekeepers locate the queen bee more quickly and with less disruption to the hive. In a colony of tens of thousands of bees, the queen is essential to colony health because she is responsible for laying eggs and sustaining the population. Yet finding her during routine inspections, splits, requeening, mite checks, or swarm management can be slow, frustrating, and disruptive. The project explored whether biologically familiar sound and vibration cues could be used to guide the behavior of a managed insect system in a practical agricultural field setting.</p>\r\n<p>The Phase I project developed and tested the ObeeWAN MindTrick system, an integrated prototype consisting of a small bioacoustic device, a smartphone control app, and a set of acoustic lure signals. The system is based on queen piping, a natural sound and vibration signal produced by queen bees during important reproductive events in a colony. Instead of relying only on visual searching, the MindTrick approach uses biomimetic sound and vibration to encourage the queen to move in a predictable direction.</p>\r\n<p>During Phase I, the team recorded and analyzed queen piping sounds, developed candidate lure signals, compared playback approaches, and tested hive-mounting configurations. The research showed that biologically realistic harmonic queen-piping signals produced stronger queen movement responses than simplified synthetic tones. The team also found that vibration-based playback through hive structures was more effective than conventional airborne sound playback alone, consistent with how honey bees naturally sense vibrations transmitted through the comb and hive structure. These findings showed that both signal design and physical delivery matter when translating insect communication signals into usable agricultural tools.</p>\r\n<p>The project completed 182 experiments, including 60 observation-hive studies and 122 in-hive field trials. Field testing was conducted at the USDA Honey Bee Breeding, Genetics, and Physiology Research Unit in Baton Rouge, Louisiana, and at Country Barn Farm in Glenshaw, Pennsylvania. In the USDA trials, the best-performing configurations reduced queen-finding time by 27-39 percent compared with control colonies. In later Pennsylvania trials using larger double-deep hives, the system reduced average queen-finding time from 594 seconds to 140-212 seconds, a 64-76 percent reduction, and reduced the number of frames inspected by 30-42 percent.</p>\r\n<p>The project also evaluated whether the acoustic playback caused observable disruption to the colony. During testing, worker bees did not show heightened defensive behavior, abnormal clustering, or other visible signs of agitation. This finding is important because any practical technology for managed insect systems must influence behavior without creating new risks to colony stability, normal hive activity, or agricultural productivity.</p>\r\n<p>In addition to technical testing, ObeeWAN completed 136 NSF I-Corps customer discovery interviews with beekeepers, retailers, researchers, educators, suppliers, and other industry stakeholders. These interviews confirmed that rapid queen location is a meaningful need across common beekeeping workflows. Overall, 83.1 percent of interviewed beekeepers expressed positive interest in the solution, and 75 percent of the hobbyist beachhead customer segment showed strong interest in finding the queen quickly. Customers emphasized that a successful product must be simple, reliable, glove-friendly, field-ready, and minimally disruptive to normal hive behavior.</p>\r\n<p>The Phase I work moved ObeeWAN from an early biological insight to an integrated, field-tested prototype. The project showed that biologically meaningful acoustic and vibrational signals can be captured, reproduced, and delivered in field conditions to influence the behavior of a managed insect system, with honey bee queen location as the first demonstrated application. While the first use case focused on queen location, the underlying approach may have broader relevance to bioacoustic tools for precision agriculture, insect behavior research, pollinator management, and future technologies that use sound and vibration to monitor or guide beneficial and managed insects.</p>\r\n<p>The work also identified the main remaining technical challenges for future development: improving acoustic localization so the queen can be guided more consistently to a narrow target zone, validating performance in peak-season and commercial-scale colonies, expanding the acoustic lure library, and refining the hardware and app for routine field use.</p>\r\n<p>This NSF-supported project established a practical foundation for using bioacoustics in agricultural field environments. In its first demonstrated application, the technology showed a path to helping beekeepers reduce inspection time, minimize hive disruption, improve queen-health monitoring, and make better colony-management decisions. More broadly, the work advances a new direction for precision agriculture: using biologically grounded sound and vibration cues to support managed insect systems that contribute to food production, environmental resilience, and agricultural innovation.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/16/2026<br>\nModified by: Joseph&nbsp;A&nbsp;Zgurzynski</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645577443_Slide1--rgov-214x142.JPG\" original=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645577443_Slide1--rgov-800width.JPG\" title=\"Customer Discovery\"><img src=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645577443_Slide1--rgov-66x44.JPG\" alt=\"Customer Discovery\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Customer discovery identified time, hive disruption, and queen injury as key pain points during queen-location workflows.</div>\n<div class=\"imageCredit\">ObeeWAN Technologies Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Joseph&nbsp;A&nbsp;Zgurzynski\n<div class=\"imageTitle\">Customer Discovery</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645853673_Slide4--rgov-214x142.JPG\" original=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645853673_Slide4--rgov-800width.JPG\" title=\"Visual Evidence from Field Testing\"><img src=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645853673_Slide4--rgov-66x44.JPG\" alt=\"Visual Evidence from Field Testing\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Visual evidence from field testing showed honey bee activity near the MindTrick prototype during acoustic playback.</div>\n<div class=\"imageCredit\">ObeeWAN Technologies Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Joseph&nbsp;A&nbsp;Zgurzynski\n<div class=\"imageTitle\">Visual Evidence from Field Testing</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645706595_Slide2--rgov-214x142.JPG\" original=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645706595_Slide2--rgov-800width.JPG\" title=\"USDA Field Testing\"><img src=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645706595_Slide2--rgov-66x44.JPG\" alt=\"USDA Field Testing\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Field testing of the ObeeWAN MindTrick system at the USDA Honey Bee Breeding, Genetics, and Physiology Research Unit in Baton Rouge, Louisiana</div>\n<div class=\"imageCredit\">ObeeWAN Technologies Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Joseph&nbsp;A&nbsp;Zgurzynski\n<div class=\"imageTitle\">USDA Field Testing</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645764506_Slide3--rgov-214x142.JPG\" original=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645764506_Slide3--rgov-800width.JPG\" title=\"In-Hive Testing\"><img src=\"/por/images/Reports/POR/2026/2451147/2451147_10981709_1781645764506_Slide3--rgov-66x44.JPG\" alt=\"In-Hive Testing\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">In-hive testing evaluated whether bioacoustic playback could improve queen-location efficiency during active hive inspections.</div>\n<div class=\"imageCredit\">ObeeWAN Technologies Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Joseph&nbsp;A&nbsp;Zgurzynski\n<div class=\"imageTitle\">In-Hive Testing</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nObeeWAN Technologies received NSF SBIR Phase I support to test a bioacoustic approach for precision agriculture, beginning with a critical problem in managed honey bee colonies: helping beekeepers locate the queen bee more quickly and with less disruption to the hive. In a colony of tens of thousands of bees, the queen is essential to colony health because she is responsible for laying eggs and sustaining the population. Yet finding her during routine inspections, splits, requeening, mite checks, or swarm management can be slow, frustrating, and disruptive. The project explored whether biologically familiar sound and vibration cues could be used to guide the behavior of a managed insect system in a practical agricultural field setting.\r\n\n\nThe Phase I project developed and tested the ObeeWAN MindTrick system, an integrated prototype consisting of a small bioacoustic device, a smartphone control app, and a set of acoustic lure signals. The system is based on queen piping, a natural sound and vibration signal produced by queen bees during important reproductive events in a colony. Instead of relying only on visual searching, the MindTrick approach uses biomimetic sound and vibration to encourage the queen to move in a predictable direction.\r\n\n\nDuring Phase I, the team recorded and analyzed queen piping sounds, developed candidate lure signals, compared playback approaches, and tested hive-mounting configurations. The research showed that biologically realistic harmonic queen-piping signals produced stronger queen movement responses than simplified synthetic tones. The team also found that vibration-based playback through hive structures was more effective than conventional airborne sound playback alone, consistent with how honey bees naturally sense vibrations transmitted through the comb and hive structure. These findings showed that both signal design and physical delivery matter when translating insect communication signals into usable agricultural tools.\r\n\n\nThe project completed 182 experiments, including 60 observation-hive studies and 122 in-hive field trials. Field testing was conducted at the USDA Honey Bee Breeding, Genetics, and Physiology Research Unit in Baton Rouge, Louisiana, and at Country Barn Farm in Glenshaw, Pennsylvania. In the USDA trials, the best-performing configurations reduced queen-finding time by 27-39 percent compared with control colonies. In later Pennsylvania trials using larger double-deep hives, the system reduced average queen-finding time from 594 seconds to 140-212 seconds, a 64-76 percent reduction, and reduced the number of frames inspected by 30-42 percent.\r\n\n\nThe project also evaluated whether the acoustic playback caused observable disruption to the colony. During testing, worker bees did not show heightened defensive behavior, abnormal clustering, or other visible signs of agitation. This finding is important because any practical technology for managed insect systems must influence behavior without creating new risks to colony stability, normal hive activity, or agricultural productivity.\r\n\n\nIn addition to technical testing, ObeeWAN completed 136 NSF I-Corps customer discovery interviews with beekeepers, retailers, researchers, educators, suppliers, and other industry stakeholders. These interviews confirmed that rapid queen location is a meaningful need across common beekeeping workflows. Overall, 83.1 percent of interviewed beekeepers expressed positive interest in the solution, and 75 percent of the hobbyist beachhead customer segment showed strong interest in finding the queen quickly. Customers emphasized that a successful product must be simple, reliable, glove-friendly, field-ready, and minimally disruptive to normal hive behavior.\r\n\n\nThe Phase I work moved ObeeWAN from an early biological insight to an integrated, field-tested prototype. The project showed that biologically meaningful acoustic and vibrational signals can be captured, reproduced, and delivered in field conditions to influence the behavior of a managed insect system, with honey bee queen location as the first demonstrated application. While the first use case focused on queen location, the underlying approach may have broader relevance to bioacoustic tools for precision agriculture, insect behavior research, pollinator management, and future technologies that use sound and vibration to monitor or guide beneficial and managed insects.\r\n\n\nThe work also identified the main remaining technical challenges for future development: improving acoustic localization so the queen can be guided more consistently to a narrow target zone, validating performance in peak-season and commercial-scale colonies, expanding the acoustic lure library, and refining the hardware and app for routine field use.\r\n\n\nThis NSF-supported project established a practical foundation for using bioacoustics in agricultural field environments. In its first demonstrated application, the technology showed a path to helping beekeepers reduce inspection time, minimize hive disruption, improve queen-health monitoring, and make better colony-management decisions. More broadly, the work advances a new direction for precision agriculture: using biologically grounded sound and vibration cues to support managed insect systems that contribute to food production, environmental resilience, and agricultural innovation.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 06/16/2026\n\n\t\t\t\t\tSubmitted by: JosephAZgurzynski\n"
+ }
+}

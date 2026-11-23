@@ -1,0 +1,157 @@
+{
+ "awd_id": "2421641",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "Supporting Oceanographic Research Missions Aboard the Research Vessel Taani",
+ "cfda_num": "47.050",
+ "org_code": "06200000",
+ "po_phone": "7032924248",
+ "po_email": "tmcgover@nsf.gov",
+ "po_sign_block_name": "Timothy McGovern",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2030-02-28",
+ "tot_intn_awd_amt": 6991517.0,
+ "awd_amount": 1301454.0,
+ "awd_min_amd_letter_date": "2025-03-12",
+ "awd_max_amd_letter_date": "2026-08-17",
+ "awd_abstract_narration": "This project provides funding for the Research Vessel Taani to conduct oceanographic research missions supported by the National Science Foundation. The oceanographic research vessels of the Academic Research Fleet (ARF), operated by the academic institutions within the University-National Oceanographic Laboratory System (UNOLS) framework are multi-use facilities used to expand knowledge of the ocean environment. The surface work of these ships is complemented by human-occupied, remotely operated, and autonomous undersea vehicles and sensors that provide vital tools to understand the oceans and their resources. This award will support oceanographic technical services on Research Vessel Taani when it is delivered. Until delivery, funded technicians will support other research vessels in the ARF. \r\n\r\nThese seagoing research and educational facilities enable scientists and students to study natural phenomena and train future scientists while on board state-of-the-art oceanographic research vessels utilizing high-quality instrumentation. The ship operators will also conduct learning activities for students and the general public including hands-on demonstrations of marine science research guided by faculty, students, and ship crew members.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "GCP",
+ "org_div_long_name": "GEO - Core Programs",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Former Principal Investigator",
+   "pi_first_name": "Andrew",
+   "pi_last_name": "Woogen",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Andrew W Woogen",
+   "pi_email_addr": "awoogen@coas.oregonstate.edu",
+   "nsf_id": "000702631",
+   "pi_start_date": "2025-03-12",
+   "pi_end_date": "2025-05-16"
+  },
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ethan",
+   "pi_last_name": "Roth",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ethan H Roth",
+   "pi_email_addr": "ethan.roth@oregonstate.edu",
+   "nsf_id": "000767719",
+   "pi_start_date": "2025-05-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Christopher",
+   "pi_last_name": "Romsos",
+   "pi_mid_init": "G",
+   "pi_sufx_name": "",
+   "pi_full_name": "Christopher G Romsos",
+   "pi_email_addr": "chris.romsos@oregonstate.edu",
+   "nsf_id": "000846732",
+   "pi_start_date": "2025-03-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Oregon State University",
+  "inst_street_address": "1500 SW JEFFERSON AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CORVALLIS",
+  "inst_state_code": "OR",
+  "inst_state_name": "Oregon",
+  "inst_phone_num": "5417374933",
+  "inst_zip_code": "973318655",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "OR04",
+  "org_lgl_bus_name": "OREGON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "MZ4DYXE1SL98"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Oregon State University",
+  "perf_str_addr": "1500 SW JEFFERSON AVE",
+  "perf_city_name": "CORVALLIS",
+  "perf_st_code": "OR",
+  "perf_st_name": "Oregon",
+  "perf_zip_code": "973318655",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "OR04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "541500",
+   "pgm_ele_name": "OCEANOGRAPHIC TECHNICAL SERVCE"
+  },
+  {
+   "pgm_ele_code": "344Y00",
+   "pgm_ele_name": "Oceanographic CybrinfraCybrsec"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002627DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002829DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002930DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 685670.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2026,
+   "fund_oblg_amt": 615784.0
+  }
+ ],
+ "por": null
+}

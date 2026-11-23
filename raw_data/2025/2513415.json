@@ -1,0 +1,125 @@
+{
+ "awd_id": "2513415",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "2025 Foundational Research in Robotics (FRR) - National Robotics Initiative (NRI) Annual Meeting",
+ "cfda_num": "47.041, 47.070",
+ "org_code": "07230000",
+ "po_phone": "7032925365",
+ "po_email": "jberg@nsf.gov",
+ "po_sign_block_name": "Jordan Berg",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 351368.0,
+ "awd_amount": 351368.0,
+ "awd_min_amd_letter_date": "2025-06-11",
+ "awd_max_amd_letter_date": "2025-06-11",
+ "awd_abstract_narration": "This grant provides funding to organize and execute the 2025 National Science Foundation (NSF) Foundational Research in Robotics (FRR) / National Robotics Initiative (NRI) Annual Meeting. This meeting will convene investigators of active awards of the NSF FRR and NRI Programs for the tenth time since the NRI Program began in 2011 and the FRR program began in 2020. This meeting serves as a conference bringing together a community of robotics researchers whose work is specifically relevant to the FRR and NRI programs. The agenda includes talks from selected projects, poster sessions, workshops, panel discussions, multiple keynote talks, an outreach event, and Federal agency program updates from leaders in the research community. This meeting will also support participation by a cohort of potential future researchers to the FRR program.\r\n\r\nThe FRR/NRI PI meeting promotes dissemination of research ideas and collaboration amongst robotics researchers. This award is for the meeting organization. The annual PI Meeting is a national event for the NSF FRR and NRI research communities and serves as an annual forum where investigators have opportunities to meet and share their research and best practices, discuss new research opportunities, explore new ideas and partnerships, and interact with Federal agency representatives, industry, and other stakeholders interested in NSF robotics research. NSF PI meetings have played a major role in community-building across a broad range of robotics topics, sectors, and technologies, and serves to bring together researchers who have interest in learning about the program and participating as future proposers, transition partners, or sponsors. Invitees to the meeting will include, among others, all PIs with active NRI/FRR grants.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Dan",
+   "pi_last_name": "Popa",
+   "pi_mid_init": "O",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dan O Popa",
+   "pi_email_addr": "dan.popa@louisville.edu",
+   "nsf_id": "000085594",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Vesna",
+   "pi_last_name": "Novak",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Vesna D Novak",
+   "pi_email_addr": "novakdn@ucmail.uc.edu",
+   "nsf_id": "000681834",
+   "pi_start_date": "2025-06-11",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Louisville Research Foundation Inc",
+  "inst_street_address": "2301 S 3RD ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOUISVILLE",
+  "inst_state_code": "KY",
+  "inst_state_name": "Kentucky",
+  "inst_phone_num": "5028523788",
+  "inst_zip_code": "402081838",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "KY03",
+  "org_lgl_bus_name": "UNIVERSITY OF LOUISVILLE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "E1KJM4T54MK6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Louisville Research Foundation Inc",
+  "perf_str_addr": "2301 S 3RD ST",
+  "perf_city_name": "LOUISVILLE",
+  "perf_st_code": "KY",
+  "perf_st_name": "Kentucky",
+  "perf_zip_code": "402081838",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "KY03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144Y00",
+   "pgm_ele_name": "FRR-Foundationl Rsrch Robotics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "6840",
+   "pgm_ref_txt": "ROBOTICS"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 351368.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The 2025 NRI-FRR Annual Robotics Meeting was held between October 29-31, 2025, in Alexandria Virginia. Nearly 400 attendees (383) attended the event held at the Hyatt Hotel. This was the highest number of registrations since the start of the NRI-FRR Robotics Annual Meetings more than a decade earlier. Participants were representative of the entire robotics research community, and included active project Principal Investigators (faculty), their research staff, and students. Nearly half the participants (178) were aspiring PI's, most of them young faculty, and 75 (20%) of the participants came from NSF EPSCOR states. The meeting included two keynote talks, a panel on research in EPSCOR states (the theme of this year's meeting), 8 long talks, 14 topical workshops, and 219 posters that were presented during the two day meeting. Half of the projects represented National Robotics Initiative (NRI 3.0) funding, many of them in the last year, and the other half a growing number of projects funded by the Fundamental Research in Robotics (FRR) program of the NSF. Participants presented their latest research breakthroughs, engaged in networking and mentoring of younger aspiring PI colleagues, and discussed ideas for new projects and events to strengthen the robotics research ecosystem in the United States. A public website collected and archived the presentations from conference attendees. Because the meeting was held during the Government Shutdown of 2025, NSF program managers were not able to attend the event, however, several former program managers who had recently rotated out to academia were able to address technical and programmatic questions and also to offer guidance to aspiring PIs during the event. Overall, the participants agreed that the robotics annual meeting is critical to disseminating results, perspectives, and exchanging ideas and personnel between projects funded by the National Science Foundation in our country.&nbsp;</p><br>\n<p>\n Last Modified: 09/27/2026<br>\nModified by: Dan&nbsp;O&nbsp;Popa</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528160850_Organizers--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528160850_Organizers--rgov-800width.jpg\" title=\"Organizers\"><img src=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528160850_Organizers--rgov-66x44.jpg\" alt=\"Organizers\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Event Organizers, the annual NRI FRR 2025 Annual Meeting</div>\n<div class=\"imageCredit\">Dan Popa</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Dan&nbsp;O&nbsp;Popa\n<div class=\"imageTitle\">Organizers</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528252331_Workshop_Speakers--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528252331_Workshop_Speakers--rgov-800width.jpg\" title=\"Workshop Speakers\"><img src=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528252331_Workshop_Speakers--rgov-66x44.jpg\" alt=\"Workshop Speakers\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Workshop speakers at the NRI FRR 2025 Annual Robotics Meeting</div>\n<div class=\"imageCredit\">Dan Popa</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Dan&nbsp;O&nbsp;Popa\n<div class=\"imageTitle\">Workshop Speakers</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790527699235_Aspiring_PIs_Workshop--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790527699235_Aspiring_PIs_Workshop--rgov-800width.jpg\" title=\"Aspiring PI Workshop\"><img src=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790527699235_Aspiring_PIs_Workshop--rgov-66x44.jpg\" alt=\"Aspiring PI Workshop\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Image of participants and panel at the Aspiring PI Workshop</div>\n<div class=\"imageCredit\">Dan Popa</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Dan&nbsp;O&nbsp;Popa\n<div class=\"imageTitle\">Aspiring PI Workshop</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528010980_Poster_Session--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528010980_Poster_Session--rgov-800width.jpg\" title=\"Poster Session\"><img src=\"/por/images/Reports/POR/2026/2513415/2513415_10984749_1790528010980_Poster_Session--rgov-66x44.jpg\" alt=\"Poster Session\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Poster Session at the 2025 NSF FRR Robotics Annual Meeting</div>\n<div class=\"imageCredit\">Dan Popa</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Dan&nbsp;O&nbsp;Popa\n<div class=\"imageTitle\">Poster Session</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe 2025 NRI-FRR Annual Robotics Meeting was held between October 29-31, 2025, in Alexandria Virginia. Nearly 400 attendees (383) attended the event held at the Hyatt Hotel. This was the highest number of registrations since the start of the NRI-FRR Robotics Annual Meetings more than a decade earlier. Participants were representative of the entire robotics research community, and included active project Principal Investigators (faculty), their research staff, and students. Nearly half the participants (178) were aspiring PI's, most of them young faculty, and 75 (20%) of the participants came from NSF EPSCOR states. The meeting included two keynote talks, a panel on research in EPSCOR states (the theme of this year's meeting), 8 long talks, 14 topical workshops, and 219 posters that were presented during the two day meeting. Half of the projects represented National Robotics Initiative (NRI 3.0) funding, many of them in the last year, and the other half a growing number of projects funded by the Fundamental Research in Robotics (FRR) program of the NSF. Participants presented their latest research breakthroughs, engaged in networking and mentoring of younger aspiring PI colleagues, and discussed ideas for new projects and events to strengthen the robotics research ecosystem in the United States. A public website collected and archived the presentations from conference attendees. Because the meeting was held during the Government Shutdown of 2025, NSF program managers were not able to attend the event, however, several former program managers who had recently rotated out to academia were able to address technical and programmatic questions and also to offer guidance to aspiring PIs during the event. Overall, the participants agreed that the robotics annual meeting is critical to disseminating results, perspectives, and exchanging ideas and personnel between projects funded by the National Science Foundation in our country.\t\t\t\t\tLast Modified: 09/27/2026\n\n\t\t\t\t\tSubmitted by: DanOPopa\n"
+ }
+}

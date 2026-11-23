@@ -1,0 +1,113 @@
+{
+ "awd_id": "2451524",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: 2025 Riviere-Fabes Symposium",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032922595",
+ "po_email": "mbocea@nsf.gov",
+ "po_sign_block_name": "Marian Bocea",
+ "awd_eff_date": "2025-04-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 39822.0,
+ "awd_amount": 39822.0,
+ "awd_min_amd_letter_date": "2025-02-27",
+ "awd_max_amd_letter_date": "2025-02-27",
+ "awd_abstract_narration": "This award supports the participation of graduate students and postdoctoral researchers in the \"2025 Rivi\u00e8re-Fabes Symposium on Analysis and PDE\" which is scheduled to take place April 25-27, 2025 at the University of Minnesota. The award gives early-career researchers and researchers without other sources of funding a chance to participate in the conference. In this way, the award supports the communication of state-of-the-art mathematical techniques and promotes the development of future generations of scientists working in important, cross-disciplinary fields.\r\n \r\nThe symposium focuses on recent developments in mathematical analysis, this year especially in areas involving geometric measure theory, singularity formation in fluid equations, computer assisted proofs, microlocal analysis and inverse problems, wave turbulence, and statistical physics. More information can be found on the symposium web page https://cse.umn.edu/math/riviere-fabes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ru-yu",
+   "pi_last_name": "Lai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ru-yu Lai",
+   "pi_email_addr": "rylai@umn.edu",
+   "nsf_id": "000730923",
+   "pi_start_date": "2025-02-27",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hao",
+   "pi_last_name": "Jia",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hao Jia",
+   "pi_email_addr": "jiaxx034@umn.edu",
+   "nsf_id": "000679909",
+   "pi_start_date": "2025-02-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Minnesota-Twin Cities",
+  "inst_street_address": "2221 UNIVERSITY AVE SE STE 100",
+  "inst_street_address_2": "",
+  "inst_city_name": "MINNEAPOLIS",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "6126245599",
+  "inst_zip_code": "554143074",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "MN05",
+  "org_lgl_bus_name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KABJZBBJ4B54"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Minnesota-Twin Cities",
+  "perf_str_addr": "206 Church St SE",
+  "perf_city_name": "MINNEAPOLIS",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "554550488",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "MN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "128100",
+   "pgm_ele_name": "ANALYSIS PROGRAM"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 39822.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This award sponsored the participation of young researchers in the annual Riviere-Fabes symposium in Analysis and PDE held at the University of Minnesota: a unique conference which combines both scientific and educational components. Each year four prominent speakers from various branches of analysis and partial differential equations are invited to present two lectures each specifically tailored towards early career mathematicians. The symposium series provides a venue for young mathematicians to learn cutting edge topics in analysis and PDE from the top experts in the field, helping educate and develop the next generation of analysts. Almost all US experts in analysis and PDE have at some point of their careers attended this annual event.<br />This grant supported around 36 early career participants for the 2025 event and covered the costs of another 6 for the 2026 event (through a no cost extension).&nbsp; The 2025 symposium featured Yu Deng (UChicago), Francesco Maggi (UTexas, Austin), Javier G\\'omez-Serrano (Brown), and Angkana R\\\"uland (UBonn). The 2026 symposium featured Peter Hintz (Penn State University), Yangyang Li (University of Notre Dame), William Minicozzi (Massachusetts Institute of Technology), and Hong Wang (IHES and Courant Institute, New York University). Both the 2025 and 2026 symposiums included poster sessions, which allow graduate student participants to present their own research.<br />The list of topics covered in the 2025 and 2026 lectures touched upon many contemporary areas of analysis, partial differential equations, and adjacent fields, such as fluid dynamics, geometric measure theory, distance geometry, geometric flows, kinetic equations, inverse problems and many other modern and relevant topics, creating an excellent educational and scientific event.</p><br>\n<p>\n Last Modified: 08/12/2026<br>\nModified by: Ru-yu&nbsp;Lai</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis award sponsored the participation of young researchers in the annual Riviere-Fabes symposium in Analysis and PDE held at the University of Minnesota: a unique conference which combines both scientific and educational components. Each year four prominent speakers from various branches of analysis and partial differential equations are invited to present two lectures each specifically tailored towards early career mathematicians. The symposium series provides a venue for young mathematicians to learn cutting edge topics in analysis and PDE from the top experts in the field, helping educate and develop the next generation of analysts. Almost all US experts in analysis and PDE have at some point of their careers attended this annual event.\nThis grant supported around 36 early career participants for the 2025 event and covered the costs of another 6 for the 2026 event (through a no cost extension). The 2025 symposium featured Yu Deng (UChicago), Francesco Maggi (UTexas, Austin), Javier G\\'omez-Serrano (Brown), and Angkana R\\\"uland (UBonn). The 2026 symposium featured Peter Hintz (Penn State University), Yangyang Li (University of Notre Dame), William Minicozzi (Massachusetts Institute of Technology), and Hong Wang (IHES and Courant Institute, New York University). Both the 2025 and 2026 symposiums included poster sessions, which allow graduate student participants to present their own research.\nThe list of topics covered in the 2025 and 2026 lectures touched upon many contemporary areas of analysis, partial differential equations, and adjacent fields, such as fluid dynamics, geometric measure theory, distance geometry, geometric flows, kinetic equations, inverse problems and many other modern and relevant topics, creating an excellent educational and scientific event.\t\t\t\t\tLast Modified: 08/12/2026\n\n\t\t\t\t\tSubmitted by: Ru-yuLai\n"
+ }
+}

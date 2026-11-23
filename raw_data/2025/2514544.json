@@ -1,0 +1,105 @@
+{
+ "awd_id": "2514544",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: 2025 Plant Lipids: Structure, Metabolism and Function GRC/GRS",
+ "cfda_num": "47.074",
+ "org_code": "08090000",
+ "po_phone": "7032927380",
+ "po_email": "kdickson@nsf.gov",
+ "po_sign_block_name": "Kathryn Dickson",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2025-12-31",
+ "tot_intn_awd_amt": 12500.0,
+ "awd_amount": 12500.0,
+ "awd_min_amd_letter_date": "2024-12-13",
+ "awd_max_amd_letter_date": "2024-12-13",
+ "awd_abstract_narration": "This award provides partial support for participants in the Gordon Research Conference (GRC) and Seminar (GRS) on Plant Lipids: Structure, Metabolism, and Function, in Pomona, CA, January 25-31, 2025. The GRC and GRS provide a premier platform to explore the essential role of plant lipids in advancing science and addressing societal challenges. Lipids are vital for plant growth and environmental adaptation and are a renewable resource for food, energy, and sustainable products. The conference highlights innovations in understanding lipid functions, their applications in agriculture and bioenergy, and their impact on global food and energy security. By fostering collaboration among leading scientists and early-career researchers, the event aims to strengthen the global plant science community. Efforts to support participation from underrepresented groups and early-career scientists will ensure equitable access to these critical scientific discussions. Through these efforts, the conference aligns federal investment in science with societal benefits such as resource sustainability, and the development of future scientific leaders.\r\n\r\nThe 2025 GRC and GRS on Plant Lipids brings together scientists from academia, industry, and government, as well as many international researchers, to address fundamental and applied questions in lipid biology, focusing on biosynthesis, signaling, and lipids\u2019 role in stress responses and adaptation. Key sessions will explore lipid-mediated signaling, membrane dynamics, and the molecular mechanisms underlying lipid metabolism. Innovative integration of synthetic biology, systems biology, and computational modeling will enable researchers to integrate lipid data across biological scales. By emphasizing novel approaches, including lipid-protein interactions and functional genomics, the conference seeks to uncover new pathways for enhancing plant resilience and developing sustainable bio-based solutions. All Seminar participants and many GRC attendees are early-career scientists who will benefit from the meetings\u2019 scientific discussions, networking opportunities, and career mentoring activities. Interdisciplinary collaborations catalyzed by the meetings will set the stage for transformative advancements in plant lipid research with broad applications in food security, bioenergy, and adaptation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "IOS",
+ "org_div_long_name": "Division Of Integrative Organismal Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Aruna",
+   "pi_last_name": "Kilaru",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Aruna Kilaru",
+   "pi_email_addr": "kilaru@etsu.edu",
+   "nsf_id": "000619580",
+   "pi_start_date": "2024-12-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Gordon Research Conferences",
+  "inst_street_address": "5586 POST RD UNIT 2",
+  "inst_street_address_2": "",
+  "inst_city_name": "EAST GREENWICH",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4017834011",
+  "inst_zip_code": "028183454",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "RI02",
+  "org_lgl_bus_name": "GORDON RESEARCH CONFERENCES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XL5ANMKWN557"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Gordon Research Conferences",
+  "perf_str_addr": "5586 POST RD UNIT 2",
+  "perf_city_name": "EAST GREENWICH",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "028183454",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "RI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "765800",
+   "pgm_ele_name": "Physiol Mechs & Biomechanics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 12500.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Project Outcomes Report: Plant Lipids: Structure, Metabolism and Function GRC/GRS (NSF Award #2514544)</strong></p>\r\n<p>This award supported the 2025 Gordon Research Conference (GRC) and Gordon Research Seminar (GRS) on <em>Plant Lipids: Structure, Metabolism and Function</em>, held in Pomona, California. The conference brought together leading scientists, early-career researchers, and trainees from around the world to advance understanding of plant lipid biology and its applications in food security, sustainability, and climate resilience.</p>\r\n<p><strong>Intellectual Merit</strong></p>\r\n<p>Plant lipids are essential molecules that influence plant growth, stress tolerance, energy storage, and interactions with the environment. This conference highlighted cutting-edge, unpublished research spanning lipid metabolism, signaling, transport, and biotechnological applications. Scientific discussions addressed how plants regulate lipid production, how lipids contribute to resilience under environmental stress, and how these pathways can be engineered to improve crop productivity and sustainability.</p>\r\n<p>The program included presentations from internationally recognized experts as well as emerging scientists, covering topics such as lipid-mediated signaling, seed oil biosynthesis, plant&ndash;microbe interactions, and advanced analytical technologies. A key strength of the GRC format is its emphasis on discussion, enabling deep scientific exchange beyond formal presentations. This environment fostered new ideas, challenged existing paradigms, and catalyzed future research directions in plant lipid biology.<br /><br /></p>\r\n<p><strong>Broader Impacts</strong></p>\r\n<p>The conference had strong impacts on workforce development, diversity, and global scientific collaboration. A total of 102 participants from academia, industry, and government attended, representing North America, Europe, Asia, and beyond (as shown in the demographics summary on page 3) . Importantly, NSF funds directly supported 16 participants, primarily graduate students and postdoctoral researchers, enabling them to present their work, engage with leaders in the field, and build professional networks.</p>\r\n<p>The associated Gordon Research Seminar (GRS) provided a dedicated platform for early-career scientists to present research, develop communication skills, and discuss career pathways in a supportive, peer-led environment. These opportunities are critical for building the next generation of scientists in plant biology and biotechnology.</p>\r\n<p>The conference also prioritized inclusivity and mentorship through structured and informal networking opportunities, including poster sessions, discussion periods, and community-building activities. Feedback from participants highlighted the welcoming atmosphere, diversity of speakers, and high quality of scientific content, indicating success in fostering an inclusive and collaborative scientific community.</p>\r\n<p>Beyond the scientific community, the research discussed at the conference has clear societal relevance. Advances in plant lipid biology contribute to improving crop nutritional quality, developing sustainable bio-based products, enhancing stress tolerance in crops, and supporting climate-resilient agriculture. These outcomes align with global challenges related to food security, renewable resources, and environmental sustainability.</p>\r\n<p><strong>Summary</strong></p>\r\n<p>Overall, the 2025 Plant Lipids GRC/GRS successfully advanced fundamental and applied knowledge in plant lipid science while strengthening the global research community. The conference facilitated the exchange of innovative ideas, supported early-career scientists, and promoted inclusive participation. By connecting fundamental discoveries to real-world applications, this project contributes to long-term efforts to develop sustainable agricultural systems and bio-based solutions for a changing world.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 03/18/2026<br>\nModified by: Aruna&nbsp;Kilaru</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nProject Outcomes Report: Plant Lipids: Structure, Metabolism and Function GRC/GRS (NSF Award #2514544)\r\n\n\nThis award supported the 2025 Gordon Research Conference (GRC) and Gordon Research Seminar (GRS) on Plant Lipids: Structure, Metabolism and Function, held in Pomona, California. The conference brought together leading scientists, early-career researchers, and trainees from around the world to advance understanding of plant lipid biology and its applications in food security, sustainability, and climate resilience.\r\n\n\nIntellectual Merit\r\n\n\nPlant lipids are essential molecules that influence plant growth, stress tolerance, energy storage, and interactions with the environment. This conference highlighted cutting-edge, unpublished research spanning lipid metabolism, signaling, transport, and biotechnological applications. Scientific discussions addressed how plants regulate lipid production, how lipids contribute to resilience under environmental stress, and how these pathways can be engineered to improve crop productivity and sustainability.\r\n\n\nThe program included presentations from internationally recognized experts as well as emerging scientists, covering topics such as lipid-mediated signaling, seed oil biosynthesis, plantmicrobe interactions, and advanced analytical technologies. A key strength of the GRC format is its emphasis on discussion, enabling deep scientific exchange beyond formal presentations. This environment fostered new ideas, challenged existing paradigms, and catalyzed future research directions in plant lipid biology.\n\n\r\n\n\nBroader Impacts\r\n\n\nThe conference had strong impacts on workforce development, diversity, and global scientific collaboration. A total of 102 participants from academia, industry, and government attended, representing North America, Europe, Asia, and beyond (as shown in the demographics summary on page 3) . Importantly, NSF funds directly supported 16 participants, primarily graduate students and postdoctoral researchers, enabling them to present their work, engage with leaders in the field, and build professional networks.\r\n\n\nThe associated Gordon Research Seminar (GRS) provided a dedicated platform for early-career scientists to present research, develop communication skills, and discuss career pathways in a supportive, peer-led environment. These opportunities are critical for building the next generation of scientists in plant biology and biotechnology.\r\n\n\nThe conference also prioritized inclusivity and mentorship through structured and informal networking opportunities, including poster sessions, discussion periods, and community-building activities. Feedback from participants highlighted the welcoming atmosphere, diversity of speakers, and high quality of scientific content, indicating success in fostering an inclusive and collaborative scientific community.\r\n\n\nBeyond the scientific community, the research discussed at the conference has clear societal relevance. Advances in plant lipid biology contribute to improving crop nutritional quality, developing sustainable bio-based products, enhancing stress tolerance in crops, and supporting climate-resilient agriculture. These outcomes align with global challenges related to food security, renewable resources, and environmental sustainability.\r\n\n\nSummary\r\n\n\nOverall, the 2025 Plant Lipids GRC/GRS successfully advanced fundamental and applied knowledge in plant lipid science while strengthening the global research community. The conference facilitated the exchange of innovative ideas, supported early-career scientists, and promoted inclusive participation. By connecting fundamental discoveries to real-world applications, this project contributes to long-term efforts to develop sustainable agricultural systems and bio-based solutions for a changing world.\r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 03/18/2026\n\n\t\t\t\t\tSubmitted by: ArunaKilaru\n"
+ }
+}

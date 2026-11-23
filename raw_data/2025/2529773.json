@@ -1,0 +1,109 @@
+{
+ "awd_id": "2529773",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Understanding Manufacturing Process Dynamics and Machine Tool Anomaly Detection Through Process Sensing and Machine Learning",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032928136",
+ "po_email": "lbian@nsf.gov",
+ "po_sign_block_name": "Linkan Bian",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-09-30",
+ "tot_intn_awd_amt": 444405.0,
+ "awd_amount": 183194.0,
+ "awd_min_amd_letter_date": "2025-05-15",
+ "awd_max_amd_letter_date": "2025-05-15",
+ "awd_abstract_narration": "Effective and efficient machine tool maintenance plays a significant role in ensuring manufacturing productivity, product quality, operational safety, and profitability. With the advancement of process sensing, the Internet of Things, data analytics and cloud computing, more manufacturing plants are favoring predictive maintenance over traditional preventive maintenance. Predictive maintenance involves monitoring and predicting machine tool condition and performance. It avoids unnecessary maintenance and prevents catastrophic failure of machine tools, thereby saving operational costs and improving production reliability. However, there are barriers to fully implement predictive maintenance such as insufficient accuracy and reliability of machine tool anomaly or fault detection by existing techniques. This award supports fundamental research on designing a next-generation process sensing-machine learning architecture for capturing manufacturing process dynamics that reveals the underlying dependency of product quality on process settings and machine conditions. This research engages industry in assessing the performance and scalability of this novel machine tool health-monitoring technique at actual manufacturing plants, with the outcomes offering a competitive edge to the U.S. manufacturing sector in the global market. The research involves disciplines such as advanced manufacturing, sensor networks, machine learning, and computing. Knowledge gained is applied to developing manufacturing curricula to equip the next generation of engineers with new skills in manufacturing and data sciences.\r\n\r\nThis project advances the fundamental understanding of complex manufacturing process dynamics for root cause analysis of process sensing variation and detection of machine anomaly occurrences, through discovering the process-observation causal relationships by an innovative machine learning technique. To improve the trustworthiness and computational efficiency of data-driven analysis and decision making in actual manufacturing plants, a next-generation process sensing-machine learning architecture is designed with capabilities in: 1) high-accuracy modeling and high-efficiency computation upon an optimal architecture without extensive manual tuning; 2) physically interpretable discovery of system input-output causal relationships and process dynamics through the integration of model training with manufacturing domain knowledge; 3) allowing for modeling from unbalanced data and incremental learning from evolving machine conditions without repeated model training for robust and scalable anomaly detection. A physically interpretable convolutional neural network with automated architecture search is developed to correlate process parameters, multivariate sensing data (e.g., force, vibration, power), and part quality specifications (e.g., strength, surface quality) that are acquired from turning and milling processes. The discovered relationships are then diagnosed by an incremental sparse classifier for machine fault detection and classification. The outcomes from this project establish a scientific foundation for the systemic realization of machine tool anomaly detection and predictive maintenance that is not achievable with existing techniques.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Peng",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Peng Wang",
+   "pi_email_addr": "pxw206@case.edu",
+   "nsf_id": "000808062",
+   "pi_start_date": "2025-05-15",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Case Western Reserve University",
+  "inst_street_address": "10900 EUCLID AVE",
+  "inst_street_address_2": "",
+  "inst_city_name": "CLEVELAND",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "2163684510",
+  "inst_zip_code": "44106",
+  "inst_country_name": "United States",
+  "cong_dist_code": "11",
+  "st_cong_dist_code": "OH11",
+  "org_lgl_bus_name": "CASE WESTERN RESERVE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HJMKEF7EJW69"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Case Western Reserve University",
+  "perf_str_addr": "10900 EUCLID AVE",
+  "perf_city_name": "CLEVELAND",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "441064901",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "11",
+  "perf_st_cong_dist": "OH11",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "088Y00",
+   "pgm_ele_name": "AM-Advanced Manufacturing"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "082E",
+   "pgm_ref_txt": "MFG MACHINES & METROLOGY"
+  },
+  {
+   "pgm_ref_code": "083E",
+   "pgm_ref_txt": "MATERIAL TRANSFORMATION PROC"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002021DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 183194.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Modern manufacturing depends on reliable machines, yet many failures occur unexpectedly and under changing operating conditions. Traditional artificial intelligence (AI) systems struggle in these environments because they require large amounts of labeled fault data and frequent retraining, both of which are costly and impractical on factory floors. Over the life of this project, we developed new machine learning methods and system architectures that enable&nbsp;<strong>machines to monitor themselves, adapt over time, and operate on affordable hardware</strong>.</p>\r\n<p>The central intellectual contribution of this project is the advancement of&nbsp;<strong>self-supervised and continual learning techniques for machine condition monitoring</strong>. Instead of relying on labeled fault examples, our methods learn directly from raw sensor data collected during normal operation. These models automatically discover patterns that describe machine behavior and can detect meaningful changes without being explicitly told what a fault looks like. Building on this foundation, we developed continual learning strategies that allow models to&nbsp;<strong>update themselves as machines age, workloads change, or new fault modes appear</strong>, while retaining knowledge of previously learned conditions. Together, these capabilities address a fundamental limitation of conventional AI systems: their inability to function reliably in dynamic, real-world industrial environments.</p>\r\n<p>A major outcome of the project is demonstrating that these learning methods can be&nbsp;<strong>deployed on low-cost edge devices and integrated into edge&ndash;cloud computing infrastructures</strong>. Rather than relying solely on centralized servers, our approach enables lightweight learning and inference to run directly on small, affordable embedded devices located near machines. These devices process sensor data locally, identify potential anomalies in real time, and selectively communicate only essential information to the cloud. More computationally intensive learning tasks, such as consolidating knowledge across machines or validating newly discovered conditions, are handled at the cloud level. This division of labor reduces communication costs, improves scalability, and enhances data privacy, while maintaining high diagnostic performance. The project further showed that advanced AI-driven monitoring does not require expensive sensing hardware. By pairing self-supervised and continual learning with&nbsp;<strong>low-cost vibration and acoustic sensors</strong>, we demonstrated diagnostic performance comparable to traditional industrial systems. This makes adaptive machine monitoring accessible to a wider range of manufacturers, particularly small and medium-sized enterprises that lack the resources to deploy conventional predictive maintenance solutions.</p>\r\n<p><span>Another key outcome is the integration of&nbsp;</span><strong>physics knowledge with data-driven learning</strong><span>. Manufacturing processes follow physical laws, yet many AI systems ignore this information. We demonstrated how physics-based models and simulations can be combined with machine learning to improve reliability and generalization.&nbsp;</span>One example is our work on ultrasound-based inspection, where we combined physics-based simulations of wave propagation with machine learning to reconstruct high-resolution images of internal defects from limited measurement data. By embedding physical understanding into the learning process, the system achieved accurate defect visualization with far less experimental data than conventional approaches. A second example of this integration is our development of&nbsp;<strong>physics-informed machine learning for data compression and reconstruction</strong>&nbsp;in edge&ndash;cloud systems. Manufacturing machines generate large volumes of time-series data, which are costly to store and transmit. We designed learning-based compression methods that preserve physically meaningful signal characteristics, such as frequency content critical to fault diagnosis, while significantly reducing data size. This allows edge devices to efficiently compress sensor data before transmission and enables accurate reconstruction and analysis in the cloud.</p>\r\n<p>Beyond scientific and technical advances, the project had meaningful broader impacts. It trained graduate and undergraduate students in interdisciplinary skills spanning manufacturing, embedded systems, and machine learning, preparing them for careers in data-driven engineering. Project outcomes were incorporated into university courses, exposing students to real industrial challenges and deployment considerations. By enabling reliable, adaptive, and affordable monitoring systems, this project contributes to safer workplaces, reduced machine downtime, and more efficient use of industrial resources&mdash;benefits that extend beyond manufacturing to infrastructure resilience and economic sustainability.</p><br>\n<p>\n Last Modified: 12/27/2025<br>\nModified by: Peng&nbsp;Wang</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nModern manufacturing depends on reliable machines, yet many failures occur unexpectedly and under changing operating conditions. Traditional artificial intelligence (AI) systems struggle in these environments because they require large amounts of labeled fault data and frequent retraining, both of which are costly and impractical on factory floors. Over the life of this project, we developed new machine learning methods and system architectures that enablemachines to monitor themselves, adapt over time, and operate on affordable hardware.\r\n\n\nThe central intellectual contribution of this project is the advancement ofself-supervised and continual learning techniques for machine condition monitoring. Instead of relying on labeled fault examples, our methods learn directly from raw sensor data collected during normal operation. These models automatically discover patterns that describe machine behavior and can detect meaningful changes without being explicitly told what a fault looks like. Building on this foundation, we developed continual learning strategies that allow models toupdate themselves as machines age, workloads change, or new fault modes appear, while retaining knowledge of previously learned conditions. Together, these capabilities address a fundamental limitation of conventional AI systems: their inability to function reliably in dynamic, real-world industrial environments.\r\n\n\nA major outcome of the project is demonstrating that these learning methods can bedeployed on low-cost edge devices and integrated into edgecloud computing infrastructures. Rather than relying solely on centralized servers, our approach enables lightweight learning and inference to run directly on small, affordable embedded devices located near machines. These devices process sensor data locally, identify potential anomalies in real time, and selectively communicate only essential information to the cloud. More computationally intensive learning tasks, such as consolidating knowledge across machines or validating newly discovered conditions, are handled at the cloud level. This division of labor reduces communication costs, improves scalability, and enhances data privacy, while maintaining high diagnostic performance. The project further showed that advanced AI-driven monitoring does not require expensive sensing hardware. By pairing self-supervised and continual learning withlow-cost vibration and acoustic sensors, we demonstrated diagnostic performance comparable to traditional industrial systems. This makes adaptive machine monitoring accessible to a wider range of manufacturers, particularly small and medium-sized enterprises that lack the resources to deploy conventional predictive maintenance solutions.\r\n\n\nAnother key outcome is the integration ofphysics knowledge with data-driven learning. Manufacturing processes follow physical laws, yet many AI systems ignore this information. We demonstrated how physics-based models and simulations can be combined with machine learning to improve reliability and generalization.One example is our work on ultrasound-based inspection, where we combined physics-based simulations of wave propagation with machine learning to reconstruct high-resolution images of internal defects from limited measurement data. By embedding physical understanding into the learning process, the system achieved accurate defect visualization with far less experimental data than conventional approaches. A second example of this integration is our development ofphysics-informed machine learning for data compression and reconstructionin edgecloud systems. Manufacturing machines generate large volumes of time-series data, which are costly to store and transmit. We designed learning-based compression methods that preserve physically meaningful signal characteristics, such as frequency content critical to fault diagnosis, while significantly reducing data size. This allows edge devices to efficiently compress sensor data before transmission and enables accurate reconstruction and analysis in the cloud.\r\n\n\nBeyond scientific and technical advances, the project had meaningful broader impacts. It trained graduate and undergraduate students in interdisciplinary skills spanning manufacturing, embedded systems, and machine learning, preparing them for careers in data-driven engineering. Project outcomes were incorporated into university courses, exposing students to real industrial challenges and deployment considerations. By enabling reliable, adaptive, and affordable monitoring systems, this project contributes to safer workplaces, reduced machine downtime, and more efficient use of industrial resourcesbenefits that extend beyond manufacturing to infrastructure resilience and economic sustainability.\t\t\t\t\tLast Modified: 12/27/2025\n\n\t\t\t\t\tSubmitted by: PengWang\n"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "awd_id": "2449787",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: New perspectives on skein modules",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032920000",
+ "po_email": "qli@nsf.gov",
+ "po_sign_block_name": "Qun Li",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 20000.0,
+ "awd_amount": 20000.0,
+ "awd_min_amd_letter_date": "2025-02-12",
+ "awd_max_amd_letter_date": "2025-02-12",
+ "awd_abstract_narration": "This award will support travel and accommodation expenses for U.S.-based participants attending the workshop \u201cNew Perspectives on Skein Modules,\u201d taking place from July 28 to August 1, 2025, at the Centre International de Rencontres Math\u00e9matiques (CIRM) in Luminy, France. The workshop aims to bring together researchers engaged in the rapidly advancing theory of skein modules, facilitating dialogue across different perspectives in this field.\r\n\r\nParticipants will share recent developments through research talks, and dedicated discussion sessions will foster the exchange of ideas, sparking new research directions. Key topics will include the connections between skein modules and algebras with character varieties, quantum field theories, Teichm\u00fcller theory, categorification, 4-manifold invariants, and other areas in mathematics and physics. Additionally, the workshop will cover the latest computational techniques in skein module theory, providing insights that may drive further innovation in this exciting field.  More information about the workshop can be found at: http://detcherry.perso.math.cnrs.fr/CIRM2025/index.htm.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Efstratia",
+   "pi_last_name": "Kalfagianni",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Efstratia Kalfagianni",
+   "pi_email_addr": "kalfagia@math.msu.edu",
+   "nsf_id": "000148284",
+   "pi_start_date": "2025-02-12",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Adam",
+   "pi_last_name": "Sikora",
+   "pi_mid_init": "S",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adam S Sikora",
+   "pi_email_addr": "asikora@buffalo.edu",
+   "nsf_id": "000476174",
+   "pi_start_date": "2025-02-12",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Michigan State University",
+  "inst_street_address": "426 AUDITORIUM RD RM 360",
+  "inst_street_address_2": "",
+  "inst_city_name": "EAST LANSING",
+  "inst_state_code": "MI",
+  "inst_state_name": "Michigan",
+  "inst_phone_num": "5173555040",
+  "inst_zip_code": "488242600",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MI07",
+  "org_lgl_bus_name": "MICHIGAN STATE UNIVERSITY",
+  "org_prnt_uei_num": "SSUEDFDH4J36",
+  "org_uei_num": "R28EKN92ZTZ9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Michigan State University",
+  "perf_str_addr": "426 AUDITORIUM RD RM 2",
+  "perf_city_name": "EAST LANSING",
+  "perf_st_code": "MI",
+  "perf_st_name": "Michigan",
+  "perf_zip_code": "488242600",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MI07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126700",
+   "pgm_ele_name": "TOPOLOGY"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 20000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>&nbsp;</p>\r\n<div>This award was spent &nbsp;in support of accommodation and travel expenses of USA based participants to the workshop&nbsp;</div>\r\n<div>``New perspectives on skein modules\" that will took &nbsp;place from July 28 to August 1, 2025 &nbsp;at the &nbsp;``Centre International de Rencontres Math&eacute;matiques\" (CIRM) &nbsp;in Luminy, France.</div>\r\n<div>Funds were spent covering expenses of USA participants, especially of these &nbsp;at early stages of their career, that had no access to other means of funding.</div>\r\n<div>The workshop &nbsp;brought &nbsp;together a large group of &nbsp;researchers working on the different prospectives of the rapidly developing theory of skein modules.</div>\r\n<div>&nbsp;Research talks presented &nbsp;and discussed the &nbsp;recent developments in the field and open discussion sessions provided opportunities for &nbsp;cross fertilization of ideas and beginnings of new collaborative projects. Some of the topics covered &nbsp;by the workshop &nbsp;were finiteness properties of skein modules, representations of skein algebras and connections &nbsp;to character varieties,</div>\r\n<div>skein algebras of surfaces and Teichm\\\"uller spaces, categorified skein algebras, connections to representation theory, connections with Khovanov homology and applications to 4-manifolds,</div>\r\n<div>as well as &nbsp;newly developed methods of computations of skein modules.</div>\r\n<div>\r\n<div>About half the participants were from USA based institutions &nbsp;while the remaining &nbsp;will came from Europe, Asia and Australia.</div>\r\n<div>The speakers and tittles were as follows. We also had research posters by other participants.</div>\r\n<div><a href=\"https://sites.google.com/view/giulio-bellettis-homepage/\">Giulio Beletti</a><span>&nbsp;(Universit&eacute; de Bourgogne)&nbsp;&nbsp;</span><em>Proving finiteness for Kauffman bracket skein modules by hand</em><br /><a href=\"https://jmhbrown.github.io/\">Jennifer Brown</a><span>&nbsp;(University of Edinburgh)&nbsp;&nbsp;</span><em>Defects in Skein Theory</em><br /><a href=\"https://sites.google.com/view/pierrick-bousseau\">Pierrick Bousseau</a><span>&nbsp;(University of Georgia)&nbsp;&nbsp;</span><em>The skein algebra of the 4-punctured sphere from curve counting</em><br /><a href=\"https://sites.google.com/view/daniel-douglas\">Daniel Douglas</a><span>&nbsp;(Virginia Tech)&nbsp;&nbsp;</span><em>A quantum multidimer model for ribbon graphs</em><br /><a href=\"https://people.mpim-bonn.mpg.de/stavros/\">Stavros Garoufalidis</a><span>&nbsp;(SUS Tech)&nbsp;&nbsp;</span><em>The Habiro ring of a number field</em><br /><a href=\"https://www.usu.edu/math/geer/contact.html\">Nathan Geer</a><span>&nbsp;(Utah State University)&nbsp;&nbsp;</span><em>Non-semisimple TQFTs</em><br /><a href=\"https://math.montana.edu/directory/faculty/2255266/sam-gunningham\">Sam Gunnigham</a><span>&nbsp;(Montana State University)&nbsp;&nbsp;</span><em>Skein modules, deformation quantization, and perverse sheaves</em><br /><a href=\"https://sites.google.com/view/vijayhiggins/home\">Vijay Higgins</a><span>&nbsp;(Michigan State University)&nbsp;&nbsp;</span><em>Skein identities at roots of unity</em><br /><a href=\"https://www.nsf.gov/staff/staff_bio.jsp?lan=jkaniaba&amp;org=DMS&amp;from_org=DMS\">Joanna Kania-Bartoszynska</a><span>&nbsp;(National Science Foundation)&nbsp;&nbsp;</span><em>Size of the Kauffman bracket skein module of a closed oriented 3-manifold</em><br /><a href=\"https://patrickkinnear.github.io/\">Patrick Kinnear</a><span>&nbsp;(University of Hamburg)&nbsp; &nbsp;</span><em>Defect skeins via orbifolding</em><br /><a href=\"https://letu.math.gatech.edu/\">Thang T.Q. Le</a><span>&nbsp;(Georgia Tech)&nbsp;&nbsp;</span><em>Skein algebras and Quantum groups</em><br /><a href=\"https://www.categorical.center/\">Sunghyuk Park</a><span>&nbsp;(Harvard University)&nbsp;&nbsp;</span><em>Skein traces from curve counting</em><br /><a href=\"https://math.columbian.gwu.edu/j%C3%B3zef-h-przytycki\">Jozef Przytycki</a><span>&nbsp;(George Washington University)&nbsp;&nbsp;</span><em>Survey of cubic skein modules</em><br /><a href=\"https://math.berkeley.edu/~qiuyu/\">Qiuyu Ren</a><span>&nbsp;(UC Berkeley)&nbsp;&nbsp;</span><em>Khovanov skein lasagna modules, variations, and exotic 4-manifolds</em><br /><a href=\"https://sites.google.com/view/iordanis-romaidis/home\">Iordanis Romaidis</a><span>&nbsp;(University of Edinburgh)&nbsp; &nbsp;On the holonomicity of skein modules</span><br /><a href=\"https://www.math.ucdavis.edu/~vazirani/\">Monica Vazirani</a><span>&nbsp;(University of California, Davis)&nbsp;&nbsp;</span><em>Skeins on tori</em><br /><a href=\"https://paul.wedrich.at/\">Paul Wedrich</a><span>&nbsp;(University of Hamburg)&nbsp;&nbsp;</span><em>From Link Homology to Topological Quantum Field Theories</em><br /><a href=\"https://sites.google.com/view/helenwong/home\">Helen Wong</a><span>&nbsp;(Claremont McKenna College)&nbsp;&nbsp;</span><em>Center of Generalized Skein Algebras</em></div>\r\n</div>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/17/2026<br>\nModified by: Efstratia&nbsp;Kalfagianni</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n\r\nThis award was spent in support of accommodation and travel expenses of USA based participants to the workshop\r\n``New perspectives on skein modules\" that will took place from July 28 to August 1, 2025 at the ``Centre International de Rencontres Mathmatiques\" (CIRM) in Luminy, France.\r\nFunds were spent covering expenses of USA participants, especially of these at early stages of their career, that had no access to other means of funding.\r\nThe workshop brought together a large group of researchers working on the different prospectives of the rapidly developing theory of skein modules.\r\nResearch talks presented and discussed the recent developments in the field and open discussion sessions provided opportunities for cross fertilization of ideas and beginnings of new collaborative projects. Some of the topics covered by the workshop were finiteness properties of skein modules, representations of skein algebras and connections to character varieties,\r\nskein algebras of surfaces and Teichm\\\"uller spaces, categorified skein algebras, connections to representation theory, connections with Khovanov homology and applications to 4-manifolds,\r\nas well as newly developed methods of computations of skein modules.\r\n\r\nAbout half the participants were from USA based institutions while the remaining will came from Europe, Asia and Australia.\r\nThe speakers and tittles were as follows. We also had research posters by other participants.\r\nGiulio Beletti(Universit de Bourgogne)Proving finiteness for Kauffman bracket skein modules by hand\nJennifer Brown(University of Edinburgh)Defects in Skein Theory\nPierrick Bousseau(University of Georgia)The skein algebra of the 4-punctured sphere from curve counting\nDaniel Douglas(Virginia Tech)A quantum multidimer model for ribbon graphs\nStavros Garoufalidis(SUS Tech)The Habiro ring of a number field\nNathan Geer(Utah State University)Non-semisimple TQFTs\nSam Gunnigham(Montana State University)Skein modules, deformation quantization, and perverse sheaves\nVijay Higgins(Michigan State University)Skein identities at roots of unity\nJoanna Kania-Bartoszynska(National Science Foundation)Size of the Kauffman bracket skein module of a closed oriented 3-manifold\nPatrick Kinnear(University of Hamburg) Defect skeins via orbifolding\nThang T.Q. Le(Georgia Tech)Skein algebras and Quantum groups\nSunghyuk Park(Harvard University)Skein traces from curve counting\nJozef Przytycki(George Washington University)Survey of cubic skein modules\nQiuyu Ren(UC Berkeley)Khovanov skein lasagna modules, variations, and exotic 4-manifolds\nIordanis Romaidis(University of Edinburgh) On the holonomicity of skein modules\nMonica Vazirani(University of California, Davis)Skeins on tori\nPaul Wedrich(University of Hamburg)From Link Homology to Topological Quantum Field Theories\nHelen Wong(Claremont McKenna College)Center of Generalized Skein Algebras\r\n\r\n\n\n\t\t\t\t\tLast Modified: 06/17/2026\n\n\t\t\t\t\tSubmitted by: EfstratiaKalfagianni\n"
+ }
+}

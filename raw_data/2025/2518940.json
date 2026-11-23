@@ -1,0 +1,129 @@
+{
+ "awd_id": "2518940",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Doctoral Dissertation Research: Understanding of Trade and Diplomatic Relations",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032927783",
+ "po_email": "jmantz@nsf.gov",
+ "po_sign_block_name": "Jeffrey Mantz",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 19752.0,
+ "awd_amount": 19752.0,
+ "awd_min_amd_letter_date": "2025-07-21",
+ "awd_max_amd_letter_date": "2025-07-21",
+ "awd_abstract_narration": "This doctoral dissertation research project investigates the impacts of cross-border trade and exchange on diplomatic relations and on land and wildlife management. Investigators specifically examine the role that management of vertebrate wildlife has on cross-border trade and border management.  Research findings have translational impact on border security and workforce development in diplomacy and land administration.  \r\n\r\nResearch findings will contribute to the understanding of diplomatic and trade relations. In addition to training a graduate student, research findings will be disseminated to inform the development of land management and/or cross-border trade and diplomatic strength. Expansion of our understanding of the role that land and wildlife administration play in the governance of trade and diplomacy will contribute to NSF\u2019s priorities of fueling economic prosperity, national security, and global competitiveness. It will also contribute to the science of national security, and secure borders.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Laura",
+   "pi_last_name": "German",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Laura A German",
+   "pi_email_addr": "lgerman@uga.edu",
+   "nsf_id": "000114784",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Asif",
+   "pi_last_name": "Sandeelo",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Asif A Sandeelo",
+   "pi_email_addr": "asif.sandeelo@uga.edu",
+   "nsf_id": "000946439",
+   "pi_start_date": "2025-07-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Georgia Research Foundation Inc",
+  "inst_street_address": "310 E CAMPUS RD RM 409",
+  "inst_street_address_2": "",
+  "inst_city_name": "ATHENS",
+  "inst_state_code": "GA",
+  "inst_state_name": "Georgia",
+  "inst_phone_num": "7065425939",
+  "inst_zip_code": "306021589",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "GA10",
+  "org_lgl_bus_name": "UNIVERSITY OF GEORGIA RESEARCH FOUNDATION, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NMJHD63STRC5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Georgia",
+  "perf_str_addr": "310 E CAMPUS RD RM 409",
+  "perf_city_name": "ATHENS",
+  "perf_st_code": "GA",
+  "perf_st_name": "Georgia",
+  "perf_zip_code": "306021589",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "GA10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760500",
+   "pgm_ele_name": "Cult Anthro DDRI"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1390",
+   "pgm_ref_txt": "CULTURAL ANTHROPOLOGY"
+  },
+  {
+   "pgm_ref_code": "157Z",
+   "pgm_ref_txt": "Nat Security, Secure Border & Pub Safety"
+  },
+  {
+   "pgm_ref_code": "158Z",
+   "pgm_ref_txt": "Translational Research"
+  },
+  {
+   "pgm_ref_code": "8037",
+   "pgm_ref_txt": "Advanced Manufacturing"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 19752.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This study deepens our understanding of diplomatic relations and their effects on the domestic life of host countries through a case study on elite falconry in Pakistan. Pakistan and the Gulf states, particularly Saudi Arabia, the United Arab Emirates (UAE), and Qatar, share close socio-cultural, diplomatic, and economic relations. Pakistan provides security cooperation to its Gulf state allies and secures diplomatic and trade benefits in return. This project explores the role of elite falconry within these diplomatic relations and investigates how they shape sovereignty, domestic conservation laws, and the everyday lives of local communities. Termed a &ldquo;heritage sport&rdquo; in the Arab world, foreign elites with economic influence, political power, and prestige pursue Houbara bustards (locally called&nbsp;<em>Taloor</em>) into their wintering grounds in Pakistan. This research sheds light on the many ways that these relations shape domestic conservation laws to allow the hunting of the protected&nbsp;<em>Taloor</em>&nbsp;bird, and in so doing, disrupt local land uses and moral frameworks.&nbsp;</p>\r\n<p class=\"Pa4\">Situated at the intersection of political, ecological, multispecies, and legal dynamics and theories, this project asks: &ldquo;What are the social, political, discursive, and material dynamics surrounding elite falconry at local, national, and translational scales?&rdquo; To answer this overarching question, the project asks the following specific questions:&nbsp;</p>\r\n<p class=\"Pa4\">Q1: What are the political, economic and multispecies dynamics involved in the configuration of Pakistan&rsquo;s diplomacy with the Gulf states of Saudi Arabia, the UAE, and Qatar?&nbsp;</p>\r\n<p class=\"Pa4\">Q2: What effects do these diplomatic relations have on national and provincial wildlife laws, conservation practices, and territorial control, and how has Pakistani sovereignty been reconfigured in the process?&nbsp;</p>\r\n<p class=\"Pa4\">Q3. How have these changes in laws and conservation practices influenced the lands, lives, and relationalities of native Sindhi farmers, herders, and the&nbsp;<em>Taloor</em>&nbsp;birds?</p>\r\n<p>This 14-month project employed content analysis of grey literature and qualitative research methods (systematic observation, interviews) at multiple urban and rural &ldquo;sites&rdquo; (embassies, government offices, and rural communities of Sindh Province) to examine the political, legal, and material effects of elite falconry.&nbsp;</p>\r\n<p>In terms of&nbsp;<strong>intellectual merits</strong>, the project deepens our understanding of international diplomacy by exploring the role of non-human birds in Pakistan-Gulf state diplomacy and economic ties, such as the establishment of the Special Investment Facilitation Council (SIFC) that attracts investment from the Gulf states. Bringing into conversation ethnographic investigations and theoretical insights on increased engagement of animals in international politics, especially diplomatic realms, the project advances the concept of &ldquo;multispecies diplomacy&rdquo; in which the non-human birds, including&nbsp;<em>Taloor&nbsp;</em>and falcons, along with humans and state institutions, configure diplomatic and trade relations between Pakistan and the Gulf states. In so doing, the project engages in broader conversations surrounding the role of non-humans as entities that actively shape the world, yet takes this beyond the local level to reveal them as co-participants in international relations.&nbsp;</p>\r\n<p>The project also contributes to longstanding anthropological studies of host-guest relations, through an ethnographic exploration of&nbsp;<em>Taloor</em>&nbsp;as &ldquo;winged guests&rdquo;. In so doing, this project suggests ways to incorporate local norms of hospitality into the conservation and governance of migratory species crossing multiple political borders. The project supports scholarship in cultural anthropology by studying local relationships with land and wildlife and examining how these relations are influenced by elite falconry. This project also contributes to the anthropology of Pakistan and adds geographical breadth to broader anthropological literature on elite hunting sports, conservation practices, wildlife laws, and disadvantaged communities.&nbsp;The project contributes to ornithology by developing methodological insights into how qualitative methods can supplement ornithological data in sensitive areas where technical equipment such as camera traps could not be installed due to security concerns.&nbsp;</p>\r\n<p>In terms of&nbsp;<strong>broader impacts</strong>, NSF funding has contributed to the Co-PI's professional development and enabled substantial progress towards the timely completion of his PhD. Further impacts are expected for i. local communities and ii. conservation. To highlight the impacts of falconry on local lives, the CoPI presented (online) the project&rsquo;s preliminary observations at the Symposium on Integrative Conservation (SIC) in 2025. He will also share a&nbsp;policy brief with the Ministry of Foreign Affairs of Pakistan (MoFA) in Fall 2027, suggesting how local perspectives might be integrated into foreign policy and plans to foster diplomacy while recognizing local rights to lands and ensuring their safety. For conservation, the Co-PI will publish two articles and a blog post in mainstream national and international media outlets in Spring 2028, highlighting how political, legal, and cultural dynamics shape conservation of threatened migratory&nbsp;<em>Taloor&nbsp;</em>birds. The articles will propose wildlife laws, policies, and practices that are culturally informed and grounded in local moralities and relationalities. The Co-PI will also host a multi-stakeholder dialogue in Karachi with the support of WWF and IUCN to share findings and foster dialogue around how best to integrate local perspectives on lands and livelihoods and balance&nbsp;<em>Taloor</em>&nbsp;conservation with local and national interests.</p><br>\n<p>\n Last Modified: 08/31/2026<br>\nModified by: Asif&nbsp;Ali&nbsp;Sandeelo</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210480709_3._Camel_Grazing_in_Kohistan--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210480709_3._Camel_Grazing_in_Kohistan--rgov-800width.jpeg\" title=\"Camel Grazing\"><img src=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210480709_3._Camel_Grazing_in_Kohistan--rgov-66x44.jpeg\" alt=\"Camel Grazing\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">A herd of camels grazing in Kohistan, Thatta District, Sindh, Pakistan</div>\n<div class=\"imageCredit\">Asif Ali Sandeelo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Asif&nbsp;Ali&nbsp;Sandeelo\n<div class=\"imageTitle\">Camel Grazing</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210270274_1._Airstrip_used_by_Arab_elite--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210270274_1._Airstrip_used_by_Arab_elite--rgov-800width.jpeg\" title=\"Airstrip in Nara Desert, Sindh\"><img src=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210270274_1._Airstrip_used_by_Arab_elite--rgov-66x44.jpeg\" alt=\"Airstrip in Nara Desert, Sindh\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Airstrip used by elite hunters in the Nara Desert, Sindh, Pakistan</div>\n<div class=\"imageCredit\">Asif Ali Sandeelo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Asif&nbsp;Ali&nbsp;Sandeelo\n<div class=\"imageTitle\">Airstrip in Nara Desert, Sindh</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210389346_2._Elite_hunters_palace_in_Nara_Desert--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210389346_2._Elite_hunters_palace_in_Nara_Desert--rgov-800width.jpeg\" title=\"Elite Hunter's Palace in Nara Desert, Sindh\"><img src=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210389346_2._Elite_hunters_palace_in_Nara_Desert--rgov-66x44.jpeg\" alt=\"Elite Hunter's Palace in Nara Desert, Sindh\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">A palace of the Arab hunters in the Nara Desert, Sindh, Pakistan.</div>\n<div class=\"imageCredit\">Asif Ali Sandeelo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Asif&nbsp;Ali&nbsp;Sandeelo\n<div class=\"imageTitle\">Elite Hunter's Palace in Nara Desert, Sindh</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210596088_4._Sheep_grazing_in_Kohistan--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210596088_4._Sheep_grazing_in_Kohistan--rgov-800width.jpeg\" title=\"Sheep at Kohistan, Thatta District\"><img src=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210596088_4._Sheep_grazing_in_Kohistan--rgov-66x44.jpeg\" alt=\"Sheep at Kohistan, Thatta District\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Sheep grazing in the Kohistan, Thatta District, Sindh, Pakistan</div>\n<div class=\"imageCredit\">Asif Ali Sandeelo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Asif&nbsp;Ali&nbsp;Sandeelo\n<div class=\"imageTitle\">Sheep at Kohistan, Thatta District</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210706546_5._Goat_grazing_Nara_Desert_Sept_2025--rgov-214x142.jpeg\" original=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210706546_5._Goat_grazing_Nara_Desert_Sept_2025--rgov-800width.jpeg\" title=\"Goats in Nara Desert\"><img src=\"/por/images/Reports/POR/2026/2518940/2518940_10993597_1788210706546_5._Goat_grazing_Nara_Desert_Sept_2025--rgov-66x44.jpeg\" alt=\"Goats in Nara Desert\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">After grazing, goats have returned to the home in Nara Desert, Sindh, Pakistan</div>\n<div class=\"imageCredit\">Asif Ali Sandeelo</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Asif&nbsp;Ali&nbsp;Sandeelo\n<div class=\"imageTitle\">Goats in Nara Desert</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis study deepens our understanding of diplomatic relations and their effects on the domestic life of host countries through a case study on elite falconry in Pakistan. Pakistan and the Gulf states, particularly Saudi Arabia, the United Arab Emirates (UAE), and Qatar, share close socio-cultural, diplomatic, and economic relations. Pakistan provides security cooperation to its Gulf state allies and secures diplomatic and trade benefits in return. This project explores the role of elite falconry within these diplomatic relations and investigates how they shape sovereignty, domestic conservation laws, and the everyday lives of local communities. Termed a heritage sport in the Arab world, foreign elites with economic influence, political power, and prestige pursue Houbara bustards (locally calledTaloor) into their wintering grounds in Pakistan. This research sheds light on the many ways that these relations shape domestic conservation laws to allow the hunting of the protectedTaloorbird, and in so doing, disrupt local land uses and moral frameworks.\r\n\n\nSituated at the intersection of political, ecological, multispecies, and legal dynamics and theories, this project asks: What are the social, political, discursive, and material dynamics surrounding elite falconry at local, national, and translational scales? To answer this overarching question, the project asks the following specific questions:\r\n\n\nQ1: What are the political, economic and multispecies dynamics involved in the configuration of Pakistans diplomacy with the Gulf states of Saudi Arabia, the UAE, and Qatar?\r\n\n\nQ2: What effects do these diplomatic relations have on national and provincial wildlife laws, conservation practices, and territorial control, and how has Pakistani sovereignty been reconfigured in the process?\r\n\n\nQ3. How have these changes in laws and conservation practices influenced the lands, lives, and relationalities of native Sindhi farmers, herders, and theTaloorbirds?\r\n\n\nThis 14-month project employed content analysis of grey literature and qualitative research methods (systematic observation, interviews) at multiple urban and rural sites (embassies, government offices, and rural communities of Sindh Province) to examine the political, legal, and material effects of elite falconry.\r\n\n\nIn terms ofintellectual merits, the project deepens our understanding of international diplomacy by exploring the role of non-human birds in Pakistan-Gulf state diplomacy and economic ties, such as the establishment of the Special Investment Facilitation Council (SIFC) that attracts investment from the Gulf states. Bringing into conversation ethnographic investigations and theoretical insights on increased engagement of animals in international politics, especially diplomatic realms, the project advances the concept of multispecies diplomacy in which the non-human birds, includingTaloorand falcons, along with humans and state institutions, configure diplomatic and trade relations between Pakistan and the Gulf states. In so doing, the project engages in broader conversations surrounding the role of non-humans as entities that actively shape the world, yet takes this beyond the local level to reveal them as co-participants in international relations.\r\n\n\nThe project also contributes to longstanding anthropological studies of host-guest relations, through an ethnographic exploration ofTalooras winged guests. In so doing, this project suggests ways to incorporate local norms of hospitality into the conservation and governance of migratory species crossing multiple political borders. The project supports scholarship in cultural anthropology by studying local relationships with land and wildlife and examining how these relations are influenced by elite falconry. This project also contributes to the anthropology of Pakistan and adds geographical breadth to broader anthropological literature on elite hunting sports, conservation practices, wildlife laws, and disadvantaged communities.The project contributes to ornithology by developing methodological insights into how qualitative methods can supplement ornithological data in sensitive areas where technical equipment such as camera traps could not be installed due to security concerns.\r\n\n\nIn terms ofbroader impacts, NSF funding has contributed to the Co-PI's professional development and enabled substantial progress towards the timely completion of his PhD. Further impacts are expected for i. local communities and ii. conservation. To highlight the impacts of falconry on local lives, the CoPI presented (online) the projects preliminary observations at the Symposium on Integrative Conservation (SIC) in 2025. He will also share apolicy brief with the Ministry of Foreign Affairs of Pakistan (MoFA) in Fall 2027, suggesting how local perspectives might be integrated into foreign policy and plans to foster diplomacy while recognizing local rights to lands and ensuring their safety. For conservation, the Co-PI will publish two articles and a blog post in mainstream national and international media outlets in Spring 2028, highlighting how political, legal, and cultural dynamics shape conservation of threatened migratoryTaloorbirds. The articles will propose wildlife laws, policies, and practices that are culturally informed and grounded in local moralities and relationalities. The Co-PI will also host a multi-stakeholder dialogue in Karachi with the support of WWF and IUCN to share findings and foster dialogue around how best to integrate local perspectives on lands and livelihoods and balanceTaloorconservation with local and national interests.\t\t\t\t\tLast Modified: 08/31/2026\n\n\t\t\t\t\tSubmitted by: AsifAliSandeelo\n"
+ }
+}

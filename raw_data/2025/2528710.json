@@ -1,0 +1,105 @@
+{
+ "awd_id": "2528710",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: 6th African Nano Conference/Workshop on Applications of Nanotechnology in Energy, Environment, Agriculture and Health",
+ "cfda_num": "47.041",
+ "org_code": "07220000",
+ "po_phone": "7032927949",
+ "po_email": "nosavage@nsf.gov",
+ "po_sign_block_name": "Nora Savage",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 23340.0,
+ "awd_amount": 23340.0,
+ "awd_min_amd_letter_date": "2025-06-20",
+ "awd_max_amd_letter_date": "2025-06-20",
+ "awd_abstract_narration": "The field of nanotechnology, dedicated to understanding and controlling matter at the nanoscale, has generated immense global interest. Materials at the nanoscale exhibit physical, chemical, and biological properties that differ significantly from their bulk counterparts. Harnessing these unique characteristics through nanostructuring has the potential to substantially enhance and revolutionize numerous technological and industrial sectors, including information technology, medicine and health-care, transportation, energy, food safety, and environmental science. To continue to spur development in the field of Nanotechnology for societal benefit, it is imperative for global researchers to engage, discuss latest advancements, and establish impactful collaborations. This award will provide partial travel support for students and early-career researchers to attend the 6th African Nano Conference/Workshop on Applications of Nanotechnology to Energy, Environment, Agriculture, and Health.  The conference, which will take place July 14-19, 2025 at the University of Nigeria, Nsukka, will gather international research leaders, students, and industry representatives to explore innovative applications of nanotechnology across these critical fields.\r\n\r\nThe nanotechnology conference offers extensive opportunities for U.S. researchers to engage with their global peers, fostering meaningful exchanges and expanding perspectives and knowledge in pivotal areas such as energy, water, agriculture, environment, and health technologies. In addition, the conference will also cover the computational aspects of nanotechnology through a special session that is focused on latest computational tools for materials discovery including machine learning to advance the field of nanotechnology. It also serves as an essential platform for establishing and nurturing collaborative relationships between U.S. and African researchers, laying the groundwork for significant international research initiatives. Furthermore, the conference supports the growth of a globally connected STEM workforce and will serve to strategically attract students to STEM disciplines, thus playing a critical role in meeting the rising global demand for skilled STEM professionals.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Chemical, Bioengineering, Environmental, & Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Justus",
+   "pi_last_name": "Ndukaife",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Justus C Ndukaife",
+   "pi_email_addr": "justus.ndukaife@vanderbilt.edu",
+   "nsf_id": "000761908",
+   "pi_start_date": "2025-06-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Vanderbilt University",
+  "inst_street_address": "110 21ST AVE S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NASHVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "6153222631",
+  "inst_zip_code": "372032416",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "TN05",
+  "org_lgl_bus_name": "VANDERBILT UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GTNBNWXJ12D5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Vanderbilt University",
+  "perf_str_addr": "110 21ST AVE S",
+  "perf_city_name": "NASHVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "372032408",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "TN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "117900",
+   "pgm_ele_name": "Nanoscale Interactions Program"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7237",
+   "pgm_ref_txt": "NANO NON-SOLIC SCI & ENG AWD"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 23340.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span>The National Science Foundation (NSF) supported U.S. researchers participation in the 6th African Nano Conference/Workshop on Applications of Nanotechnology in Energy, Environment, Agriculture and Health, held July 14&ndash;19, 2025, at the University of Nigeria, Nsukka (UNN), Nigeria. The conference brought together researchers, faculty, students, and industry representatives to exchange scientific knowledge, explore emerging applications of nanotechnology, and strengthen international research collaborations. Its overarching goals were to advance research in nanoscience and nanotechnology, foster partnerships between U.S. and African institutions, and provide professional development and mentoring opportunities for students and early-career researchers.</span></p>\r\n<p><span>A major outcome of the NSF-supported activity was the participation of six U.S.-based researchers (including three PhD students), who engaged with international colleagues through scientific presentations, technical discussions, and networking activities. The conference facilitated knowledge exchange across interdisciplinary research areas, including advanced materials, renewable energy, environmental science, agriculture, and healthcare. These interactions strengthened connections between U.S. and African research communities and provided opportunities to explore future collaborative research, student exchanges, and access to advanced research facilities.</span></p>\r\n<p><span>The conference also provided an important platform for recognizing outstanding scientific contributions by emerging researchers. Notably, one of the U.S. participants received the first-place poster presentation award, demonstrating the quality of research presented by the U.S. delegation and the value of international scientific engagement.</span></p>\r\n<p><span>An especially significant outcome was the conference's impact on student professional development and access to international opportunities. Professor Justus C. Ndukaife of Vanderbilt University delivered a professional development workshop focused on strategies for building successful scientific careers, engaging with professional societies such as Optica and SPIE, and leveraging international professional networks to access mentorship, scholarships, and research opportunities.</span></p>\r\n<p><strong><span>Ruth Kooaka Dorgbaa</span></strong><span>, a graduate student and researcher at the University of Nigeria, Nsukka, received the second-place poster presentation award at the conference. Her participation in the conference, particularly Professor Ndukaife's professional development workshop, inspired her to explore opportunities within the international optics and photonics community. Recognizing the relevance of her research on sustainable materials and perovskite solar cells to optics and photonics, she subsequently applied for the highly competitive</span><span><span>&nbsp;</span></span><strong><span>2026 Optica Women Scholars Program</span></strong><span>.</span></p>\r\n<p><span>Ruth was selected as one of 20 recipients worldwide and the only recipient from an African institution. The prestigious award provides</span><span><span>&nbsp;</span></span><strong><span>$10,000 in financial support</span></strong><span>, along with professional mentorship and networking opportunities. Her research focuses on environmentally sustainable approaches to improving the efficiency and stability of next-generation solar cells. Her achievement represents a particularly meaningful outcome of the conference, demonstrating how targeted professional development and exposure to international scientific networks can translate into tangible opportunities for emerging researchers, especially women pursuing careers in science and engineering in Africa.</span></p>\r\n<p><span>Beyond individual achievements, the conference contributed to strengthening international scientific networks, promoting interdisciplinary knowledge exchange, and encouraging young researchers to pursue advanced research careers. It also provided a foundation for future collaborations addressing global challenges in energy, environmental sustainability, agriculture, and health.</span></p>\r\n<p><span>Overall, NSF support helped advance international scientific collaboration, research capacity building, and STEM workforce development. The achievements of participating researchers, particularly the subsequent international recognition of a student from the host institution, demonstrate the lasting impact of scientific conferences that integrate research dissemination, mentorship, and professional development.</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 11/01/2026<br>\nModified by: Justus&nbsp;C&nbsp;Ndukaife</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe National Science Foundation (NSF) supported U.S. researchers participation in the 6th African Nano Conference/Workshop on Applications of Nanotechnology in Energy, Environment, Agriculture and Health, held July 1419, 2025, at the University of Nigeria, Nsukka (UNN), Nigeria. The conference brought together researchers, faculty, students, and industry representatives to exchange scientific knowledge, explore emerging applications of nanotechnology, and strengthen international research collaborations. Its overarching goals were to advance research in nanoscience and nanotechnology, foster partnerships between U.S. and African institutions, and provide professional development and mentoring opportunities for students and early-career researchers.\r\n\n\nA major outcome of the NSF-supported activity was the participation of six U.S.-based researchers (including three PhD students), who engaged with international colleagues through scientific presentations, technical discussions, and networking activities. The conference facilitated knowledge exchange across interdisciplinary research areas, including advanced materials, renewable energy, environmental science, agriculture, and healthcare. These interactions strengthened connections between U.S. and African research communities and provided opportunities to explore future collaborative research, student exchanges, and access to advanced research facilities.\r\n\n\nThe conference also provided an important platform for recognizing outstanding scientific contributions by emerging researchers. Notably, one of the U.S. participants received the first-place poster presentation award, demonstrating the quality of research presented by the U.S. delegation and the value of international scientific engagement.\r\n\n\nAn especially significant outcome was the conference's impact on student professional development and access to international opportunities. Professor Justus C. Ndukaife of Vanderbilt University delivered a professional development workshop focused on strategies for building successful scientific careers, engaging with professional societies such as Optica and SPIE, and leveraging international professional networks to access mentorship, scholarships, and research opportunities.\r\n\n\nRuth Kooaka Dorgbaa, a graduate student and researcher at the University of Nigeria, Nsukka, received the second-place poster presentation award at the conference. Her participation in the conference, particularly Professor Ndukaife's professional development workshop, inspired her to explore opportunities within the international optics and photonics community. Recognizing the relevance of her research on sustainable materials and perovskite solar cells to optics and photonics, she subsequently applied for the highly competitive2026 Optica Women Scholars Program.\r\n\n\nRuth was selected as one of 20 recipients worldwide and the only recipient from an African institution. The prestigious award provides$10,000 in financial support, along with professional mentorship and networking opportunities. Her research focuses on environmentally sustainable approaches to improving the efficiency and stability of next-generation solar cells. Her achievement represents a particularly meaningful outcome of the conference, demonstrating how targeted professional development and exposure to international scientific networks can translate into tangible opportunities for emerging researchers, especially women pursuing careers in science and engineering in Africa.\r\n\n\nBeyond individual achievements, the conference contributed to strengthening international scientific networks, promoting interdisciplinary knowledge exchange, and encouraging young researchers to pursue advanced research careers. It also provided a foundation for future collaborations addressing global challenges in energy, environmental sustainability, agriculture, and health.\r\n\n\nOverall, NSF support helped advance international scientific collaboration, research capacity building, and STEM workforce development. The achievements of participating researchers, particularly the subsequent international recognition of a student from the host institution, demonstrate the lasting impact of scientific conferences that integrate research dissemination, mentorship, and professional development.\r\n\n\n\t\t\t\t\tLast Modified: 11/01/2026\n\n\t\t\t\t\tSubmitted by: JustusCNdukaife\n"
+ }
+}

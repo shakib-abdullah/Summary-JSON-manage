@@ -1,0 +1,101 @@
+{
+ "awd_id": "2451062",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Adaptive Phonetic Analysis for Personalized Dyslexia Reading Support",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032928848",
+ "po_email": "lportnoy@nsf.gov",
+ "po_sign_block_name": "Lindsay Portnoy",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2025-08-31",
+ "tot_intn_awd_amt": 304935.0,
+ "awd_amount": 304935.0,
+ "awd_min_amd_letter_date": "2025-01-21",
+ "awd_max_amd_letter_date": "2025-01-21",
+ "awd_abstract_narration": "The broader commercial impact of this SBIR Phase I project lies in addressing dyslexia, a condition affecting millions that creates significant educational, economic, and social barriers. Learners with dyslexia often struggle to develop foundational reading skills, leading to disparities in academic achievement and limited opportunities. This project addresses these challenges by developing an innovative, technology-driven solution that enhances decoding ability through customized reading practice. By integrating advanced speech recognition technology with evidence-based teaching methods, the solution provides personalized, scalable, and affordable learning experiences tailored to the needs of dyslexic learners. The technology identifies reading errors with unprecedented granularity, generating adaptive learning content to empower learners to overcome obstacles and build fluency. This initiative has the potential to improve decoding skills for hundreds of thousands of at-risk readers, helping to close educational gaps and create equitable opportunities. Beyond individual benefits, the societal impact includes fostering academic confidence, increasing graduation rates, and enhancing employability, contributing to the well-being of communities. Commercially, this project positions itself as an innovative educational solution, offering tools to help learners and institutions address one of the most pervasive barriers to literacy and lifelong success.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project brings reading error identification to an unprecedentedly fine granularity and generates engaging practice contents on an adaptive difficulty level to improve dyslexic readers\u2019 decoding ability. Dyslexia often causes reading errors including insertions, deletions, substitutions in phonemes, which are mostly autocorrected by traditional word-level automatic speech recognition (ASR) technology. Additionally, personalized reading contents for dyslexic readers is expensive to generate on a scale. Therefore, to achieve ideal error tracking accuracy and provide affordable, accessible and personalized reading contents to dyslexic population, this project proposes to: (a) build a grapheme-phoneme extension of existing phoneme-only pronunciation dictionary, (b) train an accurate phonetic ASR specifically devoted to transcribing dyslexic readers\u2019 utterances that preserves reading errors, (c) refine the downstream error tracking solutions to identify decoding challenges down to grapheme-phoneme level, and (4) complete a customized story generation pipeline to create easily decodable and interest-infused reading contents.  At its accomplishment, this project will achieve above 97% coverage of the original pronunciation dictionary, below 15% phonetic error rate for its phonetic ASR component, below 10% false alarm rate for its error tracking model, and above 95% success rate for its customized story generation pipeline.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Scott",
+   "pi_last_name": "Sosso",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Scott Sosso",
+   "pi_email_addr": "scott@luca.ai",
+   "nsf_id": "0000A02JZ",
+   "pi_start_date": "2025-01-21",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "LUCA AI, LLC",
+  "inst_street_address": "123 SUMMER PL",
+  "inst_street_address_2": "",
+  "inst_city_name": "GIBSONIA",
+  "inst_state_code": "PA",
+  "inst_state_name": "Pennsylvania",
+  "inst_phone_num": "4124478380",
+  "inst_zip_code": "150448907",
+  "inst_country_name": "United States",
+  "cong_dist_code": "17",
+  "st_cong_dist_code": "PA17",
+  "org_lgl_bus_name": "LUCA AI, LLC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "M12ZMJTVCBL5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "LUCA AI, LLC",
+  "perf_str_addr": "123 SUMMER PL",
+  "perf_city_name": "GIBSONIA",
+  "perf_st_code": "PA",
+  "perf_st_name": "Pennsylvania",
+  "perf_zip_code": "150448907",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "17",
+  "perf_st_cong_dist": "PA17",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "6856",
+   "pgm_ref_txt": "ARTIFICIAL INTELL & COGNIT SCI"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304935.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>LUCA Phase I Public Project Summary</p>\r\n<p>Dyslexia affects 20% of the population, impacting 14M children. Failure to address learning disabilities can lead to legal issues, substance abuse, and reduced educational and employment outcomes, costing U.S. taxpayers $260K per non-graduate. LUCA has successfully developed groundbreaking technology that delivers deeper understanding of dyslexic reading patterns at the grapheme-phoneme level, enabling more personalized and effective treatment for struggling readers.</p>\r\n<h1>Intellectual Merit</h1>\r\n<p>This Small Business Innovation Research Phase I project has achieved remarkable success in developing a complete reading-assistive platform for dyslexic and general readers. The project delivers enhanced reading support and text-decoding proficiency through four validated components:</p>\r\n<h2>LUCADictionary</h2>\r\n<p>LUCA successfully created one of the largest comprehensive grapheme-phoneme dictionaries available, achieving 97.81% coverage of a standard pronunciation reference. The inference model for out-of-vocabulary words achieved word error rates of 11.56% and phoneme error rates of 3.92% with restricted search capabilities, exceeding all target goals.</p>\r\n<h2>Phonetic ASR Model</h2>\r\n<p>The WavLM-based automatic speech recognition system achieved a breakthrough 14.70% phoneme error rate on dyslexic children's speech&mdash;a 34.6% relative improvement over Microsoft Azure's pronunciation assessment. LUCA collected and annotated over 7.5 hours of dyslexic children's speech, creating a significant non-fluent phonetic speech dataset.</p>\r\n<h2>Customized Story Generation</h2>\r\n<p>The refined prompting framework demonstrated exceptional performance with 95.86% on-cycle generation accuracy and 99.41% on-grade accuracy across hundreds of user tests. Stories achieved 98.22% completeness scores and 93.29% reasonableness scores, with 100% successful inclusion of targeted interests.</p>\r\n<h2>Error Tracking Model</h2>\r\n<p>The end-to-end machine learning model successfully identifies reading miscues at the grapheme-phoneme level, achieving 83.27% recall and 94.12% precision with a 10.41% false alarm rate&mdash;significantly outperforming existing solutions in comprehensive error detection while maintaining user confidence.</p>\r\n<h1>Broader Impacts</h1>\r\n<p>LUCA's achievements directly address critical challenges faced by educators and students. The platform provides personalized reading support accessible 24/7, overcoming limited staffing resources while delivering individualized attention that enhances learning outcomes efficiently. Students with learning differences now have access to evidence-based support proven to improve academic performance.</p>\r\n<p>The project's success represents a major advancement in addressing dyslexia at scale. By demonstrating superior technical performance compared to existing solutions, LUCA positions American education technology at the forefront of literacy intervention. The platform contributes to developing a more skilled and globally competitive American STEM workforce by ensuring struggling readers receive early, effective intervention that prevents downstream academic challenges.</p>\r\n<p>LUCA's validated outputs include:</p>\r\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One of the largest comprehensive grapheme-phoneme dictionaries with inference capabilities</p>\r\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multiple hours of annotated dyslexic phonetic speech data</p>\r\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Production-ready phonetic ASR achieving industry-leading accuracy on dyslexic speech</p>\r\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Validated story generation framework with demonstrated efficacy</p>\r\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Integrated error-tracking system providing actionable instructional insights</p>\r\n<p>The successful pilot study with dozens of participants across multiple schools validated the platform's real-world effectiveness, collecting positive feedback from students and educators while demonstrating the feasibility of scaled deployment.</p>\r\n<h1>Commercial Potential</h1>\r\n<p>The dual-channel strategy targeting both direct-to-consumer and educational institution markets positions LUCA for sustainable growth. With demonstrated technical superiority (34.6% improvement over Microsoft Azure's pronunciation assessment) and validated user acceptance through pilot studies, LUCA is prepared for Phase II scaling and commercialization.</p>\r\n<p>The platform's ability to serve as an AI reading specialist offers districts potential cost savings compared to hiring additional reading support staff, while parents gain access to personalized support previously available only through expensive tutoring. Strategic partnerships with curriculum publishers and potential SDK/API licensing opportunities expand market reach.</p>\r\n<p>The Phase I results validate both technical feasibility and commercial viability, demonstrating that personalized, phoneme-level reading support can be delivered at scale with measurable improvements in literacy outcomes. LUCA's innovations represent a significant advancement in educational technology, promising to improve how America addresses dyslexia and reading difficulties, ultimately reducing the societal costs of unaddressed learning differences while empowering millions of struggling readers to achieve their full potential.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/30/2025<br>\nModified by: Scott&nbsp; &nbsp;Sosso</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nLUCA Phase I Public Project Summary\r\n\n\nDyslexia affects 20% of the population, impacting 14M children. Failure to address learning disabilities can lead to legal issues, substance abuse, and reduced educational and employment outcomes, costing U.S. taxpayers $260K per non-graduate. LUCA has successfully developed groundbreaking technology that delivers deeper understanding of dyslexic reading patterns at the grapheme-phoneme level, enabling more personalized and effective treatment for struggling readers.\r\nIntellectual Merit\r\n\n\nThis Small Business Innovation Research Phase I project has achieved remarkable success in developing a complete reading-assistive platform for dyslexic and general readers. The project delivers enhanced reading support and text-decoding proficiency through four validated components:\r\nLUCADictionary\r\n\n\nLUCA successfully created one of the largest comprehensive grapheme-phoneme dictionaries available, achieving 97.81% coverage of a standard pronunciation reference. The inference model for out-of-vocabulary words achieved word error rates of 11.56% and phoneme error rates of 3.92% with restricted search capabilities, exceeding all target goals.\r\nPhonetic ASR Model\r\n\n\nThe WavLM-based automatic speech recognition system achieved a breakthrough 14.70% phoneme error rate on dyslexic children's speecha 34.6% relative improvement over Microsoft Azure's pronunciation assessment. LUCA collected and annotated over 7.5 hours of dyslexic children's speech, creating a significant non-fluent phonetic speech dataset.\r\nCustomized Story Generation\r\n\n\nThe refined prompting framework demonstrated exceptional performance with 95.86% on-cycle generation accuracy and 99.41% on-grade accuracy across hundreds of user tests. Stories achieved 98.22% completeness scores and 93.29% reasonableness scores, with 100% successful inclusion of targeted interests.\r\nError Tracking Model\r\n\n\nThe end-to-end machine learning model successfully identifies reading miscues at the grapheme-phoneme level, achieving 83.27% recall and 94.12% precision with a 10.41% false alarm ratesignificantly outperforming existing solutions in comprehensive error detection while maintaining user confidence.\r\nBroader Impacts\r\n\n\nLUCA's achievements directly address critical challenges faced by educators and students. The platform provides personalized reading support accessible 24/7, overcoming limited staffing resources while delivering individualized attention that enhances learning outcomes efficiently. Students with learning differences now have access to evidence-based support proven to improve academic performance.\r\n\n\nThe project's success represents a major advancement in addressing dyslexia at scale. By demonstrating superior technical performance compared to existing solutions, LUCA positions American education technology at the forefront of literacy intervention. The platform contributes to developing a more skilled and globally competitive American STEM workforce by ensuring struggling readers receive early, effective intervention that prevents downstream academic challenges.\r\n\n\nLUCA's validated outputs include:\r\n\n\n One of the largest comprehensive grapheme-phoneme dictionaries with inference capabilities\r\n\n\n Multiple hours of annotated dyslexic phonetic speech data\r\n\n\n Production-ready phonetic ASR achieving industry-leading accuracy on dyslexic speech\r\n\n\n Validated story generation framework with demonstrated efficacy\r\n\n\n Integrated error-tracking system providing actionable instructional insights\r\n\n\nThe successful pilot study with dozens of participants across multiple schools validated the platform's real-world effectiveness, collecting positive feedback from students and educators while demonstrating the feasibility of scaled deployment.\r\nCommercial Potential\r\n\n\nThe dual-channel strategy targeting both direct-to-consumer and educational institution markets positions LUCA for sustainable growth. With demonstrated technical superiority (34.6% improvement over Microsoft Azure's pronunciation assessment) and validated user acceptance through pilot studies, LUCA is prepared for Phase II scaling and commercialization.\r\n\n\nThe platform's ability to serve as an AI reading specialist offers districts potential cost savings compared to hiring additional reading support staff, while parents gain access to personalized support previously available only through expensive tutoring. Strategic partnerships with curriculum publishers and potential SDK/API licensing opportunities expand market reach.\r\n\n\nThe Phase I results validate both technical feasibility and commercial viability, demonstrating that personalized, phoneme-level reading support can be delivered at scale with measurable improvements in literacy outcomes. LUCA's innovations represent a significant advancement in educational technology, promising to improve how America addresses dyslexia and reading difficulties, ultimately reducing the societal costs of unaddressed learning differences while empowering millions of struggling readers to achieve their full potential.\r\n\n\n\t\t\t\t\tLast Modified: 09/30/2025\n\n\t\t\t\t\tSubmitted by: Scott Sosso\n"
+ }
+}

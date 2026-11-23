@@ -1,0 +1,125 @@
+{
+ "awd_id": "2444119",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Doctoral Dissertation Research: Evaluating the impact of variable social belonging levels in inflammatory markers",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032927850",
+ "po_email": "rferrell@nsf.gov",
+ "po_sign_block_name": "Rebecca Ferrell",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 39997.0,
+ "awd_amount": 39997.0,
+ "awd_min_amd_letter_date": "2025-01-14",
+ "awd_max_amd_letter_date": "2025-01-14",
+ "awd_abstract_narration": "Humans live in social groups, but current biocultural changes have led to significant variation in levels of social connectedness or belonging, which may activate the neuro-immune networks that regulate inflammation. Inflammation is a form of stress response that can have negative health effects, but that is also necessary for adaptation and health. To date, studies of social connectedness and inflammation are limited to individuals from populations with similar levels of social belonging, and these studies emphasize negative social conditions, so that the impact of positive social connections remain understudied. This Doctoral Dissertation Research project adopts a biocultural approach to investigate how variations in belonging affect inflammatory regulation dynamics among adults from social contexts with varying levels of belonging.  The study integrates iterative ethnography, with surveys and minimally invasive biological sampling to identify the conditions under which varying levels of connectedness may lead to adaptive or maladaptive inflammatory levels. The study builds STEM capacity through student training, and expands its impact through outreach activities.  \r\n\r\nScientists have demonstrated that the inflammatory system is sensitive to social experiences such as belonging and exclusion. Social threats can activate the same conserved neuro-inflammatory pathways as physical ones, involving the hypothalamic pituitary adrenocortical (HPA) axis and the sympathetic nervous system\u2019s regulation of acute inflammation. Chronic activation of these pathways can lead to a conserved transcriptional response to adversity (CTRA) and promote a pro-inflammatory phenotype by impairing the downregulation of inflammation in innate immune cells. While ex-vivo cell culture models have advanced our understanding of these processes, they remain limited by costly and invasive sampling methods that require sterile laboratory conditions. Moreover, the effects of positive social connections on inflammation regulation remain underexplored. This Doctoral Dissertation Research project contributes to biocultural frameworks of belonging and inflammatory regulation by: 1) developing a culturally and geographically specific measure of belonging among peoples experiencing different cultural conditions, 2) adapting an ex-vivo cell culture protocol with dried blood spots for use in field settings, and 3) synthesizing novel data to elucidate how diverse social contexts influence biological variation and health in increasingly complex social settings.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Thomas",
+   "pi_last_name": "McDade",
+   "pi_mid_init": "W",
+   "pi_sufx_name": "",
+   "pi_full_name": "Thomas W McDade",
+   "pi_email_addr": "t-mcdade@northwestern.edu",
+   "nsf_id": "000431947",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "keegan",
+   "pi_last_name": "krause",
+   "pi_mid_init": "c",
+   "pi_sufx_name": "",
+   "pi_full_name": "keegan c krause",
+   "pi_email_addr": "keegankrause2025@u.northwestern.edu",
+   "nsf_id": "0000A0HJ5",
+   "pi_start_date": "2025-01-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northwestern University at Chicago",
+  "inst_street_address": "633 CLARK ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "EVANSTON",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125037955",
+  "inst_zip_code": "602080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IL09",
+  "org_lgl_bus_name": "NORTHWESTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KG76WYENL5K1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northwestern University",
+  "perf_str_addr": "633 CLARK ST",
+  "perf_city_name": "EVANSTON",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "602080001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IL09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760500",
+   "pgm_ele_name": "Cult Anthro DDRI"
+  },
+  {
+   "pgm_ele_code": "760800",
+   "pgm_ele_name": "Bio Anthro DDRI"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1390",
+   "pgm_ref_txt": "CULTURAL ANTHROPOLOGY"
+  },
+  {
+   "pgm_ref_code": "1392",
+   "pgm_ref_txt": "Biological Anthropology"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 39997.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Anthropologists have long interrogated how&nbsp;diverse eco-social environments and experiences &ldquo;get under the skin&rdquo; to affect biology across populations. Sociality, a key feature of human evolution, is hypothesized to influence somatic energy allocation and maintenance, including hypothalamic-pituitary-adrenal (HPA) axis modulation of neuroendocrine and immune function. Chronic HPA-axis activation during social adversity portends glucocorticoid (GC) resistance and pro-inflammatory phenotype development, whereas positive experiences with sociality (e.g. belonging and social safety) may differentially influence inflammatory regulation patterning. However, few studies have evaluated ways positive sociality and eco-social adversity 1) are embodied across diverse populations sharing rapidly globalizing milieus; and 2) how these experiences influence variation in dynamic inflammatory regulation patterns. This study incorporates iterative ethnography, a cross-sectional health survey, and minimally invasive ex-vivo cell culture protocol to map experiences of social belonging and social adversity onto dynamic pro-inflammatory cytokine responses (IL-6, IL-1&beta;, and TNF&alpha;) to a lipopolysaccharide (LPS) challenge and negative-feedback response by GCs in a community-based sample&nbsp;of Haitian and Dominican tourism workers in the Dominican Republic.</p>\r\n<p>Analyses of 202 adults demonstrated that eco-social experiences were associated with multiple pathways of inflammation regulation. Greater social resources (belonging, support, and social safety) predicted stronger inflammatory responses to immune challenge, whereas greater social precarity (resource insecurity, loneliness, and fear of violence) predicted reduced glucocorticoid sensitivity and a trend toward lower inflammatory responsiveness.&nbsp;In models stratified by nationality, relationships between social belonging and inflammation regulation remained the same. However, associations with social precarity become differentially patterned: associations with inflammatory response emerge only among Dominican/Dominico-Haitian participants, whereas associations with glucocorticoid sensitivity appear only among Haitian participants.&nbsp;These findings suggest that social resources and social adversity shape immune function through partially distinct biological pathways, with access to social and material resources supporting innate responsiveness to environmental challenges, while chronic precarity may constrain innate immune capacity and disrupt inflammatory regulation.&nbsp;Further, these pathways may be influenced by one&rsquo;s social location and intersecting identity.&nbsp; Broader impacts of the project include investments in the infrastructure of science through graduate student training, significant STEM capacity building, and professional development for two undergraduate students,&nbsp;two researchers from a Dominican university, and two community research partners, specifically focusing on mixed methodology, minimally invasive biomarker analysis, and scientific publication.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 06/12/2026<br>\nModified by: Thomas&nbsp;W&nbsp;McDade</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nAnthropologists have long interrogated howdiverse eco-social environments and experiences get under the skin to affect biology across populations. Sociality, a key feature of human evolution, is hypothesized to influence somatic energy allocation and maintenance, including hypothalamic-pituitary-adrenal (HPA) axis modulation of neuroendocrine and immune function. Chronic HPA-axis activation during social adversity portends glucocorticoid (GC) resistance and pro-inflammatory phenotype development, whereas positive experiences with sociality (e.g. belonging and social safety) may differentially influence inflammatory regulation patterning. However, few studies have evaluated ways positive sociality and eco-social adversity 1) are embodied across diverse populations sharing rapidly globalizing milieus; and 2) how these experiences influence variation in dynamic inflammatory regulation patterns. This study incorporates iterative ethnography, a cross-sectional health survey, and minimally invasive ex-vivo cell culture protocol to map experiences of social belonging and social adversity onto dynamic pro-inflammatory cytokine responses (IL-6, IL-1, and TNF) to a lipopolysaccharide (LPS) challenge and negative-feedback response by GCs in a community-based sampleof Haitian and Dominican tourism workers in the Dominican Republic.\r\n\n\nAnalyses of 202 adults demonstrated that eco-social experiences were associated with multiple pathways of inflammation regulation. Greater social resources (belonging, support, and social safety) predicted stronger inflammatory responses to immune challenge, whereas greater social precarity (resource insecurity, loneliness, and fear of violence) predicted reduced glucocorticoid sensitivity and a trend toward lower inflammatory responsiveness.In models stratified by nationality, relationships between social belonging and inflammation regulation remained the same. However, associations with social precarity become differentially patterned: associations with inflammatory response emerge only among Dominican/Dominico-Haitian participants, whereas associations with glucocorticoid sensitivity appear only among Haitian participants.These findings suggest that social resources and social adversity shape immune function through partially distinct biological pathways, with access to social and material resources supporting innate responsiveness to environmental challenges, while chronic precarity may constrain innate immune capacity and disrupt inflammatory regulation.Further, these pathways may be influenced by ones social location and intersecting identity. Broader impacts of the project include investments in the infrastructure of science through graduate student training, significant STEM capacity building, and professional development for two undergraduate students,two researchers from a Dominican university, and two community research partners, specifically focusing on mixed methodology, minimally invasive biomarker analysis, and scientific publication.\r\n\n\n\t\t\t\t\tLast Modified: 06/12/2026\n\n\t\t\t\t\tSubmitted by: ThomasWMcDade\n"
+ }
+}

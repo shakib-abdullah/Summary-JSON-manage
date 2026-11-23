@@ -1,0 +1,125 @@
+{
+ "awd_id": "2501693",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Analysis and Geometry on Complex Manifolds",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032920000",
+ "po_email": "qli@nsf.gov",
+ "po_sign_block_name": "Qun Li",
+ "awd_eff_date": "2025-08-01",
+ "awd_exp_date": "2026-07-31",
+ "tot_intn_awd_amt": 20000.0,
+ "awd_amount": 20000.0,
+ "awd_min_amd_letter_date": "2025-01-16",
+ "awd_max_amd_letter_date": "2025-01-16",
+ "awd_abstract_narration": "This award provides funding for U.S. researchers to attend two summer schools and two workshops during the special semester \"Analysis and Geometry on Complex Manifolds\" in Budapest, Hungary, scheduled for August-September 2025. Hosted by the Alfr\u00e9d R\u00e9nyi Institute of Mathematics, these events aim to connect renowned experts with junior researchers, providing an introduction to current topics in the field, sharing recent advancements, and encouraging collaborative research. Funding priority is given to U.S. based participants without alternative sources of support, with a special emphasis on applications from early-career mathematicians and members of underrepresented groups in the discipline.\r\n \r\nThe first summer school will cover introductory topics in K\u00e4hler geometry, while the second will focus on non-K\u00e4hlerian aspects. The workshops will address both classical K\u00e4hlerian and non-K\u00e4hlerian topics as well. On the K\u00e4hlerian side, discussions will explore non-Archimedean aspects of the SYZ conjecture, pluripotential-theoretic approaches to singular K\u00e4hler-Einstein metrics, and Calabi-Yau metrics on non-compact manifolds. In the non-K\u00e4hlerian realm, topics will include cohomological properties of complex and symplectic manifolds, analytic techniques in non-K\u00e4hler geometry, almost-complex and symplectic structures, deformations of complex objects, topological aspects of complex and symplectic manifolds, and Hodge theory on almost-Hermitian manifolds. Further details can be found on the special semester\u2019s website: https://erdoscenter.renyi.hu/articles/complex-manifolds.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Gabor",
+   "pi_last_name": "Szekelyhidi",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Gabor Szekelyhidi",
+   "pi_email_addr": "gaborsz@northwestern.edu",
+   "nsf_id": "000514534",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Laszlo",
+   "pi_last_name": "Lempert",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Laszlo Lempert",
+   "pi_email_addr": "lempert@math.purdue.edu",
+   "nsf_id": "000289563",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Tamas",
+   "pi_last_name": "Darvas",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tamas Darvas",
+   "pi_email_addr": "tdarvas@math.umd.edu",
+   "nsf_id": "000702952",
+   "pi_start_date": "2025-01-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Northwestern University at Chicago",
+  "inst_street_address": "633 CLARK ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "EVANSTON",
+  "inst_state_code": "IL",
+  "inst_state_name": "Illinois",
+  "inst_phone_num": "3125037955",
+  "inst_zip_code": "602080001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "IL09",
+  "org_lgl_bus_name": "NORTHWESTERN UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KG76WYENL5K1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Northwestern University",
+  "perf_str_addr": "2033 Sheridan Road",
+  "perf_city_name": "EVANSTON",
+  "perf_st_code": "IL",
+  "perf_st_name": "Illinois",
+  "perf_zip_code": "602080830",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "IL09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126500",
+   "pgm_ele_name": "GEOMETRIC ANALYSIS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 20000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p class=\"p1\"><span class=\"s1\">This NSF grant was primarily used to support the travel of US participants attending two summer schools and two workshops in complex geometry, that were part of the thematic program on complex geometry at the Erdos Center in Budapest, Hungary, in fall 2026.</span></p>\r\n<p class=\"p1\"><span class=\"s1\">The summer schools were held during August 4-8 and August 11-15, 2026. Each had two mini courses, focusing on different directions in complex geometry. The courses were aimed primarily at PhD students, to introduce them to some of the main research directions. Each lecturer wrote up their lecture notes, and these are in the process of being prepared for publication.<span>&nbsp;</span></span></p>\r\n<p class=\"p1\"><span class=\"s1\">The workshops were held during September 1-5 and September 8-12, 2026. These were primarily aimed at postdocs and other junior faculty, and each had 17 speakers from around the world. The first workshop focused on research in Kahler geometry, while the second focused on non-Kahler and almost complex geometry.<span>&nbsp;</span></span></p>\r\n<p class=\"p1\"><span class=\"s1\">In total the grant supported 9 US participants attending the summer schools and workshops, who were all either PhD students or postdoctoral fellows.<span>&nbsp;</span></span></p>\r\n<p class=\"p1\"><span class=\"s1\">Since there were other sources of funding available, including another NSF conference grant, we had leftover funds. Some of these leftover NSF funds were used to support 2 graduate students who attended the joint UIC-Northwestern complex geometry seminar in May, 2026.&nbsp;</span></p>\r\n<p class=\"p1\">&nbsp;</p><br>\n<p>\n Last Modified: 08/31/2026<br>\nModified by: Gabor&nbsp;Szekelyhidi</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis NSF grant was primarily used to support the travel of US participants attending two summer schools and two workshops in complex geometry, that were part of the thematic program on complex geometry at the Erdos Center in Budapest, Hungary, in fall 2026.\r\n\n\nThe summer schools were held during August 4-8 and August 11-15, 2026. Each had two mini courses, focusing on different directions in complex geometry. The courses were aimed primarily at PhD students, to introduce them to some of the main research directions. Each lecturer wrote up their lecture notes, and these are in the process of being prepared for publication.\r\n\n\nThe workshops were held during September 1-5 and September 8-12, 2026. These were primarily aimed at postdocs and other junior faculty, and each had 17 speakers from around the world. The first workshop focused on research in Kahler geometry, while the second focused on non-Kahler and almost complex geometry.\r\n\n\nIn total the grant supported 9 US participants attending the summer schools and workshops, who were all either PhD students or postdoctoral fellows.\r\n\n\nSince there were other sources of funding available, including another NSF conference grant, we had leftover funds. Some of these leftover NSF funds were used to support 2 graduate students who attended the joint UIC-Northwestern complex geometry seminar in May, 2026.\r\n\n\n\t\t\t\t\tLast Modified: 08/31/2026\n\n\t\t\t\t\tSubmitted by: GaborSzekelyhidi\n"
+ }
+}

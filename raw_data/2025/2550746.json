@@ -1,0 +1,137 @@
+{
+ "awd_id": "2550746",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "PFI-RP: A Multi-Disciplinary Approach to Detecting Adolescent Online Risks.",
+ "cfda_num": "47.041, 47.084",
+ "org_code": "15030000",
+ "po_phone": "7032924506",
+ "po_email": "marschin@nsf.gov",
+ "po_sign_block_name": "Mara E. Schindelholz",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 750000.0,
+ "awd_amount": 71000.0,
+ "awd_min_amd_letter_date": "2025-09-18",
+ "awd_max_amd_letter_date": "2025-09-23",
+ "awd_abstract_narration": "The broader impact/commercial potential of this PFI project is to develop improved social media tools to keep teens safer online. A multidisciplinary team of researchers, clinicians, and industry partners will build, evaluate, and commercialize state-of-the-art technologies that proactively detect adolescent online risk behaviors, including mental health issues, sexual solicitations, and online harassment, for the purpose of mitigating these risks and preventing harm. The team plans to release two separate technology offerings: First, an open source project that shares our risk detection algorithms with developers, so that they can build upon these solutions and form a community dedicated to promoting adolescent online safety. Second, a commercial product that combines these risk detection algorithms into an easy-to-use and accessible service that provides needed support and infrastructure to internet-based companies, who ultimately facilitate the risks teens encounter online, so that they can share in the joint responsibility of protecting the teens who use their platforms. It is imperative that as a society we become more proactive about protect teens from online risks, especially the most vulnerable teens who are at highest risk of engaging in online activities that can lead to physical harm or even death.\r\n\r\nThe proposed project addresses the critical and timely problem of adolescent online safety by leveraging a multi-disciplinary approach of human-centered machine learning to accurately detect risks teen encounter online. The work will be accomplished in four stages: 1) a user-centered phase that examines the types of online risk exposure that matter most to teens and their families. With this insight, the team will build evidence-based adolescent online risk models that identify key dimensions and patterns of risk. 2) a data-driven phase that draws upon these models to establish ground truth and annotate a rich training set of teen social media data, 3) a machine-learning phase that improves existing and builds new risk detection algorithms that are contextualized to teens and able to detect behavioral changes over time, and 4) a technology development phase that evaluates our solution and commercializes it within two separate product lines. The end result will be a suite of algorithms tailored to adolescents that detect objectionable content within social media and identify problematic behavioral patterns or changes that are indicative of impending risks over time. This work will enable real-time online safety interventions that protect and empower teen internet users.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Pamela",
+   "pi_last_name": "Wisniewski",
+   "pi_mid_init": "J",
+   "pi_sufx_name": "",
+   "pi_full_name": "Pamela J Wisniewski",
+   "pi_email_addr": "pwisniewski@icsi.berkeley.edu",
+   "nsf_id": "000701446",
+   "pi_start_date": "2025-09-18",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "International Computer Science Institute",
+  "inst_street_address": "2150 SHATTUCK AVE",
+  "inst_street_address_2": "SUITE 250",
+  "inst_city_name": "BERKELEY",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "5106662900",
+  "inst_zip_code": "947041345",
+  "inst_country_name": "United States",
+  "cong_dist_code": "12",
+  "st_cong_dist_code": "CA12",
+  "org_lgl_bus_name": "INTERNATIONAL COMPUTER SCIENCE INSTITUTE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GSRMP1QCXU74"
+ },
+ "perf_inst": {
+  "perf_inst_name": "International Computer Science Institute",
+  "perf_str_addr": "2150 SHATTUCK AVE",
+  "perf_city_name": "BERKELEY",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "947041345",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "12",
+  "perf_st_cong_dist": "CA12",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "150400",
+   "pgm_ele_name": "GOALI-Grnt Opp Acad Lia wIndus"
+  },
+  {
+   "pgm_ele_code": "166200",
+   "pgm_ele_name": "PFI-Partnrships for Innovation"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8042",
+   "pgm_ref_txt": "Health and Safety"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "9251",
+   "pgm_ref_txt": "REU SUPP-Res Exp for Ugrd Supp"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002021DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01001920DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002223DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2019,
+   "fund_oblg_amt": 0.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2020,
+   "fund_oblg_amt": 55000.0
+  },
+  {
+   "fund_oblg_fiscal_yr": 2022,
+   "fund_oblg_amt": 16000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p class=\"PDq2pG_selectionAnchorContainer\">Social media provides young people with important opportunities for learning, self-expression, and social support, but it can also expose them to cyberbullying, sexual solicitation, privacy violations, harmful content, self-harm, and suicide-related risks. This project brought together researchers in human-computer interaction, computer science, social science, mental health, and technology development to create more accurate, ethical, and youth-centered ways to understand and detect these risks.</p>\r\n<p>A central outcome was the Instagram Data Donation (IGDD) initiative, which developed a secure system through which nearly 200 young people, ages 13&ndash;21, donated their private Instagram data and identified conversations that they personally considered unsafe or uncomfortable. The resulting research resource contains more than 7.5 million messages from over 36,000 conversations, including thousands of interactions flagged by the young people themselves. Unlike studies that rely only on public posts or adult judgments, this approach treated youth as experts in their own experiences and provided essential context about who was involved, what occurred, and why an interaction felt risky. The project also established ethical and technical procedures for collecting, protecting, annotating, and responsibly analyzing highly sensitive data from minors.</p>\r\n<p>The project&rsquo;s intellectual merit lies in demonstrating that adolescent online risk cannot be reliably understood from isolated words or messages alone. Risk depends on the surrounding conversation, the relationship between participants, images and other media, the young person&rsquo;s lived experience, and how an interaction changes over time. The team developed human-centered machine-learning methods and reusable analysis pipelines for identifying cyberbullying, unsafe sexual interactions, risky images, relationship types, and self-harm or suicide-related language. Findings showed that models trained on one social-media setting may perform poorly in another and that conversational context can help distinguish serious distress from humor, exaggeration, or discussion of another person&rsquo;s experiences. These results advance artificial intelligence research by showing how first-person labels, contextual information, and youth feedback can improve the validity and interpretability of automated safety systems.</p>\r\n<p>The project also generated new knowledge about how young people seek and provide support online, how sexual and interpersonal risks differ across relationships, how parents and teens perceive risk differently, and how young people may respond vulnerably or protectively as cybergrooming situations escalate. Additional work examined how major platforms describe their youth-safety features and identified gaps in transparency, availability, and evidence of effectiveness. Together, these findings provide practical guidance for designing safety education, digital-literacy programs, mental-health interventions, platform policies, and technologies that protect youth without unnecessarily removing their privacy or autonomy.</p>\r\n<p>To translate the research into practice, the team developed MOSafely \"Is That Sus?,\" a web-based, human-in-the-loop dashboard that allows young people to review risks identified by artificial intelligence and correct the system when it lacks context. The project also created generalized machine-learning tools, MOSafely, an open-source community to share code repositories, and a framework for a future software service that could be integrated into youth-serving technologies. Evaluations with youth advisors and online-safety experts identified important requirements related to privacy, usability, meaningful intervention, fairness, trust, and long-term sustainability. Although the planned commercial software service was not completed because of institutional transitions and restrictions involving sensitive youth data, the project produced a substantial research prototype and a foundation for future public-interest and commercial development.</p>\r\n<p>The project&rsquo;s broader impacts include numerous peer-reviewed publications, interdisciplinary collaborations, reusable research resources, and training for dozens of undergraduate and graduate students. Students gained experience in ethical research with minors, qualitative and computational methods, machine learning, software development, scholarly communication, mentoring, open-source collaboration, and entrepreneurship. The project&rsquo;s methods and findings continue to support new federally funded research, responsible digital-data donation initiatives, and partnerships focused on improving online safety and well-being for young people.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 07/20/2026<br>\nModified by: Pamela&nbsp;J&nbsp;Wisniewski</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565467452_Alsoubai_CSCW2022--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565467452_Alsoubai_CSCW2022--rgov-800width.png\" title=\"How Sexual Risk Varies by Relationship Type\"><img src=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565467452_Alsoubai_CSCW2022--rgov-66x44.png\" alt=\"How Sexual Risk Varies by Relationship Type\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">This analysis of 27,892 youth posts shows that consensual sexting was most common among friends or dating partners, non-consensual sexting was more strongly associated with strangers, and sexual abuse was most strongly associated with family relationships.</div>\n<div class=\"imageCredit\">Alsoubai et al. CSCW 2022</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Pamela&nbsp;J&nbsp;Wisniewski\n<div class=\"imageTitle\">How Sexual Risk Varies by Relationship Type</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565559475_Alsoubai_CSCW2022_Demo--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565559475_Alsoubai_CSCW2022_Demo--rgov-800width.png\" title=\"MOSafely Cloud Architecture for Youth-Centered Risk Assessment\"><img src=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565559475_Alsoubai_CSCW2022_Demo--rgov-66x44.png\" alt=\"MOSafely Cloud Architecture for Youth-Centered Risk Assessment\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">MOSafely allows a user to upload Instagram data, which are securely processed through an Amazon Web Services pipeline and analyzed by machine-learning models. The resulting risk assessments and participant feedback are stored in a database and displayed through a web dashboard.</div>\n<div class=\"imageCredit\">Alsoubai et al. CSCW 2022 Demo</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Pamela&nbsp;J&nbsp;Wisniewski\n<div class=\"imageTitle\">MOSafely Cloud Architecture for Youth-Centered Risk Assessment</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565155727_Ali_CSCW2023--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565155727_Ali_CSCW2023--rgov-800width.png\" title=\"Multimodal AI System for Detecting Unsafe Instagram Conversations\"><img src=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565155727_Ali_CSCW2023--rgov-66x44.png\" alt=\"Multimodal AI System for Detecting Unsafe Instagram Conversations\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">This system combines conversation metadata, message text, and images to assess whether a private Instagram conversation may be unsafe. Separate classifiers analyze each type of information, and their results are combined into a final risk assessment, illustrating how multiple signals can provide a m</div>\n<div class=\"imageCredit\">Ali et al. CSCW 2023</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Pamela&nbsp;J&nbsp;Wisniewski\n<div class=\"imageTitle\">Multimodal AI System for Detecting Unsafe Instagram Conversations</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565286884_Alsoubai_AAAI2025--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565286884_Alsoubai_AAAI2025--rgov-800width.png\" title=\"AI Framework for Prioritizing High-Risk Online Conversations\"><img src=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565286884_Alsoubai_AAAI2025--rgov-66x44.png\" alt=\"AI Framework for Prioritizing High-Risk Online Conversations\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">This three-level framework uses deep reinforcement learning to determine when a conversation should be evaluated for urgency. Low-priority conversations are deferred, while high-priority conversations are routed to specialized classifiers for risks such as sexual harm and cyberbullying.</div>\n<div class=\"imageCredit\">Alsoubai et al. AAAI 2025</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Pamela&nbsp;J&nbsp;Wisniewski\n<div class=\"imageTitle\">AI Framework for Prioritizing High-Risk Online Conversations</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565665410_Caddle_CSCW2025--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565665410_Caddle_CSCW2025--rgov-800width.png\" title=\"Youth-Centered Feedback for Improving Online Risk Detection\"><img src=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565665410_Caddle_CSCW2025--rgov-66x44.png\" alt=\"Youth-Centered Feedback for Improving Online Risk Detection\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">MOSafely shows estimated online risks and lets youth correct conversation- and message-level assessments. Their feedback adds context and supports more accurate, transparent, and accountable risk-detection models.</div>\n<div class=\"imageCredit\">Caddle et al. CSCW 2025</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Pamela&nbsp;J&nbsp;Wisniewski\n<div class=\"imageTitle\">Youth-Centered Feedback for Improving Online Risk Detection</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565741697_Park_IDC2024--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565741697_Park_IDC2024--rgov-800width.png\" title=\"Youth and Researcher Differences in Labeling Risky Images\"><img src=\"/por/images/Reports/POR/2026/2550746/2550746_10582436_1784565741697_Park_IDC2024--rgov-66x44.png\" alt=\"Youth and Researcher Differences in Labeling Risky Images\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Youth and research assistants agreed on clearly explicit content but differed when images involved youths\ufffd own risky behavior, such as illegal activity or violence. The findings show why first-person perspectives are essential for accurate risk labeling.</div>\n<div class=\"imageCredit\">Park et al. IDC 2024</div>\n<div class=\"imagePermisssions\">Public Domain</div>\n<div class=\"imageSubmitted\">Pamela&nbsp;J&nbsp;Wisniewski\n<div class=\"imageTitle\">Youth and Researcher Differences in Labeling Risky Images</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nSocial media provides young people with important opportunities for learning, self-expression, and social support, but it can also expose them to cyberbullying, sexual solicitation, privacy violations, harmful content, self-harm, and suicide-related risks. This project brought together researchers in human-computer interaction, computer science, social science, mental health, and technology development to create more accurate, ethical, and youth-centered ways to understand and detect these risks.\r\n\n\nA central outcome was the Instagram Data Donation (IGDD) initiative, which developed a secure system through which nearly 200 young people, ages 1321, donated their private Instagram data and identified conversations that they personally considered unsafe or uncomfortable. The resulting research resource contains more than 7.5 million messages from over 36,000 conversations, including thousands of interactions flagged by the young people themselves. Unlike studies that rely only on public posts or adult judgments, this approach treated youth as experts in their own experiences and provided essential context about who was involved, what occurred, and why an interaction felt risky. The project also established ethical and technical procedures for collecting, protecting, annotating, and responsibly analyzing highly sensitive data from minors.\r\n\n\nThe projects intellectual merit lies in demonstrating that adolescent online risk cannot be reliably understood from isolated words or messages alone. Risk depends on the surrounding conversation, the relationship between participants, images and other media, the young persons lived experience, and how an interaction changes over time. The team developed human-centered machine-learning methods and reusable analysis pipelines for identifying cyberbullying, unsafe sexual interactions, risky images, relationship types, and self-harm or suicide-related language. Findings showed that models trained on one social-media setting may perform poorly in another and that conversational context can help distinguish serious distress from humor, exaggeration, or discussion of another persons experiences. These results advance artificial intelligence research by showing how first-person labels, contextual information, and youth feedback can improve the validity and interpretability of automated safety systems.\r\n\n\nThe project also generated new knowledge about how young people seek and provide support online, how sexual and interpersonal risks differ across relationships, how parents and teens perceive risk differently, and how young people may respond vulnerably or protectively as cybergrooming situations escalate. Additional work examined how major platforms describe their youth-safety features and identified gaps in transparency, availability, and evidence of effectiveness. Together, these findings provide practical guidance for designing safety education, digital-literacy programs, mental-health interventions, platform policies, and technologies that protect youth without unnecessarily removing their privacy or autonomy.\r\n\n\nTo translate the research into practice, the team developed MOSafely \"Is That Sus?,\" a web-based, human-in-the-loop dashboard that allows young people to review risks identified by artificial intelligence and correct the system when it lacks context. The project also created generalized machine-learning tools, MOSafely, an open-source community to share code repositories, and a framework for a future software service that could be integrated into youth-serving technologies. Evaluations with youth advisors and online-safety experts identified important requirements related to privacy, usability, meaningful intervention, fairness, trust, and long-term sustainability. Although the planned commercial software service was not completed because of institutional transitions and restrictions involving sensitive youth data, the project produced a substantial research prototype and a foundation for future public-interest and commercial development.\r\n\n\nThe projects broader impacts include numerous peer-reviewed publications, interdisciplinary collaborations, reusable research resources, and training for dozens of undergraduate and graduate students. Students gained experience in ethical research with minors, qualitative and computational methods, machine learning, software development, scholarly communication, mentoring, open-source collaboration, and entrepreneurship. The projects methods and findings continue to support new federally funded research, responsible digital-data donation initiatives, and partnerships focused on improving online safety and well-being for young people.\r\n\n\n\t\t\t\t\tLast Modified: 07/20/2026\n\n\t\t\t\t\tSubmitted by: PamelaJWisniewski\n"
+ }
+}

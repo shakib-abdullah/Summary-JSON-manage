@@ -1,0 +1,132 @@
+{
+ "awd_id": "2430156",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Equipment: CC*Network-Campus: Carthage College Next-Gen Science Network",
+ "cfda_num": "47.070",
+ "org_code": "05260000",
+ "po_phone": "7032924220",
+ "po_email": "kthompso@nsf.gov",
+ "po_sign_block_name": "Kevin Thompson",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 619900.0,
+ "awd_amount": 619900.0,
+ "awd_min_amd_letter_date": "2024-11-21",
+ "awd_max_amd_letter_date": "2025-06-25",
+ "awd_abstract_narration": "A diverse team of faculty researchers and networking experts at Carthage College are collaborating to develop and deploy an advanced wireless network for scientific research and teaching across the campus. The Next-Gen Science Network enhances network capacity and performance to support the growing STEM research, which has become increasingly technology-dependent and data-intensive.  The new network enables unique scientific research in many subject areas, including astrophysics, genomics, molecular biology, engineering, and geospatial analysis. The upgraded infrastructure will also increase connectivity to the wider academic community.  Other broader impacts include increased undergraduate research opportunities, improved collaboration with external institutions, hands-on training for students in modern network technologies, and the integration of more advanced computational tools into STEM curricula.  In addition to supporting unique research outcomes, the project work prepares students for future careers in science and engineering, contributing to a STEM-literate society and a highly skilled workforce.\r\n\r\nThe project upgrades the network to improve throughput to 2.5 Gb in academic buildings, simplifies authentication, and implements proactive monitoring and performance tuning. Research activities will operate within a logically configured virtual network segment, a configuration that allows scientific computing resources to access the network with low latency and minimal packet loss.  This design can be continuously tuned to enable frequent, large file transfers, more cloud computing and connectivity to shared academic resources, and the ability to use AI-enabled tools, wearables, and other Internet of Things (IoT) measurement sensors needed for scientific research.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "OAC",
+ "org_div_long_name": "Office of Advanced Cyberinfrastructure",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Michelle",
+   "pi_last_name": "Hobbins",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Michelle Hobbins",
+   "pi_email_addr": "mhobbins@carthage.edu",
+   "nsf_id": "000795735",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Former Co-Principal Investigator",
+   "pi_first_name": "Ryan",
+   "pi_last_name": "Ade",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ryan M Ade",
+   "pi_email_addr": "rade@carthage.edu",
+   "nsf_id": "0000A03FP",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": "2025-06-25"
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Mahoney",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark Mahoney",
+   "pi_email_addr": "mmahoney@carthage.edu",
+   "nsf_id": "0000A05VF",
+   "pi_start_date": "2024-11-21",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Alexander",
+   "pi_last_name": "Vincer",
+   "pi_mid_init": "C",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexander C Vincer",
+   "pi_email_addr": "avincer@carthage.edu",
+   "nsf_id": "0000A55X6",
+   "pi_start_date": "2025-06-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Carthage College",
+  "inst_street_address": "2001 ALFORD PARK DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "KENOSHA",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "2625515765",
+  "inst_zip_code": "53140",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "WI01",
+  "org_lgl_bus_name": "CARTHAGE COLLEGE",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XLYHHWMEWKJ4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Carthage College",
+  "perf_str_addr": "2001 ALFORD PARK DR",
+  "perf_city_name": "KENOSHA",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "531401994",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "WI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "808000",
+   "pgm_ele_name": "Campus Cyberinfrastructure"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 619900.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span id=\"docs-internal-guid-5695080d-7fff-8c66-a40f-56f2a4dbf1d9\"> </span></p>\r\n<h1 dir=\"ltr\"><span>NSF Project Outcomes Report</span></h1>\r\n<p dir=\"ltr\"><span>Award Title:</span><span> CC*Network-Campus: Carthage College Next-Gen Science Network</span></p>\r\n<p dir=\"ltr\"><span>Award ID: 2430156</span></p>\r\n<p dir=\"ltr\"><span>Michelle Hobbins, Principal Investigator</span></p>\r\n<h2 dir=\"ltr\"><span>Overview</span></h2>\r\n<p dir=\"ltr\"><span>The National Science Foundation Campus Cyberinfrastructure (CC*) award enabled Carthage College to significantly enhance the campus network infrastructure supporting scientific research, teaching, and student learning. Through this project, Carthage modernized its wired and wireless network capabilities across 5 academic buildings and the core network, completely replacing 12-plus-year-old legacy technology. This infrastructure upgrade provides the high-performance connectivity required for today's increasingly data-intensive STEM fields.</span></p>\r\n<p dir=\"ltr\"><span>The upgraded network provides researchers and students with faster, more reliable access to computational resources, scientific instruments, cloud-based services, and large research datasets. These improvements strengthen the College's ability to support advanced research activities while creating a modern technology environment that benefits the entire campus and broader community.</span></p>\r\n<h2 dir=\"ltr\"><span>Disciplines &amp; Research Impact</span></h2>\r\n<p dir=\"ltr\"><span>The project directly supports research and education across numerous STEM disciplines, including bioacoustics, astrophysics, genomics, molecular biology, engineering, computer science, environmental science, computational materials science, and geospatial analysis. Faculty and undergraduate researchers are now equipped to collect, transfer, analyze, and securely manage complex datasets efficiently. Specific impact examples include:</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Data-Intensive Research:</span><span> High-volume research and simulation data are efficiently transferred now, including where transfers were previously impossible. Terabytes of Microgravity Ullage data are now shared electronically with collaborators at Georgia Tech and NASA KSC, replacing the previous requirement to package and physically mail the data.&nbsp;</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Access to High-Performance Computing:</span><span> Enabled computational materials science research utilizing national high-performance and high-throughput computing (HPC/HTC) workflows, such as building libraries of dislocation-based plasticity simulations for statistical analysis.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Classroom Technology Integration:</span><span> The institution has been able to incorporate new technology without fear of technology failure.&nbsp; More than 120 STEM students in a single semester after deployment directly utilized new network-dependent modeling and analytical tools, including ChemDraw, Spartan, R, Spatial Vis, AlphaFold 3, and ChimeraX.</span></p>\r\n</li>\r\n</ul>\r\n<h2 dir=\"ltr\"><span>Undergraduate STEM Education</span></h2>\r\n<p dir=\"ltr\"><span>Upgrading campus cyberinfrastructure directly strengthened student classroom learning by:</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Enhancing the STEM Curriculum:</span><span>&nbsp; More tools are being integrated into coursework, thus giving students hands-on access to advanced computational software, remote scientific resources, and high-volume datasets.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Preparing the STEM Workforce:</span><span> Students are developing critical technical skills that position them for success in graduate study and modern scientific careers.</span></p>\r\n</li>\r\n</ul>\r\n<h2 dir=\"ltr\"><span>National Cyberinfrastructure &amp; External Collaboration</span></h2>\r\n<p dir=\"ltr\"><span>Beyond the immediate benefits to Carthage College, this project connects institutional infrastructure directly to national research ecosystems and strengthens the broader scientific community:</span></p>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>National Cyberinfrastructure Access:</span><span> Integrated Carthage with CILogon, giving students and faculty seamless access to high-performance computing platforms, including Jetstream2, the National Research Platform, and the OSPool / Open Science Grid.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Regional &amp; Institutional Alliances:</span><span> Expanded partnerships with WiscNet and national smaller-institution networks to bridge the resource gap between Primarily Undergraduate Institutions and major research universities.</span></p>\r\n</li>\r\n</ul>\r\n<h2 dir=\"ltr\"><span>Faculty &amp; Student Research</span></h2>\r\n<p dir=\"ltr\"><span>Providing researchers with direct access to modern, professional-grade computational environments expands the capabilities, reach, and velocity of research and institutional collaboration. This also furthers the institutional goal of developing the next generation of scientists, engineers, and technology professionals.&nbsp;</span></p>\r\n<h2 dir=\"ltr\"><span>Key Metrics &amp; Major Accomplishments</span></h2>\r\n<ul>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Internal Network (LAN) Speed: Upgraded from 1 Gbps fiber uplinks to 9.23 Gbps sustained throughput (a 9.2x increase).</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>External Network (WAN) Speed: Improved from a 1 Gbps copper link to 1.40 Gbps fiber throughput and achieved a 45% performance gain.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Core Throughput: Boosted throughput between academic segments and the core from 10 Gbps fiber switch ports to 25 Gbps fiber switch ports to eliminate bottlenecks in research and instructional traffic.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Peak Firewall Throughput: The new infrastructure enabled an increase from ~3 Gbps peak to ~5 Gbps peak, which resulted from the reduction in network bottlenecks.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Student Wi-Fi Satisfaction: Rose from 62% satisfaction to 91%, alongside a 4.5% increase in undergraduate enrollment during the project period.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>Hardware Modernization: Replaced 12+ year old legacy devices with 174 Wi-Fi access points, 59 access switches, and 2 core switches.</span></p>\r\n</li>\r\n<li dir=\"ltr\">\r\n<p dir=\"ltr\"><span>IT Staff Expertise: Completed 60 hours of specialized vendor training and earned 6 professional certifications, building the internal expertise needed to proactively support, optimize, and enhance network operations.&nbsp;</span></p>\r\n</li>\r\n</ul>\r\n<h2 dir=\"ltr\"><span>Summary &amp; Future Outlook</span></h2>\r\n<p dir=\"ltr\"><span>As scientific research continues to become more computationally intensive and collaborative, the investments made through this NSF award position Carthage College to support innovative research, provide exceptional undergraduate STEM education, and contribute to the development of a highly skilled regional workforce. The project establishes a strong technological foundation that will continue to benefit students, faculty, research partners, and the broader community well beyond the duration of the award.</span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/20/2026<br>\nModified by: Michelle&nbsp;Hobbins</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\n \r\nNSF Project Outcomes Report\r\n\n\nAward Title: CC*Network-Campus: Carthage College Next-Gen Science Network\r\n\n\nAward ID: 2430156\r\n\n\nMichelle Hobbins, Principal Investigator\r\nOverview\r\n\n\nThe National Science Foundation Campus Cyberinfrastructure (CC*) award enabled Carthage College to significantly enhance the campus network infrastructure supporting scientific research, teaching, and student learning. Through this project, Carthage modernized its wired and wireless network capabilities across 5 academic buildings and the core network, completely replacing 12-plus-year-old legacy technology. This infrastructure upgrade provides the high-performance connectivity required for today's increasingly data-intensive STEM fields.\r\n\n\nThe upgraded network provides researchers and students with faster, more reliable access to computational resources, scientific instruments, cloud-based services, and large research datasets. These improvements strengthen the College's ability to support advanced research activities while creating a modern technology environment that benefits the entire campus and broader community.\r\nDisciplines & Research Impact\r\n\n\nThe project directly supports research and education across numerous STEM disciplines, including bioacoustics, astrophysics, genomics, molecular biology, engineering, computer science, environmental science, computational materials science, and geospatial analysis. Faculty and undergraduate researchers are now equipped to collect, transfer, analyze, and securely manage complex datasets efficiently. Specific impact examples include:\r\n\r\n\r\n\n\nData-Intensive Research: High-volume research and simulation data are efficiently transferred now, including where transfers were previously impossible. Terabytes of Microgravity Ullage data are now shared electronically with collaborators at Georgia Tech and NASA KSC, replacing the previous requirement to package and physically mail the data.\r\n\r\n\r\n\n\nAccess to High-Performance Computing: Enabled computational materials science research utilizing national high-performance and high-throughput computing (HPC/HTC) workflows, such as building libraries of dislocation-based plasticity simulations for statistical analysis.\r\n\r\n\r\n\n\nClassroom Technology Integration: The institution has been able to incorporate new technology without fear of technology failure. More than 120 STEM students in a single semester after deployment directly utilized new network-dependent modeling and analytical tools, including ChemDraw, Spartan, R, Spatial Vis, AlphaFold 3, and ChimeraX.\r\n\r\n\r\nUndergraduate STEM Education\r\n\n\nUpgrading campus cyberinfrastructure directly strengthened student classroom learning by:\r\n\r\n\r\n\n\nEnhancing the STEM Curriculum: More tools are being integrated into coursework, thus giving students hands-on access to advanced computational software, remote scientific resources, and high-volume datasets.\r\n\r\n\r\n\n\nPreparing the STEM Workforce: Students are developing critical technical skills that position them for success in graduate study and modern scientific careers.\r\n\r\n\r\nNational Cyberinfrastructure & External Collaboration\r\n\n\nBeyond the immediate benefits to Carthage College, this project connects institutional infrastructure directly to national research ecosystems and strengthens the broader scientific community:\r\n\r\n\r\n\n\nNational Cyberinfrastructure Access: Integrated Carthage with CILogon, giving students and faculty seamless access to high-performance computing platforms, including Jetstream2, the National Research Platform, and the OSPool / Open Science Grid.\r\n\r\n\r\n\n\nRegional & Institutional Alliances: Expanded partnerships with WiscNet and national smaller-institution networks to bridge the resource gap between Primarily Undergraduate Institutions and major research universities.\r\n\r\n\r\nFaculty & Student Research\r\n\n\nProviding researchers with direct access to modern, professional-grade computational environments expands the capabilities, reach, and velocity of research and institutional collaboration. This also furthers the institutional goal of developing the next generation of scientists, engineers, and technology professionals.\r\nKey Metrics & Major Accomplishments\r\n\r\n\r\n\n\nInternal Network (LAN) Speed: Upgraded from 1 Gbps fiber uplinks to 9.23 Gbps sustained throughput (a 9.2x increase).\r\n\r\n\r\n\n\nExternal Network (WAN) Speed: Improved from a 1 Gbps copper link to 1.40 Gbps fiber throughput and achieved a 45% performance gain.\r\n\r\n\r\n\n\nCore Throughput: Boosted throughput between academic segments and the core from 10 Gbps fiber switch ports to 25 Gbps fiber switch ports to eliminate bottlenecks in research and instructional traffic.\r\n\r\n\r\n\n\nPeak Firewall Throughput: The new infrastructure enabled an increase from ~3 Gbps peak to ~5 Gbps peak, which resulted from the reduction in network bottlenecks.\r\n\r\n\r\n\n\nStudent Wi-Fi Satisfaction: Rose from 62% satisfaction to 91%, alongside a 4.5% increase in undergraduate enrollment during the project period.\r\n\r\n\r\n\n\nHardware Modernization: Replaced 12+ year old legacy devices with 174 Wi-Fi access points, 59 access switches, and 2 core switches.\r\n\r\n\r\n\n\nIT Staff Expertise: Completed 60 hours of specialized vendor training and earned 6 professional certifications, building the internal expertise needed to proactively support, optimize, and enhance network operations.\r\n\r\n\r\nSummary & Future Outlook\r\n\n\nAs scientific research continues to become more computationally intensive and collaborative, the investments made through this NSF award position Carthage College to support innovative research, provide exceptional undergraduate STEM education, and contribute to the development of a highly skilled regional workforce. The project establishes a strong technological foundation that will continue to benefit students, faculty, research partners, and the broader community well beyond the duration of the award.\r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 09/20/2026\n\n\t\t\t\t\tSubmitted by: MichelleHobbins\n"
+ }
+}

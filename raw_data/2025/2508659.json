@@ -1,0 +1,117 @@
+{
+ "awd_id": "2508659",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: International Conference on Mathematical and Scientific Machine Learning 2025 (MSML2025)",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032920000",
+ "po_email": "yepshtey@nsf.gov",
+ "po_sign_block_name": "Yekaterina Epshteyn",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 30000.0,
+ "awd_amount": 30000.0,
+ "awd_min_amd_letter_date": "2025-02-05",
+ "awd_max_amd_letter_date": "2025-02-05",
+ "awd_abstract_narration": "The International Conference on Mathematical and Scientific Machine Learning 2025 (MSML2025) will be held in Naples, Italy at the University of Naples Federico II, August 4-8, 2025. This conference will be hosted in the \u201cAula Magna.\u201d MSML2025 will be the fifth edition of a recently established international conference with an emphasis on promoting the study of mathematical theory and algorithms of machine learning, as well as applications of machine learning in scientific computing and engineering disciplines. This edition will be the second conference of the series to be held fully in person. This international conference aims to bring together the communities of machine learning, applied mathematics, and computational science and engineering, to exchange ideas and progress in this fast-growing field. This conference will help contribute to the training and growth of the workforce in this field by supporting the attendance of graduate students, postdoctoral researchers, and junior researchers. \r\n\r\nThe objective of this conference series is to promote the study of theory and algorithms of machine learning and machine intelligence as well as applications in scientific and engineering disciplines such as physics, chemistry, material sciences, fluid and solid mechanics, etc. New themes of the conference will include transformers and state-space models, analysis of attention mechanisms, causal inference, optimization for surrogate training, and optimal transport, while more traditional themes such as graph neural networks, neural operators and general mathematics of machine learning will also be featured. More information about the conference is available at the conference website:  https://sites.google.com/view/msml2025/home.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "George",
+   "pi_last_name": "Karniadakis",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "George E Karniadakis",
+   "pi_email_addr": "George_Karniadakis@brown.edu",
+   "nsf_id": "000189617",
+   "pi_start_date": "2025-02-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brown University",
+  "inst_street_address": "1 PROSPECT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVIDENCE",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4018632777",
+  "inst_zip_code": "029129100",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "RI01",
+  "org_lgl_bus_name": "BROWN UNIVERSITY",
+  "org_prnt_uei_num": "E3FDXZ6TBHW3",
+  "org_uei_num": "E3FDXZ6TBHW3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brown University",
+  "perf_str_addr": "1 PROSPECT ST",
+  "perf_city_name": "PROVIDENCE",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "029129100",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "RI01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "127100",
+   "pgm_ele_name": "COMPUTATIONAL MATHEMATICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  },
+  {
+   "pgm_ref_code": "9263",
+   "pgm_ref_txt": "COMPUTATIONAL SCIENCE & ENGING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 30000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The objective of the International Conference on Mathematical and Scientific Machine Learning 2025 (MSML 2025) was to promote the study of mathematical theory and algorithms of machine learning, as well as applications of machine learning in scientific computing and engineering disciplines. A central goal was to gather together both senior and junior researchers conducting leading research on scientific machine learning (SciML) to exchange their recent progress and results, explore emerging themes, and propose future research directions.</p>\r\n<p>Specifically, the main objectives were to: 1) Establish synergies between participants working on theoretical machine learning (e.g., transformers, state-space models, analysis of attention mechanisms, optimal transport, and causal inference) and those applying traditional scientific machine learning methods (e.g., neural operators and graph neural networks); 2) Identify the most important needs and most potentially fruitful avenues for future SciML research in engineering, biomedicine, materials science, and beyond; and 3) Provide researchers at all career stages&mdash;especially graduate students, postdoctoral fellows, and junior faculty&mdash;with the opportunity to present their state-of-the-art results.</p>\r\n<ol> </ol>\r\n<p id=\"p-rc_40840a7e3f9ccd5b-77\"><span>MSML 2025 was very successful in establishing connections across the community and gathering world experts in different aspects of scientific machine learning</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>. We are in fact aware of new collaborations and follow-up interactions between participants</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>. As an example, one keynote speaker visited two contributed speakers and initiated discussions on possible future proposals</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>.</span> <!----><!----><!----><!----><!----><!----><!----><!----></p>\r\n<p id=\"p-rc_40840a7e3f9ccd5b-78\"><span>The conference was highly engaging and constructive throughout its single-session format, featuring 23 invited talks, 23 contributed talks, and over 60 poster presentations</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>. Both early-career and senior researchers actively contributed</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>. A post-conference survey reflected overwhelming community engagement: 80% of attendees indicated that they enjoyed the talks and poster sessions, 84% found the schedule \"just right,\" and 96% stated they would attend MSML again</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>.</span> <!----><!----><!----><!----><!----><!----><!----><!----></p>\r\n<p id=\"p-rc_40840a7e3f9ccd5b-79\"><span>Several students and early-career researchers had the opportunity to present their work to senior leaders, including interactions with researchers from academia, national laboratories, and industry</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>. These interactions provided valuable professional development, networking, and exposure to cutting-edge research directions</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>.</span> <!----><!----><!----><!----><!----><!----><!----><!----></p>\r\n<p id=\"p-rc_40840a7e3f9ccd5b-80\"><span>The event was also very useful for researchers looking to broaden their expertise</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>. Theoretical researchers benefited from presentations demonstrating how SciML models impact real-world applications (such as accelerating design cycles in manufacturing via physics-informed machine learning surrogates), while applied researchers gained deeper insights into mathematical foundations</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>. Furthermore, speakers shared papers, presentation slides, and open code repositories that students and instructors can adapt as starting points for future research and classroom teaching</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>.</span> <!----><!----><!----><!----><!----><!----><!----><!----></p>\r\n<p id=\"p-rc_40840a7e3f9ccd5b-81\"><span>Finally, the official MSML 2025 website is public (<!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><a class=\"ng-star-inserted\" rel=\"noopener\" href=\"https://sites.google.com/view/msml2025/home\" target=\"_blank\">https://sites.google.com/view/msml2025/home</a><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!---->)</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>. There, one can find conference materials, abstracts, slides, and presentation resources available to the entire community</span><span><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><sup class=\"superscript\"><!----></sup><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></span><span>.</span> <!----><!----><!----><!----><!----><!----><!----><!----></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 08/03/2026<br>\nModified by: George&nbsp;E&nbsp;Karniadakis</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe objective of the International Conference on Mathematical and Scientific Machine Learning 2025 (MSML 2025) was to promote the study of mathematical theory and algorithms of machine learning, as well as applications of machine learning in scientific computing and engineering disciplines. A central goal was to gather together both senior and junior researchers conducting leading research on scientific machine learning (SciML) to exchange their recent progress and results, explore emerging themes, and propose future research directions.\r\n\n\nSpecifically, the main objectives were to: 1) Establish synergies between participants working on theoretical machine learning (e.g., transformers, state-space models, analysis of attention mechanisms, optimal transport, and causal inference) and those applying traditional scientific machine learning methods (e.g., neural operators and graph neural networks); 2) Identify the most important needs and most potentially fruitful avenues for future SciML research in engineering, biomedicine, materials science, and beyond; and 3) Provide researchers at all career stagesespecially graduate students, postdoctoral fellows, and junior facultywith the opportunity to present their state-of-the-art results.\r\n \r\n\n\nMSML 2025 was very successful in establishing connections across the community and gathering world experts in different aspects of scientific machine learning. We are in fact aware of new collaborations and follow-up interactions between participants. As an example, one keynote speaker visited two contributed speakers and initiated discussions on possible future proposals. \r\n\n\nThe conference was highly engaging and constructive throughout its single-session format, featuring 23 invited talks, 23 contributed talks, and over 60 poster presentations. Both early-career and senior researchers actively contributed. A post-conference survey reflected overwhelming community engagement: 80% of attendees indicated that they enjoyed the talks and poster sessions, 84% found the schedule \"just right,\" and 96% stated they would attend MSML again. \r\n\n\nSeveral students and early-career researchers had the opportunity to present their work to senior leaders, including interactions with researchers from academia, national laboratories, and industry. These interactions provided valuable professional development, networking, and exposure to cutting-edge research directions. \r\n\n\nThe event was also very useful for researchers looking to broaden their expertise. Theoretical researchers benefited from presentations demonstrating how SciML models impact real-world applications (such as accelerating design cycles in manufacturing via physics-informed machine learning surrogates), while applied researchers gained deeper insights into mathematical foundations. Furthermore, speakers shared papers, presentation slides, and open code repositories that students and instructors can adapt as starting points for future research and classroom teaching. \r\n\n\nFinally, the official MSML 2025 website is public (https://sites.google.com/view/msml2025/home). There, one can find conference materials, abstracts, slides, and presentation resources available to the entire community. \r\n\n\n\t\t\t\t\tLast Modified: 08/03/2026\n\n\t\t\t\t\tSubmitted by: GeorgeEKarniadakis\n"
+ }
+}

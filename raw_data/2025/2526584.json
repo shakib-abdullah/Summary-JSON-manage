@@ -1,0 +1,101 @@
+{
+ "awd_id": "2526584",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Travel Awards for 14th International Conference on Bayesian Nonparametrics",
+ "cfda_num": "47.049",
+ "org_code": "03210000",
+ "po_phone": "7032924733",
+ "po_email": "jkolassa@nsf.gov",
+ "po_sign_block_name": "John Kolassa",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 13000.0,
+ "awd_amount": 13000.0,
+ "awd_min_amd_letter_date": "2025-06-10",
+ "awd_max_amd_letter_date": "2025-06-10",
+ "awd_abstract_narration": "This award supports junior researcher travel to attend the 14th International Conference on Bayesian Nonparametrics that will be held on 23-27th, 2025 at UCLA's campus, Los Angeles, CA, USA. This conference is held biannually and is known to bring together leading experts and talented young researchers working on applications and theory of nonparametric Bayesian statistics. It is an official section meeting of the Bayesian Nonparametrics (BNP) section of the International Society for Bayesian Analysis (ISBA).  The BNP 14 meeting is also co-sponsored by the Institute of Mathematical Statistics (IMS), and it is endorsed by the Section of Bayesian Statistical Sciences of the American Statistical Association.  The main goals of the conference are to promote the interaction among scientists who develop and use BNP methods; to encourage discussions among researchers in various areas and fields of study; to foster cross-fertilization of ideas; to facilitate small group discussions among senior and junior researchers; and to disseminate results of the conference as widely as possible.  More than 250 participants are expected to attend.   BNP methods are statistical procedures that favor flexibility which permits relaxing many assumptions that are often times very rigid and/or hard to verify.  Due to this, there has been a surge in the number of fields that have begun to employ BNP methods such as genetics, archaeology, psychology, economics, neuroscience among others.    \r\n\r\n\r\nNational Science Foundation support will enable the participation of 13 junior participants, including graduate students and postdoctoral scholars, at the conference. The International Conference on Bayesian Nonparametrics is the premier conference of BNP methods and allows weeklong discussions by including a good mix of methodological, applied, and theoretical sessions.  The topics of these sessions include BNP connected to deep learning, Bayesian density estimation, scalable nonparametric regression, hazard rate and survival function estimation (without or with covariates), estimation of spectral distribution of a time series, estimation of conditional density and density regression, classification, clustering, and estimation of the distribution of latent variables such as random effects and so on.   NSF participant support is directed to individuals with evidence of high-quality, early-career research accomplishments.  All the verified invited and contributed speakers are listed on the conference website at https://bnp14.org/.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "MPS",
+ "org_dir_long_name": "Directorate for Mathematical and Physical Sciences",
+ "div_abbr": "MMS",
+ "org_div_long_name": "Mathematical Science Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Garritt",
+   "pi_last_name": "Page",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Garritt L Page",
+   "pi_email_addr": "page@stat.byu.edu",
+   "nsf_id": "000880078",
+   "pi_start_date": "2025-06-10",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Brigham Young University",
+  "inst_street_address": "A-153 ASB",
+  "inst_street_address_2": "",
+  "inst_city_name": "PROVO",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "8014222970",
+  "inst_zip_code": "846021128",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "UT03",
+  "org_lgl_bus_name": "BRIGHAM YOUNG UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "JWSYC7RUMJD1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Brigham Young University",
+  "perf_str_addr": "A-153 ASB",
+  "perf_city_name": "PROVO",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "846021128",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "UT03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "126900",
+   "pgm_ele_name": "STATISTICS"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 13000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Project Outcomes Report</p>\r\n<p>This National Science Foundation award provided participant support to enable graduate students and postdoctoral researchers to attend the 14th International Conference on Bayesian Nonparametrics (BNP14), held June 23&ndash;27, 2025, at the University of California, Los Angeles (UCLA). BNP14 is the fourteenth meeting in the biennial International Conference on Bayesian Nonparametrics series, the principal international forum devoted exclusively to research in Bayesian nonparametrics. Bayesian nonparametrics is growing area of statistics that develops flexible methods for learning from complex data without requiring restrictive assumptions about the underlying processes generating the data. These methods provide flexible tools for modeling uncertainty and have found important applications in fields such as medicine, public health, environmental science, genomics, economics, and artificial intelligence.</p>\r\n<p>The award provided $1,000 in travel support to each of 13 junior researchers, reducing financial barriers that might otherwise have prevented participation. Recipients were selected through a competitive review process based on the quality of their submitted research abstracts. Every supported participant presented original research at the conference through either a contributed oral presentation or a poster presentation, ensuring that each award recipient actively contributed to the scientific program. The supported researchers represented 10 leading research universities across the United States: Duke University, Harvard University, Stanford University, the Massachusetts Institute of Technology, the University of Chicago, the University of Michigan, the University of California, Davis, Texas A&amp;M University, Georgia State University, and The Ohio State University. This broad institutional representation promoted the exchange of ideas among researchers from diverse academic environments and helped establish new collaborations among early-career scientists.</p>\r\n<p>The conference attracted approximately 200 researchers from around the world and brought together leaders and emerging scholars to present advances in Bayesian nonparametric theory, computational methods, and applications. The scientific program included plenary lectures, keynote presentations, invited sessions, contributed talks, and poster sessions spanning topics such as machine learning, uncertainty quantification, clustering, network analysis, time series, biostatistics, environmental science, and scalable computational methods. These presentations highlighted innovative statistical methodologies and demonstrated how Bayesian nonparametric methods are addressing increasingly complex scientific and technological challenges.</p>\r\n<p>A primary outcome of this award was the professional development of the supported junior researchers. By presenting their work, receiving feedback from internationally recognized experts, and interacting with peers and senior investigators, participants strengthened their research programs, expanded their professional networks, and established collaborations that are expected to continue beyond the conference. These experiences help prepare graduate students and postdoctoral researchers for successful careers in academia, government, and industry while strengthening the future research workforce in statistics and data science.</p>\r\n<p>The award also advanced the broader impacts of the National Science Foundation by increasing access to a major international scientific meeting for promising early-career researchers. By reducing financial barriers to participation, the award broadened involvement in a rapidly growing area of statistics and fostered a more diverse and collaborative international research community. The ideas exchanged and professional relationships established during the conference are expected to lead to future collaborations and continued advances in Bayesian nonparametric methodology and its applications across science, engineering, medicine, and artificial intelligence.<br />Overall, this award successfully advanced both the intellectual merit and broader impacts of the conference by enabling 13 promising junior researchers to actively participate in the premier international meeting on Bayesian nonparametrics. Through oral and poster presentations, discussions with leaders in the field, and interactions with an international community of researchers, the award accelerated the dissemination of new scientific ideas, fostered new collaborations, and helped prepare the next generation of researchers who will continue advancing statistical methodology and its applications across science, engineering, medicine, and artificial intelligence.</p><br>\n<p>\n Last Modified: 07/24/2026<br>\nModified by: Garritt&nbsp;L&nbsp;Page</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nProject Outcomes Report\r\n\n\nThis National Science Foundation award provided participant support to enable graduate students and postdoctoral researchers to attend the 14th International Conference on Bayesian Nonparametrics (BNP14), held June 2327, 2025, at the University of California, Los Angeles (UCLA). BNP14 is the fourteenth meeting in the biennial International Conference on Bayesian Nonparametrics series, the principal international forum devoted exclusively to research in Bayesian nonparametrics. Bayesian nonparametrics is growing area of statistics that develops flexible methods for learning from complex data without requiring restrictive assumptions about the underlying processes generating the data. These methods provide flexible tools for modeling uncertainty and have found important applications in fields such as medicine, public health, environmental science, genomics, economics, and artificial intelligence.\r\n\n\nThe award provided $1,000 in travel support to each of 13 junior researchers, reducing financial barriers that might otherwise have prevented participation. Recipients were selected through a competitive review process based on the quality of their submitted research abstracts. Every supported participant presented original research at the conference through either a contributed oral presentation or a poster presentation, ensuring that each award recipient actively contributed to the scientific program. The supported researchers represented 10 leading research universities across the United States: Duke University, Harvard University, Stanford University, the Massachusetts Institute of Technology, the University of Chicago, the University of Michigan, the University of California, Davis, Texas A&M University, Georgia State University, and The Ohio State University. This broad institutional representation promoted the exchange of ideas among researchers from diverse academic environments and helped establish new collaborations among early-career scientists.\r\n\n\nThe conference attracted approximately 200 researchers from around the world and brought together leaders and emerging scholars to present advances in Bayesian nonparametric theory, computational methods, and applications. The scientific program included plenary lectures, keynote presentations, invited sessions, contributed talks, and poster sessions spanning topics such as machine learning, uncertainty quantification, clustering, network analysis, time series, biostatistics, environmental science, and scalable computational methods. These presentations highlighted innovative statistical methodologies and demonstrated how Bayesian nonparametric methods are addressing increasingly complex scientific and technological challenges.\r\n\n\nA primary outcome of this award was the professional development of the supported junior researchers. By presenting their work, receiving feedback from internationally recognized experts, and interacting with peers and senior investigators, participants strengthened their research programs, expanded their professional networks, and established collaborations that are expected to continue beyond the conference. These experiences help prepare graduate students and postdoctoral researchers for successful careers in academia, government, and industry while strengthening the future research workforce in statistics and data science.\r\n\n\nThe award also advanced the broader impacts of the National Science Foundation by increasing access to a major international scientific meeting for promising early-career researchers. By reducing financial barriers to participation, the award broadened involvement in a rapidly growing area of statistics and fostered a more diverse and collaborative international research community. The ideas exchanged and professional relationships established during the conference are expected to lead to future collaborations and continued advances in Bayesian nonparametric methodology and its applications across science, engineering, medicine, and artificial intelligence.\nOverall, this award successfully advanced both the intellectual merit and broader impacts of the conference by enabling 13 promising junior researchers to actively participate in the premier international meeting on Bayesian nonparametrics. Through oral and poster presentations, discussions with leaders in the field, and interactions with an international community of researchers, the award accelerated the dissemination of new scientific ideas, fostered new collaborations, and helped prepare the next generation of researchers who will continue advancing statistical methodology and its applications across science, engineering, medicine, and artificial intelligence.\t\t\t\t\tLast Modified: 07/24/2026\n\n\t\t\t\t\tSubmitted by: GarrittLPage\n"
+ }
+}

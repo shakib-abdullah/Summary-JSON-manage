@@ -1,0 +1,101 @@
+{
+ "awd_id": "2503612",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Research Initiation Award: A Computational Study of Hydroformylation of Ethylene Over Heterogeneous Bimetallic Catalysts",
+ "cfda_num": "47.076",
+ "org_code": "11230000",
+ "po_phone": "7032922816",
+ "po_email": "cpaigean@nsf.gov",
+ "po_sign_block_name": "Carleitta Paige-Anderson",
+ "awd_eff_date": "2025-02-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 298542.0,
+ "awd_amount": 74674.0,
+ "awd_min_amd_letter_date": "2024-12-23",
+ "awd_max_amd_letter_date": "2024-12-23",
+ "awd_abstract_narration": "Research Initiation Awards provide support for junior and mid-career faculty at Historically Black Colleges and Universities who are building new research programs or redirecting and rebuilding existing research programs. It is expected that the award helps to further the faculty member's research capability and effectiveness, improve research and teaching at the home institution, and involves undergraduate students in research experiences. The award to Florida Agricultural and Mechanical University has potential to increase the understanding of hydroformylation which is an industrial process to produce aldehydes. The project will create undergraduate and graduate courses in materials modeling, provide research training in computational materials science and catalysis and create internal and external collaborations with local community colleges and high schools.\r\n \r\nHydroformylation is a process to produce aldehydes by the reaction of synthesis gas with alkenes. Currently, hydroformylation is carried out using Rh and or Co-based transition metal complexes as a catalyst. The homogeneous nature of this reaction leads to difficulties in catalyst separation and recovery, active metal losses, metal species contamination, and corrosivity of catalytic solutions. The development of heterogeneous catalytic systems without sacrificing the activity and selectivity will avoid the drawbacks associated with homogeneous catalysts and be highly useful. This project employs computational methods such as first-principles density functional theory (DFT) calculations and kinetic Monte Carlo (KMC) simulations to gain a fundamental understanding of catalytic science of ethylene hydroformylation to C3-oxygenates on heterogeneous Rh and Rh-based bimetallic model catalysts. The DFT calculations will provide the energetics of the reaction network and KMC simulations will be employed to obtain the kinetics of the reaction at experimental reaction conditions. The theoretical calculations will provide atomistic insight into ethylene hydroformylation and help identify simple catalytic descriptors that can be used to screen potential bimetallic catalysts that are active and selective for ethylene conversion to C3-oxygenates. Moreover, the knowledge gained from this study will also shed light on the hydroformylation of other higher alkenes.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "EIT",
+ "org_div_long_name": "Education Innovation & Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Shyam",
+   "pi_last_name": "Kattel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Shyam Kattel",
+   "pi_email_addr": "shyam.kattel@ucf.edu",
+   "nsf_id": "000806287",
+   "pi_start_date": "2024-12-23",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "The University of Central Florida Board of Trustees",
+  "inst_street_address": "4000 CENTRAL FLORIDA BLVD",
+  "inst_street_address_2": "",
+  "inst_city_name": "ORLANDO",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "4078230387",
+  "inst_zip_code": "328168005",
+  "inst_country_name": "United States",
+  "cong_dist_code": "10",
+  "st_cong_dist_code": "FL10",
+  "org_lgl_bus_name": "THE UNIVERSITY OF CENTRAL FLORIDA BOARD OF TRUSTEES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "RD7MXJV7DKT9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Central Florida Board of Trustees",
+  "perf_str_addr": "4000 CENTRAL FLORIDA BLVD",
+  "perf_city_name": "ORLANDO",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "328168005",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "10",
+  "perf_st_cong_dist": "FL10",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "159400",
+   "pgm_ele_name": "Hist Black Colleges and Univ"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "9178",
+   "pgm_ref_txt": "UNDERGRADUATE EDUCATION"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002122DB",
+   "fund_name": "NSF Education & Human Resource",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2021,
+   "fund_oblg_amt": 74674.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong>Research Initiation Award: A Computational Study of Hydroformylation of Ethylene Over Heterogeneous Bimetallic Catalysts</strong></p>\r\n<p><strong>Following are the key outcome of this project:</strong></p>\r\n<p><strong>(i) Monometallic catalysts for ethylene hydroformylation:</strong> In this project, we employed first-principles density functional theory (DFT) calculations and microkinetic modeling (MKM) to gain a fundamental understanding of ethylene hydroformylation reaction on transition metal-based heterogeneous catalysts. Among Rh, Pt, Ir, Ni, Au, Ag, Pd, and Cu catalysts studied, Rh showed the highest selectivity toward the C&minus;C coupling product. The results from DFT and microkinetic simulations revealed that the activation energy barrier for C&minus;C coupling is lowest on the Rh nanocluster, which explains the experimentally observed highest propanal selectivity on the Rh catalyst. Furthermore, our results demonstrated that the sites located on the flat surfaces of nanoparticles primarily promote the hydrogenation reaction, leading to the formation of undesired ethane as a product. In contrast, undercoordinated edge and corner sites of the nanocluster promote the C&minus;C coupling reaction. Thus, our results illustrate that the selectivity toward C<sub>3</sub> oxygenates in the ethylene hydroformylation reaction can be steered by tuning the size of Rh nanoparticles (the best-performing catalyst) to optimize the active (edge and corner) sites that preferentially promote the C&minus;C coupling reaction.</p>\r\n<p><strong>(ii) Bimetallic catalysts for ethylene hydroformylation: </strong>DFT calculations were performed to calculate the binding energies (BEs), reaction energies, and activation energies of ethylene hydroformylation on RhM (M = Co, Cu, Fe, Ni, Zn) catalysts. The binding energy values show that CO binds strongly on all nanoparticles (&minus;2.02 to &minus;2.27 eV), and the propionyl intermediate (C<sub>2</sub>H<sub>5</sub>CO) is the most strongly bound adsorbate throughout (&minus;2.25 to &minus;3.02 eV). In contrast, the propanal binds comparatively weakly (&minus;0.76 to &minus;1.46 eV). Across the results, binding is generally strongest on Rh<sub>3</sub>Fe and weakest on Rh<sub>3</sub>Zn. To assess whether the BEs of the larger adsorbates can be inferred without explicit DFT calculations, we examined how the BEs correlate with one another across the five alloys. Ethylene (C<sub>2</sub>H<sub>4</sub>), propionyl (C<sub>2</sub>H<sub>5</sub>CO), and propanal binding energies scale linearly with the CO binding energy (Pearson r = 0.93, 0.96, and 0.83, respectively). These scaling relations suggest that a single probe adsorbate such as CO is sufficient to estimate the BE of the larger C2 and C3 intermediates on related RhM compositions, reducing the number of full DFT calculations needed in future screening. The DFT-calculated activation energies indicate that Rh&ndash;Ni bimetallic catalysts preserve the favorable Rh-like C&ndash;C coupling kinetics.</p>\r\n<p><strong>(iii) Rh single-atom catalysts configurations: </strong>The stability of single-atom dopants across nanoparticle shapes and surface sites guides the design of heterogeneous catalysts for chemical reactions. In this work, we use density functional theory (DFT) on four Wulff-constructed face-centered cubic (FCC) nanoparticle shapes across seven hosts (Ni, Cu, Pd, Ag, Ir, Pt, and Au) to compute site-resolved Rh formation energies. Only Ir shows consistently negative formation energies for Rh substitution, with the lowest value of -0.75 eV at corner sites. The lowest formation energies of Rh substitution on Ni and Cu are close to zero (-0.015 and -0.007 eV, respectively), whereas all tested surface configurations on Pd, Ag, Pt, and Au have positive formation energies and are thermodynamically unfavorable. Local strain correlates with formation energy across hosts, but not across shapes and sites within a host. Among the descriptors we considered, the Rh <em>d</em>-band center has the strongest global linear correlation with formation energy, though the correlation reverses within Ir, where coordination effects become important. A Sure Independence Screening and Sparsifying Operator model using only the host FCC bulk descriptors and coordination at the corresponding pristine site captures the stability ordering, enabling screening before explicit DFT calculations. These results identify Ir-based hosts and low-coordination sites as candidate starting points for shape-controlled Rh single-atom catalysts.</p>\r\n<p><strong>(iv) Structures of Rh clusters on graphene:</strong> Here, we employed a genetic algorithm and DFT calculations to identify the lowest-energy small Rh clusters supported on graphene. The results reveal a size-dependent energetic crossover of Rh clusters at approximately 11&ndash;12 atoms, where small Rh clusters transition from low-dimensional or partially wetting geometries to compact three-dimensional structures. This transition is driven by increasing Rh&ndash;Rh coordination and decreasing Rh&ndash;graphene contact, resulting in stabilization dominated by metal&ndash;metal bonding rather than substrate interactions. Bader charge analysis shows that electron transfer from Rh to graphene is localized at interfacial atoms and remains weak and nearly size-independent, further supporting the limited role of the support in cluster growth beyond initial nucleation.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 08/10/2026<br>\nModified by: Shyam&nbsp;Kattel</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nResearch Initiation Award: A Computational Study of Hydroformylation of Ethylene Over Heterogeneous Bimetallic Catalysts\r\n\n\nFollowing are the key outcome of this project:\r\n\n\n(i) Monometallic catalysts for ethylene hydroformylation: In this project, we employed first-principles density functional theory (DFT) calculations and microkinetic modeling (MKM) to gain a fundamental understanding of ethylene hydroformylation reaction on transition metal-based heterogeneous catalysts. Among Rh, Pt, Ir, Ni, Au, Ag, Pd, and Cu catalysts studied, Rh showed the highest selectivity toward the CC coupling product. The results from DFT and microkinetic simulations revealed that the activation energy barrier for CC coupling is lowest on the Rh nanocluster, which explains the experimentally observed highest propanal selectivity on the Rh catalyst. Furthermore, our results demonstrated that the sites located on the flat surfaces of nanoparticles primarily promote the hydrogenation reaction, leading to the formation of undesired ethane as a product. In contrast, undercoordinated edge and corner sites of the nanocluster promote the CC coupling reaction. Thus, our results illustrate that the selectivity toward C3 oxygenates in the ethylene hydroformylation reaction can be steered by tuning the size of Rh nanoparticles (the best-performing catalyst) to optimize the active (edge and corner) sites that preferentially promote the CC coupling reaction.\r\n\n\n(ii) Bimetallic catalysts for ethylene hydroformylation: DFT calculations were performed to calculate the binding energies (BEs), reaction energies, and activation energies of ethylene hydroformylation on RhM (M = Co, Cu, Fe, Ni, Zn) catalysts. The binding energy values show that CO binds strongly on all nanoparticles (2.02 to 2.27 eV), and the propionyl intermediate (C2H5CO) is the most strongly bound adsorbate throughout (2.25 to 3.02 eV). In contrast, the propanal binds comparatively weakly (0.76 to 1.46 eV). Across the results, binding is generally strongest on Rh3Fe and weakest on Rh3Zn. To assess whether the BEs of the larger adsorbates can be inferred without explicit DFT calculations, we examined how the BEs correlate with one another across the five alloys. Ethylene (C2H4), propionyl (C2H5CO), and propanal binding energies scale linearly with the CO binding energy (Pearson r = 0.93, 0.96, and 0.83, respectively). These scaling relations suggest that a single probe adsorbate such as CO is sufficient to estimate the BE of the larger C2 and C3 intermediates on related RhM compositions, reducing the number of full DFT calculations needed in future screening. The DFT-calculated activation energies indicate that RhNi bimetallic catalysts preserve the favorable Rh-like CC coupling kinetics.\r\n\n\n(iii) Rh single-atom catalysts configurations: The stability of single-atom dopants across nanoparticle shapes and surface sites guides the design of heterogeneous catalysts for chemical reactions. In this work, we use density functional theory (DFT) on four Wulff-constructed face-centered cubic (FCC) nanoparticle shapes across seven hosts (Ni, Cu, Pd, Ag, Ir, Pt, and Au) to compute site-resolved Rh formation energies. Only Ir shows consistently negative formation energies for Rh substitution, with the lowest value of -0.75 eV at corner sites. The lowest formation energies of Rh substitution on Ni and Cu are close to zero (-0.015 and -0.007 eV, respectively), whereas all tested surface configurations on Pd, Ag, Pt, and Au have positive formation energies and are thermodynamically unfavorable. Local strain correlates with formation energy across hosts, but not across shapes and sites within a host. Among the descriptors we considered, the Rh d-band center has the strongest global linear correlation with formation energy, though the correlation reverses within Ir, where coordination effects become important. A Sure Independence Screening and Sparsifying Operator model using only the host FCC bulk descriptors and coordination at the corresponding pristine site captures the stability ordering, enabling screening before explicit DFT calculations. These results identify Ir-based hosts and low-coordination sites as candidate starting points for shape-controlled Rh single-atom catalysts.\r\n\n\n(iv) Structures of Rh clusters on graphene: Here, we employed a genetic algorithm and DFT calculations to identify the lowest-energy small Rh clusters supported on graphene. The results reveal a size-dependent energetic crossover of Rh clusters at approximately 1112 atoms, where small Rh clusters transition from low-dimensional or partially wetting geometries to compact three-dimensional structures. This transition is driven by increasing RhRh coordination and decreasing Rhgraphene contact, resulting in stabilization dominated by metalmetal bonding rather than substrate interactions. Bader charge analysis shows that electron transfer from Rh to graphene is localized at interfacial atoms and remains weak and nearly size-independent, further supporting the limited role of the support in cluster growth beyond initial nucleation.\r\n\n\n\r\n\n\n\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 08/10/2026\n\n\t\t\t\t\tSubmitted by: ShyamKattel\n"
+ }
+}

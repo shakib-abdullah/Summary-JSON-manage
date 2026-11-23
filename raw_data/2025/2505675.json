@@ -1,0 +1,125 @@
+{
+ "awd_id": "2505675",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RAPID: Assessing Urgent Time Use Dynamics Among Time-Poor Populations in Preparation for Hurricane Helene and Milton",
+ "cfda_num": "47.041",
+ "org_code": "07030000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 75000.0,
+ "awd_amount": 75000.0,
+ "awd_min_amd_letter_date": "2024-12-02",
+ "awd_max_amd_letter_date": "2024-12-02",
+ "awd_abstract_narration": "The objective of this Grants for Rapid Response Research (RAPID) project is to collect ephemeral data on time use during hurricane preparedness, targeting areas affected by the consecutive hurricanes Helene and Milton in Florida. The back-to-back events underline compounded stress and time demand resulting from ongoing adjustments to daily routines. The primary hypothesis is that time poverty \u2014 a significant but often overlooked social vulnerability \u2014 limits flexibility and discretionary time necessary for effective disaster preparations. The project seeks to understand how individual characteristics \u2014 such as employment and family responsibilities - influence time management and stress levels. The ultimate goal is to enhance disaster management strategies to better meet the needs of diverse populations.\r\n\r\nThe project empirically evaluates the uniform hurricane warning period's effectiveness, particularly for time-poor populations. It conducts a geographically targeted survey through mixed methods and employs a combined cluster and stratified sampling. A set of research questions are formulated and investigated, including, 1) how individuals allocate their time from the initial awareness of hurricane warning to landfall; and 2) how various factors like time poverty, employment role, family responsibilities (e.g. childcare or eldercare), and geographic risk exposure influence the time pressure experienced during hurricane preparations. The new data enrich the American Time Use Survey, which currently lacks specific details on time use during extreme events, and expand empirical knowledge on the impacts of time poverty on disaster preparations. By identifying effective time management strategies, the research informs future improvements to America's Alert & Warning Infrastructure, ensuring the systems and policies are attuned to the varying abilities of populations in response to threats.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Division of Civil, Mechanical, and Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Yan",
+   "pi_last_name": "Wang",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Yan Wang",
+   "pi_email_addr": "yanw@ufl.edu",
+   "nsf_id": "000784830",
+   "pi_start_date": "2024-12-02",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "163800",
+   "pgm_ele_name": "HDBE-Humans, Disasters, and th"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "008Z",
+   "pgm_ref_txt": "Critical Resilient Interdependent Infras"
+  },
+  {
+   "pgm_ref_code": "036E",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  },
+  {
+   "pgm_ref_code": "041E",
+   "pgm_ref_txt": "HAZARD AND DISASTER REDUCTION"
+  },
+  {
+   "pgm_ref_code": "042E",
+   "pgm_ref_txt": "HAZARD AND DISASTER RESPONSE"
+  },
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  },
+  {
+   "pgm_ref_code": "9102",
+   "pgm_ref_txt": "WOMEN, MINORITY, DISABLED, NEC"
+  },
+  {
+   "pgm_ref_code": "CVIS",
+   "pgm_ref_txt": "CIVIL INFRASTRUCTURE"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 75000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The RAPID project investigated how people in Florida used their time to prepare for Hurricanes Helene and Milton&mdash;two major storms that struck in close succession in 2024. Back-to-back disasters create an unusually high burden on residents, who must reorganize work schedules, caregiving responsibilities, and daily routines multiple times within a short period. While previous research has examined demographic and psychological factors in preparedness, this project focused on a less recognized but critical issue: time poverty, or the lack of discretionary time needed to take recommended safety actions. Understanding how time poverty affects storm preparation can help emergency agencies design more targeted and timely warning and response strategies.</p>\r\n<p>Major Findings and Intellectual Merit</p>\r\n<p>The project produced new empirical evidence on how individuals allocate their time during the warning period&mdash;known as personal lead time&mdash;and how everyday routines shape their ability to prepare. Using geographically targeted surveys, we gathered responses from 1,069 residents of Florida counties that received official hurricane warnings. Of these, 709 participants prepared for both Helene and Milton, offering rare insight into how consecutive events intensify time pressures.</p>\r\n<p>Across the sample, many residents learned about the storms well in advance but did not begin preparing until two to four days before landfall, compressing tasks into a narrow and stressful window. Respondents reported that preparing for the hurricanes disrupted their normal routines, often reducing sleep and personal care time. These strains were especially pronounced during the second storm, when participants reported higher time stress despite spending less time preparing and having fewer uncompleted tasks. This suggests that compound disasters create a cumulative burden that makes each successive event more taxing, even when individuals try to streamline their actions.</p>\r\n<p>To better understand these patterns, we used Latent Class Analysis to identify five time-poverty profiles based on routine schedules, employment roles, and caregiving duties: Young Time-Balanced Workers, Time-Rich Retired individuals, Affluent Professionals, Working Overloaded Caregivers, and Strained Low-Income Caregivers. These profiles revealed that many residents face structural constraints that limit their ability to respond quickly to warnings. Follow-up statistical analyses showed that time-poor caregivers and busy professionals experienced significantly greater time stress and completed fewer recommended preparations, while individuals with more flexible routines reported lower stress and more complete preparation.</p>\r\n<p>We also examined how residents perceived the usefulness and timeliness of hurricane warnings. Feeling that warnings were timely reduced time insufficiency during the first storm, but this benefit diminished during the second. The findings show that effective warning systems must account not only for information delivery but also for the lived time constraints of diverse communities.</p>\r\n<p>Overall, the project provides some of the clearest evidence to date that time poverty is a meaningful form of disaster vulnerability. These insights advance scientific understanding of disaster decision-making and contribute to efforts to refine the nation&rsquo;s alert and warning infrastructure.</p>\r\n<p>Broader Impacts</p>\r\n<p>This project produced wide-ranging benefits for disaster research, community preparedness, and public-sector practice. It delivered the first empirical evidence showing how real-world time poverty shapes hurricane preparation, especially among time-poor and high-burden households. It also identified specific time-poverty profiles that experience the highest levels of time stress and time insufficiency, offering actionable guidance for emergency managers seeking to tailor warning strategies. By linking time poverty, warning reception, and preparation outcomes, the project revealed which sub-populations most need targeted support during emergencies.</p>\r\n<p>Additionally, the project established a long-term survey framework for continued study of these groups and produced a new complementary resource: the Social-Infrastructure Time Use (STU) dataset. This is the first nationwide, spatially detailed dataset capturing how communities use time in social-infrastructure places&mdash;such as grocery stores, restaurants, cultural venues, faith-based institutions, and recreation facilities. Using anonymized, aggregated mobile-device visitation data from 2019&ndash;2024, the project developed weekly STU metrics describing the length, depth, diversity, and inequality of community engagement across nearly every census tract, county, and metropolitan area in the continental United States. By making the dataset publicly accessible, the project equips researchers, planners, and public agencies with a powerful tool for evidence-based decision-making. Communities can use it to monitor engagement with essential services, identify disparities, and strengthen resilience planning across time and space.</p>\r\n<p>The project also supported the training of Ph.D. students in disaster research, strengthening future expertise in this field. Findings and datasets were disseminated through journal publications, open data repositories, and presentations at major national conferences, promoting broad knowledge exchange and encouraging continued innovation in disaster management and community resilience.</p>\r\n<p>Summary</p>\r\n<p>This project deepened our understanding of how time poverty shapes disaster preparedness and produced actionable insights for improving emergency communication and support systems. It also delivered a nationwide dataset that expands the scientific and practical tools available for studying community well-being. Together, these contributions strengthen efforts to build more resilient communities in the face of increasingly frequent and complex hazards.</p><br>\n<p>\n Last Modified: 11/28/2025<br>\nModified by: Yan&nbsp;Wang</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe RAPID project investigated how people in Florida used their time to prepare for Hurricanes Helene and Miltontwo major storms that struck in close succession in 2024. Back-to-back disasters create an unusually high burden on residents, who must reorganize work schedules, caregiving responsibilities, and daily routines multiple times within a short period. While previous research has examined demographic and psychological factors in preparedness, this project focused on a less recognized but critical issue: time poverty, or the lack of discretionary time needed to take recommended safety actions. Understanding how time poverty affects storm preparation can help emergency agencies design more targeted and timely warning and response strategies.\r\n\n\nMajor Findings and Intellectual Merit\r\n\n\nThe project produced new empirical evidence on how individuals allocate their time during the warning periodknown as personal lead timeand how everyday routines shape their ability to prepare. Using geographically targeted surveys, we gathered responses from 1,069 residents of Florida counties that received official hurricane warnings. Of these, 709 participants prepared for both Helene and Milton, offering rare insight into how consecutive events intensify time pressures.\r\n\n\nAcross the sample, many residents learned about the storms well in advance but did not begin preparing until two to four days before landfall, compressing tasks into a narrow and stressful window. Respondents reported that preparing for the hurricanes disrupted their normal routines, often reducing sleep and personal care time. These strains were especially pronounced during the second storm, when participants reported higher time stress despite spending less time preparing and having fewer uncompleted tasks. This suggests that compound disasters create a cumulative burden that makes each successive event more taxing, even when individuals try to streamline their actions.\r\n\n\nTo better understand these patterns, we used Latent Class Analysis to identify five time-poverty profiles based on routine schedules, employment roles, and caregiving duties: Young Time-Balanced Workers, Time-Rich Retired individuals, Affluent Professionals, Working Overloaded Caregivers, and Strained Low-Income Caregivers. These profiles revealed that many residents face structural constraints that limit their ability to respond quickly to warnings. Follow-up statistical analyses showed that time-poor caregivers and busy professionals experienced significantly greater time stress and completed fewer recommended preparations, while individuals with more flexible routines reported lower stress and more complete preparation.\r\n\n\nWe also examined how residents perceived the usefulness and timeliness of hurricane warnings. Feeling that warnings were timely reduced time insufficiency during the first storm, but this benefit diminished during the second. The findings show that effective warning systems must account not only for information delivery but also for the lived time constraints of diverse communities.\r\n\n\nOverall, the project provides some of the clearest evidence to date that time poverty is a meaningful form of disaster vulnerability. These insights advance scientific understanding of disaster decision-making and contribute to efforts to refine the nations alert and warning infrastructure.\r\n\n\nBroader Impacts\r\n\n\nThis project produced wide-ranging benefits for disaster research, community preparedness, and public-sector practice. It delivered the first empirical evidence showing how real-world time poverty shapes hurricane preparation, especially among time-poor and high-burden households. It also identified specific time-poverty profiles that experience the highest levels of time stress and time insufficiency, offering actionable guidance for emergency managers seeking to tailor warning strategies. By linking time poverty, warning reception, and preparation outcomes, the project revealed which sub-populations most need targeted support during emergencies.\r\n\n\nAdditionally, the project established a long-term survey framework for continued study of these groups and produced a new complementary resource: the Social-Infrastructure Time Use (STU) dataset. This is the first nationwide, spatially detailed dataset capturing how communities use time in social-infrastructure placessuch as grocery stores, restaurants, cultural venues, faith-based institutions, and recreation facilities. Using anonymized, aggregated mobile-device visitation data from 20192024, the project developed weekly STU metrics describing the length, depth, diversity, and inequality of community engagement across nearly every census tract, county, and metropolitan area in the continental United States. By making the dataset publicly accessible, the project equips researchers, planners, and public agencies with a powerful tool for evidence-based decision-making. Communities can use it to monitor engagement with essential services, identify disparities, and strengthen resilience planning across time and space.\r\n\n\nThe project also supported the training of Ph.D. students in disaster research, strengthening future expertise in this field. Findings and datasets were disseminated through journal publications, open data repositories, and presentations at major national conferences, promoting broad knowledge exchange and encouraging continued innovation in disaster management and community resilience.\r\n\n\nSummary\r\n\n\nThis project deepened our understanding of how time poverty shapes disaster preparedness and produced actionable insights for improving emergency communication and support systems. It also delivered a nationwide dataset that expands the scientific and practical tools available for studying community well-being. Together, these contributions strengthen efforts to build more resilient communities in the face of increasingly frequent and complex hazards.\t\t\t\t\tLast Modified: 11/28/2025\n\n\t\t\t\t\tSubmitted by: YanWang\n"
+ }
+}

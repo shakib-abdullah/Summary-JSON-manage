@@ -1,0 +1,101 @@
+{
+ "awd_id": "2516696",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: 2025 CRA Leadership Academy",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032928649",
+ "po_email": "mbasu@nsf.gov",
+ "po_sign_block_name": "Mitra Basu",
+ "awd_eff_date": "2025-05-15",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 29995.0,
+ "awd_amount": 29995.0,
+ "awd_min_amd_letter_date": "2025-05-14",
+ "awd_max_amd_letter_date": "2025-05-14",
+ "awd_abstract_narration": "Leadership is not only a role but also a set of skills and an attitude. Too often people end up in leadership roles without the tools, experience, and expertise to handle what is being asked of them. Academics face a unique set of leadership challenges, and computing research academics even more so (e.g., artificial intelligence, booming enrollments). Due to the small number of computing research faculty attaining full professor status at an institution each year, creating a robust, relevant training program at each institution is infeasible. The 2025 CRA Leadership Academy is designed to cultivate and inspire future leaders in computing and computing research, leaders who are better equipped for handling a variety of situations including conflict, institutional trauma, and leading and managing within a computing research context. By the nature of the workshop\u2019s cohort and its focus, the impact of the work will be felt in the colleges and universities of the participants by their faculty, their staff, and the students they serve. \r\n\r\nThe goal of the 2025 CRA Leadership Academy is to prepare and inspire the computing leaders of tomorrow while building a peer cohort today for knowledge sharing, skill building, and support. This project will provide a professional development training for recently promoted or soon-to-be-promoted full professors in U.S. computing departments. Participants will gain insights into leadership roles in computing, team building, managing academic budgets, and navigating challenging situations, while also expanding their network of peers and mentors. Following the in-person workshop, participants join virtual cohort meetings to continue connecting, learning, and growing with peers.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tracy",
+   "pi_last_name": "Camp",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tracy K Camp",
+   "pi_email_addr": "camp@cra.org",
+   "nsf_id": "000323256",
+   "pi_start_date": "2025-05-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Computing Research Association",
+  "inst_street_address": "1828 L ST NW",
+  "inst_street_address_2": "STE 800",
+  "inst_city_name": "WASHINGTON",
+  "inst_state_code": "DC",
+  "inst_state_name": "District of Columbia",
+  "inst_phone_num": "2022662949",
+  "inst_zip_code": "200365104",
+  "inst_country_name": "United States",
+  "cong_dist_code": "00",
+  "st_cong_dist_code": "DC00",
+  "org_lgl_bus_name": "COMPUTING RESEARCH ASSOCIATION INC",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "GL8EKK2U5YE9"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Computing Research Association",
+  "perf_str_addr": "1828 L ST NW",
+  "perf_city_name": "WASHINGTON",
+  "perf_st_code": "DC",
+  "perf_st_name": "District of Columbia",
+  "perf_zip_code": "200365104",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "00",
+  "perf_st_cong_dist": "DC00",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "164000",
+   "pgm_ele_name": "Information Technology Researc"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 29995.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The 2025 Computing Research Association (CRA) Leadership Academy was a two-day in-person workshop followed by four 1-hour online follow-up sessions aimed at cultivating and inspiring future leaders in computing and computing research. The workshop hosted 43 members of the computing research community from 38 academic institutions. Participants gained both skills to become adept leaders and connections with a cohort of similarly minded peers. Participants also had the opportunity to network with several established leaders in the computing research field. The small number of computing faculty who are interested in &nbsp;leadership development at any single institution each year makes it infeasible to build a robust leadership-training program locally.</p>\r\n<p>After the in-person portion of the Academy, CRA's Center for Evaluating the Research Pipeline surveyed participants about their experience. CERP administered a survey to participants following the in-person portion of the Academy. The 17 respondents to the survey (~40% of the attendees) indicated that the Leadership Academy enabled them to develop actionable plans for their career journey (82% mostly or completely true), that they met people they would like to continue to network with (94% mostly or completely true), that they have a clearer picture of their next steps in developing their leadership skills (94% mostly or completely true), that they have a clearer picture of the next leadership position they would like to attain (82% mostly or completely true), and that they learned more about the types of leadership positions that exist in the computing community (94% mostly or completely true). Notably, 100% of respondents reported a stronger interest in pursuing leadership roles in their career as a direct result of participating in the Leadership Academy. These positive results directly reflect the knowledge, skills, and actionable-next-steps goals set out for this Leadership Academy project.</p>\r\n<p>Better-trained academic leaders create a stronger experience for their students. Faculty who know how to manage and guide their teams build environments where people succeed and stay, with benefits that reach well beyond any one classroom or department. Over time, this kind of leadership creates more productive, purpose-driven workplaces that free researchers to focus on developing new ideas and technologies in computing. By reaching 43 participants across 38 institutions in a single cohort, the Leadership Academy extended these benefits far beyond what any one institution could provide on its own, strengthening the pipeline of computing research leaders and making the field stronger as a result.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/10/2026<br>\nModified by: Tracy&nbsp;K&nbsp;Camp</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe 2025 Computing Research Association (CRA) Leadership Academy was a two-day in-person workshop followed by four 1-hour online follow-up sessions aimed at cultivating and inspiring future leaders in computing and computing research. The workshop hosted 43 members of the computing research community from 38 academic institutions. Participants gained both skills to become adept leaders and connections with a cohort of similarly minded peers. Participants also had the opportunity to network with several established leaders in the computing research field. The small number of computing faculty who are interested in leadership development at any single institution each year makes it infeasible to build a robust leadership-training program locally.\r\n\n\nAfter the in-person portion of the Academy, CRA's Center for Evaluating the Research Pipeline surveyed participants about their experience. CERP administered a survey to participants following the in-person portion of the Academy. The 17 respondents to the survey (~40% of the attendees) indicated that the Leadership Academy enabled them to develop actionable plans for their career journey (82% mostly or completely true), that they met people they would like to continue to network with (94% mostly or completely true), that they have a clearer picture of their next steps in developing their leadership skills (94% mostly or completely true), that they have a clearer picture of the next leadership position they would like to attain (82% mostly or completely true), and that they learned more about the types of leadership positions that exist in the computing community (94% mostly or completely true). Notably, 100% of respondents reported a stronger interest in pursuing leadership roles in their career as a direct result of participating in the Leadership Academy. These positive results directly reflect the knowledge, skills, and actionable-next-steps goals set out for this Leadership Academy project.\r\n\n\nBetter-trained academic leaders create a stronger experience for their students. Faculty who know how to manage and guide their teams build environments where people succeed and stay, with benefits that reach well beyond any one classroom or department. Over time, this kind of leadership creates more productive, purpose-driven workplaces that free researchers to focus on developing new ideas and technologies in computing. By reaching 43 participants across 38 institutions in a single cohort, the Leadership Academy extended these benefits far beyond what any one institution could provide on its own, strengthening the pipeline of computing research leaders and making the field stronger as a result.\r\n\n\n\t\t\t\t\tLast Modified: 09/10/2026\n\n\t\t\t\t\tSubmitted by: TracyKCamp\n"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "awd_id": "2451370",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Plient Engineered Recycled Steel Fibers as Cheaper, Faster, Safer Concrete Reinforcement",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032925041",
+ "po_email": "vinlee@nsf.gov",
+ "po_sign_block_name": "Vincent Lee",
+ "awd_eff_date": "2025-06-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 304856.0,
+ "awd_amount": 304856.0,
+ "awd_min_amd_letter_date": "2025-05-22",
+ "awd_max_amd_letter_date": "2025-05-22",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research (SBIR) Phase I project includes safer construction, reduction in landfilled tires, >10% lower cost, enhanced durability, and up to 2x faster concrete construction. The innovation, an engineered recycled steel fiber product, can replace conventional steel reinforcing bar (rebar) in certain applications, which will enhance understanding of how fiber characteristics impact key engineering properties. Recycled feedstock with inexpensive mechanical processing used to produce the fibers ensures a durable competitive advantage versus rebar, which is produced by costly melting and forming. In addition to lower upfront cost, the recycled steel fiber technology increases concrete toughness and will lower long-term maintenance costs. The business model for commercializing the recycled steel fiber technology involves bulk purchase of recycled feedstock, transport and mechanical processing, and then sale of the processed fibers to local concrete plants or contractors at a markup. Based on extensive customer discovery, the beachhead markets for the technology include concrete flooring and pavements. The technology will be a key factor enabling commercial success of the company, which was formed specifically in response to the technology.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project focuses on eliminating technical barriers inhibiting commercialization of engineered recycled steel fibers for concrete reinforcement. Concrete is traditionally reinforced with steel bars (rebar), which are labor-intensive, costly, and creates dangerous jobsite conditions. The proposed technology addresses each of these limitations, but technical concerns include whether the maximum achievable residual flexural strength of concrete reinforced with the fibers is sufficient for the target applications. Furthermore, the local nature of concrete production requires a robust design tool to determine proper required fiber dosage for a given application based on the concrete composition and properties. This project will elucidate the maximum achievable residual flexural strength and the role of fiber dispersion on limiting the strength and develop a machine-learning tool for determining design fiber dosage. Flexural testing will be performed on a wide range of concrete mixtures and fracture surfaces will be examined for fiber clumping. These test data will be combined with data mining of steel fiber reinforced concrete flexural strength results to train and test the machine-learning based design tool. The results of this project will include understanding of how concrete mixture design and fiber dispersion influences peak residual flexural strength.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Charles",
+   "pi_last_name": "Donnelly",
+   "pi_mid_init": "A",
+   "pi_sufx_name": "",
+   "pi_full_name": "Charles A Donnelly",
+   "pi_email_addr": "charles.donnelly@buildwithcircle.com",
+   "nsf_id": "0000A10BZ",
+   "pi_start_date": "2025-05-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "CIRCLE CONCRETE TECH, INC.",
+  "inst_street_address": "220 W BRANCH RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "KYLE",
+  "inst_state_code": "TX",
+  "inst_state_name": "Texas",
+  "inst_phone_num": "3522223130",
+  "inst_zip_code": "786402649",
+  "inst_country_name": "United States",
+  "cong_dist_code": "21",
+  "st_cong_dist_code": "TX21",
+  "org_lgl_bus_name": "CIRCLE CONCRETE TECH, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "PNEEKRJMVSG4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "CIRCLE CONCRETE TECH, INC.",
+  "perf_str_addr": "2028 E BEN WHITE BLVD",
+  "perf_city_name": "AUSTIN",
+  "perf_st_code": "TX",
+  "perf_st_name": "Texas",
+  "perf_zip_code": "787416966",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "35",
+  "perf_st_cong_dist": "TX35",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8021",
+   "pgm_ref_txt": "Materials Engineering"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304856.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p class=\"p2\"><span class=\"s1\">&nbsp;</span>This project focuses on the development of Plient fibers (or simply &ldquo;Plient&rdquo;), a novel engineered recycled steel fiber, as a viable commercial alternative to conventional steel rebar reinforcement for concrete pavements and industrial floors. Through extensive research and development, Circle Concrete Tech, Inc, (&ldquo;Circle&rdquo;) has identified that Plient exhibits mechanical properties that indicate the potential to replace conventional reinforcement, which would completely upend the current construction industry. Our value statement is centered on using Plient fibers to replace rebar in concrete industrial floors and pavements, which results in 10-50% lower reinforcement costs, 2x faster construction, 61% safer jobsites, and 7-19x lower carbon footprint for the reinforcement. Despite the clear advantages of Plient, risks that could undermine commercialization were identified. This study focuses on addressing the following two risks to enable full commercialization of Plient:<span>&nbsp;</span></p>\r\n<p class=\"p2\"><strong>Risk 1</strong>: Plient fiber doses required to achieve key strength parameters are not achievable due to poor fiber dispersion. Residual flexural strength is the key design variable for Plient reinforced concrete for the target industrial floor and pavement applications.<span>&nbsp;</span></p>\r\n<p class=\"p2\"><strong>Risk 2: </strong>Designing concrete pavements and industrial slabs will require proper specification of Plient dosage that will achieve the necessary residual flexural strength. Beyond Plient dosage, residual flexural strength of fiber reinforced concrete is a complex function of many different properties of the concrete matrix and the Plient fibers.<span>&nbsp;</span></p>\r\n<p class=\"p2\">Given the complexity of the functional dependency of residual flexural strength on several variables and variability in the Plient fibers, it will be challenging to develop a design tool for proper specification of Plient dosage. Based on our customer discovery, such <strong>a design tool is demanded by our customers </strong>and is necessary for designing full-scale pavement and industrial floor prototypes.<span>&nbsp;</span></p>\r\n<p class=\"p2\">The objectives are to address the technical risks by answering the following questions: <strong>Q1. </strong>What is the Plient dosage &ndash; depending on fiber properties, concrete ingredients, and proportions &ndash; that results in maximal residual flexural strength? <strong>Q2. </strong>Is that strength limited by dispersion quality and is it high enough for Plient to replace rebar in the target applications? <strong>Q3. </strong>Given a specified required residual flexural strength, a concrete mixture design, and the physical characteristics of Plient, what is the proper Plient dosage to achieve that strength at a certain confidence level?<span>&nbsp;</span></p>\r\n<p class=\"p2\">To address these questions, the following SBIR Phase I project was conducted through two primary tasks. In Task 1, the research team evaluated the effect of Plient dosage on the maximum achievable residual flexural strength. Concrete mixtures were produced to replicate typical flooring and paving mixture designs. High Plient doses were added until the workability of the concrete was too poor to produce useable concrete. The Plient reinforced concrete was tested to determine the maximum residual strength that can be achieved, <strong>thus answering Q1</strong>. The results indicate that increasing Plient past 1.5% by volume results in negligible increases in measured residual flexural strength. It was determined that the maximum residual flexural strength is a function of concrete mixture design parameters in addition to the Plient dosage. The results indicate that the residual flexural strength values achieved using Plient meet the requirement to replace rebar reinforced concrete, <strong>thus answering Q2</strong>. Poor Plient dispersion did not occur at high dosages, however, insufficient concrete workability became a limiting factor. This loss of workability resulted in poorly consolidated concrete specimens and introduced significant variability in the measured hardened concrete material properties. Therefore, the maximum allowable Plient dosage should be determined based on the ability to sufficiently consolidate and finish the Plient reinforced concrete.<span>&nbsp;</span></p>\r\n<p class=\"p2\">Task 2 focused on the development of a novel, rapid Plient design tool that can determine the required Plient dosage as a function of target residual flexural strength and key concrete mixture design features. First, extensive laboratory testing was conducted (Task 2.a) to compile a database of residual flexural strength values. A range of concrete mixture designs were tested with varying Plient doses to capture the effect of key mixture design features. Second, an extensive data mining of literature (Task 2.b) was conducted to supplement the dataset of laboratory obtained values. The combined database of Plient residual flexural strength data was then used to generate a machine learning (ML) powered design tool<span>&nbsp;</span></p>\r\n<p class=\"p2\">(Task 2.c). The model was trained using the gradient boosting algorithm, which has previously shown to produce robust predictions given limited datasets. A post-processing scheme was developed to provide localized confidence intervals for a given prediction. Lastly, a simple user interface was designed to house the ML tool and postprocessing scheme to provide users with a rapidly predicted Plient dosage given a set of inputs. <strong>The development of this design tool addresses Q3</strong>. Furthermore, the tool will be an invaluable asset for the commercialization of Plient fibers.<span>&nbsp;</span></p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 12/01/2025<br>\nModified by: Charles&nbsp;A&nbsp;Donnelly</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project focuses on the development of Plient fibers (or simply Plient), a novel engineered recycled steel fiber, as a viable commercial alternative to conventional steel rebar reinforcement for concrete pavements and industrial floors. Through extensive research and development, Circle Concrete Tech, Inc, (Circle) has identified that Plient exhibits mechanical properties that indicate the potential to replace conventional reinforcement, which would completely upend the current construction industry. Our value statement is centered on using Plient fibers to replace rebar in concrete industrial floors and pavements, which results in 10-50% lower reinforcement costs, 2x faster construction, 61% safer jobsites, and 7-19x lower carbon footprint for the reinforcement. Despite the clear advantages of Plient, risks that could undermine commercialization were identified. This study focuses on addressing the following two risks to enable full commercialization of Plient:\r\n\n\nRisk 1: Plient fiber doses required to achieve key strength parameters are not achievable due to poor fiber dispersion. Residual flexural strength is the key design variable for Plient reinforced concrete for the target industrial floor and pavement applications.\r\n\n\nRisk 2: Designing concrete pavements and industrial slabs will require proper specification of Plient dosage that will achieve the necessary residual flexural strength. Beyond Plient dosage, residual flexural strength of fiber reinforced concrete is a complex function of many different properties of the concrete matrix and the Plient fibers.\r\n\n\nGiven the complexity of the functional dependency of residual flexural strength on several variables and variability in the Plient fibers, it will be challenging to develop a design tool for proper specification of Plient dosage. Based on our customer discovery, such a design tool is demanded by our customers and is necessary for designing full-scale pavement and industrial floor prototypes.\r\n\n\nThe objectives are to address the technical risks by answering the following questions: Q1. What is the Plient dosage  depending on fiber properties, concrete ingredients, and proportions  that results in maximal residual flexural strength? Q2. Is that strength limited by dispersion quality and is it high enough for Plient to replace rebar in the target applications? Q3. Given a specified required residual flexural strength, a concrete mixture design, and the physical characteristics of Plient, what is the proper Plient dosage to achieve that strength at a certain confidence level?\r\n\n\nTo address these questions, the following SBIR Phase I project was conducted through two primary tasks. In Task 1, the research team evaluated the effect of Plient dosage on the maximum achievable residual flexural strength. Concrete mixtures were produced to replicate typical flooring and paving mixture designs. High Plient doses were added until the workability of the concrete was too poor to produce useable concrete. The Plient reinforced concrete was tested to determine the maximum residual strength that can be achieved, thus answering Q1. The results indicate that increasing Plient past 1.5% by volume results in negligible increases in measured residual flexural strength. It was determined that the maximum residual flexural strength is a function of concrete mixture design parameters in addition to the Plient dosage. The results indicate that the residual flexural strength values achieved using Plient meet the requirement to replace rebar reinforced concrete, thus answering Q2. Poor Plient dispersion did not occur at high dosages, however, insufficient concrete workability became a limiting factor. This loss of workability resulted in poorly consolidated concrete specimens and introduced significant variability in the measured hardened concrete material properties. Therefore, the maximum allowable Plient dosage should be determined based on the ability to sufficiently consolidate and finish the Plient reinforced concrete.\r\n\n\nTask 2 focused on the development of a novel, rapid Plient design tool that can determine the required Plient dosage as a function of target residual flexural strength and key concrete mixture design features. First, extensive laboratory testing was conducted (Task 2.a) to compile a database of residual flexural strength values. A range of concrete mixture designs were tested with varying Plient doses to capture the effect of key mixture design features. Second, an extensive data mining of literature (Task 2.b) was conducted to supplement the dataset of laboratory obtained values. The combined database of Plient residual flexural strength data was then used to generate a machine learning (ML) powered design tool\r\n\n\n(Task 2.c). The model was trained using the gradient boosting algorithm, which has previously shown to produce robust predictions given limited datasets. A post-processing scheme was developed to provide localized confidence intervals for a given prediction. Lastly, a simple user interface was designed to house the ML tool and postprocessing scheme to provide users with a rapidly predicted Plient dosage given a set of inputs. The development of this design tool addresses Q3. Furthermore, the tool will be an invaluable asset for the commercialization of Plient fibers.\r\n\n\n\t\t\t\t\tLast Modified: 12/01/2025\n\n\t\t\t\t\tSubmitted by: CharlesADonnelly\n"
+ }
+}

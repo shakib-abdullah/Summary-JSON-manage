@@ -1,0 +1,105 @@
+{
+ "awd_id": "2528723",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "FET: Small: AlignMEM: Fast and Efficient DNA Sequence Alignment in Non-Volatile Magnetic RAM",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032927843",
+ "po_email": "sabasu@nsf.gov",
+ "po_sign_block_name": "Sankar Basu",
+ "awd_eff_date": "2024-10-01",
+ "awd_exp_date": "2025-09-30",
+ "tot_intn_awd_amt": 491298.0,
+ "awd_amount": 121781.0,
+ "awd_min_amd_letter_date": "2025-04-03",
+ "awd_max_amd_letter_date": "2025-04-03",
+ "awd_abstract_narration": "The state-of-the-art DNA sequencing technologies could generate Terabytes of DNA sequence data in a single run, and their throughput is expected to increase 3-5 times each year in the coming years. In order to apply these big DNA-data into follow-up complex disease diagnostics/prognostics, such as cancer risk assessment, tailor patient treatment, and prenatal testing, they must be first aligned to a 3.2-billion-length human reference genome. However, the existing software tools for this purpose may need hours or days to align such large amount of DNA sequence data even with very powerful computing systems of today due to the 'memory wall' challenge in state-of-the-art computing architecture that describes the speed mismatch between memory units and computing units. To this end this, project leverages innovations from non-volatile nano-magnet based Magnetic Random Access Memory (MRAM) technology and in-memory computing architecture. If successful, it can achieve up to two orders magnitude higher computing performance, speed and energy efficiency for next-generation DNA sequence analysis system, which enables large-scale fast genomic data analytics to support research on various disease studies and biomedical applications. This project will develop new undergraduate/graduate level course modules on in-memory computing architecture and bioinformatics.  \r\n\r\nThis project will follow two main research tracks. The first one explores how to leverage the intrinsic non-volatile MRAM device property to efficiently develop ultra-parallel, reconfigurable in-memory logic required by DNA alignment computation and its big DNA-data Processing-in-Memory (PIM) accelerator architecture. The second research track will investigate how to develop fast DNA alignment-in-memory algorithm based on Burrows-Wheeler Transformation to match with the proposed MRAM based PIM platform and its large-scale genomic analysis application in disease phenotype prediction. Alignments generated will be used to estimate gene expression, and identify single nucleotide mutation events for patient samples, leading to molecular signatures for disease risk assessment.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Deliang",
+   "pi_last_name": "Fan",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Deliang Fan",
+   "pi_email_addr": "dfan@asu.edu",
+   "nsf_id": "000699728",
+   "pi_start_date": "2025-04-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Arizona State University",
+  "inst_street_address": "1475 N SCOTTSDALE RD STE 200",
+  "inst_street_address_2": "",
+  "inst_city_name": "SCOTTSDALE",
+  "inst_state_code": "AZ",
+  "inst_state_name": "Arizona",
+  "inst_phone_num": "4809655479",
+  "inst_zip_code": "852573538",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "AZ01",
+  "org_lgl_bus_name": "ARIZONA STATE UNIVERSITY",
+  "org_prnt_uei_num": "NKJGJQYQJKR3",
+  "org_uei_num": "NTLHJXM55KZ6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Arizona State University",
+  "perf_str_addr": "660 S MILL AVENUE STE 204",
+  "perf_city_name": "TEMPE",
+  "perf_st_code": "AZ",
+  "perf_st_name": "Arizona",
+  "perf_zip_code": "852813670",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "AZ04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "089Y00",
+   "pgm_ele_name": "FET-Fndtns of Emerging Tech"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "076Z",
+   "pgm_ref_txt": "FET: Foundations of Emerging Technologie"
+  },
+  {
+   "pgm_ref_code": "7945",
+   "pgm_ref_txt": "DES AUTO FOR MICRO & NANO SYST"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01001920DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2019,
+   "fund_oblg_amt": 121781.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This project explores to leverage innovations from both post-CMOS non-volatile nano-magnet based Magnetic Random Access Memory (MRAM) device technology and in-memory computing architecture to develop a revolutionary DNA sequence alignment-in-memory (AlignMEM) system. It advances next-generation ultra-fast and high-throughput DNA short read AlignMEM paradigm and targets to achieve two orders higher speed, throughput and energy efficiency compared to existing CPU/GPU computing systems.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Intellectual merits:</strong></p>\r\n<p>Across the whole life of this project, for the intellectual merits, the PIs&rsquo; team successfully finished the proposed two main research tracks. For the first research track, the PIs&rsquo; team designed different types of non-volatile memory based ultra-parallel, reconfigurable in-memory logic required by DNA alignment computation and its big DNA-data Processing-in-Memory (PIM) accelerator architecture. For the second research track, the PIs&rsquo; team developed fast DNA alignment-in-memory algorithm based on Burrows-Wheeler Transformation to match with the proposed MRAM based PIM platform and its large-scale genomic analysis application in disease phenotype prediction. The PIs&rsquo; team further used the processed data for estimating gene expression and many different types of genome processing. Our fabricated world-first genome processing-in-memory chip prototype successfully achieved the targeted energy efficiency with around two orders of magnitude higher than state-of-the-art counterpart, a strong indication of the success of this project.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Research Publications</strong>: The above discussed research outcomes have led to 10+ IEEE/ACM international journal and conference research publications from the PIs&rsquo; team, such as JSSC, SSCL, TCAD, JLPEA, ENM, CICC, DAC, GLSVLSI, ISQED.</p>\r\n<p><strong>PhD thesis</strong>: PhD graduated with thesis: &ldquo;Compute-in-memory Circuits and Architectures for Efficient Acceleration of AI and Data Centric Workloads&rdquo;.</p>\r\n<p><strong>Genome processing chip prototype fabrication</strong>:&nbsp; The PIs&rsquo; team has designed and fabricated the world first genome processing-in-memory chip prototype. The chip prototype is designed to accelerate two key types of genome processing applications using our developed PIM chip prototype: the state-of-the-art (SOTA) burrows&ndash;wheeler transform (BWT)-based DNA short-read alignment and alignment-free mRNA quantification. The chip prototype achieves 2.12 G suffixes/J (suffixes per joule) at 1.0 V, which is the most energy-efficient solution to date for genome processing.</p>\r\n<p><strong>&nbsp;</strong></p>\r\n<p><strong>Broader Impacts</strong>:</p>\r\n<p>To promote its broader impacts, the PI has conducted followings:</p>\r\n<p><strong>Students training</strong>: Four PhD students are partially supported through this project at ASU and UCF, conducting research in the in-memory computing circuit hardware and genome processing algorithm. Multiple master students and undergraduate students from the PI&rsquo;s classes are trained with knowledge of state-of-the-art non-volatile memory design and circuit design. The PI also supervised several senior design teams with the topic related to this project to train undergraduate students.</p>\r\n<p><strong>Outreach</strong>: the PI has organized and chaired in-memory computing workshop associated with the community&rsquo;s top-tier conference, Design Automation Conference. The workshop attracted 100+ attendees each year, serving as a great platform to promote the research outcomes of this project.</p>\r\n<p><strong>Open source tools/models</strong>: multiple open-source software and tools are generated and shared in github for public use. Those tools are free to download for public.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 12/11/2025<br>\nModified by: Deliang&nbsp;Fan</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project explores to leverage innovations from both post-CMOS non-volatile nano-magnet based Magnetic Random Access Memory (MRAM) device technology and in-memory computing architecture to develop a revolutionary DNA sequence alignment-in-memory (AlignMEM) system. It advances next-generation ultra-fast and high-throughput DNA short read AlignMEM paradigm and targets to achieve two orders higher speed, throughput and energy efficiency compared to existing CPU/GPU computing systems.\r\n\n\n\r\n\n\nIntellectual merits:\r\n\n\nAcross the whole life of this project, for the intellectual merits, the PIs team successfully finished the proposed two main research tracks. For the first research track, the PIs team designed different types of non-volatile memory based ultra-parallel, reconfigurable in-memory logic required by DNA alignment computation and its big DNA-data Processing-in-Memory (PIM) accelerator architecture. For the second research track, the PIs team developed fast DNA alignment-in-memory algorithm based on Burrows-Wheeler Transformation to match with the proposed MRAM based PIM platform and its large-scale genomic analysis application in disease phenotype prediction. The PIs team further used the processed data for estimating gene expression and many different types of genome processing. Our fabricated world-first genome processing-in-memory chip prototype successfully achieved the targeted energy efficiency with around two orders of magnitude higher than state-of-the-art counterpart, a strong indication of the success of this project.\r\n\n\n\r\n\n\nResearch Publications: The above discussed research outcomes have led to 10+ IEEE/ACM international journal and conference research publications from the PIs team, such as JSSC, SSCL, TCAD, JLPEA, ENM, CICC, DAC, GLSVLSI, ISQED.\r\n\n\nPhD thesis: PhD graduated with thesis: Compute-in-memory Circuits and Architectures for Efficient Acceleration of AI and Data Centric Workloads.\r\n\n\nGenome processing chip prototype fabrication: The PIs team has designed and fabricated the world first genome processing-in-memory chip prototype. The chip prototype is designed to accelerate two key types of genome processing applications using our developed PIM chip prototype: the state-of-the-art (SOTA) burrowswheeler transform (BWT)-based DNA short-read alignment and alignment-free mRNA quantification. The chip prototype achieves 2.12 G suffixes/J (suffixes per joule) at 1.0 V, which is the most energy-efficient solution to date for genome processing.\r\n\n\n\r\n\n\nBroader Impacts:\r\n\n\nTo promote its broader impacts, the PI has conducted followings:\r\n\n\nStudents training: Four PhD students are partially supported through this project at ASU and UCF, conducting research in the in-memory computing circuit hardware and genome processing algorithm. Multiple master students and undergraduate students from the PIs classes are trained with knowledge of state-of-the-art non-volatile memory design and circuit design. The PI also supervised several senior design teams with the topic related to this project to train undergraduate students.\r\n\n\nOutreach: the PI has organized and chaired in-memory computing workshop associated with the communitys top-tier conference, Design Automation Conference. The workshop attracted 100+ attendees each year, serving as a great platform to promote the research outcomes of this project.\r\n\n\nOpen source tools/models: multiple open-source software and tools are generated and shared in github for public use. Those tools are free to download for public.\r\n\n\n\t\t\t\t\tLast Modified: 12/11/2025\n\n\t\t\t\t\tSubmitted by: DeliangFan\n"
+ }
+}

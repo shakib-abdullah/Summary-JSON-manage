@@ -1,0 +1,101 @@
+{
+ "awd_id": "2530395",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Conference: 2025 Biannual research and education conference of the Association of Environmental Engineering and Science Professors (AEESP) at Duke University",
+ "cfda_num": "47.041",
+ "org_code": "07020000",
+ "po_phone": "7032927858",
+ "po_email": "cjiang@nsf.gov",
+ "po_sign_block_name": "Sunny  Jiang",
+ "awd_eff_date": "2025-04-15",
+ "awd_exp_date": "2026-03-31",
+ "tot_intn_awd_amt": 95490.0,
+ "awd_amount": 95490.0,
+ "awd_min_amd_letter_date": "2025-06-04",
+ "awd_max_amd_letter_date": "2025-06-04",
+ "awd_abstract_narration": "This NSF award supports the 2025 Association of Environmental Engineering and Science Professors Research and Education bi-annual conference. The event will take place in Durham, North Carolina, May 20-22, 2025. The conference focuses on human-environmental systems under global change.  It will bring together roughly 700 environmental engineering researchers and educators to share ideas and to form new partnerships. The conference will feature workshops, technical presentations, a plenary program, and networking opportunities. The goal aims at spreading research and innovation. The event encourages participation from diverse communities.\r\n\r\nNorth Carolina consortium of universities (Duke, North Carolina A&T State University, NC State, UNC-Chapel Hill, UNC-Charlotte) will host the 2025 Research and Education Conference for the Association of Environmental Engineering and Science Professors (AEESP) in Durham, North Carolina on Duke University\u2019s campus. Approximately 700 attendees will participate in this conference. The 2025 Conference theme is \u201cInformation and Engineering for the Public Sector: Data-driven stewardship of human-environmental systems under global change\u201d. Its program features innovations by the AEESP community in research and education to develop and translate information for the public good. The conference will strengthen the connections between the AEESP research and education community with governmental agencies and diverse stakeholders. The conference format, including Workshops, Technical Sessions, Poster Sessions, Plenary Program, External Liaison, Social and Networking, Postdoc and Graduate Networking, provides ideal means for the dissemination of research results, through close interaction of participants from industry, government laboratories, and academia.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CBET",
+ "org_div_long_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mark",
+   "pi_last_name": "Wiesner",
+   "pi_mid_init": "R",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mark R Wiesner",
+   "pi_email_addr": "wiesner@duke.edu",
+   "nsf_id": "000406076",
+   "pi_start_date": "2025-06-04",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Duke University",
+  "inst_street_address": "2200 W MAIN ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "DURHAM",
+  "inst_state_code": "NC",
+  "inst_state_name": "North Carolina",
+  "inst_phone_num": "9196843030",
+  "inst_zip_code": "277054640",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NC04",
+  "org_lgl_bus_name": "DUKE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "TP7EK8DZV6N5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Duke University",
+  "perf_str_addr": "2200 W MAIN ST",
+  "perf_city_name": "DURHAM",
+  "perf_st_code": "NC",
+  "perf_st_name": "North Carolina",
+  "perf_zip_code": "277054640",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NC04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "144000",
+   "pgm_ele_name": "EnvE-Environmental Engineering"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 95490.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The&nbsp;<strong>2025 AEESP Research and Education Conference</strong>&nbsp;was held at Duke University from May 20-22, 2025, bringing together over 1,020 registered participants from universities, research institutes, government agencies, nonprofits, and the private sector. The conference offered a vibrant program of&nbsp;<strong>36 technical sessions</strong>,&nbsp;<strong>14 workshops</strong>,&nbsp;<strong>two poster sessions</strong>, and&nbsp;<strong>three evening social events</strong>&nbsp;among other informal networking opportunities to bring together the AEESP community.</p>\r\n<p>The conference theme,&nbsp;<strong><em>Information and Engineering for the Public Sector: Data-driven stewardship of human-environmental systems under global change</em>,&nbsp;</strong>underscored the growing importance of data as a public good&mdash;critical for environmental protection, public health, infrastructure renewal, and sustainability. The program explored how environmental engineers and scientists can better collect, analyze, and apply information to support public decision-making in a time of increasing environmental complexity and societal uncertainty.</p>\r\n<p>This theme was reflected throughout the program:</p>\r\n<ul>\r\n<li><strong>Technical sessions</strong>&nbsp;included tracks on community-driven air quality monitoring, solid waste data challenges, environmental policy translation, and machine learning in environmental applications</li>\r\n<li><strong>Workshops</strong>&nbsp;offered training on NSF proposal writing, teaching with AI, PFAS communication strategies, wastewater surveillance, and public policy engagement</li>\r\n<li><strong>Plenary sessions</strong>&nbsp;featured prominent public-sector leaders and scholars, including:  \r\n<ul>\r\n<li><em>Elizabeth Biser</em>&nbsp;(Former NC Secretary of Environmental Quality) on modernizing environmental protection through actionable data</li>\r\n<li><em>Joseph DeCarolis</em>&nbsp;(Former Administrator of the U.S. Energy Information Administration) on navigating the changing energy landscape with open data tools</li>\r\n<li><em>H. Christopher Frey</em>&nbsp;(Former EPA Assistant Administrator) on translating science for environmental policy decisions</li>\r\n</ul>\r\n</li>\r\n</ul>\r\n<p>Planning for the conference was coordinated across five academic institutions:&nbsp;<strong>Duke University, NC State University, UNC Chapel Hill, UNC Charlotte, and North Carolina A&amp;T State University</strong>. Each institution was represented on the organizing committees, with shared leadership in technical programming, student activities, operations, and outreach.&nbsp;</p>\r\n<p>Fundung from NSF to support this event was subsrtantially leverage against several other revenue soures.&nbsp;</p>\r\n<ul>\r\n<li><strong>Participant registration fees</strong>&nbsp;accounted for the majority of funding. Registration opened in early January and reached capacity by early March, with over 1,000 confirmed registrants and a substantial waitlist.</li>\r\n<li><strong>Sponsorship contributions</strong>&nbsp;totaled over&nbsp;<strong>$29,000</strong>, coordinated through a structured tiered system that offered visibility and tabling benefits. Sponsors included private sector companies, university research centers, and AEESP Sustaining Members.&nbsp;</li>\r\n<li><strong>Institutional support</strong>&nbsp;from Duke University&mdash;provided through the Civil and Environmental Engineering Department ($50,000) and the Pratt School of Engineering ($25,000) with additional &nbsp;in-kind support for facilities, staffing, and student engagement.</li>\r\n</ul>\r\n<p>A post-conference evaluation was distributed to AEESP 2025 attendees using a Qualtrics survey form. The survey collected both quantitative ratings and open-ended responses across multiple areas, including technical content, logistics, accessibility, and overall satisfaction.</p>\r\n<p>Approximately&nbsp;<strong>18% of conference participants</strong>&nbsp;completed the survey. The findings provide useful insight into the experiences of attendees and their suggestions for future AEESP conferences.</p>\r\n<p>Most respondents self-identified as early-career researchers or trainees:</p>\r\n<ul>\r\n<li><strong>Doctoral Students</strong>: 80</li>\r\n<li><strong>Early-Career Faculty (Assistant Professor level)</strong>: 34</li>\r\n<li><strong>Senior Faculty (Full/Emeritus Professor)</strong>: 24</li>\r\n<li><strong>Mid-Career Faculty (Associate Professor level)</strong>: 20</li>\r\n<li><strong>Postdocs</strong>: 14</li>\r\n<li>Other categories included Master&rsquo;s students, government/nonprofit professionals, and undergraduates</li>\r\n</ul>\r\n<p>This demographic distribution reflects the strong student and postdoc presence at the conference, which aligns with AEESP&rsquo;s focus on mentorship and career development.</p>\r\n<p><strong>Overall Satisfaction</strong></p>\r\n<p>The majority of respondents expressed high satisfaction with AEESP 2025:</p>\r\n<ul>\r\n<li><strong>Extremely satisfied</strong>: 48%</li>\r\n<li><strong>Somewhat satisfied</strong>: 35%</li>\r\n<li><strong>Neutral or dissatisfied</strong>: ~17%</li>\r\n</ul>\r\n<p><strong>Satisfaction by Career Stage:</strong></p>\r\n<ul>\r\n<li><strong>Senior and Mid-Career Faculty</strong>: Over 80% &ldquo;Extremely satisfied&rdquo;</li>\r\n<li><strong>Early-Career Faculty and Postdocs</strong>: Mixed but mostly positive</li>\r\n<li><strong>Doctoral Students</strong>: Largest respondent group, with strong satisfaction (29 &ldquo;Extremely&rdquo;).</li>\r\n</ul><br>\n<p>\n Last Modified: 04/01/2026<br>\nModified by: Mark&nbsp;R&nbsp;Wiesner</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe2025 AEESP Research and Education Conferencewas held at Duke University from May 20-22, 2025, bringing together over 1,020 registered participants from universities, research institutes, government agencies, nonprofits, and the private sector. The conference offered a vibrant program of36 technical sessions,14 workshops,two poster sessions, andthree evening social eventsamong other informal networking opportunities to bring together the AEESP community.\r\n\n\nThe conference theme,Information and Engineering for the Public Sector: Data-driven stewardship of human-environmental systems under global change,underscored the growing importance of data as a public goodcritical for environmental protection, public health, infrastructure renewal, and sustainability. The program explored how environmental engineers and scientists can better collect, analyze, and apply information to support public decision-making in a time of increasing environmental complexity and societal uncertainty.\r\n\n\nThis theme was reflected throughout the program:\r\n\r\nTechnical sessionsincluded tracks on community-driven air quality monitoring, solid waste data challenges, environmental policy translation, and machine learning in environmental applications\r\nWorkshopsoffered training on NSF proposal writing, teaching with AI, PFAS communication strategies, wastewater surveillance, and public policy engagement\r\nPlenary sessionsfeatured prominent public-sector leaders and scholars, including:  \r\n\r\nElizabeth Biser(Former NC Secretary of Environmental Quality) on modernizing environmental protection through actionable data\r\nJoseph DeCarolis(Former Administrator of the U.S. Energy Information Administration) on navigating the changing energy landscape with open data tools\r\nH. Christopher Frey(Former EPA Assistant Administrator) on translating science for environmental policy decisions\r\n\r\n\r\n\r\n\n\nPlanning for the conference was coordinated across five academic institutions:Duke University, NC State University, UNC Chapel Hill, UNC Charlotte, and North Carolina A&T State University. Each institution was represented on the organizing committees, with shared leadership in technical programming, student activities, operations, and outreach.\r\n\n\nFundung from NSF to support this event was subsrtantially leverage against several other revenue soures.\r\n\r\nParticipant registration feesaccounted for the majority of funding. Registration opened in early January and reached capacity by early March, with over 1,000 confirmed registrants and a substantial waitlist.\r\nSponsorship contributionstotaled over$29,000, coordinated through a structured tiered system that offered visibility and tabling benefits. Sponsors included private sector companies, university research centers, and AEESP Sustaining Members.\r\nInstitutional supportfrom Duke Universityprovided through the Civil and Environmental Engineering Department ($50,000) and the Pratt School of Engineering ($25,000) with additional in-kind support for facilities, staffing, and student engagement.\r\n\r\n\n\nA post-conference evaluation was distributed to AEESP 2025 attendees using a Qualtrics survey form. The survey collected both quantitative ratings and open-ended responses across multiple areas, including technical content, logistics, accessibility, and overall satisfaction.\r\n\n\nApproximately18% of conference participantscompleted the survey. The findings provide useful insight into the experiences of attendees and their suggestions for future AEESP conferences.\r\n\n\nMost respondents self-identified as early-career researchers or trainees:\r\n\r\nDoctoral Students: 80\r\nEarly-Career Faculty (Assistant Professor level): 34\r\nSenior Faculty (Full/Emeritus Professor): 24\r\nMid-Career Faculty (Associate Professor level): 20\r\nPostdocs: 14\r\nOther categories included Masters students, government/nonprofit professionals, and undergraduates\r\n\r\n\n\nThis demographic distribution reflects the strong student and postdoc presence at the conference, which aligns with AEESPs focus on mentorship and career development.\r\n\n\nOverall Satisfaction\r\n\n\nThe majority of respondents expressed high satisfaction with AEESP 2025:\r\n\r\nExtremely satisfied: 48%\r\nSomewhat satisfied: 35%\r\nNeutral or dissatisfied: ~17%\r\n\r\n\n\nSatisfaction by Career Stage:\r\n\r\nSenior and Mid-Career Faculty: Over 80% Extremely satisfied\r\nEarly-Career Faculty and Postdocs: Mixed but mostly positive\r\nDoctoral Students: Largest respondent group, with strong satisfaction (29 Extremely).\r\n\t\t\t\t\tLast Modified: 04/01/2026\n\n\t\t\t\t\tSubmitted by: MarkRWiesner\n"
+ }
+}

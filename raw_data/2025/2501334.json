@@ -1,0 +1,125 @@
+{
+ "awd_id": "2501334",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: NSF Student Travel Grant for 2025 International Conference on Continuous Optimization",
+ "cfda_num": "47.070",
+ "org_code": "05010000",
+ "po_phone": "7032922981",
+ "po_email": "pregalia@nsf.gov",
+ "po_sign_block_name": "Phillip Regalia",
+ "awd_eff_date": "2024-12-01",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 16000.0,
+ "awd_amount": 16000.0,
+ "awd_min_amd_letter_date": "2024-11-20",
+ "awd_max_amd_letter_date": "2024-11-20",
+ "awd_abstract_narration": "The International Conference on Continuous Optimization (ICCOPT) is a premier event for optimization experts, crucial for solving complex problems in engineering, economics, business, and other domains. The conference is thus a valuable forum for graduate students in this discipline to present their work, receive feedback from other researchers working on similar or related topics, and to make professional acquaintances within the discipline. This award supports the participation of US-based students in ICCOPT 2025, held at the University of Southern California, July 19-24, 2025. Participation at this conference will enhance the research experiences for students and provide increased opportunities for new collaborations.\r\n\r\nStudents form an integral part of the conference, whose first two days, known as the Summer School, cover contemporary and cutting-edge topics in optimization as presented by leading experts in the field and which are often not found in traditional textbooks. The conference also promotes the interaction between academia and industry, which benefits students through greater employment prospects upon graduation and/or better anchoring of academic research themes to industrial relevance. Funds offered through this award will support the attendance at the 2025 ICCOPT by students enrolled in a graduate or undergraduate program in the United States and whose papers have been accepted for presentation.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CCF",
+ "org_div_long_name": "Division of Computing and Communication Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Meisam",
+   "pi_last_name": "Razaviyayn",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Meisam Razaviyayn",
+   "pi_email_addr": "razaviya@usc.edu",
+   "nsf_id": "000730227",
+   "pi_start_date": "2024-11-20",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Giacomo",
+   "pi_last_name": "Nannicini",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Giacomo Nannicini",
+   "pi_email_addr": "g.nannicini@usc.edu",
+   "nsf_id": "000877966",
+   "pi_start_date": "2024-11-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Southern California",
+  "inst_street_address": "3720 S FLOWER ST FL 3",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOS ANGELES",
+  "inst_state_code": "CA",
+  "inst_state_name": "California",
+  "inst_phone_num": "2137407762",
+  "inst_zip_code": "90033",
+  "inst_country_name": "United States",
+  "cong_dist_code": "34",
+  "st_cong_dist_code": "CA34",
+  "org_lgl_bus_name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "G88KLJR3KYT5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Southern California",
+  "perf_str_addr": "3650 Mcclintock Ave",
+  "perf_city_name": "LOS ANGELES",
+  "perf_st_code": "CA",
+  "perf_st_name": "California",
+  "perf_zip_code": "90033",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "34",
+  "perf_st_cong_dist": "CA34",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "779700",
+   "pgm_ele_name": "Comm & Information Foundations"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "073E",
+   "pgm_ref_txt": "OPTIMIZATION & DECISION MAKING"
+  },
+  {
+   "pgm_ref_code": "079Z",
+   "pgm_ref_txt": "Machine Learning Theory"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "7936",
+   "pgm_ref_txt": "SIGNAL PROCESSING"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 16000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Mathematical optimization is the science of finding the best possible solutions to complex problems, such as routing delivery vehicles efficiently, training advanced artificial intelligence and machine learning models, or managing national power grids. To advance this critical mathematical and computational field, the University of Southern California (USC) hosted the 2025 International Conference on Continuous Optimization (ICCOPT 2025) in July 2025. Held only once every three years, ICCOPT is the flagship international conference for this discipline, gathering the world's leading researchers and industry professionals.</p>\r\n<p>This National Science Foundation (NSF) award provided crucial financial assistance to ensure that U.S.-based graduate students could afford to attend and actively participate in this premier conference and its associated advanced summer school. Over the life of the award, the project funded 19 students from 14 different universities across the United States.</p>\r\n<p>This project directly contributed to the scientific growth and training of the next generation of researchers. Prior to the main conference, the supported students attended a rigorous two-day summer school focused on advanced topics (including secure and private optimization, and complex algorithms for machine learning) that are actively shaping the future of the discipline but are often not yet available in standard university textbooks.</p>\r\n<p>Furthermore, the young researchers did not just observe; they actively contributed to the conference. The grant provided them with the invaluable opportunity to present their own original research findings during dedicated poster sessions and parallel presentation tracks. This allowed them to receive direct feedback from established experts in mathematics, computer science, and engineering, thereby accelerating their research and fostering new academic collaborations.</p>\r\n<p>The project's <strong>broader impacts</strong> centered on educational accessibility, workforce development, and the widespread public dissemination of knowledge through the following three venues:</p>\r\n<p><em>Breaking Financial Barriers</em>: High travel costs can prevent talented young researchers from attending vital scientific gatherings. By providing (partial) targeted travel reimbursements and covering registration fees for local students, this project ensured that financial constraints did not hinder professional development. To maximize the grant's effectiveness, a selection committee evaluated applications and required home institutions to partner in covering any remaining travel costs, ensuring guaranteed attendance for the selected scholars.</p>\r\n<p><em>Connecting Academia and the Modern STEM Workforce</em>: The conference facilitated significant interaction between students and major technology companies (such as Google, Meta, Amazon, and IBM) as well as leading optimization software developers. These unique networking opportunities bridged the gap between theoretical academic research and real-world industrial applications, equipping students with the connections and insights necessary for successful careers in the modern U.S. STEM workforce.</p>\r\n<p><em>Free and Publicly Accessible Education</em>: To ensure the societal benefit of this NSF funding extended far beyond the in-person attendees, the lectures from the ICCOPT 2025 summer school were made freely available to the public on the official conference website.</p><br>\n<p>\n Last Modified: 03/26/2026<br>\nModified by: Meisam&nbsp;Razaviyayn</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nMathematical optimization is the science of finding the best possible solutions to complex problems, such as routing delivery vehicles efficiently, training advanced artificial intelligence and machine learning models, or managing national power grids. To advance this critical mathematical and computational field, the University of Southern California (USC) hosted the 2025 International Conference on Continuous Optimization (ICCOPT 2025) in July 2025. Held only once every three years, ICCOPT is the flagship international conference for this discipline, gathering the world's leading researchers and industry professionals.\r\n\n\nThis National Science Foundation (NSF) award provided crucial financial assistance to ensure that U.S.-based graduate students could afford to attend and actively participate in this premier conference and its associated advanced summer school. Over the life of the award, the project funded 19 students from 14 different universities across the United States.\r\n\n\nThis project directly contributed to the scientific growth and training of the next generation of researchers. Prior to the main conference, the supported students attended a rigorous two-day summer school focused on advanced topics (including secure and private optimization, and complex algorithms for machine learning) that are actively shaping the future of the discipline but are often not yet available in standard university textbooks.\r\n\n\nFurthermore, the young researchers did not just observe; they actively contributed to the conference. The grant provided them with the invaluable opportunity to present their own original research findings during dedicated poster sessions and parallel presentation tracks. This allowed them to receive direct feedback from established experts in mathematics, computer science, and engineering, thereby accelerating their research and fostering new academic collaborations.\r\n\n\nThe project's broader impacts centered on educational accessibility, workforce development, and the widespread public dissemination of knowledge through the following three venues:\r\n\n\nBreaking Financial Barriers: High travel costs can prevent talented young researchers from attending vital scientific gatherings. By providing (partial) targeted travel reimbursements and covering registration fees for local students, this project ensured that financial constraints did not hinder professional development. To maximize the grant's effectiveness, a selection committee evaluated applications and required home institutions to partner in covering any remaining travel costs, ensuring guaranteed attendance for the selected scholars.\r\n\n\nConnecting Academia and the Modern STEM Workforce: The conference facilitated significant interaction between students and major technology companies (such as Google, Meta, Amazon, and IBM) as well as leading optimization software developers. These unique networking opportunities bridged the gap between theoretical academic research and real-world industrial applications, equipping students with the connections and insights necessary for successful careers in the modern U.S. STEM workforce.\r\n\n\nFree and Publicly Accessible Education: To ensure the societal benefit of this NSF funding extended far beyond the in-person attendees, the lectures from the ICCOPT 2025 summer school were made freely available to the public on the official conference website.\t\t\t\t\tLast Modified: 03/26/2026\n\n\t\t\t\t\tSubmitted by: MeisamRazaviyayn\n"
+ }
+}

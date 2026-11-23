@@ -1,0 +1,101 @@
+{
+ "awd_id": "2507422",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Inline Monitoring of Particulate Matter and Sterility for Continuous Manufacturing",
+ "cfda_num": "47.084",
+ "org_code": "15220000",
+ "po_phone": "7032928323",
+ "po_email": "bschrag@nsf.gov",
+ "po_sign_block_name": "Benaiah Schrag",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 304972.0,
+ "awd_amount": 304972.0,
+ "awd_min_amd_letter_date": "2025-08-27",
+ "awd_max_amd_letter_date": "2025-08-27",
+ "awd_abstract_narration": "The broader/commercial impact of this Small Business Innovation Research Phase I project will be focused on a transformational approach to real-time quality assurance in injectable drug manufacturing by introducing a compact, low-cost and scalable sensor capable of detecting both particulate matter (PM) and microbial contaminants inline. Leveraging recent advances in imaging and machine learning, the system delivers automated, label-free particle analysis with high sensitivity and throughput. While standard quality tests are typically conducted offline and manually, this new technology fills a critical gap by enabling continuous, inline monitoring, supporting the industry\u2019s shift from batch to continuous manufacturing. Real-time monitoring allows earlier identification of contaminants, reducing production downtime, minimizing waste, and improving product safety. Specific broader impacts of the research include strengthening U.S. competitiveness in smart manufacturing and quality assurance through advanced sensor integration and real-time analytics. The project is expected to cut recall and quality control costs by as much as 20%, potentially saving large manufacturers hundreds of millions annually. Its broader applicability spans food safety, environmental monitoring, and biodefense, offering scalable benefits for public health, ecological protection, and national security. \r\n\r\nThe intellectual merit of this project lies in the development of a real-time, inline sensor system which integrates Digital Inline Holography (DIH) and deep learning for dual-function analysis of particulate matter (PM) and sterility in liquid production environments. Key innovations include high-throughput, label-free imaging; low false-positive detection of viable microbes; and robust PM classification with real-time visualization. DIH employs a low-power laser to illuminate particles in flow, generating interference patterns (holograms) captured by a high-resolution camera. These holograms are reconstructed into three-dimensional optical fields from which particle morphology, phase, and optical characteristics are extracted. A customized deep learning model, trained on those features using a diverse database of PM and biocontaminants, classifies contaminants at the single-particle level. The system also integrates a high-throughput preconcentration module to enhance detection sensitivity, achieving limits below 0.1 colony-forming units per milliliter (CFU/mL) at throughputs exceeding 1 mL/min. The modular, compact system design enables deployment at multiple stages of production. The deep learning model leverages transfer learning techniques, allowing efficient adaptation to new products and contamination types. This research will address key challenges in deploying optical sensors in industrial settings, including integration with fluid systems for robust, reliable operation under real-world conditions.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "SSB",
+ "org_div_long_name": "Start-ups and Small Businesses Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Wing",
+   "pi_last_name": "Lai",
+   "pi_mid_init": "T",
+   "pi_sufx_name": "",
+   "pi_full_name": "Wing T Lai",
+   "pi_email_addr": "wing.lai@Particle4x.com",
+   "nsf_id": "0000A170W",
+   "pi_start_date": "2025-08-27",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "PARTICLE4X, INC.",
+  "inst_street_address": "6275 COUNTRY RD",
+  "inst_street_address_2": "",
+  "inst_city_name": "EDEN PRAIRIE",
+  "inst_state_code": "MN",
+  "inst_state_name": "Minnesota",
+  "inst_phone_num": "9522288164",
+  "inst_zip_code": "553461342",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "MN03",
+  "org_lgl_bus_name": "PARTICLE4X, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SX28L13VX3X8"
+ },
+ "perf_inst": {
+  "perf_inst_name": "PARTICLE4X, INC.",
+  "perf_str_addr": "6275 COUNTRY RD",
+  "perf_city_name": "EDEN PRAIRIE",
+  "perf_st_code": "MN",
+  "perf_st_name": "Minnesota",
+  "perf_zip_code": "553461342",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "MN03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8616",
+   "pgm_ref_txt": "Instr Rsrch,Metro&Std NanTech"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 304972.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Injectable medicines are expected to be free of visible particles and to remain below established limits for smaller, subvisible particles. Because these medicines are introduced directly into the body, unexpected particles can compromise product quality and potentially affect patient safety. Particles can originate from raw materials, manufacturing equipment, tubing, filters, bags, stoppers, syringes, plungers, and other components. Manufacturers must therefore evaluate both the finished medicine and the materials and devices used to produce, package, and deliver it. When particles are found, investigators need information about their number, size, appearance, and likely composition to identify the source and prevent recurrence.</p>\r\n<p>No single conventional method provides all of this information. Rapid particle counters measure particle number and approximate size but reveal little about appearance or material identity. Imaging methods provide pictures and shape information but often examine only a small volume or limited size range and may not distinguish materials that look similar. Chemical identification usually requires particles to be recovered and prepared for separate analysis, often by filtration. This process can lose or alter soft, deformable particles such as silicone oil droplets. Particle recovery is especially difficult for IV bags, where only a few particles may be dispersed throughout hundreds of milliliters of liquid.</p>\r\n<p>This National Science Foundation supported project developed HoloPharm, an automated platform based on digital holographic imaging. As liquid flows through the instrument, laser light records a pattern produced by each particle. Shared software controls the instrument, brings each particle into focus, measures its size, shape, and optical characteristics, checks data quality, and links every reported measurement to its original image. This creates a traceable particle library that can support review and recognition of recurring contamination problems. Because particles are brought into focus by software after the images are recorded, they do not all need to pass through a single shallow focal plane. The same measurement principle and software pipeline can therefore be adapted to different particle sizes and sample volumes. The project produced two working prototypes that share this core approach but use different imaging and liquid-handling configurations.</p>\r\n<p>The large-volume prototype was designed to analyze the full contents of large volume samples (e.g. IV bags) at a design rate of up to one liter per minute. Initial tests distinguished nominally clean IV bags from particle-rich samples and detected low concentrations of particles that may be difficult to find consistently by visual inspection or by filtration followed by microscopic examination. A pilot machine-learning study also differentiated six materials relevant to contamination investigations, including cellulose, plastic films, port materials, elastomer, and metal. The project also developed a steady, low-pulsation pumping approach to transport liquid reliably through the instrument.</p>\r\n<p>The high-resolution prototype was designed for smaller pharmaceutical samples containing subvisible particles that may be transparent, irregularly shaped, or deformable. In tests using particles of known size, the prototype measured particles 2 and 10 micrometers across&mdash;both much smaller than the width of a human hair&mdash;with less than 5% error. It also consistently measured the number of standard particles, silicone oil droplets, and irregular plastic particles. When the tests were repeated using four separately prepared samples of each particle type, the results varied by less than 5%, demonstrating strong repeatability. Together, the two prototypes show how a common holographic platform can combine particle counting, sizing, imaging, shape measurement, and preliminary material classification across a broad particle-size range&mdash;functions that commonly require multiple instruments and sample-preparation steps. Larger independent studies are still needed before routine pharmaceutical use. If successfully validated and adopted, HoloPharm could reduce manual sample transfers, lower the risk of losing rare particles, accelerate contamination investigations, and provide a traceable visual record supporting the quality and safety of injectable medicines.</p><br>\n<p>\n Last Modified: 11/03/2026<br>\nModified by: Wing&nbsp;Tak&nbsp;Lai</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImages (<span id=\"selectedPhoto0\">1</span> of <span class=\"totalNumber\"></span>)\t\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2507422/2507422_11007667_1793724040899_HoloPharm_High_Resolution--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2507422/2507422_11007667_1793724040899_HoloPharm_High_Resolution--rgov-800width.png\" title=\"HoloPharm High-throughput prototype\"><img src=\"/por/images/Reports/POR/2026/2507422/2507422_11007667_1793724040899_HoloPharm_High_Resolution--rgov-66x44.png\" alt=\"HoloPharm High-throughput prototype\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Designed for small-volume samples, this configuration analyzes particles ranging from smaller than one micrometer to 50 micrometers. Its particle images and optical measurements can help differentiate protein aggregates, silicone oil droplets, and other particulates.</div>\n<div class=\"imageCredit\">Particle4X, Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Wing&nbsp;Tak&nbsp;Lai\n<div class=\"imageTitle\">HoloPharm High-throughput prototype</div>\n</div>\n</li><li>\n<a href=\"/por/images/Reports/POR/2026/2507422/2507422_11007667_1793723992051_HoloPharm_Highthroughput--rgov-214x142.png\" original=\"/por/images/Reports/POR/2026/2507422/2507422_11007667_1793723992051_HoloPharm_Highthroughput--rgov-800width.png\" title=\"HoloPharm High-throughput prototype\"><img src=\"/por/images/Reports/POR/2026/2507422/2507422_11007667_1793723992051_HoloPharm_Highthroughput--rgov-66x44.png\" alt=\"HoloPharm High-throughput prototype\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">This system is designed to analyze the complete liquid contents of a container in a single pass, detecting particles 10 micrometers and larger at flow rates up to 1 liter per minute. It preserves particle images and measurements to support characterization and root-cause investigations.</div>\n<div class=\"imageCredit\">Particle4X, Inc.</div>\n<div class=\"imagePermisssions\">Copyrighted</div>\n<div class=\"imageSubmitted\">Wing&nbsp;Tak&nbsp;Lai\n<div class=\"imageTitle\">HoloPharm High-throughput prototype</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nInjectable medicines are expected to be free of visible particles and to remain below established limits for smaller, subvisible particles. Because these medicines are introduced directly into the body, unexpected particles can compromise product quality and potentially affect patient safety. Particles can originate from raw materials, manufacturing equipment, tubing, filters, bags, stoppers, syringes, plungers, and other components. Manufacturers must therefore evaluate both the finished medicine and the materials and devices used to produce, package, and deliver it. When particles are found, investigators need information about their number, size, appearance, and likely composition to identify the source and prevent recurrence.\r\n\n\nNo single conventional method provides all of this information. Rapid particle counters measure particle number and approximate size but reveal little about appearance or material identity. Imaging methods provide pictures and shape information but often examine only a small volume or limited size range and may not distinguish materials that look similar. Chemical identification usually requires particles to be recovered and prepared for separate analysis, often by filtration. This process can lose or alter soft, deformable particles such as silicone oil droplets. Particle recovery is especially difficult for IV bags, where only a few particles may be dispersed throughout hundreds of milliliters of liquid.\r\n\n\nThis National Science Foundation supported project developed HoloPharm, an automated platform based on digital holographic imaging. As liquid flows through the instrument, laser light records a pattern produced by each particle. Shared software controls the instrument, brings each particle into focus, measures its size, shape, and optical characteristics, checks data quality, and links every reported measurement to its original image. This creates a traceable particle library that can support review and recognition of recurring contamination problems. Because particles are brought into focus by software after the images are recorded, they do not all need to pass through a single shallow focal plane. The same measurement principle and software pipeline can therefore be adapted to different particle sizes and sample volumes. The project produced two working prototypes that share this core approach but use different imaging and liquid-handling configurations.\r\n\n\nThe large-volume prototype was designed to analyze the full contents of large volume samples (e.g. IV bags) at a design rate of up to one liter per minute. Initial tests distinguished nominally clean IV bags from particle-rich samples and detected low concentrations of particles that may be difficult to find consistently by visual inspection or by filtration followed by microscopic examination. A pilot machine-learning study also differentiated six materials relevant to contamination investigations, including cellulose, plastic films, port materials, elastomer, and metal. The project also developed a steady, low-pulsation pumping approach to transport liquid reliably through the instrument.\r\n\n\nThe high-resolution prototype was designed for smaller pharmaceutical samples containing subvisible particles that may be transparent, irregularly shaped, or deformable. In tests using particles of known size, the prototype measured particles 2 and 10 micrometers acrossboth much smaller than the width of a human hairwith less than 5% error. It also consistently measured the number of standard particles, silicone oil droplets, and irregular plastic particles. When the tests were repeated using four separately prepared samples of each particle type, the results varied by less than 5%, demonstrating strong repeatability. Together, the two prototypes show how a common holographic platform can combine particle counting, sizing, imaging, shape measurement, and preliminary material classification across a broad particle-size rangefunctions that commonly require multiple instruments and sample-preparation steps. Larger independent studies are still needed before routine pharmaceutical use. If successfully validated and adopted, HoloPharm could reduce manual sample transfers, lower the risk of losing rare particles, accelerate contamination investigations, and provide a traceable visual record supporting the quality and safety of injectable medicines.\t\t\t\t\tLast Modified: 11/03/2026\n\n\t\t\t\t\tSubmitted by: WingTakLai\n"
+ }
+}

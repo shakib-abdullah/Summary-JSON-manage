@@ -1,0 +1,117 @@
+{
+ "awd_id": "2446038",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Doctoral Dissertation Research: Quality Improvement and Assurance in the Provisioning of Rural Primary Medical Care",
+ "cfda_num": "47.075",
+ "org_code": "04040000",
+ "po_phone": "7032927783",
+ "po_email": "jmantz@nsf.gov",
+ "po_sign_block_name": "Jeffrey Mantz",
+ "awd_eff_date": "2025-01-01",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 24049.0,
+ "awd_amount": 24049.0,
+ "awd_min_amd_letter_date": "2024-12-16",
+ "awd_max_amd_letter_date": "2024-12-16",
+ "awd_abstract_narration": "In the United States, health policy advocates allege a growing quality crisis, as public health experts consistently report that the US population pays significantly more for healthcare than other nations, with worse outcomes. The rhetoric of quality and its moral mandate to ensure and improve medical services is now a central part of health policies globally. Yet little is known about how the idea of quality itself is conceptualized in clinical care spaces, how these conceptions might differ according to the characteristics of the individuals and organizations who attempt to provide quality care, and how these conceptions frame the types of actions individuals and organizations implement in pursuit of quality improvement. This doctoral dissertation research investigates if and how the rhetoric of quality improvement and assurance impacts the provision of medicine in an isolated rural medical setting. In addition to providing training for a graduate student, this work will be disseminated widely to academic and non-academic audiences. Findings also inform ongoing development of a regional social science and medicine curriculum for family medicine residents. \r\n\r\nThrough an ethnographic study with health administrators, physicians, nurse practitioners, physician assistants, and clinical staff, researchers analyze the process of creating quality health services within the medical center as well as values, perceptions, and organizational dynamics that influence how quality is conceptualized and enacted across multiple care settings. The researchers use participant observation of the daily activities at a medical center and observe administrative and clinical practice across each care setting. Data will be collected using focal follows, observation, interviews, methods from cognitive anthropology, and archival research. The research findings expand understanding of local and national attempts to influence biomedical practice and make significant contributions to the anthropology of policy, medical anthropology, the anthropology of institutions, quality improvement, and implementation science.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "SBE",
+ "org_dir_long_name": "Directorate for Social, Behavioral and Economic Sciences",
+ "div_abbr": "BCS",
+ "org_div_long_name": "Division of Behavioral and Cognitive Sciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Adrienne",
+   "pi_last_name": "Strong",
+   "pi_mid_init": "E",
+   "pi_sufx_name": "",
+   "pi_full_name": "Adrienne E Strong",
+   "pi_email_addr": "adrienne.strong@ufl.edu",
+   "nsf_id": "000733129",
+   "pi_start_date": "2024-12-16",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Chloe",
+   "pi_last_name": "Warpinski",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Chloe Warpinski",
+   "pi_email_addr": "cwarpinski@ufl.edu",
+   "nsf_id": "000992596",
+   "pi_start_date": "2024-12-16",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Florida",
+  "inst_street_address": "1523 UNION RD RM 207",
+  "inst_street_address_2": "",
+  "inst_city_name": "GAINESVILLE",
+  "inst_state_code": "FL",
+  "inst_state_name": "Florida",
+  "inst_phone_num": "3523923516",
+  "inst_zip_code": "326111941",
+  "inst_country_name": "United States",
+  "cong_dist_code": "03",
+  "st_cong_dist_code": "FL03",
+  "org_lgl_bus_name": "UNIVERSITY OF FLORIDA",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "NNFQH1JAPEP3"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Florida",
+  "perf_str_addr": "1523 UNION RD RM 207",
+  "perf_city_name": "GAINESVILLE",
+  "perf_st_code": "FL",
+  "perf_st_name": "Florida",
+  "perf_zip_code": "326111941",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "03",
+  "perf_st_cong_dist": "FL03",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "760500",
+   "pgm_ele_name": "Cult Anthro DDRI"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1390",
+   "pgm_ref_txt": "CULTURAL ANTHROPOLOGY"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 24049.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This award provided doctoral dissertation support for an MD/PhD trainee purusing rural primary care research, policy, and practice. Health policy including reimbursement for services, tracking of metrics, patient scheduling structures, referral policies, and resource allocation all impact how patients and clinicians interact and the types of care that are available in a particular place. This work, which took place in a rural medical center in the upper midwestern United States asked how patient care and primary care clinician perception of their roles as a part of the greater US health system. Over the course of the granting period we collected essential point-in-time data documenting the rapid transition of US physician professional status from primarily independent practice to the current state where &gt;75% of all physicians nationally are now employed. Through ethnographic methods including repeated direct observation and indepth interviews, we detailed how policies, such as a mandate to collect certain quality metrics, become something that is or is not done in day-to-day practice. We also assessed local understandings of these policies and the perception of various policies' purposes in the overall US health ecosystem. We provided direct actionable feedback to two health systems on their current approach to healthcare quality and how this approach intersects with or diverges from clinicians' view of the their role as professionals. We documented and shared common policy decisions that appear to influence clinician satisfaction in their employment and point in time expectations to remain working in their rural clinic long term. Finally, one of these clinics is now developing a Family Medicine Residency curriculum and we have built the relationships and are able to act as a signficant resource as their curriculum is refined and honed. While the clinic is still a few years out from welcoming their first cohort of trainees, we are able to provide place-based context for ongoing health system challenges, essential knowledge for trainees who will be moving to this little known, geographically isolated area to care for patients with a unique shared cultural and regional history. Our work has been shared broadly including with the American Board of Family Medicine through an invited talk, the Society for Applied Anthropology, the American Anthropological Association, the North American Primary Care Research Group, and at smaller events throughout the study region. In this way we hope our work is able to impact both local and eventually national or international primary care practice and health policy development/implementation.&nbsp;</p><br>\n<p>\n Last Modified: 06/10/2026<br>\nModified by: Chloe&nbsp;Warpinski</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis award provided doctoral dissertation support for an MD/PhD trainee purusing rural primary care research, policy, and practice. Health policy including reimbursement for services, tracking of metrics, patient scheduling structures, referral policies, and resource allocation all impact how patients and clinicians interact and the types of care that are available in a particular place. This work, which took place in a rural medical center in the upper midwestern United States asked how patient care and primary care clinician perception of their roles as a part of the greater US health system. Over the course of the granting period we collected essential point-in-time data documenting the rapid transition of US physician professional status from primarily independent practice to the current state where 75% of all physicians nationally are now employed. Through ethnographic methods including repeated direct observation and indepth interviews, we detailed how policies, such as a mandate to collect certain quality metrics, become something that is or is not done in day-to-day practice. We also assessed local understandings of these policies and the perception of various policies' purposes in the overall US health ecosystem. We provided direct actionable feedback to two health systems on their current approach to healthcare quality and how this approach intersects with or diverges from clinicians' view of the their role as professionals. We documented and shared common policy decisions that appear to influence clinician satisfaction in their employment and point in time expectations to remain working in their rural clinic long term. Finally, one of these clinics is now developing a Family Medicine Residency curriculum and we have built the relationships and are able to act as a signficant resource as their curriculum is refined and honed. While the clinic is still a few years out from welcoming their first cohort of trainees, we are able to provide place-based context for ongoing health system challenges, essential knowledge for trainees who will be moving to this little known, geographically isolated area to care for patients with a unique shared cultural and regional history. Our work has been shared broadly including with the American Board of Family Medicine through an invited talk, the Society for Applied Anthropology, the American Anthropological Association, the North American Primary Care Research Group, and at smaller events throughout the study region. In this way we hope our work is able to impact both local and eventually national or international primary care practice and health policy development/implementation.\t\t\t\t\tLast Modified: 06/10/2026\n\n\t\t\t\t\tSubmitted by: ChloeWarpinski\n"
+ }
+}

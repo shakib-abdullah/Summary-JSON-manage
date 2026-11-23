@@ -1,0 +1,117 @@
+{
+ "awd_id": "2535707",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Workshop: Artificial Intelligence in Engineering Design & Systems Engineering (AI-EDSE): Opportunities & Challenges for Societal Impact; West Lafayette, Indiana; 16-17 October 2025",
+ "cfda_num": "47.041",
+ "org_code": "07230000",
+ "po_phone": "7032927328",
+ "po_email": "harkim@nsf.gov",
+ "po_sign_block_name": "Harrison Kim",
+ "awd_eff_date": "2025-07-01",
+ "awd_exp_date": "2026-06-30",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2025-07-07",
+ "awd_max_amd_letter_date": "2025-07-07",
+ "awd_abstract_narration": "The objective of this workshop is to identify and articulate research issues and methodologies at the intersection of Artificial Intelligence (AI) and Engineering Design and Systems Engineering (EDSE), with the goal of enabling high societal impact. Recent advances in AI, including generative models, reinforcement learning, digital twins, and human-AI collaboration, are transforming the way engineers design systems, make decisions, and interact with digital tools and data. These advances are reshaping not only the kinds of products and systems that can be designed but also the processes by which they are created and the roles of designers and systems engineers. This workshop will provide a forum for fostering dialog among experts from the EDSE and AI communities, as well as application domains, to examine how AI can amplify EDSE research and practice, and what methodological and theoretical innovations are needed to enable that future.\r\n\r\nThe workshop will build on the outcomes of prior NSF-sponsored EDSE workshops, focusing on the research implications of emerging AI technologies for future engineering design and systems engineering work. Specific emphasis will be placed on identifying new integration mechanisms for AI within EDSE, uncovering high-impact research opportunities, and developing strategies for amplifying collective impact across academia and industry. Expected outcomes include the identification of foundational research questions, the development of methodological frameworks, and the articulation of high-quality research standards to guide the field. The outcomes of the workshop will be disseminated through a workshop report, a curated online video archive, and peer-reviewed journal publications. The workshop will also contribute to the professional development of faculty and researchers across U.S. universities, helping them incorporate cutting-edge insights into their research and educational practices and better prepare engineers for an AI-enabled future.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jitesh",
+   "pi_last_name": "Panchal",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jitesh H Panchal",
+   "pi_email_addr": "panchal@purdue.edu",
+   "nsf_id": "000513289",
+   "pi_start_date": "2025-07-07",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Purdue University",
+  "inst_street_address": "2550 NORTHWESTERN AVE # 1100",
+  "inst_street_address_2": "",
+  "inst_city_name": "WEST LAFAYETTE",
+  "inst_state_code": "IN",
+  "inst_state_name": "Indiana",
+  "inst_phone_num": "7654941055",
+  "inst_zip_code": "47906",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "IN04",
+  "org_lgl_bus_name": "PURDUE UNIVERSITY",
+  "org_prnt_uei_num": "YRXVL4JYCEF5",
+  "org_uei_num": "YRXVL4JYCEF5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Purdue University",
+  "perf_str_addr": "",
+  "perf_city_name": "",
+  "perf_st_code": "IN",
+  "perf_st_name": "Indiana",
+  "perf_zip_code": "479061332",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "IN04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "072Y00",
+   "pgm_ele_name": "EDSE-Engineering Design and Sy"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "075Z",
+   "pgm_ref_txt": "Artificial Intelligence (AI)"
+  },
+  {
+   "pgm_ref_code": "1464",
+   "pgm_ref_txt": "ENGINEERING DESIGN AND INNOVAT"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "8024",
+   "pgm_ref_txt": "Complex Systems"
+  },
+  {
+   "pgm_ref_code": "8043",
+   "pgm_ref_txt": "System Design and Simulation"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Artificial intelligence (AI) is changing how engineers design products and complex systems, such as vehicles, aircraft, medical devices, and infrastructure. The engineering design and systems engineering research communities are adopting existing AI tools for engineering systems design while also helping shape the development of AI for design-specific needs. This award supported the NSF Workshop on Artificial Intelligence in Engineering Design and Systems Engineering (AI-EDSE), held at Purdue University on October 16-17, 2025. The workshop brought together eighty participants from nearly forty universities, companies, and government organizations to chart a research agenda for the field.&nbsp;</p>\r\n<p><strong>Intellectual Merit:</strong> Through framing talks, structured debates, a keynote on human and machine learning, ten lightning talks by early-career faculty, a poster session, and three rounds of breakout discussion, the workshop produced a collective view of where the field stands and where it should go. Its central framing organizes the field into two complementary thrusts: using AI to improve how engineers design (AI for engineering design and systems engineering, or AI4EDSE), and applying engineering rigor to the creation, evaluation, and assurance of AI itself (EDSE4AI). Participants argued that simply applying existing machine learning methods to engineering problems is no longer a significant contribution; the frontier lies in methods shaped by the structure of design problems, and in the engineering community acting as requirement-setter and benchmark-definer for the AI used in engineering.</p>\r\n<p>The workshop identified three bottlenecks limiting progress: (i) engineering data are scarce and expensive and rarely capture how designs were actually developed; (ii) generative AI can produce outputs that look professional but are physically wrong or unsafe; and (iii) learned models are often insufficiently grounded in physics and real-world constraints. It identified representation (how designs, requirements, and analyses are encoded for machines and people) as the key bottleneck between modern AI models and engineering workflows. It also examined how AI is reshaping design research methods, how trust between designers and AI tools forms and erodes, and how engineers should remain accountable for AI-assisted decisions.</p>\r\n<p>The workshop organizers translated these findings into a research agenda with near-term and mid-term priorities. The findings also included proposals for shared community infrastructure: a grand-challenge design problem to unite researchers worldwide, benchmarks that measure whether AI-generated designs are meaningful to the people who must use them, open datasets, and standards for reporting AI use in research. The findings have been documented in a workshop report submitted for journal publication. The report is available at the workshop website: https://engineering.purdue.edu/ME/AI-EDSE&nbsp;</p>\r\n<p><strong>Broader Impacts:</strong> The research agenda produced by this workshop offers funding agencies, universities, and industry a roadmap for a technology with far-reaching consequences for the safety, cost, and sustainability of engineered systems. The workshop placed humans at the center of that agenda. It called for (i) preserving the judgment, synthesis, and experience that distinguish human designers; (ii) designing AI tools that keep engineers critically engaged rather than complacent; (iii) mechanisms that make AI-assisted design decisions auditable; and (iv) treating the energy, water, and land consumed by AI as a design concern in its own right.&nbsp;</p>\r\n<p>Education emerged as a theme in every breakout session, even when it was not the assigned topic. The workshop recommended that engineering education shift from rewarding correct answers toward rewarding the justification of design decisions, that students build foundational competence with AI rather than around it, and that the community develop shared teaching resources and new mechanisms to support practicing engineers as the entry-level tasks through which they traditionally learned their craft are automated.&nbsp;</p>\r\n<p>The workshop also invested directly in the next generation of researchers. Ten early-career faculty gave lightning talks, a poster session gave participants a venue for detailed technical exchange, and an informal mentorship session covered funding and publishing. Video recordings of the talks, panels, and keynote are publicly available on the workshop website (https://engineering.purdue.edu/ME/AI-EDSE), so that the community can build on the discussions.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 11/05/2026<br>\nModified by: Jitesh&nbsp;H&nbsp;Panchal</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nArtificial intelligence (AI) is changing how engineers design products and complex systems, such as vehicles, aircraft, medical devices, and infrastructure. The engineering design and systems engineering research communities are adopting existing AI tools for engineering systems design while also helping shape the development of AI for design-specific needs. This award supported the NSF Workshop on Artificial Intelligence in Engineering Design and Systems Engineering (AI-EDSE), held at Purdue University on October 16-17, 2025. The workshop brought together eighty participants from nearly forty universities, companies, and government organizations to chart a research agenda for the field.\r\n\n\nIntellectual Merit: Through framing talks, structured debates, a keynote on human and machine learning, ten lightning talks by early-career faculty, a poster session, and three rounds of breakout discussion, the workshop produced a collective view of where the field stands and where it should go. Its central framing organizes the field into two complementary thrusts: using AI to improve how engineers design (AI for engineering design and systems engineering, or AI4EDSE), and applying engineering rigor to the creation, evaluation, and assurance of AI itself (EDSE4AI). Participants argued that simply applying existing machine learning methods to engineering problems is no longer a significant contribution; the frontier lies in methods shaped by the structure of design problems, and in the engineering community acting as requirement-setter and benchmark-definer for the AI used in engineering.\r\n\n\nThe workshop identified three bottlenecks limiting progress: (i) engineering data are scarce and expensive and rarely capture how designs were actually developed; (ii) generative AI can produce outputs that look professional but are physically wrong or unsafe; and (iii) learned models are often insufficiently grounded in physics and real-world constraints. It identified representation (how designs, requirements, and analyses are encoded for machines and people) as the key bottleneck between modern AI models and engineering workflows. It also examined how AI is reshaping design research methods, how trust between designers and AI tools forms and erodes, and how engineers should remain accountable for AI-assisted decisions.\r\n\n\nThe workshop organizers translated these findings into a research agenda with near-term and mid-term priorities. The findings also included proposals for shared community infrastructure: a grand-challenge design problem to unite researchers worldwide, benchmarks that measure whether AI-generated designs are meaningful to the people who must use them, open datasets, and standards for reporting AI use in research. The findings have been documented in a workshop report submitted for journal publication. The report is available at the workshop website: https://engineering.purdue.edu/ME/AI-EDSE\r\n\n\nBroader Impacts: The research agenda produced by this workshop offers funding agencies, universities, and industry a roadmap for a technology with far-reaching consequences for the safety, cost, and sustainability of engineered systems. The workshop placed humans at the center of that agenda. It called for (i) preserving the judgment, synthesis, and experience that distinguish human designers; (ii) designing AI tools that keep engineers critically engaged rather than complacent; (iii) mechanisms that make AI-assisted design decisions auditable; and (iv) treating the energy, water, and land consumed by AI as a design concern in its own right.\r\n\n\nEducation emerged as a theme in every breakout session, even when it was not the assigned topic. The workshop recommended that engineering education shift from rewarding correct answers toward rewarding the justification of design decisions, that students build foundational competence with AI rather than around it, and that the community develop shared teaching resources and new mechanisms to support practicing engineers as the entry-level tasks through which they traditionally learned their craft are automated.\r\n\n\nThe workshop also invested directly in the next generation of researchers. Ten early-career faculty gave lightning talks, a poster session gave participants a venue for detailed technical exchange, and an informal mentorship session covered funding and publishing. Video recordings of the talks, panels, and keynote are publicly available on the workshop website (https://engineering.purdue.edu/ME/AI-EDSE), so that the community can build on the discussions.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 11/05/2026\n\n\t\t\t\t\tSubmitted by: JiteshHPanchal\n"
+ }
+}

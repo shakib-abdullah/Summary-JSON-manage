@@ -1,0 +1,129 @@
+{
+ "awd_id": "2533192",
+ "agcy_id": "NSF",
+ "tran_type": "CoopAgrmnt",
+ "awd_istr_txt": "Cooperative Agreement",
+ "awd_titl_txt": "NSF Safe-OSE: Scalably Detecting Inconsistencies Between Git Commit Messages and Code in Open-source Projects",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032920000",
+ "po_email": "nratha@nsf.gov",
+ "po_sign_block_name": "Nalini Ratha",
+ "awd_eff_date": "2025-10-01",
+ "awd_exp_date": "2027-09-30",
+ "tot_intn_awd_amt": 1469443.0,
+ "awd_amount": 1469443.0,
+ "awd_min_amd_letter_date": "2025-09-22",
+ "awd_max_amd_letter_date": "2025-09-22",
+ "awd_abstract_narration": "Computer systems research relies on software simulation to perform early-stage design-space exploration, quickly iterate on new hardware-software changes, and explore the viability of new ideas before committing to expensive hardware prototyping and fabrication. In computer architecture, gem5 is the most widely used open-source simulation tool, heavily employed by academia, industry, and national laboratories. Like many other open-source projects, gem5 relies on a small number of volunteer maintainers to manage the ever-growing numbers of users and proposed changes. These maintainers typically have no formal training in identifying potential security vulnerabilities. Moreover, computer architecture designs prototyped in gem5 are often incorporated directly into real hardware. Vulnerabilities in gem5 could thus cause practitioners to inadvertently introduce security vulnerabilities into hardware that cannot easily be patched, impacting future commercial hardware and threatening national infrastructure. This project provides a novel framework to strengthen the security of the gem5 codebase and any future hardware designed with it. This project will also increase the impact of results generated with gem5 for U.S. industry and national lab practitioners by allowing them to more safely use the cutting-edge, top-secret designs they prototype in gem5.\r\n\r\nThis project combines expertise across simulator design, computer architecture, programming languages, security, and language modeling to develop and deploy VULCAN (VULnerability Consistency ANalyzer). VULCAN is a framework that detects and mitigates security vulnerabilities before they are introduced to the gem5 repository. Specifically, VULCAN detects inconsistencies between commit messages and code changes, and discovers known hardware vulnerabilities. Overall, VULCAN comprises four components: 1) leverage of Large Language Models (LLMs) and static analysis to synthesize formal specifications from code diffs; 2) utilization of Natural Language Inference (NLI) to check consistency between the commit message and the synthesized code specification; 3) integration of a taxonomy of hardware vulnerabilities, which it uses to automatically detect if code changes introduce known issues; and 4) the design and integration of a user interface into gem5\u2019s GitHub code review process, enabling maintainers to seamlessly consume findings from the other components.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Matthew",
+   "pi_last_name": "Sinclair",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Matthew D Sinclair",
+   "pi_email_addr": "sinclair@cs.wisc.edu",
+   "nsf_id": "000754273",
+   "pi_start_date": "2025-09-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kassem",
+   "pi_last_name": "Fawaz",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kassem M Fawaz",
+   "pi_email_addr": "kfawaz@wisc.edu",
+   "nsf_id": "000756564",
+   "pi_start_date": "2025-09-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Joshua",
+   "pi_last_name": "San Miguel",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Joshua San Miguel",
+   "pi_email_addr": "jsanmiguel@wisc.edu",
+   "nsf_id": "000770459",
+   "pi_start_date": "2025-09-22",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Ethan",
+   "pi_last_name": "Cecchetti",
+   "pi_mid_init": "B",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ethan B Cecchetti",
+   "pi_email_addr": "cecchetti@wisc.edu",
+   "nsf_id": "000918469",
+   "pi_start_date": "2025-09-22",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Wisconsin-Madison",
+  "inst_street_address": "21 N PARK ST STE 6301",
+  "inst_street_address_2": "",
+  "inst_city_name": "MADISON",
+  "inst_state_code": "WI",
+  "inst_state_name": "Wisconsin",
+  "inst_phone_num": "6082623822",
+  "inst_zip_code": "537151218",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "WI02",
+  "org_lgl_bus_name": "UNIVERSITY OF WISCONSIN SYSTEM",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "LCLSJAGTNZQ7"
+ },
+ "perf_inst": {
+  "perf_inst_name": "University of Wisconsin-Madison",
+  "perf_str_addr": "21 N PARK ST STE 6301",
+  "perf_city_name": "MADISON",
+  "perf_st_code": "WI",
+  "perf_st_name": "Wisconsin",
+  "perf_zip_code": "537151218",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "WI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "324Y00",
+   "pgm_ele_name": "SafeOSE"
+  }
+ ],
+ "pgm_ref": null,
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 1469443.0
+  }
+ ],
+ "por": null
+}

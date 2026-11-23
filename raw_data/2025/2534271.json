@@ -1,0 +1,121 @@
+{
+ "awd_id": "2534271",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Gordon Research Conference 2025 on Biomechanics in Vascular Biology and Disease (GRC 2025 BVBD); Ventura, California; 20-25 July 2025",
+ "cfda_num": "47.041",
+ "org_code": "07230000",
+ "po_phone": "7022924526",
+ "po_email": "ksolanki@nsf.gov",
+ "po_sign_block_name": "Kiran Solanki",
+ "awd_eff_date": "2025-06-15",
+ "awd_exp_date": "2026-05-31",
+ "tot_intn_awd_amt": 10000.0,
+ "awd_amount": 10000.0,
+ "awd_min_amd_letter_date": "2025-06-05",
+ "awd_max_amd_letter_date": "2025-06-05",
+ "awd_abstract_narration": "This grant provides funding for ten graduate students, post-doctoral scholars, and early-career investigators based in the United States to attend the 2025 Gordon Research Conference (GRC) on Biomechanics in Vascular Biology and Disease, which will be held 19-20 July 2025, in Ventura, California. The award covers full conference registration fees. The GRC is a premier international forum for advancing research in cardiovascular biomechanics and mechanobiology, with a focus on translating fundamental insights from molecular mechanisms to clinical applications. The goal of this award is to support the professional growth of early-career researchers, including assistant professors appointed within the last three years. Preference will be given to those in biomedical engineering, quantitative biology, and related disciplines with strong interdisciplinary interests. The conference will foster collaboration and knowledge exchange across academic and clinical communities.\r\n\r\nThe 2025 GRC will feature a keynote session, eight scientific sessions, four poster sessions, and a Power Hour focused on professional development. Topics include shear and wall stress, vascular remodeling, mechanotransduction, atherosclerosis, thrombosis, and aneurysms. A newly introduced Gordon Research Seminar (GRS), held immediately before the GRC, will provide a platform for graduate students and postdoctoral scholars to present research and receive mentorship from senior scientists. The GRS emphasizes career development, leadership, and community-building. The 2025 meeting builds on the legacy of the International Symposium on Cardiovascular Biology and Disease, traditionally held in Rotterdam.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "ENG",
+ "org_dir_long_name": "Directorate for Engineering",
+ "div_abbr": "CMMI",
+ "org_div_long_name": "Civil, Mechanical, & Manufacturing Innovation",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Tzung",
+   "pi_last_name": "Hsiai",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Tzung Hsiai",
+   "pi_email_addr": "THsiai@mednet.ucla.edu",
+   "nsf_id": "000730831",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Hanjoong",
+   "pi_last_name": "Jo",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Hanjoong Jo",
+   "pi_email_addr": "HJO@emory.edu",
+   "nsf_id": "000617689",
+   "pi_start_date": "2025-06-05",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Gordon Research Conferences",
+  "inst_street_address": "5586 POST RD UNIT 2",
+  "inst_street_address_2": "",
+  "inst_city_name": "EAST GREENWICH",
+  "inst_state_code": "RI",
+  "inst_state_name": "Rhode Island",
+  "inst_phone_num": "4017834011",
+  "inst_zip_code": "028183454",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "RI02",
+  "org_lgl_bus_name": "GORDON RESEARCH CONFERENCES",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XL5ANMKWN557"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Gordon Research Conferences",
+  "perf_str_addr": "",
+  "perf_city_name": "",
+  "perf_st_code": "RI",
+  "perf_st_name": "Rhode Island",
+  "perf_zip_code": "028183454",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "RI02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "747900",
+   "pgm_ele_name": "BMMB-Biomech & Mechanobiology"
+  },
+  {
+   "pgm_ele_code": "534500",
+   "pgm_ele_name": "Engineering of Biomed Systems"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9150",
+   "pgm_ref_txt": "EXP PROG TO STIM COMP RES"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 10000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p class=\"p1\"><strong style=\"color: #158155; font-size: 16px;\">Project Outcomes Report</strong></p>\r\n<p class=\"p3\">The <span class=\"s1\"><strong>2025 Gordon Research Conference (GRC) on Biomechanics in Vascular Biology and Disease</strong></span> was held July 20&ndash;25, 2025, in Ventura, California. The conference brought together <span class=\"s1\"><strong>143 scientists, engineers, physicians, and trainees</strong></span> from North America, Europe, Asia, and Australia to discuss the latest discoveries on how mechanical forces influence blood vessels and cardiovascular health. The meeting was chaired by Dr. Kim Van Der Heiden (Erasmus MC, The Netherlands) and co-chaired by Dr. Tzung Hsiai (University of California, Los Angeles).</p>\r\n<p class=\"p3\">Cardiovascular disease remains the leading cause of death worldwide. Blood vessels are constantly exposed to mechanical forces generated by blood flow, blood pressure, and tissue deformation. Understanding how these forces regulate vascular biology is essential for developing new strategies to prevent and treat diseases such as atherosclerosis, aneurysms, thrombosis, hypertension, and heart valve disease. The conference highlighted emerging advances in vascular mechanobiology, including endothelial mechanotransduction, immune-vascular interactions, vascular aging, regenerative medicine, advanced imaging, computational modeling, artificial intelligence (AI), machine learning (ML), and single-cell and spatial genomics.</p>\r\n<p class=\"p3\">Consistent with the Gordon Research Conference model, the meeting emphasized the presentation of <span class=\"s1\"><strong>unpublished research</strong></span>, extensive scientific discussion, and informal interactions among investigators from diverse disciplines. These discussions promoted the rapid exchange of ideas, generated new scientific hypotheses, and established multidisciplinary collaborations among researchers in engineering, biology, medicine, computational science, and bioinformatics. The conference also strengthened international partnerships that are expected to lead to future collaborative research projects, publications, and multi-investigator grant applications.</p>\r\n<p class=\"p3\">An important accomplishment of this award was the development of the next generation of scientists. The conference included <span class=\"s1\"><strong>31 graduate students and 23 postdoctoral fellows</strong></span>, while the National Science Foundation (NSF) directly supported <span class=\"s1\"><strong>24 early-career investigators</strong></span> through travel awards. These trainees presented their research, received feedback from internationally recognized experts, and established professional networks that will support their future careers. The inaugural <span class=\"s1\"><strong>Gordon Research Seminar (GRS)</strong></span>, held immediately before the conference, provided additional opportunities for graduate students and postdoctoral fellows to present research, develop leadership skills, and build peer mentoring networks.</p>\r\n<p class=\"p3\">The conference also strengthened the broader scientific community by bringing together investigators from universities, medical centers, government laboratories, and industry to share innovative technologies and research approaches. Discussions highlighted opportunities to integrate biomechanics with AI, advanced imaging, computational modeling, stem cell biology, and regenerative medicine to better understand cardiovascular disease and develop future diagnostic tools and therapies.</p>\r\n<p class=\"p3\">Participant evaluations were overwhelmingly positive, with attendees highlighting the outstanding scientific quality of the program, the highly interactive discussions, and the exceptional opportunities for networking and collaboration across career stages. These interactions fostered new multidisciplinary partnerships that will continue beyond the conference and contribute to future scientific advances.</p>\r\n<p class=\"p3\">Overall, the 2025 Gordon Research Conference on <span class=\"s1\"><strong>Biomechanics in Vascular Biology and Disease</strong></span> successfully advanced frontier research, strengthened international scientific collaboration, and provided outstanding training and mentoring opportunities for early-career investigators. By accelerating the exchange of innovative ideas and fostering interdisciplinary partnerships, the conference will contribute to future discoveries that improve understanding of cardiovascular disease and ultimately benefit public health.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 07/06/2026<br>\nModified by: Tzung&nbsp;Hsiai</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nProject Outcomes Report\r\n\n\nThe 2025 Gordon Research Conference (GRC) on Biomechanics in Vascular Biology and Disease was held July 2025, 2025, in Ventura, California. The conference brought together 143 scientists, engineers, physicians, and trainees from North America, Europe, Asia, and Australia to discuss the latest discoveries on how mechanical forces influence blood vessels and cardiovascular health. The meeting was chaired by Dr. Kim Van Der Heiden (Erasmus MC, The Netherlands) and co-chaired by Dr. Tzung Hsiai (University of California, Los Angeles).\r\n\n\nCardiovascular disease remains the leading cause of death worldwide. Blood vessels are constantly exposed to mechanical forces generated by blood flow, blood pressure, and tissue deformation. Understanding how these forces regulate vascular biology is essential for developing new strategies to prevent and treat diseases such as atherosclerosis, aneurysms, thrombosis, hypertension, and heart valve disease. The conference highlighted emerging advances in vascular mechanobiology, including endothelial mechanotransduction, immune-vascular interactions, vascular aging, regenerative medicine, advanced imaging, computational modeling, artificial intelligence (AI), machine learning (ML), and single-cell and spatial genomics.\r\n\n\nConsistent with the Gordon Research Conference model, the meeting emphasized the presentation of unpublished research, extensive scientific discussion, and informal interactions among investigators from diverse disciplines. These discussions promoted the rapid exchange of ideas, generated new scientific hypotheses, and established multidisciplinary collaborations among researchers in engineering, biology, medicine, computational science, and bioinformatics. The conference also strengthened international partnerships that are expected to lead to future collaborative research projects, publications, and multi-investigator grant applications.\r\n\n\nAn important accomplishment of this award was the development of the next generation of scientists. The conference included 31 graduate students and 23 postdoctoral fellows, while the National Science Foundation (NSF) directly supported 24 early-career investigators through travel awards. These trainees presented their research, received feedback from internationally recognized experts, and established professional networks that will support their future careers. The inaugural Gordon Research Seminar (GRS), held immediately before the conference, provided additional opportunities for graduate students and postdoctoral fellows to present research, develop leadership skills, and build peer mentoring networks.\r\n\n\nThe conference also strengthened the broader scientific community by bringing together investigators from universities, medical centers, government laboratories, and industry to share innovative technologies and research approaches. Discussions highlighted opportunities to integrate biomechanics with AI, advanced imaging, computational modeling, stem cell biology, and regenerative medicine to better understand cardiovascular disease and develop future diagnostic tools and therapies.\r\n\n\nParticipant evaluations were overwhelmingly positive, with attendees highlighting the outstanding scientific quality of the program, the highly interactive discussions, and the exceptional opportunities for networking and collaboration across career stages. These interactions fostered new multidisciplinary partnerships that will continue beyond the conference and contribute to future scientific advances.\r\n\n\nOverall, the 2025 Gordon Research Conference on Biomechanics in Vascular Biology and Disease successfully advanced frontier research, strengthened international scientific collaboration, and provided outstanding training and mentoring opportunities for early-career investigators. By accelerating the exchange of innovative ideas and fostering interdisciplinary partnerships, the conference will contribute to future discoveries that improve understanding of cardiovascular disease and ultimately benefit public health.\r\n\n\n\t\t\t\t\tLast Modified: 07/06/2026\n\n\t\t\t\t\tSubmitted by: TzungHsiai\n"
+ }
+}

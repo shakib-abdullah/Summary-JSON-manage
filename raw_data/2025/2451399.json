@@ -1,0 +1,101 @@
+{
+ "awd_id": "2451399",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I: Novel Peptide Immunomodulators for Treatment of Autoimmune and Inflammatory Disorders",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032927069",
+ "po_email": "hahn@nsf.gov",
+ "po_sign_block_name": "Henry Ahn",
+ "awd_eff_date": "2025-03-01",
+ "awd_exp_date": "2026-02-28",
+ "tot_intn_awd_amt": 305000.0,
+ "awd_amount": 305000.0,
+ "awd_min_amd_letter_date": "2025-02-26",
+ "awd_max_amd_letter_date": "2025-02-26",
+ "awd_abstract_narration": "The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is in developing a novel class of compounds capable of treating autoimmune and inflammatory conditions safely and effectively. With the constant threat of new COVID variants, influenza, and RSV, there is an unmet medical need for therapeutics that can effectively treat autoimmune diseases especially in pediatric patients without compromising the immune system to respond to infections. This problem has been overcome with the discovery of novel compositions that demonstrate efficacy equal or superior to many of the first line therapies used to treat immune diseases. The improved safety, efficacy and lower cost of these therapeutics should provide a significant benefit to patients by overall contributing to their quality of life as compared to current medications, as well as marketing and partnering advantage in its commercialization efforts, which will focus on rare diseases, such as juvenile idiopathic arthritis-associated uveitis and pediatric Crohn\u2019s disease among others. In the era of socio-economic disparities, these affordable drugs will become available to the historically neglected low-income communities. If executed successfully, this proposal would validate the platform technology and demonstrate the feasibility of identifying candidates for further development into life-changing treatments.\r\n\r\nThis Small Business Innovation Research (SBIR) Phase I project will demonstrate the unique design of novel compounds to augment and re-program the immune responses from pro- to anti-inflammatory, based on the binding to MHC class II molecules that leads to immunomodulation. The technical complexities of understanding the effects of peptide sequences on the outcomes of cellular interactions present challenges related to selecting the appropriate amino acids both for the random and specific components of these compositions. These hurdles will be addressed by design of several candidate compounds for each target condition, juvenile idiopathic arthritis-associated uveitis and pediatric Crohn\u2019s disease, that will take into account the structure of autoantigenic peptides known to interact with both the MHC class II and T cell receptor (TCR). These candidate compounds will be initially tested in vitro in human macrophages to assess their potential to inhibit secretion of pro-inflammatory cytokines. Of these compounds, the most efficient ones will be tested for activity in relevant animal models. This approach will allow identifying and selecting the best drug candidates for further development into therapies for pediatric conditions as outlined above.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Masha",
+   "pi_last_name": "Fridkis-Hareli",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Masha Fridkis-Hareli",
+   "pi_email_addr": "mhareli@palenatx.com",
+   "nsf_id": "0000A09H4",
+   "pi_start_date": "2025-02-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "PALENA THERAPEUTICS, INC.",
+  "inst_street_address": "500 W BOYLSTON ST STE 7",
+  "inst_street_address_2": "",
+  "inst_city_name": "WORCESTER",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "5087338792",
+  "inst_zip_code": "016062058",
+  "inst_country_name": "United States",
+  "cong_dist_code": "02",
+  "st_cong_dist_code": "MA02",
+  "org_lgl_bus_name": "PALENA THERAPEUTICS, INC.",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "WRWDJ3LHZLN5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "PALENA THERAPEUTICS, INC.",
+  "perf_str_addr": "500 W BOYLSTON ST STE 7",
+  "perf_city_name": "WORCESTER",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "016062058",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "02",
+  "perf_st_cong_dist": "MA02",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "004E",
+   "pgm_ref_txt": "BIOMEDICAL ENG AND DIAGNOSTICS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 305000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The aim of this NSF phase 1 grant was to validate Palena&rsquo;s platform technology for generating novel therapeutics to treat autoimmune disease that are safe and effective with fewer adverse side effects. To demonstrate the utility of its platform technology, the Company selected two debilitating diseases that affect children, namely juevenile idiopathic arthritis-associated uveitis and pediatric Crohn&rsquo;s disease. Juvenile idiopathic arthritis-associated uveitis is a serious complication of a painful debilitating disease that can result in permanent loss of vision that has limited treatment options. Pediatric Crohn&rsquo;s disease, the incidence of which is increasing and that often presents with a more aggressive course than the adult-onset disease with symptoms showing abdominal pain, diarrhea, anemia, weight loss, and the risk for surgery within 5&nbsp;years of diagnosis, also has limited treatment options since current therapies lower the body&rsquo;s ability to fight infections and thus may increase the incidence of respiratory diseases and cancer.&nbsp; In addition, many current therapeutics for these diseases have significant adverse side effects that restrict their use in pediatric patients. Palena&rsquo;s aim with this project was to identify at least one potential drug candidate for the treatment of these diseases.</p>\r\n<p>The key objectives of the project were successfully met and led to the identification and selection of the drug candidate to treat pediatric Crohn&rsquo;s disease. This drug candidate, namely PT-012 was designed based on the structural components of the immune system responding to the pathogenic gut bacteria known to attack the gastrointestinal track causing inflammation that leads to Crohn&rsquo;s. In the laboratory testing, PT-012 was the most efficacious among the three drug candidates designed, in suppressing the secretion of inflammatory proteins from human immune cells that migrate to the gut tissue and aggravate inflammation in Crohn&rsquo;s. In the mouse model that closely resembles Crohn&rsquo;s disease, PT-012 improved clinical signs by reducing diarrhea and increasing body weights during the 47 days of the study. Analysis of the gut tissue showed mild or no abnormal findings in the group administered with PT-012, in contrast to the untreated diseased group or a group administered with another drug candidate PT-002 designed early on to treat multiple sclerosis. In addition, inflammatory proteins secreted in the gut were inhibited by PT-012 but not by PT-002, consistent with the increase in numbers of immune cells that protect from autoimmunity, as well as inactivation of inflammatory cells in the gut in presence of PT-012. These observations confirm Palena&rsquo;s approach to drug design targeting immune responses associated with specific diseases with precision and thus opening opportunities to design and develop such therapies for other autoimmune conditions. The data obtained from this project was accepted for poster and oral presentation at the 4th Precision Medicine in Inflammatory Bowel Disease Summit taking place on March 31-April 2, 2026 in Boston, MA.&nbsp;</p>\r\n<p>The societal benefit of these novel drugs will be in improving the lives of children suffering from debilitating conditions like pediatric Crohn&rsquo;s disease. Addressing these and many other chronic pediatric conditions often defined as orphan will accelerate their development and provide accessibility to these life-changing medications faster and for a significantly lower cost than approved immunotherapies due to their synthetic nature and straightforward method of manufacturing. In the era of socio-economic disparities, these affordable drugs will become available to the low-income communities that have been historically neglected due to lack of financial stability or representation. The societal benefits of these novel therapies developed using Palena&rsquo;s platform technology will be measured based on improvement in disease-specific symptoms for each of the target diseases and overall improvement in quality of life.&nbsp;</p>\r\n<p>On a larger scale, the platform technology has the potential to treat a large number of autoimmune diseases that affect approximately 4% of the population worldwide and have a dramatic impact on quality of life and worker productivity. Therefore, the long-term benefit in the 10 to 20 year timeframe to society would be improved therapeutics to treat diseases such as rheumatoid arthritis, Crohn&rsquo;s and mulriple sclerosis that improve the quality of life of the patients, are safer with less adverse side effects, do not inhibit the normal functioning of the immune system in its ability to fight infections and maintain a healthy body, and potentially reduce healthcare costs.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 03/17/2026<br>\nModified by: Masha&nbsp; &nbsp;Fridkis-Hareli</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe aim of this NSF phase 1 grant was to validate Palenas platform technology for generating novel therapeutics to treat autoimmune disease that are safe and effective with fewer adverse side effects. To demonstrate the utility of its platform technology, the Company selected two debilitating diseases that affect children, namely juevenile idiopathic arthritis-associated uveitis and pediatric Crohns disease. Juvenile idiopathic arthritis-associated uveitis is a serious complication of a painful debilitating disease that can result in permanent loss of vision that has limited treatment options. Pediatric Crohns disease, the incidence of which is increasing and that often presents with a more aggressive course than the adult-onset disease with symptoms showing abdominal pain, diarrhea, anemia, weight loss, and the risk for surgery within 5years of diagnosis, also has limited treatment options since current therapies lower the bodys ability to fight infections and thus may increase the incidence of respiratory diseases and cancer. In addition, many current therapeutics for these diseases have significant adverse side effects that restrict their use in pediatric patients. Palenas aim with this project was to identify at least one potential drug candidate for the treatment of these diseases.\r\n\n\nThe key objectives of the project were successfully met and led to the identification and selection of the drug candidate to treat pediatric Crohns disease. This drug candidate, namely PT-012 was designed based on the structural components of the immune system responding to the pathogenic gut bacteria known to attack the gastrointestinal track causing inflammation that leads to Crohns. In the laboratory testing, PT-012 was the most efficacious among the three drug candidates designed, in suppressing the secretion of inflammatory proteins from human immune cells that migrate to the gut tissue and aggravate inflammation in Crohns. In the mouse model that closely resembles Crohns disease, PT-012 improved clinical signs by reducing diarrhea and increasing body weights during the 47 days of the study. Analysis of the gut tissue showed mild or no abnormal findings in the group administered with PT-012, in contrast to the untreated diseased group or a group administered with another drug candidate PT-002 designed early on to treat multiple sclerosis. In addition, inflammatory proteins secreted in the gut were inhibited by PT-012 but not by PT-002, consistent with the increase in numbers of immune cells that protect from autoimmunity, as well as inactivation of inflammatory cells in the gut in presence of PT-012. These observations confirm Palenas approach to drug design targeting immune responses associated with specific diseases with precision and thus opening opportunities to design and develop such therapies for other autoimmune conditions. The data obtained from this project was accepted for poster and oral presentation at the 4th Precision Medicine in Inflammatory Bowel Disease Summit taking place on March 31-April 2, 2026 in Boston, MA.\r\n\n\nThe societal benefit of these novel drugs will be in improving the lives of children suffering from debilitating conditions like pediatric Crohns disease. Addressing these and many other chronic pediatric conditions often defined as orphan will accelerate their development and provide accessibility to these life-changing medications faster and for a significantly lower cost than approved immunotherapies due to their synthetic nature and straightforward method of manufacturing. In the era of socio-economic disparities, these affordable drugs will become available to the low-income communities that have been historically neglected due to lack of financial stability or representation. The societal benefits of these novel therapies developed using Palenas platform technology will be measured based on improvement in disease-specific symptoms for each of the target diseases and overall improvement in quality of life.\r\n\n\nOn a larger scale, the platform technology has the potential to treat a large number of autoimmune diseases that affect approximately 4% of the population worldwide and have a dramatic impact on quality of life and worker productivity. Therefore, the long-term benefit in the 10 to 20 year timeframe to society would be improved therapeutics to treat diseases such as rheumatoid arthritis, Crohns and mulriple sclerosis that improve the quality of life of the patients, are safer with less adverse side effects, do not inhibit the normal functioning of the immune system in its ability to fight infections and maintain a healthy body, and potentially reduce healthcare costs.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 03/17/2026\n\n\t\t\t\t\tSubmitted by: Masha Fridkis-Hareli\n"
+ }
+}

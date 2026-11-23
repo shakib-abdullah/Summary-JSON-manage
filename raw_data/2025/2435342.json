@@ -1,0 +1,101 @@
+{
+ "awd_id": "2435342",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "I-Corps: Translation Potential of Elastocaloric Cooling Devices",
+ "cfda_num": "47.084",
+ "org_code": "15230000",
+ "po_phone": "7032922160",
+ "po_email": "rshuman@nsf.gov",
+ "po_sign_block_name": "Ruth Shuman",
+ "awd_eff_date": "2024-11-15",
+ "awd_exp_date": "2026-08-31",
+ "tot_intn_awd_amt": 50000.0,
+ "awd_amount": 50000.0,
+ "awd_min_amd_letter_date": "2024-11-13",
+ "awd_max_amd_letter_date": "2024-11-13",
+ "awd_abstract_narration": "The broader impact of this I-Corps project is the development of elastocaloric cooling devices. An elastocaloric cooling device is a type of solid-state cooling technology that uses the elastocaloric effect, a phenomenon where certain materials release or absorb heat when they undergo mechanical stress (like compression or stretching) and then return to their original shape. This process is reversible and can be used to transfer heat, providing a cooling effect. Current refrigeration devices (cooling devices and heat pumps) are based on vapor-compression systems, which account for 20% of electricity consumption and 7.8% of greenhouse gas emissions worldwide. While elastocaloric cooling technology is still in the research and development stage, it has the potential for use in a wide range of applications, including air conditioning systems, refrigeration, and cooling in the electronics and automotive industries. This technology offers a promising, environmentally friendly alternative to traditional cooling systems.\r\n\r\nThis I-Corps project utilizes experiential learning coupled with a first-hand investigation of the industry ecosystem to assess the translation potential of the new technology. The solution is based on the development of an elastocaloric cooling device. Elastocaloric materials, a type of solid-state cooling technology, are envisioned for use for various purposes such as refrigeration and air conditioning. While elastocaloric cooling has shown promise as an alternative cooling technology, finding a method to cost-effectively fabricate these materials from high latent heat materials is essential. This technology represents an innovation in functionally-graded elastocaloric materials made through additive manufacturing. These functionally graded structures have the potential to shift the elastocaloric effect by harnessing a larger capacity of the material.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "PFT",
+ "org_div_long_name": "Pathways for Translation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Mohammad",
+   "pi_last_name": "Elahinia",
+   "pi_mid_init": "H",
+   "pi_sufx_name": "",
+   "pi_full_name": "Mohammad H Elahinia",
+   "pi_email_addr": "mohammad.elahinia@utoledo.edu",
+   "nsf_id": "000219728",
+   "pi_start_date": "2024-11-13",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "University of Toledo",
+  "inst_street_address": "2801 W BANCROFT ST",
+  "inst_street_address_2": "",
+  "inst_city_name": "TOLEDO",
+  "inst_state_code": "OH",
+  "inst_state_name": "Ohio",
+  "inst_phone_num": "4195302844",
+  "inst_zip_code": "436063328",
+  "inst_country_name": "United States",
+  "cong_dist_code": "09",
+  "st_cong_dist_code": "OH09",
+  "org_lgl_bus_name": "UNIVERSITY OF TOLEDO",
+  "org_prnt_uei_num": "EWRDP9YCDDH5",
+  "org_uei_num": "XA77NAJYELF1"
+ },
+ "perf_inst": {
+  "perf_inst_name": "The University of Toledo",
+  "perf_str_addr": "2801 W BANCROFT ST",
+  "perf_city_name": "TOLEDO",
+  "perf_st_code": "OH",
+  "perf_st_name": "Ohio",
+  "perf_zip_code": "436063390",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "09",
+  "perf_st_cong_dist": "OH09",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "802300",
+   "pgm_ele_name": "I-Corps"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8609",
+   "pgm_ref_txt": "Other Energy Research"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 50000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>This project explored the potential of a new cooling technology based on the elastocaloric effect of nickel-titanium (NiTi) shape memory alloys. Unlike conventional cooling technologies that rely on vapor-compression systems and refrigerants, elastocaloric cooling uses the temperature changes that occur when certain materials are mechanically loaded and unloaded. The project investigated how additive manufacturing could be used to create customized NiTi structures with properties tailored for cooling applications.</p>\r\n<p>A major objective of the project was to determine where this technology could provide the greatest practical and commercial benefit. Through the NSF I-Corps program, the research team conducted more than 100 customer discovery interviews with engineers, industry professionals, sales managers, and other stakeholders. These discussions helped the team understand the challenges faced by potential users and evaluate several possible markets for elastocaloric cooling.</p>\r\n<p>The customer discovery process initially considered applications such as portable cooling for outdoor activities. However, discussions with industry experts indicated that heating, ventilation, and air-conditioning (HVAC) and thermal management systems offered a stronger opportunity for translation. The team therefore shifted its focus toward applications such as heat pumps, heat exchangers, and thermal management systems.</p>\r\n<p>The project also demonstrated the potential of additive manufacturing to address important challenges in elastocaloric cooling. Additive manufacturing provides the ability to produce complex geometries and to locally control material properties. The team investigated functionally graded NiTi structures in which material properties can vary within a single component. This approach could enable the development of compact and customized elastocaloric regenerators designed for specific operating conditions.</p>\r\n<p>The project contributed to several scientific and technological advances, including research on additively manufactured NiTi structures, functionally graded elastocaloric designs, and the thermomechanical behavior of NiTi components. The work resulted in journal publications, conference presentations, a doctoral dissertation, and intellectual property related to functionally graded structures and elastocaloric thermal-management systems.</p>\r\n<p>An important outcome of the project was the development of the research team's understanding of how laboratory innovations can be translated into practical technologies. The I-Corps experience provided training in customer discovery, market validation, value proposition development, and communication with industry stakeholders. These skills helped the researchers better understand the difference between technical performance in a laboratory and the requirements of an industrial product.</p>\r\n<p>Overall, the project established a clearer pathway for translating additively manufactured NiTi elastocaloric technology toward HVAC and thermal-management applications. The findings provide a foundation for continued development and validation of compact, efficient, and potentially more sustainable thermal-management systems.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 09/03/2026<br>\nModified by: Mohammad&nbsp;H&nbsp;Elahinia</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThis project explored the potential of a new cooling technology based on the elastocaloric effect of nickel-titanium (NiTi) shape memory alloys. Unlike conventional cooling technologies that rely on vapor-compression systems and refrigerants, elastocaloric cooling uses the temperature changes that occur when certain materials are mechanically loaded and unloaded. The project investigated how additive manufacturing could be used to create customized NiTi structures with properties tailored for cooling applications.\r\n\n\nA major objective of the project was to determine where this technology could provide the greatest practical and commercial benefit. Through the NSF I-Corps program, the research team conducted more than 100 customer discovery interviews with engineers, industry professionals, sales managers, and other stakeholders. These discussions helped the team understand the challenges faced by potential users and evaluate several possible markets for elastocaloric cooling.\r\n\n\nThe customer discovery process initially considered applications such as portable cooling for outdoor activities. However, discussions with industry experts indicated that heating, ventilation, and air-conditioning (HVAC) and thermal management systems offered a stronger opportunity for translation. The team therefore shifted its focus toward applications such as heat pumps, heat exchangers, and thermal management systems.\r\n\n\nThe project also demonstrated the potential of additive manufacturing to address important challenges in elastocaloric cooling. Additive manufacturing provides the ability to produce complex geometries and to locally control material properties. The team investigated functionally graded NiTi structures in which material properties can vary within a single component. This approach could enable the development of compact and customized elastocaloric regenerators designed for specific operating conditions.\r\n\n\nThe project contributed to several scientific and technological advances, including research on additively manufactured NiTi structures, functionally graded elastocaloric designs, and the thermomechanical behavior of NiTi components. The work resulted in journal publications, conference presentations, a doctoral dissertation, and intellectual property related to functionally graded structures and elastocaloric thermal-management systems.\r\n\n\nAn important outcome of the project was the development of the research team's understanding of how laboratory innovations can be translated into practical technologies. The I-Corps experience provided training in customer discovery, market validation, value proposition development, and communication with industry stakeholders. These skills helped the researchers better understand the difference between technical performance in a laboratory and the requirements of an industrial product.\r\n\n\nOverall, the project established a clearer pathway for translating additively manufactured NiTi elastocaloric technology toward HVAC and thermal-management applications. The findings provide a foundation for continued development and validation of compact, efficient, and potentially more sustainable thermal-management systems.\r\n\n\n\t\t\t\t\tLast Modified: 09/03/2026\n\n\t\t\t\t\tSubmitted by: MohammadHElahinia\n"
+ }
+}

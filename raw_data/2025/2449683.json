@@ -1,0 +1,113 @@
+{
+ "awd_id": "2449683",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: 15th Workshop on Cyanobacteria: Promoting collaborative science and early career scientists in the field of cyanobacterial physiology and biotechnology",
+ "cfda_num": "47.074",
+ "org_code": "08070000",
+ "po_phone": "7032922890",
+ "po_email": "dklinke@nsf.gov",
+ "po_sign_block_name": "David J. Klinke",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 15000.0,
+ "awd_amount": 15000.0,
+ "awd_min_amd_letter_date": "2025-03-26",
+ "awd_max_amd_letter_date": "2025-03-26",
+ "awd_abstract_narration": "The 15th Workshop on Cyanobacteria will bring together experts in ecology, biotechnology, and basic cell biology to focus on the latest advances in cyanobacterial field. The conference is organized into sessions to include topics from both traditional and emerging areas of cyanobacteria research while providing leading-edge examples of \u201cwhat cyanobacteria can do.\u201d A major goal of the conference is to create an environment where researchers can gather and exchange information. Also, by providing an opportunity for students and early career professionals to share their work, to network with the foremost leaders in the field, and to develop their careers, the workshop aims to infuse the cyanobacterial field with new energy and ideas. \r\n\r\nCyanobacteria are indispensable model organisms for research on photosynthesis, nitrogen fixation, cellular metabolism, microbial interactions, and gene regulation.  Besides offering critical insights into these fundamental biological processes, cyanobacteria also enable applied biotechnological innovations, such as by combining synthetic biology and metabolic engineering approaches to produce biopharmaceuticals and bioplastics. This workshop aims to bring together life science researchers and engineers to discuss cutting-edge research and new technological advancements and to foster interdisciplinary collaborations centered around cyanobacteria in a highly interactive and engaging meeting. The conference organizers aim to provide opportunities for graduate students, post-doctoral researchers, and early-career faculty to present their findings, to network with the foremost leaders in the field, and to develop their careers. The formal and informal events will promote the exchange of knowledge, discussions of challenges in the field, and collaborations to address these challenges.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "MCB",
+ "org_div_long_name": "Division of Molecular and Cellular Biosciences",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Jamey",
+   "pi_last_name": "Young",
+   "pi_mid_init": "D",
+   "pi_sufx_name": "",
+   "pi_full_name": "Jamey D Young",
+   "pi_email_addr": "j.d.young@vanderbilt.edu",
+   "nsf_id": "000513639",
+   "pi_start_date": "2025-03-26",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Vanderbilt University",
+  "inst_street_address": "110 21ST AVE S",
+  "inst_street_address_2": "",
+  "inst_city_name": "NASHVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "6153222631",
+  "inst_zip_code": "372032416",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "TN05",
+  "org_lgl_bus_name": "VANDERBILT UNIVERSITY",
+  "org_prnt_uei_num": "K9AHBDTKCB55",
+  "org_uei_num": "GTNBNWXJ12D5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Vanderbilt University",
+  "perf_str_addr": "110 21ST AVE S",
+  "perf_city_name": "NASHVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "372032408",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "TN05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "111400",
+   "pgm_ele_name": "Cellular Dynamics and Function"
+  },
+  {
+   "pgm_ele_code": "801100",
+   "pgm_ele_name": "Systems and Synthetic Biology"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7465",
+   "pgm_ref_txt": "NANOSCALE BIO CORE"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 15000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><strong><span style=\"text-decoration: underline;\">Intellectual Merit:</span></strong></p>\r\n<p>The 15<sup>th</sup> Workshop on Cyanobacteria was held at Vanderbilt University on June 5-8, 2025. This conference series is pivotal for advancing cyanobacterial research by gathering researchers worldwide to discuss cyanobacterial ecology, biotechnology, and fundamental biology. Cyanobacteria are central to Earth's ecological and evolutionary history, and they have transformed our understanding of global nutrient cycles and photosynthesis while presenting solutions to modern challenges such as renewable energy production and environmental remediation.</p>\r\n<p>The Workshop hosted 90 registered participants from 21 U.S. states and 8 other countries. The program included four keynote presentations by prominent leaders in the field of cyanobacteria research: <strong>Susan Golden, Jindong Zhao, Martin Hagemann, and Danny Ducat</strong>. The five oral sessions included 25 contributed talks selected from submitted abstracts, focusing on contributions from graduate students, postdoctoral researchers, and early-career investigators. In addition, there were 34 poster presentations and two lunch-time roundtable discussions to stimulate dialogue on important topics. Exciting developments related to carbon reduction, sustainable bioproduction, leveraging big data, and synthetic biology were highlighted as major new challenges and opportunities for the field. The Workshop also included a special honorary session to celebrate the life and legacy of three of our late colleagues, <strong>Don Bryant, Jeff Cameron, and Bob Haselkorn</strong>, whose scientific contributions and collaborative spirit left a lasting impact on the field.</p>\r\n<p>Out of the 90 registered attendees, 48 were graduate students or postdocs, 31 were faculty or researchers from academic/non-profit institutions, 8 were industry scientists, and 3 were undergraduate students. NSF funds were used to provide participant support for 45 domestic students and postdocs who attended the meeting, which represented half of the total registered participants.</p>\r\n<p><strong><span style=\"text-decoration: underline;\">Broader Impacts:</span></strong></p>\r\n<p>A significant broader impact of this conference was its contribution to the development and training of the next generation of scientists. Students and postdocs were included at every stage of the planning and execution of the meeting. By providing a collaborative and interdisciplinary platform, the Workshop offerered invaluable opportunities for trainees and early-career scientists to engage with leading experts in the field. These interactions are expected to foster mentorship, facilitate knowledge transfer, and inspire junior researchers to pursue innovative research avenues in cyanobacterial biology and biotechnology.</p>\r\n<p>In keeping with prior meetings in this series, most oral presentations were selected from submitted abstracts, focusing on contributions from graduate students, postdoctoral associates, and early-career investigators. In addition to the technical programming, there were also numerous networking opportunities for students and early-career investigators at meals, coffee breaks, and social activities. The Workshop schedule included an optional &lsquo;Early Career Scientists&rsquo; lunch roundtable discussion as well as tutorials on using bioinformatics tools for cyanobacteria research. Overall, training and professional development of junior investigators was a major theme of the Workshop.&nbsp;</p>\r\n<p>In addition to its impacts on professional development, this Workshop also emphasized the practical applications of cyanobacteria research in addressing global challenges. As cyanobacteria are increasingly recognized for their potential in sustainable biotechnology, the conference served as a critical forum for discussing advancements in the use of cyanobacteria for chemical production, carbon capture, and bioremediation. By bringing together researchers from diverse disciplines, the Workshop enhanced the exchange of ideas aimed at harnessing the full potential of cyanobacteria for environmental and industrial applications. These discussions are expected to lead to new research initiatives and partnerships that will drive innovation and contribute to sustainable solutions for climate change and resource management in the future.</p>\r\n<p><strong><span style=\"text-decoration: underline;\">Conclusion:</span></strong></p>\r\n<p>Overall, the 15<sup>th</sup>&nbsp;Workshop on Cyanobacteria enhanced understanding of cyanobacteria across various scientific disciplines, including ecology, biotechnology, and fundamental biology. By providing exposure across both traditional and emerging areas of cyanobacteria research, the Workshop highlighted leading-edge examples of \"what cyanobacteria can do\" to address important questions in photosynthesis, metabolism, ecology, and sustainability.</p><br>\n<p>\n Last Modified: 07/29/2026<br>\nModified by: Jamey&nbsp;D&nbsp;Young</p></div>\n<div class=\"porSideCol\"\n><div class=\"each-gallery\">\n<div class=\"galContent\" id=\"gallery0\">\n<div class=\"photoCount\" id=\"photoCount0\">\n\t\t\t\t\t\t\t\t\tImage\n\t\t\t\t\t\t\t\t</div>\n<div class=\"galControls onePhoto\" id=\"controls0\"></div>\n<div class=\"galSlideshow\" id=\"slideshow0\"></div>\n<div class=\"galEmbox\" id=\"embox\">\n<div class=\"image-title\"></div>\n</div>\n</div>\n<div class=\"galNavigation onePhoto\" id=\"navigation0\">\n<ul class=\"thumbs\" id=\"thumbs0\">\n<li>\n<a href=\"/por/images/Reports/POR/2026/2449683/2449683_10975177_1785359844567_PXL_20250605_153132956--rgov-214x142.jpg\" original=\"/por/images/Reports/POR/2026/2449683/2449683_10975177_1785359844567_PXL_20250605_153132956--rgov-800width.jpg\" title=\"Group photo\"><img src=\"/por/images/Reports/POR/2026/2449683/2449683_10975177_1785359844567_PXL_20250605_153132956--rgov-66x44.jpg\" alt=\"Group photo\"></a>\n<div class=\"imageCaptionContainer\">\n<div class=\"imageCaption\">Particpants of the 15th Workshop on Cyanobacteria</div>\n<div class=\"imageCredit\">Sara Weidenbach/Vanderbilt</div>\n<div class=\"imagePermisssions\">Royalty-free (unrestricted use)</div>\n<div class=\"imageSubmitted\">Jamey&nbsp;D&nbsp;Young\n<div class=\"imageTitle\">Group photo</div>\n</div>\n</li></ul>\n</div>\n</div></div>\n</div>\n",
+  "por_txt_cntn": "\n\nIntellectual Merit:\r\n\n\nThe 15th Workshop on Cyanobacteria was held at Vanderbilt University on June 5-8, 2025. This conference series is pivotal for advancing cyanobacterial research by gathering researchers worldwide to discuss cyanobacterial ecology, biotechnology, and fundamental biology. Cyanobacteria are central to Earth's ecological and evolutionary history, and they have transformed our understanding of global nutrient cycles and photosynthesis while presenting solutions to modern challenges such as renewable energy production and environmental remediation.\r\n\n\nThe Workshop hosted 90 registered participants from 21 U.S. states and 8 other countries. The program included four keynote presentations by prominent leaders in the field of cyanobacteria research: Susan Golden, Jindong Zhao, Martin Hagemann, and Danny Ducat. The five oral sessions included 25 contributed talks selected from submitted abstracts, focusing on contributions from graduate students, postdoctoral researchers, and early-career investigators. In addition, there were 34 poster presentations and two lunch-time roundtable discussions to stimulate dialogue on important topics. Exciting developments related to carbon reduction, sustainable bioproduction, leveraging big data, and synthetic biology were highlighted as major new challenges and opportunities for the field. The Workshop also included a special honorary session to celebrate the life and legacy of three of our late colleagues, Don Bryant, Jeff Cameron, and Bob Haselkorn, whose scientific contributions and collaborative spirit left a lasting impact on the field.\r\n\n\nOut of the 90 registered attendees, 48 were graduate students or postdocs, 31 were faculty or researchers from academic/non-profit institutions, 8 were industry scientists, and 3 were undergraduate students. NSF funds were used to provide participant support for 45 domestic students and postdocs who attended the meeting, which represented half of the total registered participants.\r\n\n\nBroader Impacts:\r\n\n\nA significant broader impact of this conference was its contribution to the development and training of the next generation of scientists. Students and postdocs were included at every stage of the planning and execution of the meeting. By providing a collaborative and interdisciplinary platform, the Workshop offerered invaluable opportunities for trainees and early-career scientists to engage with leading experts in the field. These interactions are expected to foster mentorship, facilitate knowledge transfer, and inspire junior researchers to pursue innovative research avenues in cyanobacterial biology and biotechnology.\r\n\n\nIn keeping with prior meetings in this series, most oral presentations were selected from submitted abstracts, focusing on contributions from graduate students, postdoctoral associates, and early-career investigators. In addition to the technical programming, there were also numerous networking opportunities for students and early-career investigators at meals, coffee breaks, and social activities. The Workshop schedule included an optional Early Career Scientists lunch roundtable discussion as well as tutorials on using bioinformatics tools for cyanobacteria research. Overall, training and professional development of junior investigators was a major theme of the Workshop.\r\n\n\nIn addition to its impacts on professional development, this Workshop also emphasized the practical applications of cyanobacteria research in addressing global challenges. As cyanobacteria are increasingly recognized for their potential in sustainable biotechnology, the conference served as a critical forum for discussing advancements in the use of cyanobacteria for chemical production, carbon capture, and bioremediation. By bringing together researchers from diverse disciplines, the Workshop enhanced the exchange of ideas aimed at harnessing the full potential of cyanobacteria for environmental and industrial applications. These discussions are expected to lead to new research initiatives and partnerships that will drive innovation and contribute to sustainable solutions for climate change and resource management in the future.\r\n\n\nConclusion:\r\n\n\nOverall, the 15thWorkshop on Cyanobacteria enhanced understanding of cyanobacteria across various scientific disciplines, including ecology, biotechnology, and fundamental biology. By providing exposure across both traditional and emerging areas of cyanobacteria research, the Workshop highlighted leading-edge examples of \"what cyanobacteria can do\" to address important questions in photosynthesis, metabolism, ecology, and sustainability.\t\t\t\t\tLast Modified: 07/29/2026\n\n\t\t\t\t\tSubmitted by: JameyDYoung\n"
+ }
+}

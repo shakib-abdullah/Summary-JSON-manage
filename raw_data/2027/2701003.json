@@ -1,0 +1,106 @@
+{
+ "awd_id": "2701003",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Continuing Grant",
+ "awd_titl_txt": "A Longitudinal Comparative Case Study in the Natural Sciences (1995-2015)",
+ "cfda_num": "47.076",
+ "org_code": "11240000",
+ "po_phone": "7032928624",
+ "po_email": "jjohnson@nsf.gov",
+ "po_sign_block_name": "Julie Johnson",
+ "awd_eff_date": "2026-10-01",
+ "awd_exp_date": "2028-11-30",
+ "tot_intn_awd_amt": 1928511.0,
+ "awd_amount": 351213.0,
+ "awd_min_amd_letter_date": "2026-10-20",
+ "awd_max_amd_letter_date": "2026-10-20",
+ "awd_abstract_narration": "There are few longitudinal research studies in either formal or informal settings that provide educators and researchers with insights into why BA/BS credentialed young people drop out of Science, Technology, Engineering, Mathematics, and Medicine (STEMM) careers at high rates upon entering the workforce. This longitudinal study will examine key professional outcomes and life trajectories among participants in a 40-year-old out-of-school time (OST) high school STEM enrichment program. Prior research on the OST program documents that participants outperform national averages on all metrics related to STEMM advancement up through college graduation. This study will test the hypothesis that such success continues for these cohorts as they pursue life goals and navigate the workforce. Findings from this study will promote the progress of science, pivotal to NSF's mission as the project builds knowledge about supportive and frustrating factors for success for all in STEMM careers. Strategic impact lies in the novel participant-centered research methods that amplify the research participant's voices and increase both accuracy and access in informal STEM learning research.\r\n\r\nThis research probes the experiences of participants at a critical phase of their workforce participation when, after BS/BA credentials, they establish their careers (ages 26-46). The team will conduct a longitudinal comparative case study of outcomes and life trajectories among 20 years of participant cohorts (1995-2015). Research questions include (1) What do the life-journey narratives of participants in adulthood reveal about factors that support success in STEMM? (2) What are the long-term outcomes among participants regarding education, STEMM and other careers, socio-economic status, and STEMM self-efficacy and interest? How do these vary? (3) What salient program elements of the OST program are highlighted in narratives as relevant to participants' experiences in adulthood? How do these associations vary? (4) How do selected outcomes (stated in RQ2) and life story narratives among non-enrolled applicants compare to program participants? and (5) How do salient components in the program associate with socio-cultural factors regarding participants careers and other life goals? The study sample includes 100 former OST program participants as an intervention group and a matched comparison group who successfully applied to the same program but did not or could not enroll. Measurable life outcomes and life trajectory narratives with maps of experiences from both groups will be studied via a convergent mixed methods design inclusive of quantitative and qualitative analyses. It is anticipated that findings will challenge extant knowledge and pinpoint the most effective characteristics of and appropriate measures for studying lasting impacts of OST STEMM programs. In addition, the implications of this research will be beneficial for providers of after-school and out-of-school programs serving all youth. \r\n\r\nThis AISL Research in Service to Practice award is funded by the Advancing Informal STEM Learning (AISL) program, which seeks to advance new approaches to, and evidence-based understanding of, the design and development of STEM learning in informal environments. This includes providing everyone with multiple pathways for accessing and engaging in STEM learning experiences.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "EDU",
+ "org_dir_long_name": "Directorate for STEM Education",
+ "div_abbr": "ECBT",
+ "org_div_long_name": "Education Capacity Building & Transformation Section",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Ayana",
+   "pi_last_name": "Allen-Handy",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Ayana Allen-Handy",
+   "pi_email_addr": "ama433@drexel.edu",
+   "nsf_id": "000869483",
+   "pi_start_date": "2026-10-20",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Hofstra University",
+  "inst_street_address": "128 HOFSTRA UNIVERSITY",
+  "inst_street_address_2": "",
+  "inst_city_name": "HEMPSTEAD",
+  "inst_state_code": "NY",
+  "inst_state_name": "New York",
+  "inst_phone_num": "5164636810",
+  "inst_zip_code": "115491280",
+  "inst_country_name": "United States",
+  "cong_dist_code": "04",
+  "st_cong_dist_code": "NY04",
+  "org_lgl_bus_name": "HOFSTRA UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "SR22RUJJ11H2"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Hofstra University",
+  "perf_str_addr": "128 HOFSTRA UNIVERSITY",
+  "perf_city_name": "HEMPSTEAD",
+  "perf_st_code": "NY",
+  "perf_st_name": "New York",
+  "perf_zip_code": "115491280",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "04",
+  "perf_st_cong_dist": "NY04",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "725900",
+   "pgm_ele_name": "AISL"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "8212",
+   "pgm_ref_txt": "Broaden Particip STEM Resrch"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002425DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "04002728DB",
+   "fund_name": "NSF STEM Education",
+   "fund_symb_id": "040106"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2024,
+   "fund_oblg_amt": 351213.0
+  }
+ ],
+ "por": null
+}

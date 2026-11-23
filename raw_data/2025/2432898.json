@@ -1,0 +1,117 @@
+{
+ "awd_id": "2432898",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "SBIR Phase I:  Developing new bacterial hosts for productive secretion of difficult-to-express proteins by precision fermentation",
+ "cfda_num": "47.084",
+ "org_code": "15030000",
+ "po_phone": "7032920000",
+ "po_email": "epiersto@nsf.gov",
+ "po_sign_block_name": "Erik Pierstorff",
+ "awd_eff_date": "2024-12-15",
+ "awd_exp_date": "2025-11-30",
+ "tot_intn_awd_amt": 275000.0,
+ "awd_amount": 295000.0,
+ "awd_min_amd_letter_date": "2024-12-03",
+ "awd_max_amd_letter_date": "2025-07-22",
+ "awd_abstract_narration": "The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to develop more cost-effective ways to produce proteins. By engineering improved bacterial strains to manufacture proteins like those found in detergents, personal care products and dairy, better products can be made with a lower environmental impact. Enzymes in detergents remove the need for petrochemical-based ingredients, proteins found in shampoos improve their quality also replacing chemical ingredients, and the direct production of dairy proteins by fermentation will reduce the carbon footprint of the food industry and our overreliance on industrial agriculture. This production of proteins by bacterial fermentation has gained significant market traction and momentum and it is expected to continue to grow at a CAGR of 44%, attaining an expected market size of $36B in 2030.\r\n\r\nThe proposed project aims to identify superior bacterial protein production hosts and to develop the genetic tools and methodologies that will allow these bacterial hosts to be converted into efficient protein factories. It is an outstanding problem in the field of precision fermentation of proteins that yield, titers, and productivity are often much lower than would be necessary for the successful commercialization of many highly desired categories of protein. Identifying additional protein production strains will help to alleviate this industry challenge, allowing for the manufacture of more varied protein targets at competitive economics. The superior production hosts developed in this work will be fully characterized and matched to proteins for which they are well-suited production hosts. The advanced genetic engineering tools pioneered in this work will be later used to modify these bacteria to maximize their potential for producing proteins relevant to the dairy and personal care industries.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "TIP",
+ "org_dir_long_name": "Directorate for Technology, Innovation, and Partnerships",
+ "div_abbr": "TI",
+ "org_div_long_name": "Translational Impacts",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Timothy",
+   "pi_last_name": "Wannier",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Timothy M Wannier",
+   "pi_email_addr": "tim@wildmicrobes.com",
+   "nsf_id": "000927355",
+   "pi_start_date": "2024-12-03",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "WILD MICROBES CO",
+  "inst_street_address": "750 MAIN STREET",
+  "inst_street_address_2": "",
+  "inst_city_name": "CAMBRIDGE",
+  "inst_state_code": "MA",
+  "inst_state_name": "Massachusetts",
+  "inst_phone_num": "8182572721",
+  "inst_zip_code": "021393544",
+  "inst_country_name": "United States",
+  "cong_dist_code": "07",
+  "st_cong_dist_code": "MA07",
+  "org_lgl_bus_name": "WILD MICROBES CO",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "HQS8Q1VBKD41"
+ },
+ "perf_inst": {
+  "perf_inst_name": "WILD MICROBES CO",
+  "perf_str_addr": "750 MAIN STREET",
+  "perf_city_name": "CAMBRIDGE",
+  "perf_st_code": "MA",
+  "perf_st_name": "Massachusetts",
+  "perf_zip_code": "021393544",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "07",
+  "perf_st_cong_dist": "MA07",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "809100",
+   "pgm_ele_name": "SBIR Outreach & Tech. Assist"
+  },
+  {
+   "pgm_ele_code": "537100",
+   "pgm_ele_name": "SBIR Phase I"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "144E",
+   "pgm_ref_txt": "Synthetic biology"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002425DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  },
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 295000.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p><span class=\"Heading2Char\"><span>Discovery and Optimization of Novel Biosurfactant-Producing Bacteria for Sustainable Chemical Manufacturing</span></span><span>&nbsp;</span></p>\r\n<p><strong>Recipient:</strong><span>&nbsp;</span>Wild Microbes</p>\r\n<p><strong>Intellectual Merit and Technical Achievements</strong><span>&nbsp;</span>The global surfactant market, valued at over $40 billion, relies heavily on petrochemicals and palm oil&mdash;feedstocks associated with significant carbon emissions and deforestation. Biosurfactants, such as rhamnolipids, offer a biodegradable and sustainable alternative, but their commercial adoption has been hindered by high production costs and low yields from available microbial strains. The primary objective of this NSF SBIR Phase I project was to leverage Wild Microbes&rsquo; proprietary collection of environmental bacteria to identify and develop novel strains capable of producing rhamnolipids at industrially relevant yields.</p>\r\n<p>During Phase I, the project team successfully designed and implemented a high-throughput screening pipeline. Using three orthogonal benchtop assays, researchers screened over 4,000 bacterial isolates from the Wild Microbes library. This comprehensive survey revealed that biosurfactant production is a widespread trait, validating the company&rsquo;s discovery engine. Through rigorous down-selection, the team identified a top-performing candidate, which has the working name: WM1607.</p>\r\n<p>Advanced genetic sequencing and liquid chromatography-mass spectrometry (LC-MS) confirmed that this strain possesses the specific genetic machinery (<em>rhlABC</em><span>&nbsp;</span>operon) required to produce rhamnolipids. Furthermore, analytical testing verified that the strain produces mono- and di-rhamnolipids with C10-C12 fatty acid chains, a chemical profile highly sought after for performance in cleaning and personal care applications.</p>\r\n<p>In the final stage of the project, the team optimized the fermentation process. By tuning critical parameters such as oxygen transfer rates and the ratio of carbon (sugar) to oil feedstocks, the project achieved a dramatic increase in product titer. Under optimized laboratory conditions, the novel strain demonstrated yields significantly exceeding standard benchmarks, establishing the technical feasibility required for commercial scale-up.</p>\r\n<p><strong>Broader Impacts</strong><span>&nbsp;</span>The successful completion of this Phase I project represents a significant step toward the greening of the chemical industry. By enabling the cost-effective production of rhamnolipids, this technology facilitates the transition away from fossil-fuel-derived ingredients in everyday products like laundry detergents, dish soaps, and cosmetics.</p>\r\n<p><strong>Environmental Impact:</strong><span>&nbsp;</span>The biosurfactants developed in this project are 100% bio-based and readily biodegradable. Their adoption can significantly reduce the carbon footprint of consumer packaged goods and minimize the release of persistent synthetic chemicals into aquatic ecosystems.</p>\r\n<p><strong>Economic Impact:</strong><span>&nbsp;</span>This project reinforces U.S. competitiveness in the growing industrial biotechnology sector (\"The Bioeconomy\"). The development of this technology supports high-tech job creation in fermentation science, strain engineering, and chemical processing.</p>\r\n<p><strong>Scientific Impact:</strong><span>&nbsp;</span>This work validates the utility of \"mining\" wild microbial diversity for industrial solutions. The successful identification of a high-yielding, non-model organism demonstrates that nature remains an untapped reservoir of biochemical innovation, encouraging further research into environmental microbiology for industrial applications.</p>\r\n<p><strong>Conclusion</strong><span>&nbsp;</span>Wild Microbes successfully met all Phase I objectives. The project delivered a validated, high-performance production strain and a defined bioprocess for synthesizing sustainable rhamnolipids. These results provide a robust foundation for Phase II, which will focus on scaling the technology from the laboratory bench to pilot-scale bioreactors to support commercial deployment.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 12/08/2025<br>\nModified by: Timothy&nbsp;M&nbsp;Wannier</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nDiscovery and Optimization of Novel Biosurfactant-Producing Bacteria for Sustainable Chemical Manufacturing\r\n\n\nRecipient:Wild Microbes\r\n\n\nIntellectual Merit and Technical AchievementsThe global surfactant market, valued at over $40 billion, relies heavily on petrochemicals and palm oilfeedstocks associated with significant carbon emissions and deforestation. Biosurfactants, such as rhamnolipids, offer a biodegradable and sustainable alternative, but their commercial adoption has been hindered by high production costs and low yields from available microbial strains. The primary objective of this NSF SBIR Phase I project was to leverage Wild Microbes proprietary collection of environmental bacteria to identify and develop novel strains capable of producing rhamnolipids at industrially relevant yields.\r\n\n\nDuring Phase I, the project team successfully designed and implemented a high-throughput screening pipeline. Using three orthogonal benchtop assays, researchers screened over 4,000 bacterial isolates from the Wild Microbes library. This comprehensive survey revealed that biosurfactant production is a widespread trait, validating the companys discovery engine. Through rigorous down-selection, the team identified a top-performing candidate, which has the working name: WM1607.\r\n\n\nAdvanced genetic sequencing and liquid chromatography-mass spectrometry (LC-MS) confirmed that this strain possesses the specific genetic machinery (rhlABCoperon) required to produce rhamnolipids. Furthermore, analytical testing verified that the strain produces mono- and di-rhamnolipids with C10-C12 fatty acid chains, a chemical profile highly sought after for performance in cleaning and personal care applications.\r\n\n\nIn the final stage of the project, the team optimized the fermentation process. By tuning critical parameters such as oxygen transfer rates and the ratio of carbon (sugar) to oil feedstocks, the project achieved a dramatic increase in product titer. Under optimized laboratory conditions, the novel strain demonstrated yields significantly exceeding standard benchmarks, establishing the technical feasibility required for commercial scale-up.\r\n\n\nBroader ImpactsThe successful completion of this Phase I project represents a significant step toward the greening of the chemical industry. By enabling the cost-effective production of rhamnolipids, this technology facilitates the transition away from fossil-fuel-derived ingredients in everyday products like laundry detergents, dish soaps, and cosmetics.\r\n\n\nEnvironmental Impact:The biosurfactants developed in this project are 100% bio-based and readily biodegradable. Their adoption can significantly reduce the carbon footprint of consumer packaged goods and minimize the release of persistent synthetic chemicals into aquatic ecosystems.\r\n\n\nEconomic Impact:This project reinforces U.S. competitiveness in the growing industrial biotechnology sector (\"The Bioeconomy\"). The development of this technology supports high-tech job creation in fermentation science, strain engineering, and chemical processing.\r\n\n\nScientific Impact:This work validates the utility of \"mining\" wild microbial diversity for industrial solutions. The successful identification of a high-yielding, non-model organism demonstrates that nature remains an untapped reservoir of biochemical innovation, encouraging further research into environmental microbiology for industrial applications.\r\n\n\nConclusionWild Microbes successfully met all Phase I objectives. The project delivered a validated, high-performance production strain and a defined bioprocess for synthesizing sustainable rhamnolipids. These results provide a robust foundation for Phase II, which will focus on scaling the technology from the laboratory bench to pilot-scale bioreactors to support commercial deployment.\r\n\n\n\t\t\t\t\tLast Modified: 12/08/2025\n\n\t\t\t\t\tSubmitted by: TimothyMWannier\n"
+ }
+}

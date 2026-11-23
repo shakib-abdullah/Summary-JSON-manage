@@ -1,0 +1,117 @@
+{
+ "awd_id": "2537985",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Travel: FLAIRS (2026) Conference Experience for Workforce Development in Artificial Intelligence",
+ "cfda_num": "47.070",
+ "org_code": "05230000",
+ "po_phone": "7032927347",
+ "po_email": "sspengle@nsf.gov",
+ "po_sign_block_name": "Sylvia Spengler",
+ "awd_eff_date": "2025-07-15",
+ "awd_exp_date": "2026-09-30",
+ "tot_intn_awd_amt": 44117.0,
+ "awd_amount": 44117.0,
+ "awd_min_amd_letter_date": "2025-07-14",
+ "awd_max_amd_letter_date": "2025-07-14",
+ "awd_abstract_narration": "Artificial Intelligence (AI) now permeates nearly every aspect of our daily lives\u2014from personalized recommendations and virtual assistants to healthcare diagnostics, autonomous vehicles, and national defense systems. This widespread integration has placed a premium on individuals who can design, implement, test, and effectively use AI models and methodologies. However, despite the growing demand, there remains a significant shortage of skilled workers in the AI field. This talent gap poses a challenge to continued innovation and the ability of industries and governments to fully leverage AI\u2019s transformative potential. This project will enable undergraduate and graduate students to attend the second oldest artificial intelligence conference in the United States, the Florida Artificial Intelligence Research Society (FLAIRS) conference. Since 1990, the conference has been open to all.\r\n\r\nThe plan is to host approximately 15 students at the next FLAIRS conference in May 2026 to represent students from a range of US academic institutions, including those from institutions less likely to have the funding resources. Through the conference\u2019s main and special track sessions, tutorials, and keynote speakers, the student participants will be exposed to a wide variety of research and development areas in AI.  The new conference will serve the NSF interest in advancing science through increasing interest and workforce development in artificial intelligence. This year, a new component will be a special conference session entitled \u201cWorkforce Development in Artificial Intelligence,\u201d where the students will be able to hear what academia and industry are doing in the field of AI.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "CSE",
+ "org_dir_long_name": "Directorate for Computer and Information Science and Engineering",
+ "div_abbr": "CAIF",
+ "org_div_long_name": "Computing & AI Foundations",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "William",
+   "pi_last_name": "Eberle",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "William Eberle",
+   "pi_email_addr": "weberle@tntech.edu",
+   "nsf_id": "000368729",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Doug",
+   "pi_last_name": "Talbert",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Doug Talbert",
+   "pi_email_addr": "dtalbert@tntech.edu",
+   "nsf_id": "000364744",
+   "pi_start_date": "2025-07-14",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Tennessee Technological University",
+  "inst_street_address": "1 WILLIAM L JONES DR",
+  "inst_street_address_2": "",
+  "inst_city_name": "COOKEVILLE",
+  "inst_state_code": "TN",
+  "inst_state_name": "Tennessee",
+  "inst_phone_num": "9313723374",
+  "inst_zip_code": "385050001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "06",
+  "st_cong_dist_code": "TN06",
+  "org_lgl_bus_name": "TENNESSEE TECHNOLOGICAL UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "KZNHNMDUTJA5"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Tennessee Technological University",
+  "perf_str_addr": "1 WILLIAM L JONES DR",
+  "perf_city_name": "COOKEVILLE",
+  "perf_st_code": "TN",
+  "perf_st_name": "Tennessee",
+  "perf_zip_code": "385050001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "06",
+  "perf_st_cong_dist": "TN06",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "736400",
+   "pgm_ele_name": "Info Integration & Informatics"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7364",
+   "pgm_ref_txt": "INFO INTEGRATION & INFORMATICS"
+  },
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 44117.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>Artificial Intelligence (A.I.) permeates many aspects of our lives. Very recently, industry and academia have put a premium on recruiting students and employees who can design, implement, test, and use A.I. models and approaches. Unfortunately, tied somewhat to the need for more students in the general field of computer science, there is a lack of skilled workers in the field of A.I. The objective of this project was to serve the NSF&rsquo;s interest in advancing science through increasing student interest and workforce development in artificial intelligence. For this project, we hosted <strong>15</strong> students at the Florida Artificial Intelligence Research Society (FLAIRS) conference in May 2026. Through the conference&rsquo;s main track sessions, special track sessions, tutorials, and keynote speakers, the student participants were exposed to a wide variety of research and development areas in artificial intelligence. In order to evaluate the effectiveness of this proposal, the PIs administered two surveys among the student participants: one before attending the conference and one after attending the conference. In addition, this cohort of students attended a special breakout session, where they met other FLAIRS leaders and learned about their involvement in A.I. The objective of this proposal is to serve the NSF&rsquo;s interest in advancing science through increasing interest and workforce development in artificial intelligence.</p>\r\n<p>Since the objective of this proposal is to increase interest and workforce development in artificial intelligence, the surveys (pre-conference and post-conference) consisted of questions (on a Likert scale), including:</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is your interest in pursuing a career in artificial intelligence?</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is your interest in doing research in artificial intelligence?</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is your interest in pursuing a graduate degree in artificial intelligence?</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If an undergraduate, what is your interest in learning skills related to artificial intelligence?</p>\r\n<p>&nbsp;</p>\r\n<p>All <strong>15</strong> participants fully completed the pre-survey, with <strong>7</strong> identifying as female and <strong>8</strong> identifying as male, and with <strong>9</strong> being undergraduate students and <strong>6</strong> being graduate students. Only <strong>14</strong> participants fully completed the post-survey. The above questions appeared on both the pre- and post-surveys. Overall, interest in pursuing a career in AI/ML increased, interest in doing research in AI/ML stayed the same, interest in pursuing a graduate degree increased, and interest in learning skills relevant to artificial intelligence/machine learning increased.</p>\r\n<p>The post-survey (unfortunately, only <strong>14</strong> participants responded) asked 3 additional questions:</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a result of the conference, I learned a new skill(s) related to artificial intelligence/machine learning</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a result of the conference, I learned how one does research in artificial intelligence/machine learning</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a result of the conference, I learned about career opportunities related to artificial intelligence/machine learning</p>\r\n<p>For the first additional question, most responded &ldquo;strongly agreed&rdquo; or &ldquo;somewhat agreed&rdquo;, with one person stating they &ldquo;somewhat disagree&rdquo;. For the second question, scores were uniformly high, with <strong>11</strong> strongly agreeing, <strong>2</strong> somewhat agreeing, and <strong>1</strong> neither agreeing nor disagreeing. However, the third question had mixed results, with <strong>7</strong> strongly agreeing, <strong>6</strong> somewhat agreeing, and <strong>1</strong> neither agreeing nor disagreeing. This last result is not too surprising given that there is not a significant career component to the FLAIRS conference.</p>\r\n<p>Overall, the success of the project will ultimately be based upon whether or not it increases student enrollment in undergraduate A.I. programs, pursuit of graduate degrees in A.I., and/or participation in the A.I. workforce.</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 10/08/2026<br>\nModified by: William&nbsp;Eberle</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nArtificial Intelligence (A.I.) permeates many aspects of our lives. Very recently, industry and academia have put a premium on recruiting students and employees who can design, implement, test, and use A.I. models and approaches. Unfortunately, tied somewhat to the need for more students in the general field of computer science, there is a lack of skilled workers in the field of A.I. The objective of this project was to serve the NSFs interest in advancing science through increasing student interest and workforce development in artificial intelligence. For this project, we hosted 15 students at the Florida Artificial Intelligence Research Society (FLAIRS) conference in May 2026. Through the conferences main track sessions, special track sessions, tutorials, and keynote speakers, the student participants were exposed to a wide variety of research and development areas in artificial intelligence. In order to evaluate the effectiveness of this proposal, the PIs administered two surveys among the student participants: one before attending the conference and one after attending the conference. In addition, this cohort of students attended a special breakout session, where they met other FLAIRS leaders and learned about their involvement in A.I. The objective of this proposal is to serve the NSFs interest in advancing science through increasing interest and workforce development in artificial intelligence.\r\n\n\nSince the objective of this proposal is to increase interest and workforce development in artificial intelligence, the surveys (pre-conference and post-conference) consisted of questions (on a Likert scale), including:\r\n\n\n- What is your interest in pursuing a career in artificial intelligence?\r\n\n\n- What is your interest in doing research in artificial intelligence?\r\n\n\n- What is your interest in pursuing a graduate degree in artificial intelligence?\r\n\n\n- If an undergraduate, what is your interest in learning skills related to artificial intelligence?\r\n\n\n\r\n\n\nAll 15 participants fully completed the pre-survey, with 7 identifying as female and 8 identifying as male, and with 9 being undergraduate students and 6 being graduate students. Only 14 participants fully completed the post-survey. The above questions appeared on both the pre- and post-surveys. Overall, interest in pursuing a career in AI/ML increased, interest in doing research in AI/ML stayed the same, interest in pursuing a graduate degree increased, and interest in learning skills relevant to artificial intelligence/machine learning increased.\r\n\n\nThe post-survey (unfortunately, only 14 participants responded) asked 3 additional questions:\r\n\n\n- As a result of the conference, I learned a new skill(s) related to artificial intelligence/machine learning\r\n\n\n- As a result of the conference, I learned how one does research in artificial intelligence/machine learning\r\n\n\n- As a result of the conference, I learned about career opportunities related to artificial intelligence/machine learning\r\n\n\nFor the first additional question, most responded strongly agreed or somewhat agreed, with one person stating they somewhat disagree. For the second question, scores were uniformly high, with 11 strongly agreeing, 2 somewhat agreeing, and 1 neither agreeing nor disagreeing. However, the third question had mixed results, with 7 strongly agreeing, 6 somewhat agreeing, and 1 neither agreeing nor disagreeing. This last result is not too surprising given that there is not a significant career component to the FLAIRS conference.\r\n\n\nOverall, the success of the project will ultimately be based upon whether or not it increases student enrollment in undergraduate A.I. programs, pursuit of graduate degrees in A.I., and/or participation in the A.I. workforce.\r\n\n\n\t\t\t\t\tLast Modified: 10/08/2026\n\n\t\t\t\t\tSubmitted by: WilliamEberle\n"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "awd_id": "2525435",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "Conference: Annual Conference of the Phytochemical Society of North America:  64th annual meeting on June 24 \u2013 28,  2024 at York University in Toronto, Canada",
+ "cfda_num": "47.074",
+ "org_code": "08090000",
+ "po_phone": "7032924594",
+ "po_email": "pjaiswal@nsf.gov",
+ "po_sign_block_name": "Pankaj Jaiswal",
+ "awd_eff_date": "2025-05-01",
+ "awd_exp_date": "2026-04-30",
+ "tot_intn_awd_amt": 17530.0,
+ "awd_amount": 17530.0,
+ "awd_min_amd_letter_date": "2025-02-25",
+ "awd_max_amd_letter_date": "2025-02-25",
+ "awd_abstract_narration": "The Phytochemical Society of North America (PSNA) will hold its 64th annual meeting on June 24 \u2013 28, 2025 at York University in Toronto, Canada.  Typically, the conference attracts between 120 and 160 attendees.  This grant will support registration, travel, and accommodation costs of U.S.-based scientists to attend the PSNA 2025 conference.  Research presented at the PSNA meeting has potential applications for the improvement of human health.  These include the development of plant-based foods with enhanced nutritional and health properties, anti-cancer drugs, and other pharmaceuticals.  Other benefits to society comprise the sustainable production of biofuels and high value plant-based industrial products.  The primary goal of the conference is to bring together scientists from North America and other parts of the world to disseminate unpublished data and share new trends in the field.  Historically, this has led to the formation of new collaborative relationships, grant applications, and scientific exchange between participating laboratories.  A key feature of this conference is the promotion of trainees by providing students and post-doctoral fellows with opportunities to compete for speaker slots.  This meeting will support trainees by providing best presentation and poster awards as judged by a panel of conference attendees.  Networking and professional development of junior scientists will be facilitated through panel-guided career workshops for early career scientists.\r\n\r\nAmong PSNA members, there is a long tradition for the study of plant biochemistry, chemistry, and natural products (e.g. food and fiber sources; specialty chemicals, oils, and resins; nutraceuticals; and plant defense chemicals).  Symposia planned for the 2025 PSNA conference will include diverse topics such as \u201cMetabolic Engineering and Plant Synthetic Biology\u201d, \u201cGene Discovery and Functional Plant Genomics\u201d, \u201cPlant Immunity and Microbiome Interactions\u201d, and \u201cChemical Ecology and Plant-Organismal Interactions\u201d.  PSNA 2025 is also planning breakfast events focused on Career Development.  A workshop for postdocs will be organized by the PSNA Young Members Committee as facilitated discussion on career development in academia, government, and industry.  Based on advice by the PSNA Young Members Committee, the graduate student workshop will focus on how to cope with stress in graduate school and mentor-mentee relationships.  A voluntary and fully-anonymous survey will be used to collect information during and after the conference to obtain information on attendee demographics and feedback on what worked or did not work well for them (symposia, poster sessions, workshops) and for suggestions for improvement.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "BIO",
+ "org_dir_long_name": "Directorate for Biological Sciences",
+ "div_abbr": "IOS",
+ "org_div_long_name": "Division Of Integrative Organismal Systems",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Bernd",
+   "pi_last_name": "Lange",
+   "pi_mid_init": "M",
+   "pi_sufx_name": "",
+   "pi_full_name": "Bernd M Lange",
+   "pi_email_addr": "lange-m@wsu.edu",
+   "nsf_id": "000428571",
+   "pi_start_date": "2025-02-25",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Washington State University",
+  "inst_street_address": "240 FRENCH ADMINISTRATION BLDG",
+  "inst_street_address_2": "",
+  "inst_city_name": "PULLMAN",
+  "inst_state_code": "WA",
+  "inst_state_name": "Washington",
+  "inst_phone_num": "5093359661",
+  "inst_zip_code": "991640001",
+  "inst_country_name": "United States",
+  "cong_dist_code": "05",
+  "st_cong_dist_code": "WA05",
+  "org_lgl_bus_name": "WASHINGTON STATE UNIVERSITY",
+  "org_prnt_uei_num": "",
+  "org_uei_num": "XRJSGX384TD6"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Washington State University",
+  "perf_str_addr": "Plant Sciences Building",
+  "perf_city_name": "PULLMAN",
+  "perf_st_code": "WA",
+  "perf_st_name": "Washington",
+  "perf_zip_code": "991640001",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "05",
+  "perf_st_cong_dist": "WA05",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "132900",
+   "pgm_ele_name": "Plant Genome Research Project"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "7556",
+   "pgm_ref_txt": "CONFERENCE AND WORKSHOPS"
+  },
+  {
+   "pgm_ref_code": "8038",
+   "pgm_ref_txt": "Biotechnology"
+  },
+  {
+   "pgm_ref_code": "9109",
+   "pgm_ref_txt": "AGRICULTURAL BIOTECHNOLOGY"
+  },
+  {
+   "pgm_ref_code": "9179",
+   "pgm_ref_txt": "GRADUATE INVOLVEMENT"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002526DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2025,
+   "fund_oblg_amt": 17530.0
+  }
+ ],
+ "por": {
+  "por_cntn": "<div class=\"porColContainerWBG\">\n<div class=\"porContentCol\"><p>The Phytochemical Society of North America (PSNA) held its 64th annual meeting on June 24 &ndash; 28, 2025 at York University in Toronto, Canada.&nbsp; The conference attracted about 180 attendees, many of whom are current and past NSF awardees.&nbsp; Funds from the current grant supported registration, travel, and accommodation costs of <strong>U.S.-based</strong> scientists, with an emphasis on <strong>early career scientists in phytochemical research</strong>, to attend the 2025 PSNA conference.&nbsp;</p>\r\n<p>PSNA has a long tradition of promoting and <strong>supporting students and early-career scientists</strong>. Two major recognitions, the PSNA-Plant Journal Early Career Award and the Arthur Neish Young Investigator Award, are presented to up-and-coming stars at the conference awards banquet. <strong>Travel Awards </strong>are made to undergraduates, graduate students, and postdoctoral fellows as well as members of underrepresented groups in phytochemistry to present their work in oral and poster presentations and exchange ideas with scientific colleagues, including leaders in the field. These individuals are also recognized during the awards ceremony. The conference is furthermore committed to providing <strong>professional development opportunities </strong>for scientists at a range of career stages through panel discussions and workshops; the upcoming conference is planning events focused on Career Development. The PSNA <strong>Young Members Committee </strong>is focused on efforts to enhance the skills and career advancement of junior researchers. In the past, PSNA conferences have also attracted researchers that work at agribusiness companies and are looking for opportunities to collaborators with academic investigators.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p><br>\n<p>\n Last Modified: 07/08/2026<br>\nModified by: Bernd&nbsp;M&nbsp;Lange</p></div>\n<div class=\"porSideCol\"\n></div>\n</div>\n",
+  "por_txt_cntn": "\n\nThe Phytochemical Society of North America (PSNA) held its 64th annual meeting on June 24  28, 2025 at York University in Toronto, Canada. The conference attracted about 180 attendees, many of whom are current and past NSF awardees. Funds from the current grant supported registration, travel, and accommodation costs of U.S.-based scientists, with an emphasis on early career scientists in phytochemical research, to attend the 2025 PSNA conference.\r\n\n\nPSNA has a long tradition of promoting and supporting students and early-career scientists. Two major recognitions, the PSNA-Plant Journal Early Career Award and the Arthur Neish Young Investigator Award, are presented to up-and-coming stars at the conference awards banquet. Travel Awards are made to undergraduates, graduate students, and postdoctoral fellows as well as members of underrepresented groups in phytochemistry to present their work in oral and poster presentations and exchange ideas with scientific colleagues, including leaders in the field. These individuals are also recognized during the awards ceremony. The conference is furthermore committed to providing professional development opportunities for scientists at a range of career stages through panel discussions and workshops; the upcoming conference is planning events focused on Career Development. The PSNA Young Members Committee is focused on efforts to enhance the skills and career advancement of junior researchers. In the past, PSNA conferences have also attracted researchers that work at agribusiness companies and are looking for opportunities to collaborators with academic investigators.\r\n\n\n\r\n\n\n\t\t\t\t\tLast Modified: 07/08/2026\n\n\t\t\t\t\tSubmitted by: BerndMLange\n"
+ }
+}

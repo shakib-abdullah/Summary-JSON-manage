@@ -1,0 +1,138 @@
+{
+ "awd_id": "2703909",
+ "agcy_id": "NSF",
+ "tran_type": "Grant",
+ "awd_istr_txt": "Standard Grant",
+ "awd_titl_txt": "RAPID:  Acquiring Field and Remote Sensing Perishable Data from the 2026 Mw 7.7 Panama Earthquake",
+ "cfda_num": "47.050",
+ "org_code": "06200000",
+ "po_phone": "7032924705",
+ "po_email": "lastiz@nsf.gov",
+ "po_sign_block_name": "Luciana Astiz",
+ "awd_eff_date": "2026-11-15",
+ "awd_exp_date": "2027-10-31",
+ "tot_intn_awd_amt": 64924.0,
+ "awd_amount": 64924.0,
+ "awd_min_amd_letter_date": "2026-11-06",
+ "awd_max_amd_letter_date": "2026-11-06",
+ "awd_abstract_narration": "On October 9, 2026, a magnitude 7.7 strike-slip earthquake struck the Azuero Peninsula of Panama, making it one of the five largest earthquakes of its type since modern recording began. The rupture broke the ground surface and set off thousands of landslides. In general, scientists expect earthquakes this large to occur on major, well-mapped faults. Instead, this one jumped from large faults into smaller ones, some of which had not been mapped before. Understanding why this happened will help scientists forecast where future large earthquakes may occur, including in the United States. The evidence needed to answer that question may disappear quickly as heavy rains erode the broken ground and forest grows back over the landslides. This project will send researchers to work with colleagues in Panama to collect, preserve, and publicly share these measurements before they are lost. They will also acquire airborne laser data to map the rupture and landslides under the forest canopy in unprecedented detail. The work will also help Panama assess damage in hard-to-reach areas and train students in earthquake response.\r\n\r\nSeismic hazard models assume that large ruptures follow major mapped faults, but this rupture favored secondary or unmapped faults over mature, fast-slipping ones. To the east, it jumped a step-over roughly 6 km wide, potentially the largest documented for a strike-slip rupture. A team from Utah State University will collect, archive, and publicly release the perishable data needed to assess why the rupture deviated from its anticipated path and how off-fault damage and landsliding condition fault zone healing and landscape recovery. In two field campaigns and in partnership with the Universidad de Panam\u00e1, we will map the rupture and measure offsets. The team will measure carbon dioxide flux repeatedly, a proxy for fault zone permeability, and also sample fault rocks. An airborne laser (LiDAR) survey will image the rupture and landslides beneath the forest canopy, then difference it against an existing pre-earthquake elevation model to measure vertical deformation and landslide volumes. We will release all data through OpenTopography and Zenodo and share LiDAR products to support damage assessment in Panama. Graduate students and a postdoctoral researcher will gain experience in a coordinated international response while the project builds capacity for earthquake response in the U.S.\r\n\r\nThis award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.",
+ "awd_arra_amount": 0.0,
+ "dir_abbr": "GEO",
+ "org_dir_long_name": "Directorate for Geosciences",
+ "div_abbr": "GCP",
+ "org_div_long_name": "GEO - Core Programs",
+ "awd_agcy_code": "4900",
+ "fund_agcy_code": "4900",
+ "pi": [
+  {
+   "pi_role": "Principal Investigator",
+   "pi_first_name": "Alba Mar",
+   "pi_last_name": "Rodr\u00edguez Padilla",
+   "pi_mid_init": "",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alba Mar Rodr\u00edguez Padilla",
+   "pi_email_addr": "alba.rodriguez@usu.edu",
+   "nsf_id": "0000A1JLY",
+   "pi_start_date": "2026-11-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Dennis",
+   "pi_last_name": "Newell",
+   "pi_mid_init": "L",
+   "pi_sufx_name": "",
+   "pi_full_name": "Dennis L Newell",
+   "pi_email_addr": "dennis.newell@usu.edu",
+   "nsf_id": "000550647",
+   "pi_start_date": "2026-11-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Alexis",
+   "pi_last_name": "Ault",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Alexis K Ault",
+   "pi_email_addr": "alexis.ault@usu.edu",
+   "nsf_id": "000595342",
+   "pi_start_date": "2026-11-06",
+   "pi_end_date": null
+  },
+  {
+   "pi_role": "Co-Principal Investigator",
+   "pi_first_name": "Kelian",
+   "pi_last_name": "Dascher-Cousineau",
+   "pi_mid_init": "K",
+   "pi_sufx_name": "",
+   "pi_full_name": "Kelian K Dascher-Cousineau",
+   "pi_email_addr": "kelian.dascher-cousineau@usu.edu",
+   "nsf_id": "0000A2HD6",
+   "pi_start_date": "2026-11-06",
+   "pi_end_date": null
+  }
+ ],
+ "inst": {
+  "inst_name": "Utah State University",
+  "inst_street_address": "1000 OLD MAIN HL",
+  "inst_street_address_2": "",
+  "inst_city_name": "LOGAN",
+  "inst_state_code": "UT",
+  "inst_state_name": "Utah",
+  "inst_phone_num": "4357971226",
+  "inst_zip_code": "843221000",
+  "inst_country_name": "United States",
+  "cong_dist_code": "01",
+  "st_cong_dist_code": "UT01",
+  "org_lgl_bus_name": "UTAH STATE UNIVERSITY",
+  "org_prnt_uei_num": "SQG4D55W9LV4",
+  "org_uei_num": "SPE2YDWHDYU4"
+ },
+ "perf_inst": {
+  "perf_inst_name": "Utah State University",
+  "perf_str_addr": "1000 OLD MAIN HL",
+  "perf_city_name": "LOGAN",
+  "perf_st_code": "UT",
+  "perf_st_name": "Utah",
+  "perf_zip_code": "843221000",
+  "perf_ctry_code": "US",
+  "perf_cong_dist": "01",
+  "perf_st_cong_dist": "UT01",
+  "perf_ctry_name": "United States",
+  "perf_ctry_flag": "1"
+ },
+ "pgm_ele": [
+  {
+   "pgm_ele_code": "331Y00",
+   "pgm_ele_name": "SPSE-Study of Physics of Earth"
+  }
+ ],
+ "pgm_ref": [
+  {
+   "pgm_ref_code": "1576",
+   "pgm_ref_txt": "NATIONL EARTHQK HZRD REDCT PRG"
+  },
+  {
+   "pgm_ref_code": "7914",
+   "pgm_ref_txt": "RAPID"
+  }
+ ],
+ "app_fund": [
+  {
+   "app_code": "",
+   "app_name": "",
+   "app_symb_id": "",
+   "fund_code": "01002728DB",
+   "fund_name": "NSF RESEARCH & RELATED ACTIVIT",
+   "fund_symb_id": "040100"
+  }
+ ],
+ "oblg_fy": [
+  {
+   "fund_oblg_fiscal_yr": 2027,
+   "fund_oblg_amt": 64924.0
+  }
+ ],
+ "por": null
+}
